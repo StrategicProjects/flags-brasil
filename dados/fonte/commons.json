@@ -23449,6 +23449,20 @@
   "credito": "Own work",
   "atribuicao_obrigatoria": false
  },
+ "Bandeira de Ibirajuba, PE.png": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Bandeira_de_Ibirajuba%2C_PE.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "miniatura": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Bandeira_de_Ibirajuba%2C_PE.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Bandeira_de_Ibirajuba,_PE.png",
+  "mime": "image/png",
+  "largura": 320,
+  "altura": 217,
+  "bytes": 72979,
+  "licenca": "CC BY-SA 4.0",
+  "licenca_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "autor": "Associação Municipalista de Pernambuco",
+  "credito": "https://www.amupe.org/cidade/",
+  "atribuicao_obrigatoria": true
+ },
  "Bandeira de Ibirarema.jpg": {
   "url": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Bandeira_de_Ibirarema.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
   "miniatura": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Bandeira_de_Ibirarema.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
@@ -32380,6 +32394,20 @@
   "autor": "Srfortes",
   "credito": "Based on http://www.saocaetanodosul.sp.gov.br/pagina.asp?ID_Sub_categoria_Pagina=93 from municipal prefecture of São Caetano do Sul",
   "atribuicao_obrigatoria": false
+ },
+ "Bandeira de São Caetano, PE.png": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/7/79/Bandeira_de_S%C3%A3o_Caetano%2C_PE.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "miniatura": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Bandeira_de_S%C3%A3o_Caetano%2C_PE.png/500px-Bandeira_de_S%C3%A3o_Caetano%2C_PE.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Bandeira_de_S%C3%A3o_Caetano,_PE.png",
+  "mime": "image/png",
+  "largura": 648,
+  "altura": 432,
+  "bytes": 69027,
+  "licenca": "CC BY-SA 4.0",
+  "licenca_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "autor": "Associação Municipalista de Pernambuco",
+  "credito": "https://www.amupe.org/cidade/",
+  "atribuicao_obrigatoria": true
  },
  "Bandeira de São Carlos-SC 120 X 84.jpg": {
   "url": "https://upload.wikimedia.org/wikipedia/commons/2/20/Bandeira_de_S%C3%A3o_Carlos-SC_120_X_84.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",

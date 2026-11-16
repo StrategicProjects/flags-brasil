@@ -265,8 +265,10 @@ def etapa_download(limite: int | None) -> None:
             stems.discard(k)
             prov.discard(k)
         quer_original = svg or (m.get("largura") or 0) <= LARGURA_RASTER
-        fila.append((k.isdigit(), k in prov, quer_original, k, m))
-    fila.sort(key=lambda t: t[:4])  # UFs; depois o que falta; por último os provisórios
+        fila.append((k.isdigit(), k in prov, not svg, k, m, quer_original))
+    # UFs; depois o que ainda não tem arquivo; por último os provisórios, com os
+    # SVG na frente (o original é o que mais importa e o servidor libera poucos)
+    fila.sort(key=lambda t: t[:4])
     if limite:
         fila = fila[:limite]
     liberado_em = 0.0
@@ -280,7 +282,7 @@ def etapa_download(limite: int | None) -> None:
         (ORIG / f"{chave}.{ext}").write_bytes(dados)
         origem[chave] = wd[chave]["arquivos"][0]
 
-    for n, (_, _, quer_original, chave, m) in enumerate(fila, 1):
+    for n, (_, _, _, chave, m, quer_original) in enumerate(fila, 1):
         mini = miniatura(m)
         ext_orig = m["url"].split("?")[0].rsplit(".", 1)[-1].lower()
         try:
@@ -310,7 +312,7 @@ def etapa_download(limite: int | None) -> None:
                     prov.add(chave)
         except Exception as e:
             print(f"ERRO {chave}: {e}", file=sys.stderr, flush=True)
-        if n % 100 == 0 or n == len(fila):
+        if n % 20 == 0 or n == len(fila):
             arq_prov.write_text(json.dumps(sorted(prov)))
             arq_origem.write_text(json.dumps(origem, ensure_ascii=False, indent=0))
             print(f"download {n}/{len(fila)} (provisórios: {len(prov)})", flush=True)

@@ -113,9 +113,19 @@ def main() -> None:
         print("ERRO", e, file=sys.stderr)
     # remove saídas cujo original sumiu ou mudou de formato
     esperados = {d for _, d in pares}
+    VET = FLAGS / "mun" / "vetorizado"  # gerado por tools/vetorizar.py
     for p in list(FLAGS.rglob("*.svg")) + list(FLAGS.rglob("*.png")):
-        if p not in esperados:
+        if p.parent == VET:
+            # só vale ao lado de um PNG; some se o município ganhou SVG de verdade
+            if not (FLAGS / "mun" / f"{p.stem}.png").exists() or problema(p.read_bytes()):
+                p.unlink()
+        elif p not in esperados:
             p.unlink()
+
+    def vet(e: dict, arq: Path) -> None:
+        v = VET / f"{arq.stem}.svg"
+        if arq.suffix == ".png" and arq.parent == FLAGS / "mun" and v.exists():
+            e["vetorizado"] = v.relative_to(RAIZ).as_posix()  # traçado automático do PNG
 
     def entrada(chave: str, nome: str, tipo: str, uf: str | None) -> dict:
         e = {"codigo": chave, "nome": nome, "tipo": tipo}
@@ -127,6 +137,7 @@ def main() -> None:
         arq = next((d for k in ("svg", "png") if (d := destino(chave, k)).exists()), None)
         x = externos.get(chave)
         if arq and x and not w:  # fonte fora do Commons
+            vet(e, arq)
             e["arquivo"] = arq.relative_to(RAIZ).as_posix()
             e["formato"] = arq.suffix[1:]
             e["fonte"] = {
@@ -138,6 +149,7 @@ def main() -> None:
         if not (w and arq):
             e["arquivo"] = None
             return e
+        vet(e, arq)
         fonte = origem.get(chave, w["arquivos"][0])  # o arquivo que está em disco
         m = meta[fonte]
         e["arquivo"] = arq.relative_to(RAIZ).as_posix()
@@ -200,10 +212,17 @@ def main() -> None:
     (RAIZ / "CREDITOS.md").write_text("\n".join(linhas) + "\n")
 
     n = lambda t, f=None: sum(1 for e in com if e["tipo"] == t and (not f or e["formato"] == f))
+    vets = [e for e in com if e.get("vetorizado")]
+    (RAIZ / "css" / "vetorizado.css").write_text(
+        "/* flags-brasil — troca o PNG pelo SVG vetorizado automaticamente, onde existe.\n"
+        "   Carregue DEPOIS da folha de municípios. Traçado automático: pode ter imperfeições. */\n"
+        + "".join(f'.fbr-{e["codigo"]}{{background-image:url(../{e["vetorizado"]})}}\n'
+                  for e in vets))
     resumo = {
         "ufs": n("uf"), "municipios_total": len(ibge["municipios"]),
         "municipios_com_bandeira": n("municipio"),
         "municipios_svg": n("municipio", "svg"), "municipios_png": n("municipio", "png"),
+        "municipios_vetorizados": len(vets),
     }
     (RAIZ / "dados" / "resumo.json").write_text(json.dumps(resumo, indent=1) + "\n")
     por_uf = []
@@ -218,7 +237,8 @@ def main() -> None:
         "<!-- resumo:inicio -->",
         f'Hoje: Brasil, {t["ufs"]} UFs e **{t["municipios_com_bandeira"]} de '
         f'{t["municipios_total"]} municípios** ({t["municipios_svg"]} em SVG, '
-        f'{t["municipios_png"]} em PNG).', "",
+        f'{t["municipios_png"]} em PNG, dos quais {t["municipios_vetorizados"]} também '
+        f'com SVG vetorizado automaticamente).', "",
         "<details><summary>Cobertura por UF</summary>", "",
         "| UF | Municípios | Com bandeira | SVG | PNG | Cobertura |", "|---|--:|--:|--:|--:|--:|",
         *por_uf, "", "</details>", "<!-- resumo:fim -->"])

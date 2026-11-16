@@ -14,15 +14,15 @@ cobre: estados e municípios brasileiros.
 - Classes CSS no estilo do flag-icons, um manifesto JSON e créditos por arquivo.
 
 <!-- resumo:inicio -->
-Hoje: Brasil, 27 UFs e **4083 de 5571 municípios** (22 em SVG, 4061 em PNG).
+Hoje: Brasil, 27 UFs e **4085 de 5571 municípios** (35 em SVG, 4050 em PNG, dos quais 77 também com SVG vetorizado automaticamente).
 
 <details><summary>Cobertura por UF</summary>
 
 | UF | Municípios | Com bandeira | SVG | PNG | Cobertura |
 |---|--:|--:|--:|--:|--:|
-| AC | 22 | 14 | 1 | 13 | 64% |
+| AC | 22 | 14 | 7 | 7 | 64% |
 | AL | 102 | 65 | 0 | 65 | 64% |
-| AM | 62 | 47 | 0 | 47 | 76% |
+| AM | 62 | 47 | 6 | 41 | 76% |
 | AP | 16 | 13 | 0 | 13 | 81% |
 | BA | 417 | 179 | 0 | 179 | 43% |
 | CE | 184 | 141 | 0 | 141 | 77% |
@@ -35,12 +35,12 @@ Hoje: Brasil, 27 UFs e **4083 de 5571 municípios** (22 em SVG, 4061 em PNG).
 | MT | 142 | 72 | 0 | 72 | 51% |
 | PA | 144 | 93 | 0 | 93 | 65% |
 | PB | 223 | 193 | 0 | 193 | 87% |
-| PE | 185 | 178 | 2 | 176 | 96% |
+| PE | 185 | 180 | 2 | 178 | 97% |
 | PI | 224 | 68 | 0 | 68 | 30% |
 | PR | 399 | 383 | 2 | 381 | 96% |
 | RJ | 92 | 92 | 0 | 92 | 100% |
 | RN | 167 | 117 | 0 | 117 | 70% |
-| RO | 52 | 41 | 15 | 26 | 79% |
+| RO | 52 | 41 | 16 | 25 | 79% |
 | RR | 15 | 15 | 0 | 15 | 100% |
 | RS | 497 | 413 | 0 | 413 | 83% |
 | SC | 295 | 273 | 2 | 271 | 93% |
@@ -87,6 +87,17 @@ um quadro 10:7. Para recortar num quadro fixo, some `fbr-1x1` ou `fbr-4x3`.
 
 Endereços diretos: `https://strategicprojects.github.io/flags-brasil/flags/uf/pe.svg`
 ou pelo jsDelivr, `https://cdn.jsdelivr.net/gh/StrategicProjects/flags-brasil@main/flags/uf/pe.svg`.
+
+### SVG vetorizado automaticamente
+
+Para parte dos municípios que só têm PNG existe também
+`flags/mun/vetorizado/<codigo>.svg`, traçado automaticamente a partir do raster
+com o [vtracer](https://github.com/visioncortex/vtracer). O PNG continua sendo o
+arquivo padrão (`arquivo` no manifesto); o traçado aparece no campo
+`vetorizado`. Não é redesenho: escala sem pixelar, mas as bordas podem ondular,
+texto pequeno perde nitidez e o arquivo é mais pesado (até 300 KB). Só entra o
+que passa numa comparação automática com o original. Para usar por classe CSS,
+carregue `css/vetorizado.css` depois da folha de municípios.
 
 Como o formato do município varia, consulte o manifesto antes de montar a URL:
 
@@ -154,6 +165,7 @@ Precisa de Python 3.10+, ImageMagick e pnpm.
 python3 tools/baixar.py   # IBGE + Wikidata + Commons -> dados/fonte/ e originais/
 python3 tools/gerar.py    # flags/, css/, dados/bandeiras.json, CREDITOS.md
 pnpm install && pnpm run otimizar   # svgo nos SVG, conferindo o render
+uv run tools/vetorizar.py --uf PE   # opcional: SVG vetorizado dos rasters (depois, gerar.py de novo)
 pnpm run site             # http://localhost:8377
 ```
 

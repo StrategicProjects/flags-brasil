@@ -277,7 +277,7 @@ function abre(e) {
     h += `<div class="tela"><img src="${esc(e.arquivo)}" alt="Bandeira de ${esc(e.nome)}"></div>
       <h2 id="dlg-nome">${esc(e.nome)}</h2>
       <p class="meta">${local}. Arquivo ${e.formato.toUpperCase()}${e.proporcao ? ', proporção ' + e.proporcao.toLocaleString('pt-BR') + ':1' : ''}.
-        <a href="${esc(e.arquivo)}" download>Baixar</a></p>
+        <a href="${esc(e.arquivo)}" download>Baixar</a>${e.vetorizado ? ` ou <a href="${esc(e.vetorizado)}" download>baixar o SVG vetorizado</a> (traçado automático do PNG; pode ter imperfeições)` : ''}</p>
       ${trecho('Classe CSS (com ' + css + ')', `<span class="fbr fbr-${e.codigo}"></span>`)}
       ${trecho('Imagem', `<img src="${SITE}${e.arquivo}" alt="Bandeira de ${e.nome}" height="24">`)}
       ${trecho('Markdown e Quarto', `![Bandeira de ${e.nome}](${SITE}${e.arquivo})`)}
