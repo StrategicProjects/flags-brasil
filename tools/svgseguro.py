@@ -38,6 +38,19 @@ def problema(dados: bytes) -> str | None:
     # laughs") no parser da biblioteca padrão, e diferenças entre parsers.
     if re.search(rb"<!ENTITY", dados, re.I):
         return "declara entidades XML (<!ENTITY>)"
+    # As buscas em bytes abaixo só valem para codificação compatível com ASCII.
+    if dados[:2] in (b"\xff\xfe", b"\xfe\xff") or b"\x00" in dados[:200]:
+        return "codificação UTF-16/32"
+    enc = re.match(rb"\s*(?:\xef\xbb\xbf)?\s*<\?xml[^>]*encoding=[\"']([^\"']+)", dados)
+    if enc and enc.group(1).lower() not in (b"utf-8", b"utf8", b"us-ascii", b"ascii",
+                                            b"iso-8859-1", b"windows-1252"):
+        return f"codificação {enc.group(1).decode('ascii', 'replace')}"
+    # <?xml-stylesheet?> carrega XSLT/CSS e o ElementTree descarta instruções de
+    # processamento ao analisar: nenhuma é aceita além da declaração <?xml ?>.
+    if re.search(rb"<\?(?!xml[\s?])", dados, re.I):
+        return "instrução de processamento (<?...?>)"
+    if re.search(rb"<!DOCTYPE[^>\[]*\[", dados, re.I):
+        return "DOCTYPE com subconjunto interno"
     try:
         raiz = ET.fromstring(dados)
     except Exception as e:  # XML inválido, entidade externa, codificação desconhecida
