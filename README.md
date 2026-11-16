@@ -14,7 +14,7 @@ cobre: estados e municípios brasileiros.
 - Classes CSS no estilo do flag-icons, um manifesto JSON e créditos por arquivo.
 
 <!-- resumo:inicio -->
-Hoje: Brasil, 27 UFs e **4085 de 5571 municípios** (603 em SVG, 3482 em PNG, dos quais 682 também com SVG vetorizado automaticamente).
+Hoje: Brasil, 27 UFs e **4085 de 5571 municípios** (603 em SVG, 3482 em PNG, dos quais 753 também com SVG vetorizado automaticamente).
 
 <details><summary>Cobertura por UF</summary>
 
