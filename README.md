@@ -161,8 +161,11 @@ o uso de cada uma pode ser regulado por lei do respectivo ente.
 
 ## Como citar
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24286741.svg)](https://doi.org/10.5281/zenodo.24286741)
+
 Os dados de citação estão em [`CITATION.cff`](CITATION.cff); no GitHub, use o
-botão "Cite this repository".
+botão "Cite this repository". O DOI acima aponta sempre para a versão mais
+recente arquivada no Zenodo; cada release tem também um DOI próprio.
 
 ## Cobertura e correções
 
