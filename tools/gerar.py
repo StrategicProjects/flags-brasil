@@ -8,6 +8,9 @@ Gera:
   css/municipios.css     todos os municípios
   css/uf/<sigla>.css     municípios de uma UF
   CREDITOS.md            autor e licença de cada bandeira
+  dados/site.json, dados/detalhe/<uf>.json, mini/<codigo>.webp
+                         só para o site: índice enxuto, detalhes sob demanda
+                         e miniaturas de 200 px
 
 Precisa do ImageMagick (`magick`) para os rasters. Depois rode
 `pnpm run otimizar` (svgo com conferência de render) para enxugar os SVG.
@@ -172,6 +175,48 @@ def main() -> None:
               for m in ibge["municipios"]]
     (RAIZ / "dados" / "bandeiras.json").write_text(
         json.dumps(itens, ensure_ascii=False, separators=(",", ":")))
+
+    # --- arquivos só do site: índice enxuto, detalhes por UF e miniaturas ---
+    (RAIZ / "dados" / "site.json").write_text(json.dumps(
+        [[e["codigo"], e["nome"], e.get("uf", ""), e.get("formato", ""),
+          1 if e.get("vetorizado") else 0] for e in itens],
+        ensure_ascii=False, separators=(",", ":")))
+    det = RAIZ / "dados" / "detalhe"
+    det.mkdir(exist_ok=True)
+    grupos: dict[str, dict] = {}
+    for e in itens:
+        g = e["uf"].lower() if e["tipo"] == "municipio" else "br"
+        grupos.setdefault(g, {})[e["codigo"]] = e
+    for g, d in grupos.items():
+        (det / f"{g}.json").write_text(json.dumps(d, ensure_ascii=False, separators=(",", ":")))
+
+    mini = RAIZ / "mini"
+    mini.mkdir(exist_ok=True)
+
+    def miniatura(e: dict) -> str | None:
+        src, dst = RAIZ / e["arquivo"], mini / f'{e["codigo"]}.webp'
+        if dst.exists() and dst.stat().st_mtime >= src.stat().st_mtime:
+            return None
+        if src.suffix == ".svg":
+            r = subprocess.run(["rsvg-convert", "-w", "200", str(src)], capture_output=True)
+            if r.returncode != 0:
+                return f"miniatura {src.name}: rsvg falhou"
+            r = subprocess.run(["magick", "png:-", "-quality", "75", str(dst)],
+                               input=r.stdout, capture_output=True)
+        else:
+            r = subprocess.run(["magick", str(src), "-resize", "200x>", "-quality", "75",
+                                str(dst)], capture_output=True)
+        return None if r.returncode == 0 else f"miniatura {src.name}: magick falhou"
+
+    com_arquivo = [e for e in itens if e["arquivo"]]
+    with ThreadPoolExecutor(8) as ex:
+        for erro in ex.map(miniatura, com_arquivo):
+            if erro:
+                print("ERRO", erro, file=sys.stderr)
+    vivos = {f'{e["codigo"]}.webp' for e in com_arquivo}
+    for p in mini.glob("*.webp"):
+        if p.name not in vivos:
+            p.unlink()
 
     def regra(e: dict, prefixo: str) -> str:
         return f'.fbr-{e["codigo"]}{{background-image:url({prefixo}{e["arquivo"]})}}\n'

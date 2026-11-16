@@ -8,138 +8,168 @@
 <link rel="icon" href="flags/br.svg">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Archivo:wdth,wght@62..125,400..800&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Figtree:wght@400;500;600&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="css/flags-brasil.css">
 <style>
 :root {
-  --fundo: #edf0ea;
-  --pano: #ffffff;
-  --tinta: #13233f;
-  --tinta-2: #55617a;
-  --linha: #cdd4cb;
-  --verde: #0a6b3a;
-  --amarelo: #f5c400;
-  --codigo: #13233f;
-  --codigo-tinta: #e9eef7;
+  --fundo: #ffffff;
+  --suave: #f5f7f4;
+  --tinta: #1d2634;
+  --tinta-2: #6a7483;
+  --linha: #e7eae5;
+  --verde: #0b7a43;
+  --amarelo: #f2c200;
+  --sombra: 0 1px 2px rgb(29 38 52 / .10), 0 0 0 1px rgb(29 38 52 / .06);
+  --flutua: 0 12px 32px rgb(29 38 52 / .14), 0 0 0 1px rgb(29 38 52 / .07);
+  --campo: 2.75rem;
 }
 @media (prefers-color-scheme: dark) {
   :root {
-    --fundo: #101a2c; --pano: #1a2740; --tinta: #eef1f6; --tinta-2: #a3aec4;
-    --linha: #2c3b58; --verde: #58c98d; --codigo: #0a1220; --codigo-tinta: #dfe6f3;
+    --fundo: #141a24; --suave: #1c2431; --tinta: #e8ecf2; --tinta-2: #97a2b3;
+    --linha: #283243; --verde: #5fcf95;
+    --sombra: 0 0 0 1px rgb(255 255 255 / .10);
+    --flutua: 0 12px 32px rgb(0 0 0 / .5), 0 0 0 1px rgb(255 255 255 / .10);
   }
 }
 * { box-sizing: border-box; }
 html { scroll-behavior: smooth; }
 body {
   margin: 0; background: var(--fundo); color: var(--tinta);
-  font: 400 1rem/1.5 Archivo, system-ui, sans-serif;
+  font: 400 1rem/1.55 Figtree, system-ui, sans-serif;
+  -webkit-font-smoothing: antialiased;
 }
-a { color: var(--verde); text-underline-offset: .15em; }
-:focus-visible { outline: 3px solid var(--amarelo); outline-offset: 2px; }
-.largura { max-width: 78rem; margin: 0 auto; padding: 0 1.25rem; }
+a { color: var(--verde); text-decoration-thickness: 1px; text-underline-offset: .2em; }
+:focus-visible { outline: 2px solid var(--amarelo); outline-offset: 3px; border-radius: 4px; }
+.largura { max-width: 72rem; margin: 0 auto; padding: 0 1.5rem; }
 
-header { padding: 3rem 0 1.5rem; }
-h1 {
-  margin: 0; font-size: clamp(2.6rem, 8vw, 5.5rem); line-height: .92;
-  font-weight: 800; font-stretch: 68%; letter-spacing: -.01em;
-}
-.lema { max-width: 44rem; margin: 1rem 0 0; font-size: 1.15rem; color: var(--tinta-2); }
-.lema strong { color: var(--tinta); font-weight: 600; }
-nav.topo { display: flex; gap: 1.25rem; margin-top: 1rem; flex-wrap: wrap; font-weight: 600; }
+header { padding: 3.5rem 0 2rem; display: grid; gap: .75rem; }
+h1 { margin: 0; font-size: clamp(1.9rem, 4.5vw, 2.6rem); font-weight: 600; letter-spacing: -.02em; line-height: 1.1; }
+.lema { max-width: 40rem; margin: 0; color: var(--tinta-2); font-size: 1.05rem; }
+nav.topo { display: flex; gap: 1.5rem; flex-wrap: wrap; font-size: .95rem; }
+nav.topo a { text-decoration: none; }
+nav.topo a:hover { text-decoration: underline; }
 
-/* Mastro: as 27 UFs são o filtro */
+/* As 27 UFs são o filtro */
 .mastro {
-  display: grid; grid-template-columns: repeat(auto-fill, minmax(4.4rem, 1fr));
-  gap: .5rem .4rem; padding: 1.25rem 0; margin: 0; list-style: none;
-  border-block: 1px solid var(--linha);
+  display: flex; flex-wrap: wrap; gap: .15rem; padding: 0; margin: 0 -.4rem; list-style: none;
 }
 .mastro button {
-  all: unset; box-sizing: border-box; cursor: pointer; width: 100%;
-  display: grid; justify-items: center; gap: .3rem; padding: .45rem .2rem .3rem;
-  border-bottom: 4px solid transparent; font-weight: 700; font-stretch: 80%; font-size: .85rem;
+  all: unset; box-sizing: border-box; cursor: pointer;
+  display: grid; justify-items: center; gap: .3rem; width: 3.1rem; padding: .5rem 0 .35rem;
+  border-radius: 8px; font-size: .72rem; font-weight: 500; color: var(--tinta-2);
 }
-.mastro img { width: 100%; max-width: 3.6rem; aspect-ratio: 10/7; object-fit: contain; }
-.mastro button:hover { background: var(--pano); }
-.mastro button[aria-pressed=true] { background: var(--pano); border-bottom-color: var(--amarelo); }
-.mastro button:focus-visible { outline: 3px solid var(--amarelo); }
+.mastro img { height: 1.3rem; width: auto; max-width: 2.1rem; border-radius: 1.5px; box-shadow: var(--sombra); }
+.mastro button:hover { background: var(--suave); color: var(--tinta); }
+.mastro button[aria-pressed=true] { background: var(--suave); color: var(--tinta); box-shadow: inset 0 -2px var(--amarelo); }
+.mastro button:focus-visible { outline: 2px solid var(--amarelo); }
 
 .busca {
-  position: sticky; top: 0; z-index: 2; background: var(--fundo);
-  display: flex; flex-wrap: wrap; gap: .75rem 1.25rem; align-items: center; padding: .9rem 0;
+  position: sticky; top: 0; z-index: 2; margin-top: 1.25rem;
+  background: color-mix(in srgb, var(--fundo) 88%, transparent); backdrop-filter: blur(8px);
+  display: flex; flex-wrap: wrap; gap: .75rem; align-items: center; padding: .85rem 0;
+  border-bottom: 1px solid var(--linha);
 }
-.busca input[type=search] {
-  flex: 1 1 16rem; font: inherit; font-size: 1.1rem; padding: .65rem .9rem;
-  color: var(--tinta); background: var(--pano); border: 2px solid var(--tinta); border-radius: 0;
+.busca input[type=search], .busca select {
+  height: var(--campo); font: inherit; color: var(--tinta);
+  background-color: var(--suave); border: 1px solid transparent; border-radius: 10px;
 }
-.busca label { display: inline-flex; gap: .4rem; align-items: center; color: var(--tinta-2); }
-.busca select { font: inherit; padding: .5rem; color: var(--tinta); background: var(--pano); border: 1px solid var(--linha); }
-#conta { margin-left: auto; font-variant-numeric: tabular-nums; color: var(--tinta-2); }
+.busca input[type=search] { flex: 1 1 16rem; padding: 0 .9rem; }
+.busca input[type=search]:focus, .busca select:focus-visible, .busca select:open {
+  outline: none; border-color: var(--verde); background-color: var(--fundo);
+}
+/* Select no mesmo desenho do campo de busca; a seta é nossa, não a do sistema */
+.busca select {
+  appearance: none; -webkit-appearance: none; cursor: pointer;
+  padding: 0 2.3rem 0 .9rem; min-width: 13.5rem;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='8' fill='none' stroke='%236a7483' stroke-width='1.6' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='M1 1.5 6 6.5 11 1.5'/%3E%3C/svg%3E");
+  background-repeat: no-repeat; background-position: right .85rem center;
+}
+/* Lista aberta estilizada onde o navegador permite (Chrome e Edge recentes);
+   nos demais abre a lista nativa do sistema. */
+@supports (appearance: base-select) {
+  .busca select, .busca select::picker(select) { appearance: base-select; }
+  .busca select { display: inline-flex; align-items: center; }
+  .busca select::picker-icon { display: none; }
+  .busca select::picker(select) {
+    margin-top: .4rem; padding: .35rem; min-width: anchor-size(width);
+    border: 0; border-radius: 12px; background: var(--fundo); color: var(--tinta);
+    box-shadow: var(--flutua);
+  }
+  .busca option {
+    display: flex; align-items: center; height: 2.4rem; padding: 0 .75rem;
+    border-radius: 8px; cursor: pointer; outline: none;
+  }
+  .busca option::checkmark { display: none; }
+  .busca option:hover, .busca option:focus-visible { background: var(--suave); }
+  .busca option:checked { color: var(--verde); font-weight: 500; }
+}
+#conta { margin-left: auto; font-variant-numeric: tabular-nums; color: var(--tinta-2); font-size: .92rem; }
 
 .grade {
-  display: grid; grid-template-columns: repeat(auto-fill, minmax(8.5rem, 1fr));
-  gap: 1.5rem 1rem; padding: 1rem 0 3rem; margin: 0; list-style: none;
+  display: grid; grid-template-columns: repeat(auto-fill, minmax(7.5rem, 1fr));
+  gap: 2rem 1.25rem; padding: 2rem 0 3rem; margin: 0; list-style: none;
 }
-.grade button {
-  all: unset; box-sizing: border-box; cursor: pointer; width: 100%; display: block;
-}
-.grade button:focus-visible { outline: 3px solid var(--amarelo); outline-offset: 4px; }
-.grade .tela {
-  display: grid; place-items: center; height: 6.2rem; background: var(--pano); padding: .6rem;
-}
-.grade img { max-width: 100%; max-height: 5rem; outline: 1px solid rgb(0 0 0 / .12); }
-.grade button:hover .tela { box-shadow: inset 0 -4px var(--amarelo); }
-.grade .nome { display: block; margin-top: .4rem; font-weight: 600; line-height: 1.2; }
-.grade .meta { font-size: .8rem; color: var(--tinta-2); font-variant-numeric: tabular-nums; }
-.grade .sem .tela { background: none; border: 1px dashed var(--linha); color: var(--tinta-2); font-size: .8rem; }
+.grade button { all: unset; box-sizing: border-box; cursor: pointer; width: 100%; display: block; border-radius: 6px; }
+.grade button:focus-visible { outline: 2px solid var(--amarelo); outline-offset: 6px; }
+.grade .tela { display: flex; align-items: flex-end; height: 4.4rem; }
+.grade img { max-width: 100%; max-height: 4.4rem; border-radius: 2px; box-shadow: var(--sombra); transition: transform .15s ease; }
+.grade button:hover img { transform: translateY(-2px); }
+.grade .nome { display: block; margin-top: .6rem; font-size: .92rem; font-weight: 500; line-height: 1.25; }
+.grade .meta { font-size: .78rem; color: var(--tinta-2); }
+.grade .sem .tela { align-items: center; justify-content: center; border: 1px dashed var(--linha); border-radius: 4px; color: var(--tinta-2); font-size: .78rem; }
 .vazio { padding: 2rem 0 4rem; color: var(--tinta-2); }
+@media (prefers-reduced-motion: reduce) { .grade img { transition: none; } html { scroll-behavior: auto; } }
 
 dialog {
-  width: min(46rem, calc(100vw - 2rem)); max-height: calc(100vh - 2rem); padding: 0;
-  border: 2px solid var(--tinta); background: var(--fundo); color: var(--tinta);
+  width: min(40rem, calc(100vw - 2rem)); max-height: calc(100vh - 2rem); padding: 0;
+  border: 0; border-radius: 14px; background: var(--fundo); color: var(--tinta);
+  box-shadow: 0 20px 60px rgb(0 0 0 / .25);
 }
-dialog::backdrop { background: rgb(10 18 32 / .6); }
-.ficha { padding: 1.25rem 1.5rem 1.5rem; }
-.ficha .tela { clear: both; display: grid; place-items: center; background: var(--pano); padding: 1.25rem; }
-.ficha .tela img { max-width: 100%; max-height: 15rem; outline: 1px solid rgb(0 0 0 / .12); }
-.ficha h2 { margin: 1rem 0 0; font-size: 2rem; font-weight: 800; font-stretch: 75%; line-height: 1; }
-.ficha .meta { margin: .3rem 0 0; color: var(--tinta-2); }
-.ficha h3 { margin: 1.25rem 0 .3rem; font-size: .95rem; font-weight: 700; }
-.fechar { float: right; margin-bottom: .6rem; font: inherit; font-weight: 700; padding: .3rem .7rem; cursor: pointer;
-  background: none; color: var(--tinta); border: 1px solid var(--tinta); }
+dialog::backdrop { background: rgb(20 26 36 / .35); backdrop-filter: blur(2px); }
+.ficha { padding: 1.5rem; }
+.ficha .tela { display: grid; place-items: center; background: var(--suave); border-radius: 10px; padding: 1.5rem; min-height: 9rem; }
+.ficha .tela img { max-width: 100%; max-height: 13rem; border-radius: 2px; box-shadow: var(--sombra); }
+.ficha .cab { display: flex; justify-content: space-between; align-items: start; gap: 1rem; margin-bottom: 1rem; }
+.ficha h2 { margin: 0; font-size: 1.4rem; font-weight: 600; letter-spacing: -.01em; line-height: 1.2; }
+.ficha .meta { margin: .15rem 0 0; color: var(--tinta-2); font-size: .92rem; }
+.ficha h3 { margin: 1.1rem 0 .3rem; font-size: .82rem; font-weight: 500; color: var(--tinta-2); }
+.ficha .acoes { margin: .9rem 0 0; font-size: .92rem; }
+.fechar { font: inherit; font-size: .9rem; padding: .3rem .7rem; cursor: pointer; background: var(--suave); color: var(--tinta); border: 0; border-radius: 8px; }
 .trecho { position: relative; }
 pre {
-  margin: 0; padding: .75rem 5.5rem .75rem .9rem; overflow-x: auto;
-  background: var(--codigo); color: var(--codigo-tinta);
-  font: .85rem/1.5 ui-monospace, SFMono-Regular, Menlo, monospace; white-space: pre-wrap; word-break: break-all;
+  margin: 0; padding: .7rem 4.8rem .7rem .85rem; overflow-x: auto; border-radius: 8px;
+  background: var(--suave); color: var(--tinta);
+  font: .82rem/1.55 ui-monospace, SFMono-Regular, Menlo, monospace; white-space: pre-wrap; word-break: break-all;
 }
 .copiar {
-  position: absolute; top: .4rem; right: .4rem; font: inherit; font-size: .8rem; font-weight: 600;
-  padding: .25rem .6rem; cursor: pointer; background: var(--amarelo); color: #13233f; border: 0;
+  position: absolute; top: .4rem; right: .4rem; font: inherit; font-size: .78rem;
+  padding: .2rem .55rem; cursor: pointer; background: var(--fundo); color: var(--verde);
+  border: 1px solid var(--linha); border-radius: 6px;
 }
-.credito { margin: .3rem 0 0; }
+.credito { margin: .2rem 0 0; font-size: .92rem; }
 
-section.uso { border-top: 1px solid var(--linha); padding: 2.5rem 0 1rem; }
-section.uso h2 { margin: 0 0 1rem; font-size: 2.2rem; font-weight: 800; font-stretch: 72%; }
-section.uso .colunas { display: grid; gap: 1.5rem 2.5rem; grid-template-columns: repeat(auto-fit, minmax(19rem, 1fr)); }
-section.uso h3 { margin: 0 0 .4rem; font-size: 1.05rem; }
-section.uso p { margin: .5rem 0; max-width: 38rem; }
-section.uso pre { padding-right: .9rem; }
-.demo { font-size: 2.2rem; display: flex; gap: .6rem; align-items: center; margin: .6rem 0; }
-code { font: .9em ui-monospace, SFMono-Regular, Menlo, monospace; }
-footer { padding: 2rem 0 3rem; color: var(--tinta-2); font-size: .92rem; }
-footer p { max-width: 46rem; }
+section.uso { border-top: 1px solid var(--linha); padding: 3rem 0 1rem; }
+section.uso h2 { margin: 0 0 1.5rem; font-size: 1.4rem; font-weight: 600; letter-spacing: -.01em; }
+section.uso .colunas { display: grid; gap: 2rem 3rem; grid-template-columns: repeat(auto-fit, minmax(19rem, 1fr)); }
+section.uso h3 { margin: 0 0 .4rem; font-size: 1rem; font-weight: 600; }
+section.uso p { margin: .5rem 0; max-width: 36rem; color: var(--tinta-2); }
+section.uso pre { padding-right: .85rem; }
+.demo { font-size: 2rem; display: flex; gap: .7rem; align-items: center; margin: .9rem 0 .3rem; }
+code { font: .88em ui-monospace, SFMono-Regular, Menlo, monospace; }
+footer { padding: 2rem 0 3.5rem; color: var(--tinta-2); font-size: .9rem; }
+footer p { max-width: 44rem; }
 </style>
 </head>
 <body>
 <div class="largura">
   <header>
     <h1>Bandeiras do Brasil</h1>
-    <p class="lema">A bandeira nacional, as <strong>27 das unidades da federação</strong> e as de
-      <strong id="n-mun">milhares de</strong> municípios, com nomes de arquivo pelo código do IBGE.
-      SVG quando existe, PNG quando não. Escolha um estado ou procure uma cidade.</p>
+    <p class="lema">A bandeira nacional, as das 27 unidades da federação e as de
+      <span id="n-mun">milhares de</span> municípios, com arquivos nomeados pelo código do IBGE.
+      SVG quando existe, PNG quando não.</p>
     <nav class="topo">
       <a href="#uso">Como usar</a>
-      <a href="https://github.com/StrategicProjects/flags-brasil">Repositório no GitHub</a>
+      <a href="https://github.com/StrategicProjects/flags-brasil">GitHub</a>
       <a href="https://github.com/StrategicProjects/flags-brasil/blob/main/CREDITOS.md">Créditos e licenças</a>
     </nav>
   </header>
@@ -147,15 +177,14 @@ footer p { max-width: 46rem; }
   <ul class="mastro" id="mastro" aria-label="Filtrar por estado"></ul>
 
   <div class="busca" role="search">
-    <input type="search" id="q" placeholder="Nome do município ou código do IBGE" aria-label="Buscar município" autocomplete="off">
-    <label>Mostrar
-      <select id="filtro">
-        <option value="com">com bandeira</option>
-        <option value="svg">só SVG</option>
-        <option value="sem">sem bandeira</option>
-        <option value="todos">todos</option>
-      </select>
-    </label>
+    <input type="search" id="q" placeholder="Buscar município ou código do IBGE" aria-label="Buscar município" autocomplete="off">
+    <select id="filtro" aria-label="Quais municípios mostrar">
+      <option value="com">Com bandeira</option>
+      <option value="svg">Só SVG</option>
+      <option value="vet">Com SVG vetorizado</option>
+      <option value="sem">Sem bandeira</option>
+      <option value="todos">Todos</option>
+    </select>
     <span id="conta" aria-live="polite"></span>
   </div>
 
@@ -186,7 +215,7 @@ footer p { max-width: 46rem; }
 flags/uf/pe.svg
 flags/mun/2611606.svg   (ou .png)
 dados/bandeiras.json    nome, UF, arquivo, proporção, autor e licença</pre>
-        <h3 style="margin-top:1.25rem">Em R, Quarto e Markdown</h3>
+        <h3 style="margin-top:1.5rem">Em R, Quarto e Markdown</h3>
         <pre>![](https://strategicprojects.github.io/flags-brasil/flags/uf/pe.svg){height=1em}
 
 b &lt;- jsonlite::fromJSON("https://strategicprojects.github.io/flags-brasil/dados/bandeiras.json")</pre>
@@ -195,12 +224,12 @@ b &lt;- jsonlite::fromJSON("https://strategicprojects.github.io/flags-brasil/dad
   </section>
 
   <footer>
-    <p>As imagens vêm do Wikimedia Commons, localizadas pelo Wikidata, e cada uma mantém a licença
-      do arquivo de origem (a maioria em domínio público; parte em Creative Commons, que pede
-      atribuição). Autor e licença aparecem ao abrir cada bandeira e estão reunidos em
+    <p>As imagens vêm do Wikimedia Commons e, em poucos casos, do site da prefeitura. Cada uma
+      mantém a licença do arquivo de origem: a maioria está em domínio público e parte em Creative
+      Commons, que pede atribuição. Autor e licença aparecem ao abrir cada bandeira e estão reunidos em
       <a href="https://github.com/StrategicProjects/flags-brasil/blob/main/CREDITOS.md">CREDITOS.md</a>.
-      O código deste projeto é MIT. Faltou uma bandeira ou há uma errada? O caminho é corrigir no
-      Wikidata ou <a href="https://github.com/StrategicProjects/flags-brasil/issues">abrir uma issue</a>.</p>
+      O código deste projeto é MIT. Faltou uma bandeira ou há uma errada?
+      <a href="https://github.com/StrategicProjects/flags-brasil/issues">Abra uma issue</a>.</p>
   </footer>
 </div>
 
@@ -212,18 +241,21 @@ const $ = (s) => document.querySelector(s);
 const norm = (s) => s.normalize('NFD').replace(/[̀-ͯ]/g, '').toLowerCase();
 const esc = (s) => String(s).replace(/[&<>"]/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]));
 const http = (u) => { try { return /^https?:$/.test(new URL(u).protocol) ? u : ''; } catch { return ''; } };
-const LOTE = 150;
+const LOTE = 72;
 let itens = [], porCodigo = new Map(), visiveis = [], pintados = 0;
+const detalhes = new Map(); // grupo ("br" ou sigla da UF) -> promessa do JSON de detalhes
 const estado = { uf: null, q: '', filtro: 'com' };
+const tipo = (e) => (e.codigo === 'br' ? 'pais' : e.codigo.length === 2 ? 'uf' : 'municipio');
 
 function filtra() {
   const q = norm(estado.q.trim());
   visiveis = itens.filter((e) => {
-    if (e.tipo !== 'municipio') return !estado.uf && !q && estado.filtro !== 'sem' && e.tipo === 'pais';
+    if (e.tipo !== 'municipio') return !estado.uf && !q && estado.filtro === 'com' && e.tipo === 'pais';
     if (estado.uf && e.uf !== estado.uf) return false;
-    if (estado.filtro === 'com' && !e.arquivo) return false;
+    if (estado.filtro === 'com' && !e.formato) return false;
     if (estado.filtro === 'svg' && e.formato !== 'svg') return false;
-    if (estado.filtro === 'sem' && e.arquivo) return false;
+    if (estado.filtro === 'vet' && !e.vet) return false;
+    if (estado.filtro === 'sem' && e.formato) return false;
     return !q || e._n.includes(q) || e.codigo.startsWith(q);
   });
   $('#grade').replaceChildren();
@@ -236,7 +268,7 @@ function filtra() {
   if (!visiveis.length) {
     vazio.textContent = estado.filtro === 'sem'
       ? 'Nenhum município sem bandeira nesta seleção.'
-      : 'Nenhuma bandeira para essa busca. Tente outro nome, limpe o estado selecionado ou mude "Mostrar" para "todos".';
+      : 'Nenhuma bandeira para essa busca. Tente outro nome, limpe o estado selecionado ou escolha "Todos".';
   }
   pinta();
 }
@@ -245,16 +277,22 @@ function pinta() {
   const frag = document.createDocumentFragment();
   for (const e of visiveis.slice(pintados, pintados + LOTE)) {
     const li = document.createElement('li');
-    const tela = e.arquivo
-      ? `<span class="tela"><img loading="lazy" src="${esc(e.arquivo)}" alt=""></span>`
+    const tela = e.formato
+      ? `<span class="tela"><img loading="lazy" decoding="async" src="mini/${esc(e.codigo)}.webp" alt=""></span>`
       : '<span class="tela">sem bandeira</span>';
-    li.innerHTML = `<button type="button" data-c="${e.codigo}" class="${e.arquivo ? '' : 'sem'}">${tela}
-      <span class="nome">${esc(e.nome)}</span>
-      <span class="meta">${e.uf ? e.uf + ' ' : ''}${e.tipo === 'municipio' ? e.codigo : ''}${e.formato ? ' ' + e.formato.toUpperCase() : ''}</span></button>`;
+    const meta = [e.uf, e.formato ? e.formato.toUpperCase() + (e.vet ? ' + vetor' : '') : ''].filter(Boolean).join(' ');
+    li.innerHTML = `<button type="button" data-c="${esc(e.codigo)}" class="${e.formato ? '' : 'sem'}">${tela}
+      <span class="nome">${esc(e.nome)}</span><span class="meta">${esc(meta)}</span></button>`;
     frag.append(li);
   }
   pintados = Math.min(pintados + LOTE, visiveis.length);
   $('#grade').append(frag);
+}
+
+function detalhe(e) {
+  const g = e.tipo === 'municipio' ? e.uf.toLowerCase() : 'br';
+  if (!detalhes.has(g)) detalhes.set(g, fetch(`dados/detalhe/${g}.json`).then((r) => r.json()));
+  return detalhes.get(g).then((d) => d[e.codigo]);
 }
 
 function trecho(titulo, codigo) {
@@ -262,23 +300,26 @@ function trecho(titulo, codigo) {
     <button type="button" class="copiar" data-t="${esc(codigo)}">Copiar</button></div>`;
 }
 
-function abre(e) {
-  const local = e.tipo === 'municipio' ? `Município de ${e.uf}, código IBGE ${e.codigo}`
-    : e.tipo === 'uf' ? `Unidade da federação, sigla ${e.uf}` : 'País';
-  let h = `<button type="button" class="fechar" data-fechar>Fechar</button>`;
-  if (!e.arquivo) {
-    h += `<h2 id="dlg-nome">${esc(e.nome)}</h2><p class="meta">${local}</p>
-      <p>Ainda não há bandeira deste município no acervo: o Wikidata não aponta um arquivo de bandeira
-      para ele. ${e.wikidata ? `Se ela existir no Wikimedia Commons, preencha "imagem da bandeira" em
-      <a href="https://www.wikidata.org/wiki/${encodeURIComponent(e.wikidata)}">${esc(e.wikidata)}</a> e ela entra na próxima atualização.` : ''}</p>`;
+async function abre(r) {
+  let e;
+  try { e = await detalhe(r); } catch { e = null; }
+  const local = r.tipo === 'municipio' ? `Município de ${r.uf}, código IBGE ${r.codigo}`
+    : r.tipo === 'uf' ? `Unidade da federação, sigla ${r.uf}` : 'País';
+  let h = `<div class="cab"><div><h2 id="dlg-nome">${esc(r.nome)}</h2><p class="meta">${esc(local)}</p></div>
+    <button type="button" class="fechar" data-fechar>Fechar</button></div>`;
+  if (!e) {
+    h += '<p>Não foi possível carregar os detalhes desta bandeira. Verifique a conexão e tente de novo.</p>';
+  } else if (!e.arquivo) {
+    h += `<p>Ainda não há bandeira deste município no acervo. ${e.wikidata ? `Se ela existir no Wikimedia Commons, preencha
+      "imagem da bandeira" em <a rel="noopener noreferrer" href="https://www.wikidata.org/wiki/${encodeURIComponent(e.wikidata)}">${esc(e.wikidata)}</a>
+      no Wikidata e ela entra na próxima atualização.` : ''}</p>`;
   } else {
     const f = e.fonte;
     const css = e.tipo === 'municipio' ? `css/uf/${e.uf.toLowerCase()}.css` : 'css/flags-brasil.css';
     h += `<div class="tela"><img src="${esc(e.arquivo)}" alt="Bandeira de ${esc(e.nome)}"></div>
-      <h2 id="dlg-nome">${esc(e.nome)}</h2>
-      <p class="meta">${local}. Arquivo ${e.formato.toUpperCase()}${e.proporcao ? ', proporção ' + e.proporcao.toLocaleString('pt-BR') + ':1' : ''}.
+      <p class="acoes">${e.formato.toUpperCase()}${e.proporcao ? ', proporção ' + e.proporcao.toLocaleString('pt-BR') + ':1' : ''}.
         <a href="${esc(e.arquivo)}" download>Baixar</a>${e.vetorizado ? ` ou <a href="${esc(e.vetorizado)}" download>baixar o SVG vetorizado</a> (traçado automático do PNG; pode ter imperfeições)` : ''}</p>
-      ${trecho('Classe CSS (com ' + css + ')', `<span class="fbr fbr-${e.codigo}"></span>`)}
+      ${trecho('Classe CSS, com ' + css, `<span class="fbr fbr-${e.codigo}"></span>`)}
       ${trecho('Imagem', `<img src="${SITE}${e.arquivo}" alt="Bandeira de ${e.nome}" height="24">`)}
       ${trecho('Markdown e Quarto', `![Bandeira de ${e.nome}](${SITE}${e.arquivo})`)}
       <h3>Crédito</h3>
@@ -287,7 +328,7 @@ function abre(e) {
         Origem: ${http(f.pagina) ? `<a rel="noopener noreferrer" href="${esc(http(f.pagina))}">${esc(f.arquivo)}</a>` : esc(f.arquivo)}, ${esc(f.origem || 'Wikimedia Commons')}.</p>`;
   }
   $('#ficha').innerHTML = h;
-  $('#dlg').showModal();
+  if (!$('#dlg').open) $('#dlg').showModal();
 }
 
 $('#dlg').addEventListener('click', async (ev) => {
@@ -306,7 +347,7 @@ $('#grade').addEventListener('click', (ev) => {
 $('#mastro').addEventListener('click', (ev) => {
   const b = ev.target.closest('button');
   if (!b) return;
-  if (ev.detail === 2 || ev.shiftKey) return abre(porCodigo.get(b.dataset.uf.toLowerCase()));
+  if (ev.shiftKey) return abre(porCodigo.get(b.dataset.uf.toLowerCase()));
   estado.uf = estado.uf === b.dataset.uf ? null : b.dataset.uf;
   for (const x of $('#mastro').querySelectorAll('button')) x.setAttribute('aria-pressed', x.dataset.uf === estado.uf);
   filtra();
@@ -314,20 +355,20 @@ $('#mastro').addEventListener('click', (ev) => {
 $('#q').addEventListener('input', (ev) => { estado.q = ev.target.value; filtra(); });
 $('#filtro').addEventListener('change', (ev) => { estado.filtro = ev.target.value; filtra(); });
 new IntersectionObserver((es) => { if (es[0].isIntersecting && pintados < visiveis.length) pinta(); },
-  { rootMargin: '800px' }).observe($('#sentinela'));
+  { rootMargin: '600px' }).observe($('#sentinela'));
 
-fetch('dados/bandeiras.json').then((r) => r.json()).then((d) => {
-  itens = d;
-  for (const e of d) { e._n = norm(e.nome); porCodigo.set(e.codigo, e); }
-  const com = d.filter((e) => e.tipo === 'municipio' && e.arquivo).length;
-  $('#n-mun').textContent = com.toLocaleString('pt-BR') + ' dos ' + d.filter((e) => e.tipo === 'municipio').length.toLocaleString('pt-BR');
-  $('#mastro').innerHTML = d.filter((e) => e.tipo === 'uf').map((e) =>
-    `<li><button type="button" data-uf="${e.uf}" aria-pressed="false" title="${esc(e.nome)} (Shift+clique abre a bandeira do estado)">
-      <img src="${esc(e.arquivo)}" alt="">${e.uf}</button></li>`).join('');
+fetch('dados/site.json').then((r) => r.json()).then((d) => {
+  itens = d.map(([codigo, nome, uf, formato, vet]) => ({ codigo, nome, uf, formato, vet, _n: norm(nome) }));
+  for (const e of itens) { e.tipo = tipo(e); porCodigo.set(e.codigo, e); }
+  const mun = itens.filter((e) => e.tipo === 'municipio');
+  $('#n-mun').textContent = mun.filter((e) => e.formato).length.toLocaleString('pt-BR') + ' dos ' + mun.length.toLocaleString('pt-BR');
+  $('#mastro').innerHTML = itens.filter((e) => e.tipo === 'uf').map((e) =>
+    `<li><button type="button" data-uf="${esc(e.uf)}" aria-pressed="false" title="${esc(e.nome)} (Shift+clique abre a bandeira do estado)">
+      <img src="mini/${esc(e.codigo)}.webp" alt="">${esc(e.uf)}</button></li>`).join('');
   filtra();
 }).catch(() => {
   $('#vazio').hidden = false;
-  $('#vazio').textContent = 'Não foi possível carregar dados/bandeiras.json. Abra o site por um servidor (python3 -m http.server), não direto do arquivo.';
+  $('#vazio').textContent = 'Não foi possível carregar a lista de bandeiras. Abra o site por um servidor (pnpm run site), não direto do arquivo.';
 });
 </script>
 </body>

@@ -112,40 +112,40 @@ Gerado por `tools/gerar.py`. A mesma informação está em `dados/bandeiras.json
 | 1301605 | Fonte Boa (AM) | `flags/mun/1301605.svg` | Camervan | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Fonte_Boa_AM.svg) |
 | 1301654 | Guajará (AM) | `flags/mun/1301654.png` | Camervan | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Guajar%C3%A1_AM.svg) |
 | 1301704 | Humaitá (AM) | `flags/mun/1301704.png` | Prefeitura de Humaita | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_humaita_am.png) |
-| 1301803 | Ipixuna (AM) | `flags/mun/1301803.png` | Camervan | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Ipixuna_AM.svg) |
+| 1301803 | Ipixuna (AM) | `flags/mun/1301803.svg` | Camervan | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Ipixuna_AM.svg) |
 | 1301852 | Iranduba (AM) | `flags/mun/1301852.png` | Prefeitura | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Iranduba.jpg) |
 | 1301902 | Itacoatiara (AM) | `flags/mun/1301902.png` | Prefeitura Municípal de Itacoatiara | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Itacoatiara_am.jpg) |
 | 1302108 | Japurá (AM) | `flags/mun/1302108.png` | Prefeitura Municipal de Japurá | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Japur%C3%A1_-_bandeira.jpg) |
 | 1302207 | Juruá (AM) | `flags/mun/1302207.png` | Prefeitura Municipal de Juruá | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Juru%C3%A1_-_bandeira.jpg) |
-| 1302306 | Jutaí (AM) | `flags/mun/1302306.png` | Camervan | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Juta%C3%AD_AM.svg) |
+| 1302306 | Jutaí (AM) | `flags/mun/1302306.svg` | Camervan | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Juta%C3%AD_AM.svg) |
 | 1302405 | Lábrea (AM) | `flags/mun/1302405.png` | Prefeitura Municipal de Lábrea | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Labrea-bandeira.jpg) |
 | 1302504 | Manacapuru (AM) | `flags/mun/1302504.png` | Manacapuru City Hall | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira-manacapuru.jpg) |
-| 1302603 | Manaus (AM) | `flags/mun/1302603.png` | Prefeitura Municipal de Manaus | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Manaus.svg) |
+| 1302603 | Manaus (AM) | `flags/mun/1302603.svg` | Prefeitura Municipal de Manaus | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Manaus.svg) |
 | 1302702 | Manicoré (AM) | `flags/mun/1302702.png` | Prefeitura Municipal de Manicoré | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Manicor%C3%A9_-_AM.gif) |
 | 1302900 | Maués (AM) | `flags/mun/1302900.png` | Prefeitura de Maués | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Mau%C3%A9s.jpg) |
 | 1303007 | Nhamundá (AM) | `flags/mun/1303007.png` | Lison Bindá da Costa | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Nhamund%C3%A1..jpg) |
-| 1303106 | Nova Olinda do Norte (AM) | `flags/mun/1303106.png` | Camervan | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Nova_Olinda_do_Norte.svg) |
+| 1303106 | Nova Olinda do Norte (AM) | `flags/mun/1303106.svg` | Camervan | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Nova_Olinda_do_Norte.svg) |
 | 1303304 | Novo Aripuanã (AM) | `flags/mun/1303304.png` | Municipio de Novo Aripuanã | [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Mtrp.png) |
-| 1303403 | Parintins (AM) | `flags/mun/1303403.png` | Giro720 | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Flag_of_Parintins_(Amazonas).svg) |
-| 1303536 | Presidente Figueiredo (AM) | `flags/mun/1303536.png` | WikiUser22222 | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Presidente_Figueiredo_Flag.svg) |
-| 1303569 | Rio Preto da Eva (AM) | `flags/mun/1303569.png` | Original: Prefeitura Municipal de Rio Preto da Eva Vector: J. Kássio | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Rio_Preto_da_Eva.svg) |
-| 1303601 | Santa Isabel do Rio Negro (AM) | `flags/mun/1303601.png` | WikiUser22222 | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Santa_Isabel_do_Rio_Negro-AM.svg) |
+| 1303403 | Parintins (AM) | `flags/mun/1303403.svg` | Giro720 | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Flag_of_Parintins_(Amazonas).svg) |
+| 1303536 | Presidente Figueiredo (AM) | `flags/mun/1303536.svg` | WikiUser22222 | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Presidente_Figueiredo_Flag.svg) |
+| 1303569 | Rio Preto da Eva (AM) | `flags/mun/1303569.svg` | Original: Prefeitura Municipal de Rio Preto da Eva Vector: J. Kássio | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Rio_Preto_da_Eva.svg) |
+| 1303601 | Santa Isabel do Rio Negro (AM) | `flags/mun/1303601.svg` | WikiUser22222 | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Santa_Isabel_do_Rio_Negro-AM.svg) |
 | 1303700 | Santo Antônio do Içá (AM) | `flags/mun/1303700.png` | Prefeitura Municipal de Santo Antônio do Içá | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Santo_Ant%C3%B4nio_do_I%C3%A7%C3%A1,_Amazonas.jpg) |
 | 1303809 | São Gabriel da Cachoeira (AM) | `flags/mun/1303809.png` | Vexilologia brasileira | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_S%C3%A3o_Gabriel_da_Cachoeira_(AM).png) |
 | 1303957 | São Sebastião do Uatumã (AM) | `flags/mun/1303957.png` | Jeanssu | [CC BY 3.0](https://creativecommons.org/licenses/by/3.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_S%C3%A3o_Sebasti%C3%A3o_do_Uatum%C3%A3.PNG) |
 | 1304005 | Silves (AM) | `flags/mun/1304005.png` | Prefeitura Municipal de Silves | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Silves_(AM).gif) |
 | 1304062 | Tabatinga (AM) | `flags/mun/1304062.png` | WikiUser22222 | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Tabatinga.png) |
-| 1304203 | Tefé (AM) | `flags/mun/1304203.png` | Giro720 | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Flag_of_Tef%C3%A9_(Amazonas).svg) |
+| 1304203 | Tefé (AM) | `flags/mun/1304203.svg` | Giro720 | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Flag_of_Tef%C3%A9_(Amazonas).svg) |
 | 1400027 | Amajari (RR) | `flags/mun/1400027.png` | Municipality of Amajari. | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Amajari.jpg) |
-| 1400050 | Alto Alegre (RR) | `flags/mun/1400050.png` | BrCaLeTo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Alto_Alegre_-_RR.svg) |
-| 1400100 | Boa Vista (RR) | `flags/mun/1400100.png` | Own work | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Boa_Vista.svg) |
+| 1400050 | Alto Alegre (RR) | `flags/mun/1400050.svg` | BrCaLeTo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Alto_Alegre_-_RR.svg) |
+| 1400100 | Boa Vista (RR) | `flags/mun/1400100.svg` | Own work | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Boa_Vista.svg) |
 | 1400159 | Bonfim (RR) | `flags/mun/1400159.png` | Municipality of Bonfim. | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Bonfim_RR.jpg) |
-| 1400175 | Cantá (RR) | `flags/mun/1400175.png` | Mysid (SVG) | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Flag_of_Cant%C3%A1.svg) |
+| 1400175 | Cantá (RR) | `flags/mun/1400175.svg` | Mysid (SVG) | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Flag_of_Cant%C3%A1.svg) |
 | 1400209 | Caracaraí (RR) | `flags/mun/1400209.png` | Municipality of Caracaraí. | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Caracarai.jpg) |
 | 1400233 | Caroebe (RR) | `flags/mun/1400233.png` | Municipality of Caroebe. | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Caroebe.jpg) |
 | 1400282 | Iracema (RR) | `flags/mun/1400282.png` | Municipality of Iracema. | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Iracema_RR.jpg) |
 | 1400308 | Mucajaí (RR) | `flags/mun/1400308.png` | Municipality of Mucajaí. | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Mucajai.jpg) |
-| 1400407 | Normandia (RR) | `flags/mun/1400407.png` | vectorization by Anzee | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Normandia.svg) |
+| 1400407 | Normandia (RR) | `flags/mun/1400407.svg` | vectorization by Anzee | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Normandia.svg) |
 | 1400456 | Pacaraima (RR) | `flags/mun/1400456.png` | Feitidede (talk · contribs) | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Pacaraima.svg) |
 | 1400472 | Rorainópolis (RR) | `flags/mun/1400472.png` | Bandeira_Rorainopolis.jpg: Municipality of Rorainópolis. derivative work: McSush (talk) | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Rorainopolis.svg) |
 | 1400506 | São João da Baliza (RR) | `flags/mun/1400506.png` | BrCaLeTo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_S%C3%A3o_Jo%C3%A3o_da_Baliza_-_RR.svg) |
