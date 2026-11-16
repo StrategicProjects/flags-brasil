@@ -46,10 +46,12 @@ BASE_CSS = """\
 """
 
 
-def autor(a: str) -> str:
+def limpa_autor(a: str) -> str:
     """O campo Artist do Commons às vezes traz o texto do aviso de licença."""
     if not a:
         return "não informado"
+    if a.startswith("Unknown author"):
+        return "autor desconhecido"
     if re.match(r"(Public domain|This (work|file|image)|Esta (obra|imagem)|Este arquivo)", a):
         return "ver página de origem"
     return a if len(a) <= 160 else a[:157] + "…"
@@ -117,7 +119,7 @@ def main() -> None:
         e["fonte"] = {
             "arquivo": w["arquivos"][0],
             "pagina": m["pagina"],
-            "autor": autor(m["autor"]),
+            "autor": limpa_autor(m["autor"]),
             "licenca": m["licenca"] or "ver página do arquivo",
             "licenca_url": m["licenca_url"],
         }
