@@ -1,6 +1,6 @@
 {
   "name": "flags-brasil",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Bandeiras do Brasil e das 27 unidades da federação em SVG, com classes CSS e manifesto por código do IBGE. Municípios no pacote flags-brasil-municipios.",
   "keywords": [
     "bandeiras",

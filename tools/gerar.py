@@ -78,6 +78,17 @@ def destino(chave: str, ext: str) -> Path:
 
 def converte(par: tuple[Path, Path]) -> str | None:
     src, dst = par
+    if src.suffix == ".svg" and dst.suffix == ".png":
+        # SVG recusado na conferência de segurança: entra rasterizado, que é inerte.
+        if dst.exists() and dst.stat().st_mtime >= src.stat().st_mtime:
+            return None
+        r = subprocess.run(["rsvg-convert", "-w", str(LARGURA), str(src)], capture_output=True)
+        if r.returncode != 0:
+            return f"{src.name}: SVG recusado e não rasterizável; não publicado"
+        r = subprocess.run(["magick", "png:-", "-strip", "-colors", "256", "-define",
+                            "png:compression-level=9", f"PNG8:{dst}"],
+                           input=r.stdout, capture_output=True)
+        return None if r.returncode == 0 else f"{src.name}: falha ao rasterizar"
     if src.suffix == ".svg":
         # Fechado por padrão: confere sempre o original e o que já está publicado.
         motivo = problema(src.read_bytes()) or (dst.exists() and problema(dst.read_bytes()))
@@ -108,7 +119,11 @@ def main() -> None:
 
     originais = {p.stem: p for p in ORIG.iterdir()
                  if p.suffix != ".pdf" and not p.name.startswith("_")}
-    pares = [(p, destino(k, "svg" if p.suffix == ".svg" else "png"))
+    recusados = {k: m for k, p in originais.items()
+                 if p.suffix == ".svg" and (m := problema(p.read_bytes()))}
+    for k, m in sorted(recusados.items()):
+        print(f"SVG recusado, publicado como PNG: {k} ({m})", file=sys.stderr)
+    pares = [(p, destino(k, "svg" if p.suffix == ".svg" and k not in recusados else "png"))
              for k, p in sorted(originais.items())]
     with ThreadPoolExecutor(8) as ex:
         erros = [e for e in ex.map(converte, pares) if e]

@@ -110,7 +110,7 @@ Gerado por `tools/gerar.py`. A mesma informação está em `dados/bandeiras.json
 | 1301407 | Eirunepé (AM) | `flags/mun/1301407.png` | Vexilologia brasileira | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Flag_of_Eirunep%C3%A9_AM.png) |
 | 1301506 | Envira (AM) | `flags/mun/1301506.svg` | Reviewer of articles. | [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Envira.svg) |
 | 1301605 | Fonte Boa (AM) | `flags/mun/1301605.svg` | Camervan | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Fonte_Boa_AM.svg) |
-| 1301654 | Guajará (AM) | `flags/mun/1301654.png` | Camervan | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Guajar%C3%A1_AM.svg) |
+| 1301654 | Guajará (AM) | `flags/mun/1301654.svg` | Camervan | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Guajar%C3%A1_AM.svg) |
 | 1301704 | Humaitá (AM) | `flags/mun/1301704.png` | Prefeitura de Humaita | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_humaita_am.png) |
 | 1301803 | Ipixuna (AM) | `flags/mun/1301803.svg` | Camervan | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Ipixuna_AM.svg) |
 | 1301852 | Iranduba (AM) | `flags/mun/1301852.png` | Prefeitura | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Iranduba.jpg) |
@@ -146,17 +146,17 @@ Gerado por `tools/gerar.py`. A mesma informação está em `dados/bandeiras.json
 | 1400282 | Iracema (RR) | `flags/mun/1400282.png` | Municipality of Iracema. | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Iracema_RR.jpg) |
 | 1400308 | Mucajaí (RR) | `flags/mun/1400308.png` | Municipality of Mucajaí. | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Mucajai.jpg) |
 | 1400407 | Normandia (RR) | `flags/mun/1400407.svg` | vectorization by Anzee | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Normandia.svg) |
-| 1400456 | Pacaraima (RR) | `flags/mun/1400456.png` | Feitidede (talk · contribs) | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Pacaraima.svg) |
-| 1400472 | Rorainópolis (RR) | `flags/mun/1400472.png` | Bandeira_Rorainopolis.jpg: Municipality of Rorainópolis. derivative work: McSush (talk) | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Rorainopolis.svg) |
-| 1400506 | São João da Baliza (RR) | `flags/mun/1400506.png` | BrCaLeTo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_S%C3%A3o_Jo%C3%A3o_da_Baliza_-_RR.svg) |
+| 1400456 | Pacaraima (RR) | `flags/mun/1400456.svg` | Feitidede (talk · contribs) | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Pacaraima.svg) |
+| 1400472 | Rorainópolis (RR) | `flags/mun/1400472.svg` | Bandeira_Rorainopolis.jpg: Municipality of Rorainópolis. derivative work: McSush (talk) | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Rorainopolis.svg) |
+| 1400506 | São João da Baliza (RR) | `flags/mun/1400506.svg` | BrCaLeTo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_S%C3%A3o_Jo%C3%A3o_da_Baliza_-_RR.svg) |
 | 1400605 | São Luiz do Anauá (RR) | `flags/mun/1400605.png` | Municipality of São Luiz. | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Sao_Luiz.jpg) |
-| 1400704 | Uiramutã (RR) | `flags/mun/1400704.png` | vectorization by Anzee | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Uiramuta.svg) |
+| 1400704 | Uiramutã (RR) | `flags/mun/1400704.svg` | vectorization by Anzee | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Uiramuta.svg) |
 | 1500107 | Abaetetuba (PA) | `flags/mun/1500107.png` | Municipality of Abaetetuba. | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Abaetetuba.png) |
 | 1500131 | Abel Figueiredo (PA) | `flags/mun/1500131.png` | Municipality of Abel Figueiredo. | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Abel_Figueiredo.jpg) |
-| 1500206 | Acará (PA) | `flags/mun/1500206.png` | Municipality of AcaráVectors by User:Mysid | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Flag_of_Acar%C3%A1.svg) |
+| 1500206 | Acará (PA) | `flags/mun/1500206.svg` | Municipality of AcaráVectors by User:Mysid | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Flag_of_Acar%C3%A1.svg) |
 | 1500305 | Afuá (PA) | `flags/mun/1500305.png` | Município de Afuá. | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_afua.JPG) |
-| 1500347 | Água Azul do Norte (PA) | `flags/mun/1500347.png` | Municipality of Água Azul do Norte.Vectors by User:Mysid | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Flag_of_Agua_Azul_du_Norte.svg) |
-| 1500404 | Alenquer (PA) | `flags/mun/1500404.png` | Municipality of AlenquerVectors by User:Mysid | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Flag_of_Alenquer.svg) |
+| 1500347 | Água Azul do Norte (PA) | `flags/mun/1500347.svg` | Municipality of Água Azul do Norte.Vectors by User:Mysid | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Flag_of_Agua_Azul_du_Norte.svg) |
+| 1500404 | Alenquer (PA) | `flags/mun/1500404.svg` | Municipality of AlenquerVectors by User:Mysid | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Flag_of_Alenquer.svg) |
 | 1500503 | Almeirim (PA) | `flags/mun/1500503.png` | Municipality of Almeirim. | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Almerim.png) |
 | 1500602 | Altamira (PA) | `flags/mun/1500602.png` | não informado | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Altamira.jpg) |
 | 1500701 | Anajás (PA) | `flags/mun/1500701.png` | Municipality of Anajás. | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Anajas.jpg) |
@@ -165,19 +165,19 @@ Gerado por `tools/gerar.py`. A mesma informação está em `dados/bandeiras.json
 | 1500909 | Augusto Corrêa (PA) | `flags/mun/1500909.png` | Municipality of Augusto Corrêa. | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Augusto_Correa.png) |
 | 1500958 | Aurora do Pará (PA) | `flags/mun/1500958.png` | Municipality of Aurora do Pará. | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Aurora_do_Para.png) |
 | 1501006 | Aveiro (PA) | `flags/mun/1501006.png` | Municipality of Aveiro. | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Aveiro.png) |
-| 1501105 | Bagre (PA) | `flags/mun/1501105.png` | Municipality of Bagre. | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Bagre.svg) |
+| 1501105 | Bagre (PA) | `flags/mun/1501105.svg` | Municipality of Bagre. | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Bagre.svg) |
 | 1501204 | Baião (PA) | `flags/mun/1501204.png` | Netoferreira | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Bai%C3%A3o.gif) |
 | 1501303 | Barcarena (PA) | `flags/mun/1501303.png` | Pcgomes | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Flag_of_Barcarena_-_PA_-_Brazil.png) |
-| 1501402 | Belém (PA) | `flags/mun/1501402.png` | BrCaLeTo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Bel%C3%A9m.svg) |
-| 1501451 | Belterra (PA) | `flags/mun/1501451.png` | Junior Silva Rodriguess | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Belterra.svg) |
+| 1501402 | Belém (PA) | `flags/mun/1501402.svg` | BrCaLeTo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Bel%C3%A9m.svg) |
+| 1501451 | Belterra (PA) | `flags/mun/1501451.svg` | Junior Silva Rodriguess | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Belterra.svg) |
 | 1501501 | Benevides (PA) | `flags/mun/1501501.png` | No machine-readable author provided. Leonan Faro assumed (based on copyright claims). | [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Benevides.jpg) |
 | 1501576 | Bom Jesus do Tocantins (PA) | `flags/mun/1501576.png` | Hallel | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Bom_Jesus_do_Tocantins_(Par%C3%A1).jpg) |
-| 1501709 | Bragança (PA) | `flags/mun/1501709.png` | Prefeitura Municipal de Bragança | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Bragan%C3%A7a_(Par%C3%A1).svg) |
+| 1501709 | Bragança (PA) | `flags/mun/1501709.svg` | Prefeitura Municipal de Bragança | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Bragan%C3%A7a_(Par%C3%A1).svg) |
 | 1501782 | Breu Branco (PA) | `flags/mun/1501782.png` | Hallel | [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Breu_Branco.png) |
 | 1501808 | Breves (PA) | `flags/mun/1501808.png` | Município de Breves. | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Brasao_breves.JPG) |
 | 1502004 | Cachoeira do Arari (PA) | `flags/mun/1502004.png` | Município de Cachoeira do Arari. | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_cachoeira_do_arari.JPG) |
 | 1502103 | Cametá (PA) | `flags/mun/1502103.png` | autor desconhecido | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Camet%C3%A1.jpg) |
-| 1502152 | Canaã dos Carajás (PA) | `flags/mun/1502152.png` | Giro720 | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Cana%C3%A3_dos_Caraj%C3%A1s_(Par%C3%A1).svg) |
+| 1502152 | Canaã dos Carajás (PA) | `flags/mun/1502152.svg` | Giro720 | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Cana%C3%A3_dos_Caraj%C3%A1s_(Par%C3%A1).svg) |
 | 1502202 | Capanema (PA) | `flags/mun/1502202.png` | Capanema City Hall | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Capanema,_PA.jpg) |
 | 1502301 | Capitão Poço (PA) | `flags/mun/1502301.png` | Prefeitura Municipal de Capitão Poço | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Capit%C3%A3o_Po%C3%A7o.gif) |
 | 1502400 | Castanhal (PA) | `flags/mun/1502400.png` | The original uploader was Infern0s at Portuguese Wikipedia. | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandcast.JPG) |
@@ -188,23 +188,23 @@ Gerado por `tools/gerar.py`. A mesma informação está em `dados/bandeiras.json
 | 1502905 | Curuçá (PA) | `flags/mun/1502905.png` | Comendador Paulo Henrique | Attribution | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Curu%C3%A7%C3%A1_(Par%C3%A1).jpg) |
 | 1502939 | Dom Eliseu (PA) | `flags/mun/1502939.png` | Emanuel Porto Pinheiro | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Oficial_da_Cidade_de_Dom_Eliseu-PA.png) |
 | 1502954 | Eldorado do Carajás (PA) | `flags/mun/1502954.png` | Hallel | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Eldorado_dos_Caraj%C3%A1s.png) |
-| 1503002 | Faro (PA) | `flags/mun/1503002.png` | BrCaLeTo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Faro_-_PA.svg) |
+| 1503002 | Faro (PA) | `flags/mun/1503002.svg` | BrCaLeTo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Faro_-_PA.svg) |
 | 1503044 | Floresta do Araguaia (PA) | `flags/mun/1503044.png` | autor desconhecido | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Flag_of_Floresta_do_Araguaia_PA.png) |
 | 1503077 | Garrafão do Norte (PA) | `flags/mun/1503077.png` | et al | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_garrafao_do_norte.gif) |
-| 1503093 | Goianésia do Pará (PA) | `flags/mun/1503093.png` | BrCaLeTo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Goian%C3%A9sia_do_Par%C3%A1_-_PA.svg) |
-| 1503101 | Gurupá (PA) | `flags/mun/1503101.png` | Gazilion | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Gurup%C3%A1_-_PA.svg) |
+| 1503093 | Goianésia do Pará (PA) | `flags/mun/1503093.svg` | BrCaLeTo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Goian%C3%A9sia_do_Par%C3%A1_-_PA.svg) |
+| 1503101 | Gurupá (PA) | `flags/mun/1503101.svg` | Gazilion | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Gurup%C3%A1_-_PA.svg) |
 | 1503309 | Igarapé-Miri (PA) | `flags/mun/1503309.png` | Ya200n | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_igarap%C3%A9-miri.png) |
-| 1503606 | Itaituba (PA) | `flags/mun/1503606.png` | Jonilson Costa de Oliveira | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Itaituba.svg) |
-| 1503705 | Itupiranga (PA) | `flags/mun/1503705.png` | Gazilion | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Itupiranga_-_PA.svg) |
+| 1503606 | Itaituba (PA) | `flags/mun/1503606.svg` | Jonilson Costa de Oliveira | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Itaituba.svg) |
+| 1503705 | Itupiranga (PA) | `flags/mun/1503705.svg` | Gazilion | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Itupiranga_-_PA.svg) |
 | 1503903 | Juruti (PA) | `flags/mun/1503903.png` | Hallel | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Juruti.jpg) |
 | 1504059 | Mãe do Rio (PA) | `flags/mun/1504059.png` | Prefeitura de Mãe do Rio | [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Pa-mae-do-rio-bandeira.jpg) |
-| 1504208 | Marabá (PA) | `flags/mun/1504208.png` | Giro720 | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Marab%C3%A1_(Par%C3%A1).svg) |
-| 1504422 | Marituba (PA) | `flags/mun/1504422.png` | Prefeitura Municipal de Marituba | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Flag_of_Marituba.svg) |
+| 1504208 | Marabá (PA) | `flags/mun/1504208.svg` | Giro720 | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Marab%C3%A1_(Par%C3%A1).svg) |
+| 1504422 | Marituba (PA) | `flags/mun/1504422.svg` | Prefeitura Municipal de Marituba | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Flag_of_Marituba.svg) |
 | 1504505 | Melgaço (PA) | `flags/mun/1504505.png` | Município de Melgaço. | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Melgaco.JPG) |
 | 1504604 | Mocajuba (PA) | `flags/mun/1504604.png` | Erison Freitas2 | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Pa-mocajuba-bandeira.jpg) |
 | 1504703 | Moju (PA) | `flags/mun/1504703.png` | http://www.pmmoju.com.br/index.php?exibir=fotos&cod_topico=40&topico=S%EDmbolos%20do%20Munic%EDpio&descricao= | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:BandeiraMoju.jpg) |
-| 1504752 | Mojuí dos Campos (PA) | `flags/mun/1504752.png` | Gazilion | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Moju%C3%AD_dos_Campos_-_PA.svg) |
-| 1504901 | Muaná (PA) | `flags/mun/1504901.png` | Município de MuanáVectors by User:Mysid | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Flag_of_Muana.svg) |
+| 1504752 | Mojuí dos Campos (PA) | `flags/mun/1504752.svg` | Gazilion | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Moju%C3%AD_dos_Campos_-_PA.svg) |
+| 1504901 | Muaná (PA) | `flags/mun/1504901.svg` | Município de MuanáVectors by User:Mysid | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Flag_of_Muana.svg) |
 | 1504976 | Nova Ipixuna (PA) | `flags/mun/1504976.png` | PMNI | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Nova_Ipixuna.PNG) |
 | 1505007 | Nova Timboteua (PA) | `flags/mun/1505007.png` | Helder FF | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:BANDEIRA_de_Nova_Timboteua_-_Par%C3%A1.jpg) |
 | 1505031 | Novo Progresso (PA) | `flags/mun/1505031.png` | No machine-readable author provided. GifTagger assumed (based on copyright claims). | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_novo_progresso.png) |
@@ -214,8 +214,8 @@ Gerado por `tools/gerar.py`. A mesma informação está em `dados/bandeiras.json
 | 1505304 | Oriximiná (PA) | `flags/mun/1505304.png` | Prefeitura | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Flag_of_Oriximin%C3%A1_PA.png) |
 | 1505437 | Ourilândia do Norte (PA) | `flags/mun/1505437.png` | Tcasanova | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_ourilandia.jpg) |
 | 1505486 | Pacajá (PA) | `flags/mun/1505486.png` | Site Oficial de Pacajá | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Pacaja.png) |
-| 1505502 | Paragominas (PA) | `flags/mun/1505502.png` | BrCaLeTo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Paragominas_-_PA.svg) |
-| 1505536 | Parauapebas (PA) | `flags/mun/1505536.png` | Giro720 | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Parauapebas_(Par%C3%A1).svg) |
+| 1505502 | Paragominas (PA) | `flags/mun/1505502.svg` | BrCaLeTo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Paragominas_-_PA.svg) |
+| 1505536 | Parauapebas (PA) | `flags/mun/1505536.svg` | Giro720 | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Parauapebas_(Par%C3%A1).svg) |
 | 1505700 | Ponta de Pedras (PA) | `flags/mun/1505700.png` | Municipality of Ponta de Pedras. | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_ponta_de_pedras.JPG) |
 | 1505809 | Portel (PA) | `flags/mun/1505809.png` | Município de Portel. | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_portel.JPG) |
 | 1506112 | Quatipuru (PA) | `flags/mun/1506112.png` | Ednaldo Gomes e Silva | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Quatipuru.jpg) |
@@ -225,7 +225,7 @@ Gerado por `tools/gerar.py`. A mesma informação está em `dados/bandeiras.json
 | 1506302 | Salvaterra (PA) | `flags/mun/1506302.png` | Município de Salvaterra. | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Salvaterra,_PA.jpg) |
 | 1506401 | Santa Cruz do Arari (PA) | `flags/mun/1506401.png` | Município de Santa Cruz do Arari. | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Santa_Cruz_do_Arari,_PA.jpg) |
 | 1506500 | Santa Izabel do Pará (PA) | `flags/mun/1506500.png` | Prefeitura de Santa Izabel do Pará | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Santa_Izabel_do_Par%C3%A1.jpg) |
-| 1506708 | Santana do Araguaia (PA) | `flags/mun/1506708.png` | Kilom691 | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Santana_do_Araguaia.svg) |
+| 1506708 | Santana do Araguaia (PA) | `flags/mun/1506708.svg` | Kilom691 | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Santana_do_Araguaia.svg) |
 | 1506807 | Santarém (PA) | `flags/mun/1506807.png` | FXXX | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Santarem.png) |
 | 1507151 | São Domingos do Araguaia (PA) | `flags/mun/1507151.png` | autor desconhecido | [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_S%C3%A3o_Domingos_do_Araguaia.jpg) |
 | 1507300 | São Félix do Xingu (PA) | `flags/mun/1507300.png` | Prefeitura de São Félix do Xingu | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_S%C3%A3o_F%C3%A9lix_do_Xingu.gif) |
@@ -246,19 +246,19 @@ Gerado por `tools/gerar.py`. A mesma informação está em `dados/bandeiras.json
 | 1508407 | Xinguara (PA) | `flags/mun/1508407.png` | Xinguara | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Xinguara.gif) |
 | 1600105 | Amapá (AP) | `flags/mun/1600105.png` | Ruan Santana 2016 | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Munic%C3%ADpio_de_Amap%C3%A1.jpg) |
 | 1600154 | Pedra Branca do Amapari (AP) | `flags/mun/1600154.png` | Prefeitura de Amapari | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Pedra_Branca_do_Amapari.jpg) |
-| 1600204 | Calçoene (AP) | `flags/mun/1600204.png` | Camervan | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Cal%C3%A7oene_AP.svg) |
+| 1600204 | Calçoene (AP) | `flags/mun/1600204.svg` | Camervan | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Cal%C3%A7oene_AP.svg) |
 | 1600212 | Cutias (AP) | `flags/mun/1600212.png` | Prefeitura de Cutias | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Cutias,_AP.jpg) |
-| 1600238 | Ferreira Gomes (AP) | `flags/mun/1600238.png` | Camervan | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Ferreira_Gomes_AP.svg) |
-| 1600279 | Laranjal do Jari (AP) | `flags/mun/1600279.png` | BrCaLeTo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Laranjal_do_Jari_-_AP.svg) |
-| 1600303 | Macapá (AP) | `flags/mun/1600303.png` | ViniciusBR11; Prefeitura de Macapá | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Macap%C3%A1.svg) |
-| 1600402 | Mazagão (AP) | `flags/mun/1600402.png` | Camervan | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Mazag%C3%A3o.svg) |
-| 1600501 | Oiapoque (AP) | `flags/mun/1600501.png` | Camervan | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Oiapoque_AP.svg) |
-| 1600535 | Porto Grande (AP) | `flags/mun/1600535.png` | Camervan | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Porto_Grande-AP.svg) |
+| 1600238 | Ferreira Gomes (AP) | `flags/mun/1600238.svg` | Camervan | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Ferreira_Gomes_AP.svg) |
+| 1600279 | Laranjal do Jari (AP) | `flags/mun/1600279.svg` | BrCaLeTo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Laranjal_do_Jari_-_AP.svg) |
+| 1600303 | Macapá (AP) | `flags/mun/1600303.svg` | ViniciusBR11; Prefeitura de Macapá | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Macap%C3%A1.svg) |
+| 1600402 | Mazagão (AP) | `flags/mun/1600402.svg` | Camervan | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Mazag%C3%A3o.svg) |
+| 1600501 | Oiapoque (AP) | `flags/mun/1600501.svg` | Camervan | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Oiapoque_AP.svg) |
+| 1600535 | Porto Grande (AP) | `flags/mun/1600535.svg` | Camervan | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Porto_Grande-AP.svg) |
 | 1600600 | Santana (AP) | `flags/mun/1600600.png` | Kris97354 | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Santana,_AP.jpg) |
-| 1600709 | Tartarugalzinho (AP) | `flags/mun/1600709.png` | Camervan | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Tartarugalzinho_AP.svg) |
-| 1600808 | Vitória do Jari (AP) | `flags/mun/1600808.png` | BrCaLeTo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Vit%C3%B3ria_do_Jari_-_AP.svg) |
+| 1600709 | Tartarugalzinho (AP) | `flags/mun/1600709.svg` | Camervan | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Tartarugalzinho_AP.svg) |
+| 1600808 | Vitória do Jari (AP) | `flags/mun/1600808.svg` | BrCaLeTo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Vit%C3%B3ria_do_Jari_-_AP.svg) |
 | 1701002 | Ananás (TO) | `flags/mun/1701002.png` | PMA | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira-ananas.jpg) |
-| 1702109 | Araguaína (TO) | `flags/mun/1702109.png` | Own work | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Araguaina_Tocantins_Brasil.svg) |
+| 1702109 | Araguaína (TO) | `flags/mun/1702109.svg` | Own work | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Araguaina_Tocantins_Brasil.svg) |
 | 1702208 | Araguatins (TO) | `flags/mun/1702208.png` | Prefeitura Municipal de Araguatins | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Araguatins_TO.png) |
 | 1702307 | Arapoema (TO) | `flags/mun/1702307.png` | PMA | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira-arapoema.jpg) |
 | 1702901 | Axixá do Tocantins (TO) | `flags/mun/1702901.png` | Marcos.aurelio.agro | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Axixa.jpg) |
@@ -277,14 +277,14 @@ Gerado por `tools/gerar.py`. A mesma informação está em `dados/bandeiras.json
 | 1715002 | Nova Rosalândia (TO) | `flags/mun/1715002.png` | Prefeitura Municipal de Nova Rosalândia | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira-novarosalandia-to.jpg) |
 | 1716109 | Paraíso do Tocantins (TO) | `flags/mun/1716109.png` | De acordo com a Lei brasileira em Propriedade Industrial (Lei 9.279 de 14 de maio de 1996), Capítulo IV, Artigo 191, … | [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Paraiso_do_Tocantins_Flag.jpg) |
 | 1716604 | Peixe (TO) | `flags/mun/1716604.png` | Prefeitura Municipal de Peixe | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Peixe_TO_bandeira.png) |
-| 1716703 | Colméia (TO) | `flags/mun/1716703.png` | BrCaLeTo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Colm%C3%A9ia_-_TO.svg) |
+| 1716703 | Colméia (TO) | `flags/mun/1716703.svg` | BrCaLeTo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Colm%C3%A9ia_-_TO.svg) |
 | 1718006 | Porto Alegre do Tocantins (TO) | `flags/mun/1718006.png` | Município de Porto Alegre do Tocantins | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:BandeiraPortoAlegreDoTocantins.png) |
 | 1718204 | Porto Nacional (TO) | `flags/mun/1718204.png` | Municipality of Porto Nacional. | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Porto_Nacional.png) |
-| 1718865 | Santa Fé do Araguaia (TO) | `flags/mun/1718865.png` | BrCaLeTo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Santa_F%C3%A9_do_Araguaia_-_TO.svg) |
-| 1718907 | Santa Rosa do Tocantins (TO) | `flags/mun/1718907.png` | Haikansik | [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:BANDEIRA_DE_SANTA_ROSA_DO_TOCANTINS.svg) |
+| 1718865 | Santa Fé do Araguaia (TO) | `flags/mun/1718865.svg` | BrCaLeTo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Santa_F%C3%A9_do_Araguaia_-_TO.svg) |
+| 1718907 | Santa Rosa do Tocantins (TO) | `flags/mun/1718907.svg` | Haikansik | [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:BANDEIRA_DE_SANTA_ROSA_DO_TOCANTINS.svg) |
 | 1720655 | Silvanópolis (TO) | `flags/mun/1720655.png` | Silvanópolis_TO | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Municipal_Silvan%C3%B3polis_TO.JPG) |
 | 1720903 | Taguatinga (TO) | `flags/mun/1720903.png` | Prefeitura Municipal de Taguatinga, TO | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Taguatinga_(TO).png) |
-| 1721000 | Palmas (TO) | `flags/mun/1721000.png` | Own work. | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Palmas.svg) |
+| 1721000 | Palmas (TO) | `flags/mun/1721000.svg` | Own work. | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Palmas.svg) |
 | 1721257 | Tupirama (TO) | `flags/mun/1721257.png` | PMT | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira-tupirama.png) |
 | 1722107 | Xambioá (TO) | `flags/mun/1722107.png` | Prefeitura Municipal de Xambioá | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Xambio%C3%A1,_TO.gif) |
 | 2100055 | Açailândia (MA) | `flags/mun/2100055.png` | Açailândia City Hall | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira-acailandia.png) |
@@ -305,31 +305,31 @@ Gerado por `tools/gerar.py`. A mesma informação está em `dados/bandeiras.json
 | 2101806 | Benedito Leite (MA) | `flags/mun/2101806.png` | (Fernando23 (talk)) | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Benedito_Leite.jpg) |
 | 2101905 | Bequimão (MA) | `flags/mun/2101905.png` | Prefeitura de Bequimão MA | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Bequim%C3%A3o_MA.jpg) |
 | 2102002 | Bom Jardim (MA) | `flags/mun/2102002.png` | Breno Meireles | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Bom_Jardim,_MA.jpg) |
-| 2102036 | Bom Jesus das Selvas (MA) | `flags/mun/2102036.png` | Camervan This W3C-unspecified vector image was created with Inkscape . | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Bom_Jesus_das_Selvas.svg) |
+| 2102036 | Bom Jesus das Selvas (MA) | `flags/mun/2102036.svg` | Camervan This W3C-unspecified vector image was created with Inkscape . | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Bom_Jesus_das_Selvas.svg) |
 | 2102101 | Brejo (MA) | `flags/mun/2102101.png` | Prefeitura de Brejo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Brejo.jpg) |
 | 2102325 | Buriticupu (MA) | `flags/mun/2102325.png` | Dougg Jony | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_buriticupu.jpg) |
-| 2102408 | Cajapió (MA) | `flags/mun/2102408.png` | GiruŠatuku | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Cajapi%C3%B3.svg) |
+| 2102408 | Cajapió (MA) | `flags/mun/2102408.svg` | GiruŠatuku | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Cajapi%C3%B3.svg) |
 | 2102507 | Cajari (MA) | `flags/mun/2102507.png` | Wenderson Cutrim | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:BANDEIRADECAJARI.jpg) |
 | 2102556 | Campestre do Maranhão (MA) | `flags/mun/2102556.png` | ERIVALDO MOTA PEREIRA | [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Campestre_do_Maranh%C3%A3o.jpg) |
-| 2102705 | Cantanhede (MA) | `flags/mun/2102705.png` | Giro720 | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Cantanhede_(Maranh%C3%A3o).svg) |
+| 2102705 | Cantanhede (MA) | `flags/mun/2102705.svg` | Giro720 | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Cantanhede_(Maranh%C3%A3o).svg) |
 | 2102804 | Carolina (MA) | `flags/mun/2102804.png` | Brazilian government | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_carolina.PNG) |
-| 2102903 | Carutapera (MA) | `flags/mun/2102903.png` | Camervan | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Carutapera.svg) |
-| 2103000 | Caxias (MA) | `flags/mun/2103000.png` | Bandeira do Município de Caxias | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_do_Municipio_de_Caxias_Maranhao.svg) |
+| 2102903 | Carutapera (MA) | `flags/mun/2102903.svg` | Camervan | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Carutapera.svg) |
+| 2103000 | Caxias (MA) | `flags/mun/2103000.svg` | Bandeira do Município de Caxias | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_do_Municipio_de_Caxias_Maranhao.svg) |
 | 2103109 | Cedral (MA) | `flags/mun/2103109.png` | Fabio Lindoso | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_cedral.jpg) |
-| 2103125 | Central do Maranhão (MA) | `flags/mun/2103125.png` | Camervan | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Central_do_Maranh%C3%A3o_MA.svg) |
-| 2103158 | Centro do Guilherme (MA) | `flags/mun/2103158.png` | Camervan | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Centro_do_Guilherme.svg) |
-| 2103208 | Chapadinha (MA) | `flags/mun/2103208.png` | derivative work: McSush (talk) Bandeira_chapadinha_ma.gif: Fabiobarros | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_chapadinha_ma.svg) |
-| 2103257 | Cidelândia (MA) | `flags/mun/2103257.png` | Allex Magnuson | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Cidel%C3%A2ndia.svg) |
+| 2103125 | Central do Maranhão (MA) | `flags/mun/2103125.svg` | Camervan | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Central_do_Maranh%C3%A3o_MA.svg) |
+| 2103158 | Centro do Guilherme (MA) | `flags/mun/2103158.svg` | Camervan | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Centro_do_Guilherme.svg) |
+| 2103208 | Chapadinha (MA) | `flags/mun/2103208.svg` | derivative work: McSush (talk) Bandeira_chapadinha_ma.gif: Fabiobarros | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_chapadinha_ma.svg) |
+| 2103257 | Cidelândia (MA) | `flags/mun/2103257.svg` | Allex Magnuson | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Cidel%C3%A2ndia.svg) |
 | 2103307 | Codó (MA) | `flags/mun/2103307.png` | Prefeitura Municipal de Codó (MA) | [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Codo_bandeira.jpg) |
 | 2103406 | Coelho Neto (MA) | `flags/mun/2103406.png` | Diego Souto Pinheiro | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_coelho_neto.jpg) |
-| 2103554 | Conceição do Lago-Açu (MA) | `flags/mun/2103554.png` | Unknown | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Concei%C3%A7%C3%A3o_do_Lago_A%C3%A7u.svg) |
+| 2103554 | Conceição do Lago-Açu (MA) | `flags/mun/2103554.svg` | Unknown | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Concei%C3%A7%C3%A3o_do_Lago_A%C3%A7u.svg) |
 | 2103604 | Coroatá (MA) | `flags/mun/2103604.png` | Edutj17 | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Coroata.jpg) |
 | 2103752 | Davinópolis (MA) | `flags/mun/2103752.png` | Wendell Teixeira | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Davin%C3%B3polis,_MA_2.jpg) |
 | 2103802 | Dom Pedro (MA) | `flags/mun/2103802.png` | https://imageshack.com/i/nmds93j | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Dom_Pedro_(Maranh%C3%A3o).jpg) |
-| 2104008 | Esperantinópolis (MA) | `flags/mun/2104008.png` | Camervan This W3C-unspecified vector image was created with Inkscape . | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Esperantin%C3%B3polis.svg) |
+| 2104008 | Esperantinópolis (MA) | `flags/mun/2104008.svg` | Camervan This W3C-unspecified vector image was created with Inkscape . | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Esperantin%C3%B3polis.svg) |
 | 2104404 | Gonçalves Dias (MA) | `flags/mun/2104404.png` | Gonçalves Dias City Hall | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira-gon%C3%A7alvesdias.jpg) |
 | 2104552 | Governador Edison Lobão (MA) | `flags/mun/2104552.png` | Prefeitura Municipal | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Governador_Edison_Lobao.png) |
-| 2104677 | Governador Nunes Freire (MA) | `flags/mun/2104677.png` | Camervan This W3C-unspecified vector image was created with Inkscape . | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Governador_Nunes_Freire.svg) |
+| 2104677 | Governador Nunes Freire (MA) | `flags/mun/2104677.svg` | Camervan This W3C-unspecified vector image was created with Inkscape . | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Governador_Nunes_Freire.svg) |
 | 2104800 | Grajaú (MA) | `flags/mun/2104800.png` | The author is already died since XX Century | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Graja%C3%BA_Flag.png) |
 | 2104909 | Guimarães (MA) | `flags/mun/2104909.png` | Guimarães City Hall | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira-guimaraesma.PNG) |
 | 2105302 | Imperatriz (MA) | `flags/mun/2105302.png` | Etevaldo Moreno de Araújo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_imperatriz.jpg) |
@@ -348,11 +348,11 @@ Gerado por `tools/gerar.py`. A mesma informação está em `dados/bandeiras.json
 | 2107803 | Parnarama (MA) | `flags/mun/2107803.png` | Prefeitura de Parnarama | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Parnarama.jpg) |
 | 2108009 | Pastos Bons (MA) | `flags/mun/2108009.png` | Alex Silva2018 | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Pastos_Bons1.fw.png) |
 | 2108058 | Paulino Neves (MA) | `flags/mun/2108058.png` | Juniorwily7 | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_paulino_neves.jpg) |
-| 2108108 | Paulo Ramos (MA) | `flags/mun/2108108.png` | BrCaLeTo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Paulo_Ramos_-_MA.svg) |
-| 2108603 | Pinheiro (MA) | `flags/mun/2108603.png` | BrCaLeTo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Pinheiro_-_MA.svg) |
+| 2108108 | Paulo Ramos (MA) | `flags/mun/2108108.svg` | BrCaLeTo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Paulo_Ramos_-_MA.svg) |
+| 2108603 | Pinheiro (MA) | `flags/mun/2108603.svg` | BrCaLeTo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Pinheiro_-_MA.svg) |
 | 2109239 | Presidente Médici (MA) | `flags/mun/2109239.png` | Prefeitura Municipal de Presidente Médici | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Presidente_M%C3%A9dici.jpg) |
 | 2109304 | Presidente Vargas (MA) | `flags/mun/2109304.png` | Pietro Paullo | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Presidente_Vargas_(Maranh%C3%A3o).jpg) |
-| 2109452 | Raposa (MA) | `flags/mun/2109452.png` | Daniellopejr29 | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Raposa.svg) |
+| 2109452 | Raposa (MA) | `flags/mun/2109452.svg` | Daniellopejr29 | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Raposa.svg) |
 | 2109759 | Santa Filomena do Maranhão (MA) | `flags/mun/2109759.png` | Renato Lima | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_do_munic%C3%ADpio_de_Santa_Filomena_do_Maranh%C3%A3o.jpg) |
 | 2109908 | Santa Inês (MA) | `flags/mun/2109908.png` | User:Tancredo Fernandes | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Santa_In%C3%AAs,_MA.jpg) |
 | 2110203 | Santa Rita (MA) | `flags/mun/2110203.png` | MrBetto12 | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Santa_Rita_(Maranh%C3%A3o).png) |
@@ -361,14 +361,14 @@ Gerado por `tools/gerar.py`. A mesma informação está em `dados/bandeiras.json
 | 2110609 | São Bernardo (MA) | `flags/mun/2110609.png` | WikiSaoBernardoMA | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Flag_saobernardoma.jpg) |
 | 2111102 | São João dos Patos (MA) | `flags/mun/2111102.png` | Lucas Santana | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_sao_joao_dos_patos.jpg) |
 | 2111201 | São José de Ribamar (MA) | `flags/mun/2111201.png` | SLRTDM | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_S%C3%A3o_Jos%C3%A9_de_Ribamar,_Maranhao,_Brasil.jpg) |
-| 2111300 | São Luís (MA) | `flags/mun/2111300.png` | Srfortes | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_S%C3%A3o_Lu%C3%ADs.svg) |
+| 2111300 | São Luís (MA) | `flags/mun/2111300.svg` | Srfortes | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_S%C3%A3o_Lu%C3%ADs.svg) |
 | 2111607 | São Raimundo das Mangabeiras (MA) | `flags/mun/2111607.png` | Jbatistapassos | [CC BY 3.0](https://creativecommons.org/licenses/by/3.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_S%C3%A3o_Raimundo_das_Mangabeiras_(MA).png) |
-| 2111672 | São Roberto (MA) | `flags/mun/2111672.png` | Camervan This W3C-unspecified vector image was created with Inkscape . | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_S%C3%A3o_Roberto.svg) |
-| 2111706 | São Vicente Ferrer (MA) | `flags/mun/2111706.png` | Camervan | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_S%C3%A3o_Vicente_F%C3%A9rrer_MA.svg) |
+| 2111672 | São Roberto (MA) | `flags/mun/2111672.svg` | Camervan This W3C-unspecified vector image was created with Inkscape . | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_S%C3%A3o_Roberto.svg) |
+| 2111706 | São Vicente Ferrer (MA) | `flags/mun/2111706.svg` | Camervan | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_S%C3%A3o_Vicente_F%C3%A9rrer_MA.svg) |
 | 2111763 | Senador La Rocque (MA) | `flags/mun/2111763.png` | SEMEDSLR | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Senador_La_Rocque.jpg) |
 | 2112001 | Tasso Fragoso (MA) | `flags/mun/2112001.png` | Tassofragosoma | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_do_Munic%C3%ADpio_de_Tasso_Fragoso.jpg) |
-| 2112100 | Timbiras (MA) | `flags/mun/2112100.png` | dnet based on raster version | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Timbiras.svg) |
-| 2112407 | Turiaçu (MA) | `flags/mun/2112407.png` | BrCaLeTo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Turia%C3%A7u_-_MA.svg) |
+| 2112100 | Timbiras (MA) | `flags/mun/2112100.svg` | dnet based on raster version | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Timbiras.svg) |
+| 2112407 | Turiaçu (MA) | `flags/mun/2112407.svg` | BrCaLeTo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Turia%C3%A7u_-_MA.svg) |
 | 2112456 | Turilândia (MA) | `flags/mun/2112456.png` | GILVAN LAERTE | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:BANDEIRA_DE_TURILANDIA-MA.png) |
 | 2112506 | Tutóia (MA) | `flags/mun/2112506.png` | Fabiobarros (talk · contribs) | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_tutoia_ma.png) |
 | 2112605 | Urbano Santos (MA) | `flags/mun/2112605.png` | José Paulo Soares | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_munic%C3%ADpio_UrbanoSantos_MA.jpg) |
@@ -377,9 +377,9 @@ Gerado por `tools/gerar.py`. A mesma informação está em `dados/bandeiras.json
 | 2112902 | Vitória do Mearim (MA) | `flags/mun/2112902.png` | brasão central de autoria de Airtom Marinho licenciado para a Prefeitura Municipal de Vitória do Mearim-Ma. | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Vit%C3%B3ria_do_Mearim.png) |
 | 2114007 | Zé Doca (MA) | `flags/mun/2114007.png` | Camervan | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Z%C3%A9_Doca-MA.png) |
 | 2200251 | Alagoinha do Piauí (PI) | `flags/mun/2200251.png` | Jonasrochajornalista | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Alagoinha_do_Piau%C3%AD_Brasil.png) |
-| 2200301 | Alto Longá (PI) | `flags/mun/2200301.png` | Adriano Silva | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:BANDEIRA_DE_ALTO_LONG%C3%81_-_PI.svg) |
+| 2200301 | Alto Longá (PI) | `flags/mun/2200301.svg` | Adriano Silva | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:BANDEIRA_DE_ALTO_LONG%C3%81_-_PI.svg) |
 | 2200400 | Altos (PI) | `flags/mun/2200400.png` | Fundacao mariana | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_altos.jpg) |
-| 2200459 | Alvorada do Gurguéia (PI) | `flags/mun/2200459.png` | Tarkin71 | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira-de-Alvorada-de-Gurgu%C3%A9ia-PI.svg) |
+| 2200459 | Alvorada do Gurguéia (PI) | `flags/mun/2200459.svg` | Tarkin71 | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira-de-Alvorada-de-Gurgu%C3%A9ia-PI.svg) |
 | 2200806 | Antônio Almeida (PI) | `flags/mun/2200806.png` | Prefeitura Municipal de Antônio de Almeida | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Ant%C3%B4nio_de_Almeida.png) |
 | 2200954 | Aroeiras do Itaim (PI) | `flags/mun/2200954.png` | Desconhecidos, Aroeiras do Itaim. | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Aroeiras_do_Itaim_Flag.png) |
 | 2201051 | Assunção do Piauí (PI) | `flags/mun/2201051.png` | Informativo | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_assuncao_piaui_pi.png) |
@@ -397,7 +397,7 @@ Gerado por `tools/gerar.py`. A mesma informação está em `dados/bandeiras.json
 | 2202711 | Cocal de Telha (PI) | `flags/mun/2202711.png` | Município de Cocal de Telha | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Cocal_de_Telha.jpg) |
 | 2202901 | Corrente (PI) | `flags/mun/2202901.png` | Temp1980 | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Corrente_PI.jpg) |
 | 2203354 | Dirceu Arcoverde (PI) | `flags/mun/2203354.png` | Vivace - Dirceu Arcoverde | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Dirceu_Arcoverde_(2).JPG) |
-| 2203404 | Dom Expedito Lopes (PI) | `flags/mun/2203404.png` | BrCaLeTo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Dom_Expedito_Lopes_-_PI.svg) |
+| 2203404 | Dom Expedito Lopes (PI) | `flags/mun/2203404.svg` | BrCaLeTo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Dom_Expedito_Lopes_-_PI.svg) |
 | 2203420 | Domingos Mourão (PI) | `flags/mun/2203420.png` | ThomasPusch | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Flago_de_Domingos_Mour%C3%A3o.png) |
 | 2203453 | Dom Inocêncio (PI) | `flags/mun/2203453.png` | ThomasPusch | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Flago_de_Dom_Inoc%C3%AAncio.png) |
 | 2203503 | Elesbão Veloso (PI) | `flags/mun/2203503.png` | Cicero Loiola | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:BandeiraElesbao.png) |
@@ -415,7 +415,7 @@ Gerado por `tools/gerar.py`. A mesma informação está em `dados/bandeiras.json
 | 2205359 | João Costa (PI) | `flags/mun/2205359.png` | A21ns1g4ts | [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Jo%C3%A3o_Costa,_PI.png) |
 | 2205508 | José de Freitas (PI) | `flags/mun/2205508.png` | Rubinladen | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_municipio_Jose_de_Freitas-Piaui.png) |
 | 2205565 | Lagoa do Barro do Piauí (PI) | `flags/mun/2205565.png` | Prefeitura Municipal de Lagoa do Barro | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Lagoa_de_Barro_do_PI.jpg) |
-| 2205805 | Luzilândia (PI) | `flags/mun/2205805.png` | BrCaLeTo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Luzil%C3%A2ndia_-_PI.svg) |
+| 2205805 | Luzilândia (PI) | `flags/mun/2205805.svg` | BrCaLeTo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Luzil%C3%A2ndia_-_PI.svg) |
 | 2206407 | Monsenhor Gil (PI) | `flags/mun/2206407.png` | Nenzãolima | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Monsenhor_Gil.jpg) |
 | 2206696 | Murici dos Portelas (PI) | `flags/mun/2206696.png` | Vyeyrasantos | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:BANDEIRA_DE_MURICI_DOS_PORTELAS.jpg) |
 | 2206803 | Nossa Senhora dos Remédios (PI) | `flags/mun/2206803.png` | Luiz Rêgo Neto | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_do_Munic%C3%ADpio_de_Nossa_Senhora_dos_Rem%C3%A9dios-PI.png) |
@@ -423,11 +423,11 @@ Gerado por `tools/gerar.py`. A mesma informação está em `dados/bandeiras.json
 | 2207504 | Palmeirais (PI) | `flags/mun/2207504.png` | Zhtsilva | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Palmeirais_-_PI_.jpg) |
 | 2207702 | Parnaíba (PI) | `flags/mun/2207702.png` | não informado | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Parna%C3%ADba.jpg) |
 | 2207900 | Pedro II (PI) | `flags/mun/2207900.png` | Prefeitura de Pedro II | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Pedro_II.jpg) |
-| 2208007 | Picos (PI) | `flags/mun/2208007.png` | Pentelhojin | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeiradepicos.svg) |
+| 2208007 | Picos (PI) | `flags/mun/2208007.svg` | Pentelhojin | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeiradepicos.svg) |
 | 2208106 | Pimenteiras (PI) | `flags/mun/2208106.png` | Prefeitura Municipal de Pimenteiras PI | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Pimenteiras.png) |
 | 2208205 | Pio IX (PI) | `flags/mun/2208205.png` | Renanbatistasal | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:BANDEIRADEPIOIX.jpg) |
-| 2208304 | Piracuruca (PI) | `flags/mun/2208304.png` | vectorization by Anzee | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_piracuruca_pi.svg) |
-| 2208403 | Piripiri (PI) | `flags/mun/2208403.png` | Vitor Fontenele | [FAL](http://artlibre.org/licence/lal/en) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Flag_of_Piripiri,_Brazil.svg) |
+| 2208304 | Piracuruca (PI) | `flags/mun/2208304.svg` | vectorization by Anzee | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_piracuruca_pi.svg) |
+| 2208403 | Piripiri (PI) | `flags/mun/2208403.svg` | Vitor Fontenele | [FAL](http://artlibre.org/licence/lal/en) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Flag_of_Piripiri,_Brazil.svg) |
 | 2208650 | Queimada Nova (PI) | `flags/mun/2208650.png` | Prefeitura Municipal de Queimada Nova | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Queimada_Nova.jpg) |
 | 2209302 | Santa Luz (PI) | `flags/mun/2209302.png` | municipa prefektejo / prefeitura | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Flago_de_Santa_Luz.png) |
 | 2209377 | Santa Rosa do Piauí (PI) | `flags/mun/2209377.png` | Edvan Oliveira | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Santa_Rosa_do_Piau%C3%AD.jpg) |
@@ -437,25 +437,25 @@ Gerado por `tools/gerar.py`. A mesma informação está em `dados/bandeiras.json
 | 2209971 | São João do Arraial (PI) | `flags/mun/2209971.png` | Prefeitura Municipal | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_de_S%C3%A3o_Jo%C3%A3o_do_Arraial.png) |
 | 2210003 | São João do Piauí (PI) | `flags/mun/2210003.png` | Prefeitura de São João do Piauí | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_oficial_de_S%C3%A3o_Jo%C3%A3o_do_Piau%C3%AD.jpg) |
 | 2210052 | São José do Divino (PI) | `flags/mun/2210052.png` | pm sao jose do divino | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_sao_jose_divino.JPG) |
-| 2210607 | São Raimundo Nonato (PI) | `flags/mun/2210607.png` | autor desconhecido | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira-sao-raimundo-nonato.svg) |
+| 2210607 | São Raimundo Nonato (PI) | `flags/mun/2210607.svg` | autor desconhecido | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira-sao-raimundo-nonato.svg) |
 | 2210623 | Sebastião Barros (PI) | `flags/mun/2210623.png` | Prefeitura Municipal | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Sebasti%C3%A3o_Barros_PI.png) |
 | 2210706 | Simões (PI) | `flags/mun/2210706.png` | municipo / prefeitura Simões (municipal prefecture) | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Flago_de_Sim%C3%B5es.png) |
 | 2210805 | Simplício Mendes (PI) | `flags/mun/2210805.png` | municipo / prefeitura Simplício Mendes (municipal prefecture) | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Flago_de_Simpl%C3%ADcio_Mendes.png) |
 | 2210904 | Socorro do Piauí (PI) | `flags/mun/2210904.png` | Prefeitura Municipal | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Socorro_do_Piau%C3%AD.png) |
-| 2211001 | Teresina (PI) | `flags/mun/2211001.png` | BrCaLeTo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Teresina.svg) |
+| 2211001 | Teresina (PI) | `flags/mun/2211001.svg` | BrCaLeTo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Teresina.svg) |
 | 2211100 | União (PI) | `flags/mun/2211100.png` | Valdinar G Silva | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Uni%C3%A3o_-_PI.png) |
 | 2300101 | Abaiara (CE) | `flags/mun/2300101.png` | A21ns1g4ts | [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Abaiara-ce-bandeira.png) |
-| 2300200 | Acaraú (CE) | `flags/mun/2300200.png` | BrCaLeTo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Acara%C3%BA_-_CE.svg) |
+| 2300200 | Acaraú (CE) | `flags/mun/2300200.svg` | BrCaLeTo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Acara%C3%BA_-_CE.svg) |
 | 2300309 | Acopiara (CE) | `flags/mun/2300309.png` | Autores do site | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_acopiara_ce.jpg) |
 | 2300408 | Aiuaba (CE) | `flags/mun/2300408.png` | NicacioSousa | [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_da_Cidade_de_Aiuaba.jpg) |
-| 2300507 | Alcântaras (CE) | `flags/mun/2300507.png` | Camervan | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Alc%C3%A2ntaras_CE.svg) |
+| 2300507 | Alcântaras (CE) | `flags/mun/2300507.svg` | Camervan | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Alc%C3%A2ntaras_CE.svg) |
 | 2300705 | Alto Santo (CE) | `flags/mun/2300705.png` | Italomorais1 | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Alto_Santo_(Cear%C3%A1).jpg) |
 | 2301000 | Aquiraz (CE) | `flags/mun/2301000.png` | não informado | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_aquiraz.png) |
 | 2301109 | Aracati (CE) | `flags/mun/2301109.png` | PREFEITURA DO ARACATI | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_aracati.png) |
 | 2301257 | Ararendá (CE) | `flags/mun/2301257.png` | Prefeitura Municipal de Ararendá | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeiradearaerenda.png) |
 | 2301307 | Araripe (CE) | `flags/mun/2301307.png` | Municipal Prefecture | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Flag_of_Araripe_Municipality_in_the_State_of_Cear%C3%A1_in_Brazil.jpg) |
-| 2301406 | Aratuba (CE) | `flags/mun/2301406.png` | see File:BANDEIRA ARATUBA-CE.pdf, converted to SVG by Ivan A. Krestinin | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Aratuba_flag.svg) |
-| 2301505 | Arneiroz (CE) | `flags/mun/2301505.png` | autor desconhecido | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Arneiroz.svg) |
+| 2301406 | Aratuba (CE) | `flags/mun/2301406.svg` | see File:BANDEIRA ARATUBA-CE.pdf, converted to SVG by Ivan A. Krestinin | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Aratuba_flag.svg) |
+| 2301505 | Arneiroz (CE) | `flags/mun/2301505.svg` | autor desconhecido | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Arneiroz.svg) |
 | 2301703 | Aurora (CE) | `flags/mun/2301703.png` | Andreymito | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Aurora,_CE.jpg) |
 | 2301802 | Baixio (CE) | `flags/mun/2301802.png` | Cineziofarias | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Baixio.jpg) |
 | 2301851 | Banabuiú (CE) | `flags/mun/2301851.png` | Descohecido | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Banabui%C3%BA.jpg) |
@@ -475,7 +475,7 @@ Gerado por `tools/gerar.py`. A mesma informação está em `dados/bandeiras.json
 | 2303659 | Catunda (CE) | `flags/mun/2303659.png` | Jônatas Linhares | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Municipal_do_Munic%C3%ADpio_de_Catunda.jpg) |
 | 2303709 | Caucaia (CE) | `flags/mun/2303709.png` | Valdecy Junior | [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:BandeiradeCaucaia.png) |
 | 2303808 | Cedro (CE) | `flags/mun/2303808.png` | Cedro City Hall | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeiracedroce.jpg) |
-| 2303907 | Chaval (CE) | `flags/mun/2303907.png` | autor desconhecido | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Chaval.svg) |
+| 2303907 | Chaval (CE) | `flags/mun/2303907.svg` | autor desconhecido | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Chaval.svg) |
 | 2304004 | Coreaú (CE) | `flags/mun/2304004.png` | Municipal Prefecture | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Flag_of_Corea%C3%BA_Municipality_in_the_State_of_Cear%C3%A1_in_Brazil.jpg) |
 | 2304103 | Crateús (CE) | `flags/mun/2304103.png` | Not available | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_do_munic%C3%ADpio_de_Crate%C3%BAs_do_Cear%C3%A1.jpg) |
 | 2304202 | Crato (CE) | `flags/mun/2304202.png` | Gilberto Bruno | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Crato.JPG) |
@@ -489,14 +489,14 @@ Gerado por `tools/gerar.py`. A mesma informação está em `dados/bandeiras.json
 | 2304509 | Frecheirinha (CE) | `flags/mun/2304509.png` | Municipal Prefecture | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Flag_of_Frecheirinha_Municipality_in_the_State_of_Cear%C3%A1_in_Brazil.jpg) |
 | 2304608 | General Sampaio (CE) | `flags/mun/2304608.png` | Municipal Prefecture | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Flag_of_General_Sampaio_Municipality_in_the_State_of_Cear%C3%A1_in_Brazil.png) |
 | 2304657 | Graça (CE) | `flags/mun/2304657.png` | Marcelo Augusto de Sousa Costa | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_do_Munic%C3%ADpio_de_Gra%C3%A7a_no_Estado_do_Cear%C3%A1.png) |
-| 2304707 | Granja (CE) | `flags/mun/2304707.png` | BrCaLeTo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Granja_-_CE.svg) |
+| 2304707 | Granja (CE) | `flags/mun/2304707.svg` | BrCaLeTo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Granja_-_CE.svg) |
 | 2304806 | Granjeiro (CE) | `flags/mun/2304806.png` | Own work | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Granjeiro.jpg) |
 | 2304905 | Groaíras (CE) | `flags/mun/2304905.png` | edsongroairas | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_do_Munic%C3%ADpio_de_Groa%C3%ADras.jpg) |
 | 2304954 | Guaiúba (CE) | `flags/mun/2304954.png` | Autores do site | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Guaiuba.jpg) |
 | 2305001 | Guaraciaba do Norte (CE) | `flags/mun/2305001.png` | Prefeitura de Guaraciaba do Norte | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_guaraciaba_do_norte.jpg) |
 | 2305233 | Horizonte (CE) | `flags/mun/2305233.png` | Prefeitura Municipal de Horizonte | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Horizonte_(Cear%C3%A1).jpg) |
 | 2305266 | Ibaretama (CE) | `flags/mun/2305266.png` | Fabiobarros | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_ibaretama_-_ce.jpg) |
-| 2305308 | Ibiapina (CE) | `flags/mun/2305308.png` | Jarbasfg | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Ibiapina.svg) |
+| 2305308 | Ibiapina (CE) | `flags/mun/2305308.svg` | Jarbasfg | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Ibiapina.svg) |
 | 2305407 | Icó (CE) | `flags/mun/2305407.png` | Nspxe | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Ic%C3%B3.jpeg) |
 | 2305506 | Iguatu (CE) | `flags/mun/2305506.png` | Nspxe | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Iguatu,_CE.jpg) |
 | 2305605 | Independência (CE) | `flags/mun/2305605.png` | PREFEITURA MUNICIPAL DE INDEPENDENCIA | [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Independ%C3%AAncia,_CE.jpg) |
@@ -507,8 +507,8 @@ Gerado por `tools/gerar.py`. A mesma informação está em `dados/bandeiras.json
 | 2306256 | Itaitinga (CE) | `flags/mun/2306256.png` | Márcio Moreira, Clistenes Uchôa | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Itaitinga,_CE.jpg) |
 | 2306306 | Itapajé (CE) | `flags/mun/2306306.png` | No machine-readable author provided. Ribas.Ramos assumed (based on copyright claims). | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_itapaje.jpg) |
 | 2306405 | Itapipoca (CE) | `flags/mun/2306405.png` | autor desconhecido | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_do_municpio_de_Itapipoca.jpg) |
-| 2306504 | Itapiúna (CE) | `flags/mun/2306504.png` | autor desconhecido | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Itapi%C3%BAna.svg) |
-| 2306603 | Itatira (CE) | `flags/mun/2306603.png` | autor desconhecido | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Itatira.svg) |
+| 2306504 | Itapiúna (CE) | `flags/mun/2306504.svg` | autor desconhecido | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Itapi%C3%BAna.svg) |
+| 2306603 | Itatira (CE) | `flags/mun/2306603.svg` | autor desconhecido | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Itatira.svg) |
 | 2306702 | Jaguaretama (CE) | `flags/mun/2306702.png` | Pcgomes | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Flag_of_Jaguaretama_-_CE_-_Brazil.png) |
 | 2306900 | Jaguaribe (CE) | `flags/mun/2306900.png` | Jaguaribe City Hall | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira-jagaribece.jpg) |
 | 2307007 | Jaguaruana (CE) | `flags/mun/2307007.png` | Municipal Prefecture | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Flag_of_Jaguaruana_Municipality_in_the_State_of_Cear%C3%A1_in_Brazil.png) |
@@ -517,7 +517,7 @@ Gerado por `tools/gerar.py`. A mesma informação está em `dados/bandeiras.json
 | 2307254 | Jijoca de Jericoacoara (CE) | `flags/mun/2307254.png` | Felipe Dilon | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Jijoca_de_Jericoacoara_Ceara_Brasil.png) |
 | 2307304 | Juazeiro do Norte (CE) | `flags/mun/2307304.png` | não informado | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_juazeiro_do_norte.jpg) |
 | 2307403 | Jucás (CE) | `flags/mun/2307403.png` | Prof. Luiz Gonzaga Leite Sobrinho (flag) | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Juc%C3%A1s.jpeg) |
-| 2307502 | Lavras da Mangabeira (CE) | `flags/mun/2307502.png` | autor desconhecido | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Lavras_da_Mangabeira.svg) |
+| 2307502 | Lavras da Mangabeira (CE) | `flags/mun/2307502.svg` | autor desconhecido | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Lavras_da_Mangabeira.svg) |
 | 2307601 | Limoeiro do Norte (CE) | `flags/mun/2307601.png` | Alex Chaves Monteiro | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_limoeiro_do_norte_ce.jpg) |
 | 2307635 | Madalena (CE) | `flags/mun/2307635.png` | autor desconhecido | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Madalena_(CE).png) |
 | 2307650 | Maracanaú (CE) | `flags/mun/2307650.png` | Cicero R.V. | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Badeira_de_maracana%C3%BA.png) |
@@ -529,11 +529,11 @@ Gerado por `tools/gerar.py`. A mesma informação está em `dados/bandeiras.json
 | 2308203 | Meruoca (CE) | `flags/mun/2308203.png` | Mr.Alc | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Municipal_de_Meruoca.jpg) |
 | 2308302 | Milagres (CE) | `flags/mun/2308302.png` | autor desconhecido | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Milagres_(CE).png) |
 | 2308351 | Milhã (CE) | `flags/mun/2308351.png` | Municipal Prefecture | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Flag_of_Milha_Municipality_in_the_State_of_Cear%C3%A1_in_Brazil.jpg) |
-| 2308377 | Miraíma (CE) | `flags/mun/2308377.png` | autor desconhecido | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Mira%C3%ADma.svg) |
+| 2308377 | Miraíma (CE) | `flags/mun/2308377.svg` | autor desconhecido | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Mira%C3%ADma.svg) |
 | 2308401 | Missão Velha (CE) | `flags/mun/2308401.png` | Saulo Rennan | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Oficial_de_Miss%C3%A3o_Velha.png) |
-| 2308500 | Mombaça (CE) | `flags/mun/2308500.png` | Junior Silva Rodriguess | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Momba%C3%A7a.svg) |
+| 2308500 | Mombaça (CE) | `flags/mun/2308500.svg` | Junior Silva Rodriguess | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Momba%C3%A7a.svg) |
 | 2308609 | Monsenhor Tabosa (CE) | `flags/mun/2308609.png` | Prefeitura de Monsenhor Tabosa | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_do_Munic%C3%ADpio_de_Monsenhor_Tabosa.jpg) |
-| 2308708 | Morada Nova (CE) | `flags/mun/2308708.png` | Camervan | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Morada_Nova_CE.svg) |
+| 2308708 | Morada Nova (CE) | `flags/mun/2308708.svg` | Camervan | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Morada_Nova_CE.svg) |
 | 2308807 | Moraújo (CE) | `flags/mun/2308807.png` | Severianojunior | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Mora%C3%BAjo.JPG) |
 | 2308906 | Morrinhos (CE) | `flags/mun/2308906.png` | Mattrocc | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Morrinhos.png) |
 | 2309003 | Mucambo (CE) | `flags/mun/2309003.png` | MarceloMASC | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:BANDEIRA_DE_MUCAMBO_OFICIAL.png) |
@@ -541,20 +541,20 @@ Gerado por `tools/gerar.py`. A mesma informação está em `dados/bandeiras.json
 | 2309409 | Novo Oriente (CE) | `flags/mun/2309409.png` | Prefeitura Municipal de Novo Oriente - CE | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Novo_Oriente-CE.jpg) |
 | 2309508 | Orós (CE) | `flags/mun/2309508.png` | Fredson Pedro | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Or%C3%B3s.png) |
 | 2309607 | Pacajus (CE) | `flags/mun/2309607.png` | Município de Pacajus | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:BandeiraPacajus.png) |
-| 2309706 | Pacatuba (CE) | `flags/mun/2309706.png` | Camervan This W3C-unspecified vector image was created with Inkscape . | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Pacatuba_CE.svg) |
+| 2309706 | Pacatuba (CE) | `flags/mun/2309706.svg` | Camervan This W3C-unspecified vector image was created with Inkscape . | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Pacatuba_CE.svg) |
 | 2309805 | Pacoti (CE) | `flags/mun/2309805.png` | municipo / prefeitura Pacoti | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Flago_de_Pacoti.png) |
 | 2309904 | Pacujá (CE) | `flags/mun/2309904.png` | sem fontes | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Pacuj%C3%A1.JPG) |
 | 2310001 | Palhano (CE) | `flags/mun/2310001.png` | Câmara Municipal de Palhano, Ceará | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:BandeiraPalhanoCear%C3%A1Brasil.jpg) |
-| 2310100 | Palmácia (CE) | `flags/mun/2310100.png` | Prefeitura Municipal de Palmacia | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Palm%C3%A1cia.svg) |
+| 2310100 | Palmácia (CE) | `flags/mun/2310100.svg` | Prefeitura Municipal de Palmacia | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Palm%C3%A1cia.svg) |
 | 2310209 | Paracuru (CE) | `flags/mun/2310209.png` | Autores do site | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_paracuru_ce.png) |
 | 2310258 | Paraipaba (CE) | `flags/mun/2310258.png` | Pedro HG | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Paraipaba.jpg) |
 | 2310308 | Parambu (CE) | `flags/mun/2310308.png` | Wanderson farias | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Parambu.png) |
 | 2310407 | Paramoti (CE) | `flags/mun/2310407.png` | Francisco Gilmar Lima de Arruda | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Paramoti-CE_FGLA-pt.br.jpg) |
-| 2310605 | Penaforte (CE) | `flags/mun/2310605.png` | BrCaLeTo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Penaforte_-_CE.svg) |
+| 2310605 | Penaforte (CE) | `flags/mun/2310605.svg` | BrCaLeTo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Penaforte_-_CE.svg) |
 | 2310704 | Pentecoste (CE) | `flags/mun/2310704.png` | Prefeitura Municipal de Pentecoste | [CC BY-SA 2.5](https://creativecommons.org/licenses/by-sa/2.5) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Pentecoste-CE.png) |
-| 2310803 | Pereiro (CE) | `flags/mun/2310803.png` | Jakeadex | [CC BY 3.0](https://creativecommons.org/licenses/by/3.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:BandeiraPereiro.svg) |
+| 2310803 | Pereiro (CE) | `flags/mun/2310803.svg` | Jakeadex | [CC BY 3.0](https://creativecommons.org/licenses/by/3.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:BandeiraPereiro.svg) |
 | 2310852 | Pindoretama (CE) | `flags/mun/2310852.png` | PindoretamaOficial | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Pindoretama.png) |
-| 2310951 | Pires Ferreira (CE) | `flags/mun/2310951.png` | autor desconhecido | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Pires_Ferreira.svg) |
+| 2310951 | Pires Ferreira (CE) | `flags/mun/2310951.svg` | autor desconhecido | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Pires_Ferreira.svg) |
 | 2311009 | Poranga (CE) | `flags/mun/2311009.png` | Paulolorranb | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Poranga,_CE.jpg) |
 | 2311231 | Potiretama (CE) | `flags/mun/2311231.png` | Erick Emanuel 1 | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Potiretama.jpg) |
 | 2311264 | Quiterianópolis (CE) | `flags/mun/2311264.png` | Lipiquity | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Municipal_de_Quiterian%C3%B3polis.jpg) |
@@ -563,10 +563,10 @@ Gerado por `tools/gerar.py`. A mesma informação está em `dados/bandeiras.json
 | 2311504 | Quixeré (CE) | `flags/mun/2311504.png` | Dalvany Alves. Autores conhecidos e identificados | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_do_Munic%C3%ADpio_de_Quixer%C3%A9.jpg) |
 | 2311801 | Russas (CE) | `flags/mun/2311801.png` | municipo / prefeitura Martinópole | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Flago_de_Russas.jpg) |
 | 2311900 | Saboeiro (CE) | `flags/mun/2311900.png` | RaulSena | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Saboeiro-CE.png) |
-| 2312007 | Santana do Acaraú (CE) | `flags/mun/2312007.png` | Tennamilk | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Santana_do_Acara%C3%BA_-_CE.svg) |
+| 2312007 | Santana do Acaraú (CE) | `flags/mun/2312007.svg` | Tennamilk | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Santana_do_Acara%C3%BA_-_CE.svg) |
 | 2312205 | Santa Quitéria (CE) | `flags/mun/2312205.png` | autor desconhecido | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Santa_Quit%C3%A9ria.png) |
 | 2312304 | São Benedito (CE) | `flags/mun/2312304.png` | Jonas Faccio | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_S%C3%A3o_Benedito_(CE).png) |
-| 2312403 | São Gonçalo do Amarante (CE) | `flags/mun/2312403.png` | autor desconhecido | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_S%C3%A3o_Gon%C3%A7alo_do_Amarante_(Cear%C3%A1).svg) |
+| 2312403 | São Gonçalo do Amarante (CE) | `flags/mun/2312403.svg` | autor desconhecido | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_S%C3%A3o_Gon%C3%A7alo_do_Amarante_(Cear%C3%A1).svg) |
 | 2312502 | São João do Jaguaribe (CE) | `flags/mun/2312502.png` | Gerlaniomuniz | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:SJJbandeira.jpg) |
 | 2312601 | São Luís do Curu (CE) | `flags/mun/2312601.png` | Eudatto | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_S%C3%A3o_Lu%C3%ADs_do_Curu.jpg) |
 | 2312809 | Senador Sá (CE) | `flags/mun/2312809.png` | municipa retejo / site da prefeitura Senador Sá | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Flago_de_Senador_S%C3%A1.jpg) |
@@ -574,15 +574,15 @@ Gerado por `tools/gerar.py`. A mesma informação está em `dados/bandeiras.json
 | 2313005 | Solonópole (CE) | `flags/mun/2313005.png` | não informado | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Flag_solonopole.JPG) |
 | 2313104 | Tabuleiro do Norte (CE) | `flags/mun/2313104.png` | Mardonedias | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_tabuleiro_do_norte.png) |
 | 2313203 | Tamboril (CE) | `flags/mun/2313203.png` | Prefeitura de Tamboril | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Tamboril.png) |
-| 2313252 | Tarrafas (CE) | `flags/mun/2313252.png` | autor desconhecido | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Tarrafas.svg) |
+| 2313252 | Tarrafas (CE) | `flags/mun/2313252.svg` | autor desconhecido | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Tarrafas.svg) |
 | 2313302 | Tauá (CE) | `flags/mun/2313302.png` | Antonia121465 | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Tau%C3%A1.jpg) |
-| 2313351 | Tejuçuoca (CE) | `flags/mun/2313351.png` | BrCaLeTo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Teju%C3%A7uoca_-_CE.svg) |
+| 2313351 | Tejuçuoca (CE) | `flags/mun/2313351.svg` | BrCaLeTo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Teju%C3%A7uoca_-_CE.svg) |
 | 2313401 | Tianguá (CE) | `flags/mun/2313401.png` | bandeira | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeiratiangua.PNG) |
 | 2313500 | Trairi (CE) | `flags/mun/2313500.png` | Pedro HG | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Trairi.jpg) |
 | 2313609 | Ubajara (CE) | `flags/mun/2313609.png` | autor desconhecido | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Ubajara.jpg) |
 | 2313807 | Uruburetama (CE) | `flags/mun/2313807.png` | Francisco pinto | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Flag_of_Uruburetama.jpg) |
 | 2313906 | Uruoca (CE) | `flags/mun/2313906.png` | Município de Uruoca | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_uruoca.jpg) |
-| 2313955 | Varjota (CE) | `flags/mun/2313955.png` | BrCaLeTo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Varjota_-_CE.svg) |
+| 2313955 | Varjota (CE) | `flags/mun/2313955.svg` | BrCaLeTo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Varjota_-_CE.svg) |
 | 2314003 | Várzea Alegre (CE) | `flags/mun/2314003.png` | Gilberto Ivo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeiravarzeaalegre.jpg) |
 | 2314102 | Viçosa do Ceará (CE) | `flags/mun/2314102.png` | não informado | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_vicosa_do_ceara.jpg) |
 | 2400109 | Acari (RN) | `flags/mun/2400109.png` | Unknown / Desconhecido | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Acari.png) |
@@ -648,7 +648,7 @@ Gerado por `tools/gerar.py`. A mesma informação está em `dados/bandeiras.json
 | 2407609 | Messias Targino (RN) | `flags/mun/2407609.png` | Lordwikimix | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Messias_Targino.JPG) |
 | 2407807 | Monte Alegre (RN) | `flags/mun/2407807.png` | Confederação Nacional de Municípios | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Monte_Alegre,_Rio_Grande_do_Norte,_Brasil.png) |
 | 2408003 | Mossoró (RN) | `flags/mun/2408003.png` | Prefeitura Municipal de Mossoró | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Flag_of_Mossor%C3%B3.jpg) |
-| 2408102 | Natal (RN) | `flags/mun/2408102.png` | ViniciusBR11, Prefeitura de Natal | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Natal.svg) |
+| 2408102 | Natal (RN) | `flags/mun/2408102.svg` | ViniciusBR11, Prefeitura de Natal | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Natal.svg) |
 | 2408201 | Nísia Floresta (RN) | `flags/mun/2408201.png` | MOC | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_N%C3%ADsia_Floresta_(RN).png) |
 | 2408300 | Nova Cruz (RN) | `flags/mun/2408300.png` | CNM | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Flag_of_Nova_Cruz_RN.png) |
 | 2408409 | Olho d'Água do Borges (RN) | `flags/mun/2408409.png` | Federação dos Municípios do Rio Grande do Norte (FEMURN) | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Olho-d%27%C3%81gua_do_Borges-RN,_Brasil.jpg) |
@@ -705,19 +705,19 @@ Gerado por `tools/gerar.py`. A mesma informação está em `dados/bandeiras.json
 | 2500106 | Água Branca (PB) | `flags/mun/2500106.png` | Jailsom7 | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:%C3%81gua_Branca_Flag.PNG) |
 | 2500205 | Aguiar (PB) | `flags/mun/2500205.png` | Prefeitura Municipal de Aguiar | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Aguiar.jpg) |
 | 2500304 | Alagoa Grande (PB) | `flags/mun/2500304.png` | Prefeitura Municipal de Alagoa Grande | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeiraalagoagrande.png) |
-| 2500403 | Alagoa Nova (PB) | `flags/mun/2500403.png` | UsuárioPar | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Alagoa_Nova-PB.svg) |
+| 2500403 | Alagoa Nova (PB) | `flags/mun/2500403.svg` | UsuárioPar | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Alagoa_Nova-PB.svg) |
 | 2500502 | Alagoinha (PB) | `flags/mun/2500502.png` | Prefeitura Municipal de Alagoinha | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Alagoinha_(PB).jpg) |
-| 2500536 | Alcantil (PB) | `flags/mun/2500536.png` | Prefeitura municipal de Alcantil, Mysid (SVG) | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Flag_of_Alcantil.svg) |
-| 2500577 | Algodão de Jandaíra (PB) | `flags/mun/2500577.png` | UsuárioPar | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Algod%C3%A3o_de_Janda%C3%ADra-PB.svg) |
-| 2500601 | Alhandra (PB) | `flags/mun/2500601.png` | Fred the Oyster iThe source code of this SVG is valid. This vector image was created with Adobe Illustrator by v. | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_alhandra.svg) |
+| 2500536 | Alcantil (PB) | `flags/mun/2500536.svg` | Prefeitura municipal de Alcantil, Mysid (SVG) | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Flag_of_Alcantil.svg) |
+| 2500577 | Algodão de Jandaíra (PB) | `flags/mun/2500577.svg` | UsuárioPar | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Algod%C3%A3o_de_Janda%C3%ADra-PB.svg) |
+| 2500601 | Alhandra (PB) | `flags/mun/2500601.svg` | Fred the Oyster iThe source code of this SVG is valid. This vector image was created with Adobe Illustrator by v. | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_alhandra.svg) |
 | 2500700 | São João do Rio do Peixe (PB) | `flags/mun/2500700.png` | Prefeitura municipal de São João do Rio do Peixe | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_sao_joao_do_rio_do_peixe.PNG) |
-| 2500734 | Amparo (PB) | `flags/mun/2500734.png` | UsuárioPar | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Amparo-PB.svg) |
-| 2500775 | Aparecida (PB) | `flags/mun/2500775.png` | UsuárioPar | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Aparecida-PB.svg) |
-| 2500809 | Araçagi (PB) | `flags/mun/2500809.png` | UsuárioPar | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Ara%C3%A7agi-PB.svg) |
-| 2500908 | Arara (PB) | `flags/mun/2500908.png` | Prefeitura municipal de Arara | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Flag_of_Arara.svg) |
-| 2501005 | Araruna (PB) | `flags/mun/2501005.png` | UsuárioPar | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Araruna-PB.svg) |
-| 2501104 | Areia (PB) | `flags/mun/2501104.png` | Ricordisamoa, original PNG: Prefeitura Municipal de Areia,Paraíba | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Flag_of_Areia.svg) |
-| 2501153 | Areia de Baraúnas (PB) | `flags/mun/2501153.png` | UsuárioPar | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Areia_de_Bara%C3%BAnas-PB.svg) |
+| 2500734 | Amparo (PB) | `flags/mun/2500734.svg` | UsuárioPar | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Amparo-PB.svg) |
+| 2500775 | Aparecida (PB) | `flags/mun/2500775.svg` | UsuárioPar | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Aparecida-PB.svg) |
+| 2500809 | Araçagi (PB) | `flags/mun/2500809.svg` | UsuárioPar | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Ara%C3%A7agi-PB.svg) |
+| 2500908 | Arara (PB) | `flags/mun/2500908.svg` | Prefeitura municipal de Arara | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Flag_of_Arara.svg) |
+| 2501005 | Araruna (PB) | `flags/mun/2501005.svg` | UsuárioPar | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Araruna-PB.svg) |
+| 2501104 | Areia (PB) | `flags/mun/2501104.svg` | Ricordisamoa, original PNG: Prefeitura Municipal de Areia,Paraíba | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Flag_of_Areia.svg) |
+| 2501153 | Areia de Baraúnas (PB) | `flags/mun/2501153.svg` | UsuárioPar | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Areia_de_Bara%C3%BAnas-PB.svg) |
 | 2501203 | Areial (PB) | `flags/mun/2501203.png` | The original uploader was Pilha at Portuguese Wikipedia. | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Areial.jpg) |
 | 2501302 | Aroeiras (PB) | `flags/mun/2501302.png` | Prefeitura Municipal de Aroeiras | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Aroeiras-PB.jpg) |
 | 2501351 | Assunção (PB) | `flags/mun/2501351.png` | Prefeitura municipal de Assunção | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_assuncao.jpg) |
@@ -725,7 +725,7 @@ Gerado por `tools/gerar.py`. A mesma informação está em `dados/bandeiras.json
 | 2501500 | Bananeiras (PB) | `flags/mun/2501500.png` | Prefeitura Municipal de Bananeiras | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeirabananeiras.png) |
 | 2501534 | Baraúna (PB) | `flags/mun/2501534.png` | Prefeitura municipal de Baraúna | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_barauna.jpg) |
 | 2501575 | Barra de Santana (PB) | `flags/mun/2501575.png` | Prefeitura Municipal de Barra de Santana | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Barra_de_Santana-PB.jpg) |
-| 2501609 | Barra de Santa Rosa (PB) | `flags/mun/2501609.png` | UsuárioPar | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Barra_de_Santa_Rosa-PB.svg) |
+| 2501609 | Barra de Santa Rosa (PB) | `flags/mun/2501609.svg` | UsuárioPar | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Barra_de_Santa_Rosa-PB.svg) |
 | 2501807 | Bayeux (PB) | `flags/mun/2501807.png` | Prefeitura municipal de Bayeux | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_bayeux.jpg) |
 | 2501906 | Belém (PB) | `flags/mun/2501906.png` | Prefeitura municipal de Belém | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_belem_pb.PNG) |
 | 2502003 | Belém do Brejo do Cruz (PB) | `flags/mun/2502003.png` | Prefeitura Municipal de Belém do Brejo do Cruz, Paraíba | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Bel%C3%A9m_do_Brejo_do_Cruz,_Para%C3%ADba,_Brasil.png) |
@@ -733,81 +733,81 @@ Gerado por `tools/gerar.py`. A mesma informação está em `dados/bandeiras.json
 | 2502102 | Boa Ventura (PB) | `flags/mun/2502102.png` | UsuárioPar | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Boa_Ventura.png) |
 | 2502151 | Boa Vista (PB) | `flags/mun/2502151.png` | Prefeitura municipal de Boa Vista | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_boa_vista.PNG) |
 | 2502201 | Bom Jesus (PB) | `flags/mun/2502201.png` | TITO DIAS | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_bom_jesus.png) |
-| 2502300 | Bom Sucesso (PB) | `flags/mun/2502300.png` | UsuárioPar | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Bom_Sucesso-PB.svg) |
-| 2502409 | Bonito de Santa Fé (PB) | `flags/mun/2502409.png` | CubanoBoi | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Bonito_de_Santa_Fe.svg) |
+| 2502300 | Bom Sucesso (PB) | `flags/mun/2502300.svg` | UsuárioPar | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Bom_Sucesso-PB.svg) |
+| 2502409 | Bonito de Santa Fé (PB) | `flags/mun/2502409.svg` | CubanoBoi | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Bonito_de_Santa_Fe.svg) |
 | 2502508 | Boqueirão (PB) | `flags/mun/2502508.png` | Prefeitura de Boqueirão | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_boqueirao.jpg) |
 | 2502607 | Igaracy (PB) | `flags/mun/2502607.png` | Prefeitura municipal de Igaracy | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_igaracy.jpg) |
 | 2502805 | Brejo do Cruz (PB) | `flags/mun/2502805.png` | Prefeitura Municipal de Brejo do Cruz | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Brejo_do_Cruz_(PB).jpg) |
 | 2502904 | Brejo dos Santos (PB) | `flags/mun/2502904.png` | Prefeitura Municipal de Brejo dos Santos | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Brejo_dos_Santos_(PB).jpg) |
 | 2503100 | Cabaceiras (PB) | `flags/mun/2503100.png` | Prefeitura municipal de Cabaceiras | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_cabaceiras.jpg) |
-| 2503209 | Cabedelo (PB) | `flags/mun/2503209.png` | UsuárioPar | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Cabedelo-PB.svg) |
-| 2503308 | Cachoeira dos Índios (PB) | `flags/mun/2503308.png` | UsuárioPar | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Cachoeira_dos_%C3%8Dndios-PB.svg) |
+| 2503209 | Cabedelo (PB) | `flags/mun/2503209.svg` | UsuárioPar | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Cabedelo-PB.svg) |
+| 2503308 | Cachoeira dos Índios (PB) | `flags/mun/2503308.svg` | UsuárioPar | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Cachoeira_dos_%C3%8Dndios-PB.svg) |
 | 2503407 | Cacimba de Areia (PB) | `flags/mun/2503407.png` | Prefeitura Municipal de Cacimba de Areia | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Cacimba_de_Areia.jpg) |
 | 2503506 | Cacimba de Dentro (PB) | `flags/mun/2503506.png` | Rádio Novo Horizonte | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_cacimba_de_dentro.jpg) |
 | 2503555 | Cacimbas (PB) | `flags/mun/2503555.png` | Prefeitura municipal de Cacimbas | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_cacimbas.png) |
-| 2503605 | Caiçara (PB) | `flags/mun/2503605.png` | UsuárioPar | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Cai%C3%A7ara-PB.svg) |
+| 2503605 | Caiçara (PB) | `flags/mun/2503605.svg` | UsuárioPar | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Cai%C3%A7ara-PB.svg) |
 | 2503704 | Cajazeiras (PB) | `flags/mun/2503704.png` | User: Tancredo Fernandes | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_cajazeiras.JPG) |
 | 2503753 | Cajazeirinhas (PB) | `flags/mun/2503753.png` | Prefeitura Municipal de Cajazeirinhas | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Cajazeirinhas.jpg) |
 | 2503803 | Caldas Brandão (PB) | `flags/mun/2503803.png` | Caldas brandao | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Caldas_Brand%C3%A3o.jpg) |
-| 2503902 | Camalaú (PB) | `flags/mun/2503902.png` | User:Mysid | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Flag_of_Camala%C3%BA.svg) |
-| 2504009 | Campina Grande (PB) | `flags/mun/2504009.png` | Franklinbaldo 23:38, 30 December 2006 (UTC) | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Flag_campina_grande.svg) |
-| 2504033 | Capim (PB) | `flags/mun/2504033.png` | UsuárioPar | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Capim-PB.svg) |
+| 2503902 | Camalaú (PB) | `flags/mun/2503902.svg` | User:Mysid | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Flag_of_Camala%C3%BA.svg) |
+| 2504009 | Campina Grande (PB) | `flags/mun/2504009.svg` | Franklinbaldo 23:38, 30 December 2006 (UTC) | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Flag_campina_grande.svg) |
+| 2504033 | Capim (PB) | `flags/mun/2504033.svg` | UsuárioPar | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Capim-PB.svg) |
 | 2504074 | Caraúbas (PB) | `flags/mun/2504074.png` | Prefeitura Municipal de Caraúbas | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Cara%C3%BAbas_(PB).jpg) |
-| 2504108 | Carrapateira (PB) | `flags/mun/2504108.png` | Bandeira_carrapateira.jpg: Prefeitura municipal de Carrapateira derivative work: McSush (talk) | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_carrapateira.svg) |
-| 2504157 | Casserengue (PB) | `flags/mun/2504157.png` | UsuárioPar | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Casserengue-PB.svg) |
+| 2504108 | Carrapateira (PB) | `flags/mun/2504108.svg` | Bandeira_carrapateira.jpg: Prefeitura municipal de Carrapateira derivative work: McSush (talk) | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_carrapateira.svg) |
+| 2504157 | Casserengue (PB) | `flags/mun/2504157.svg` | UsuárioPar | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Casserengue-PB.svg) |
 | 2504207 | Catingueira (PB) | `flags/mun/2504207.png` | Prefeitura Municipal de Catingueira | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Catingueira.jpg) |
-| 2504306 | Catolé do Rocha (PB) | `flags/mun/2504306.png` | UsuárioPar | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Catol%C3%A9_do_Rocha-PB.svg) |
-| 2504355 | Caturité (PB) | `flags/mun/2504355.png` | UsuárioPar | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Caturit%C3%A9-PB.svg) |
+| 2504306 | Catolé do Rocha (PB) | `flags/mun/2504306.svg` | UsuárioPar | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Catol%C3%A9_do_Rocha-PB.svg) |
+| 2504355 | Caturité (PB) | `flags/mun/2504355.svg` | UsuárioPar | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Caturit%C3%A9-PB.svg) |
 | 2504405 | Conceição (PB) | `flags/mun/2504405.png` | Prefeitura Municipal de Conceição | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Concei%C3%A7%C3%A3o_(PB).jpg) |
-| 2504504 | Condado (PB) | `flags/mun/2504504.png` | UsuárioPar | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Condado-PB.svg) |
+| 2504504 | Condado (PB) | `flags/mun/2504504.svg` | UsuárioPar | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Condado-PB.svg) |
 | 2504603 | Conde (PB) | `flags/mun/2504603.png` | Prefeitura municipal de Conde | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Conde,_PB.png) |
 | 2504801 | Coremas (PB) | `flags/mun/2504801.png` | Francirley Faustino Eufrásio | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Coremas.jpg) |
-| 2504900 | Cruz do Espírito Santo (PB) | `flags/mun/2504900.png` | Cruz do Espírito Santo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Cruz_do_Esp%C3%ADrito_Santo.svg) |
-| 2505006 | Cubati (PB) | `flags/mun/2505006.png` | UsuárioPar | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Cubati-PB.svg) |
+| 2504900 | Cruz do Espírito Santo (PB) | `flags/mun/2504900.svg` | Cruz do Espírito Santo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Cruz_do_Esp%C3%ADrito_Santo.svg) |
+| 2505006 | Cubati (PB) | `flags/mun/2505006.svg` | UsuárioPar | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Cubati-PB.svg) |
 | 2505105 | Cuité (PB) | `flags/mun/2505105.png` | Prefeitura municipal de Cuité | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_cuite.PNG) |
-| 2505204 | Cuitegi (PB) | `flags/mun/2505204.png` | UsuárioPar | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Cuitegi-PB.svg) |
+| 2505204 | Cuitegi (PB) | `flags/mun/2505204.svg` | UsuárioPar | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Cuitegi-PB.svg) |
 | 2505238 | Cuité de Mamanguape (PB) | `flags/mun/2505238.png` | Prefeitura Municipal de Cuité de Mamanguape | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Cuit%C3%A9_de_Mamanguape-PB.jpg) |
 | 2505352 | Damião (PB) | `flags/mun/2505352.png` | Jardel | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Dami%C3%A3o.jpg) |
 | 2505402 | Desterro (PB) | `flags/mun/2505402.png` | Prefeitura municipal de Desterro | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_desterro.PNG) |
 | 2505501 | Vista Serrana (PB) | `flags/mun/2505501.png` | Domínio Público | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Vista_Serrana.jpg) |
 | 2505600 | Diamante (PB) | `flags/mun/2505600.png` | Prefeitura municipal de Diamante | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_diamante.png) |
 | 2505709 | Dona Inês (PB) | `flags/mun/2505709.png` | Prefeitura Municipal de Dona Inês | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Dona_In%C3%AAs_(PB).jpg) |
-| 2505808 | Duas Estradas (PB) | `flags/mun/2505808.png` | Fagnergf | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Duas_Estradas.svg) |
+| 2505808 | Duas Estradas (PB) | `flags/mun/2505808.svg` | Fagnergf | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Duas_Estradas.svg) |
 | 2505907 | Emas (PB) | `flags/mun/2505907.png` | Prefeitura Municipal de Emas | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Emas_(PB).jpg) |
 | 2506004 | Esperança (PB) | `flags/mun/2506004.png` | Diego UFCG | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_esperanca.png) |
 | 2506103 | Fagundes (PB) | `flags/mun/2506103.png` | Prefeitura municipal de Fagundes | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_fagundes.PNG) |
 | 2506202 | Frei Martinho (PB) | `flags/mun/2506202.png` | Prefeitura municipal de Frei Martinho | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_frei_martinho.jpg) |
 | 2506251 | Gado Bravo (PB) | `flags/mun/2506251.png` | Lauro Leal | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Gado_Bravo.jpg) |
-| 2506301 | Guarabira (PB) | `flags/mun/2506301.png` | Prefeitura Municipal de Guarabira | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeiraguarabira.svg) |
+| 2506301 | Guarabira (PB) | `flags/mun/2506301.svg` | Prefeitura Municipal de Guarabira | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeiraguarabira.svg) |
 | 2506400 | Gurinhém (PB) | `flags/mun/2506400.png` | 5gBandeiradeGurinhém.jpg: Flaviano de F. Cavalcante derivative work: Amit6 (talk) | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:5gBandeiradeGurinh%C3%A9m.png) |
-| 2506608 | Ibiara (PB) | `flags/mun/2506608.png` | UsuárioPar | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Ibiara-PB.svg) |
-| 2506707 | Imaculada (PB) | `flags/mun/2506707.png` | UsuárioPar | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Imaculada-PB.svg) |
-| 2506806 | Ingá (PB) | `flags/mun/2506806.png` | UsuárioPar | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Ing%C3%A1-PB.svg) |
+| 2506608 | Ibiara (PB) | `flags/mun/2506608.svg` | UsuárioPar | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Ibiara-PB.svg) |
+| 2506707 | Imaculada (PB) | `flags/mun/2506707.svg` | UsuárioPar | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Imaculada-PB.svg) |
+| 2506806 | Ingá (PB) | `flags/mun/2506806.svg` | UsuárioPar | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Ing%C3%A1-PB.svg) |
 | 2506905 | Itabaiana (PB) | `flags/mun/2506905.png` | Elielsonnatan | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_itabaiana.jpg) |
-| 2507002 | Itaporanga (PB) | `flags/mun/2507002.png` | City of Itaporanga | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Itaporanga_(Para%C3%ADba).svg) |
-| 2507101 | Itapororoca (PB) | `flags/mun/2507101.png` | UsuárioPar | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Itapororoca-PB.svg) |
-| 2507309 | Jacaraú (PB) | `flags/mun/2507309.png` | UsuárioPar | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Jacara%C3%BA-PB.svg) |
+| 2507002 | Itaporanga (PB) | `flags/mun/2507002.svg` | City of Itaporanga | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Itaporanga_(Para%C3%ADba).svg) |
+| 2507101 | Itapororoca (PB) | `flags/mun/2507101.svg` | UsuárioPar | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Itapororoca-PB.svg) |
+| 2507309 | Jacaraú (PB) | `flags/mun/2507309.svg` | UsuárioPar | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Jacara%C3%BA-PB.svg) |
 | 2507408 | Jericó (PB) | `flags/mun/2507408.png` | Claudizon Galvão | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_do_Munic%C3%ADpio_de_Jeric%C3%B3.jpg) |
-| 2507507 | João Pessoa (PB) | `flags/mun/2507507.png` | não informado | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Jo%C3%A3o_Pessoa.svg) |
+| 2507507 | João Pessoa (PB) | `flags/mun/2507507.svg` | não informado | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Jo%C3%A3o_Pessoa.svg) |
 | 2507606 | Juarez Távora (PB) | `flags/mun/2507606.png` | Juvejtmikrz | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:BandeiraJuarezT%C3%A1vora.png) |
 | 2507705 | Juazeirinho (PB) | `flags/mun/2507705.png` | Prefeitura Municipal de Juazeirinho | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Juazeirinho.jpg) |
-| 2507903 | Juripiranga (PB) | `flags/mun/2507903.png` | UsuárioPar | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Juripiranga-PB.svg) |
+| 2507903 | Juripiranga (PB) | `flags/mun/2507903.svg` | UsuárioPar | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Juripiranga-PB.svg) |
 | 2508000 | Juru (PB) | `flags/mun/2508000.png` | Prefeitura Municipal de Juru | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Juru-PB.jpg) |
-| 2508109 | Lagoa (PB) | `flags/mun/2508109.png` | UsuárioPar | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Lagoa-PB.svg) |
+| 2508109 | Lagoa (PB) | `flags/mun/2508109.svg` | UsuárioPar | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Lagoa-PB.svg) |
 | 2508208 | Lagoa de Dentro (PB) | `flags/mun/2508208.png` | Prefeitura municipal de Lagoa de Dentro | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_lagoa_de_dentro.jpg) |
-| 2508307 | Lagoa Seca (PB) | `flags/mun/2508307.png` | Prefeitura Municipal de Lagoa Seca | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_lagoa_seca.svg) |
+| 2508307 | Lagoa Seca (PB) | `flags/mun/2508307.svg` | Prefeitura Municipal de Lagoa Seca | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_lagoa_seca.svg) |
 | 2508406 | Lastro (PB) | `flags/mun/2508406.png` | Prefeitura Municipal de Lastro | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Lastro_(PB).jpg) |
 | 2508505 | Livramento (PB) | `flags/mun/2508505.png` | Prefeitura Municipal de Livramento | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Livramento-PB.jpg) |
 | 2508554 | Logradouro (PB) | `flags/mun/2508554.png` | Prefeitura Municipal de Logradouro | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Logradouro_(PB).jpg) |
-| 2508604 | Lucena (PB) | `flags/mun/2508604.png` | Prefeitura municipal de LucenaVectors by User:Mysid | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Flag_of_Lucena.svg) |
+| 2508604 | Lucena (PB) | `flags/mun/2508604.svg` | Prefeitura municipal de LucenaVectors by User:Mysid | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Flag_of_Lucena.svg) |
 | 2508703 | Mãe d'Água (PB) | `flags/mun/2508703.png` | Prefeitura de Mãe D'água | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Brandeira_M%C3%A3e_D%27%C3%A1gua-PB.jpg) |
-| 2508802 | Malta (PB) | `flags/mun/2508802.png` | UsuárioPar | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_do_munic%C3%ADpio_de_Malta.svg) |
+| 2508802 | Malta (PB) | `flags/mun/2508802.svg` | UsuárioPar | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_do_munic%C3%ADpio_de_Malta.svg) |
 | 2508901 | Mamanguape (PB) | `flags/mun/2508901.png` | Prefeitura de Mamanguape (Lei Complementar nº 15/2024) | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Mamanguape_(PB)_-_vers%C3%A3o_2024.png) |
 | 2509008 | Manaíra (PB) | `flags/mun/2509008.png` | VALDENY ANTAS DINIZ | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Mana%C3%ADra.jpg) |
 | 2509057 | Marcação (PB) | `flags/mun/2509057.png` | Levitarodrigo7 | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Marca%C3%A7%C3%A3o.jpg) |
 | 2509107 | Mari (PB) | `flags/mun/2509107.png` | José Eduardo Alves da Silva | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Secretaria_de_cultura_de_Mari_Jpeg.jpg) |
-| 2509156 | Marizópolis (PB) | `flags/mun/2509156.png` | Prefeitura municipal de MarizópolisSVG by User:Mysid | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Flag_of_Mariz%C3%B3polis.svg) |
-| 2509206 | Massaranduba (PB) | `flags/mun/2509206.png` | UsuárioPar | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Massaranduba-PB.svg) |
+| 2509156 | Marizópolis (PB) | `flags/mun/2509156.svg` | Prefeitura municipal de MarizópolisSVG by User:Mysid | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Flag_of_Mariz%C3%B3polis.svg) |
+| 2509206 | Massaranduba (PB) | `flags/mun/2509206.svg` | UsuárioPar | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Massaranduba-PB.svg) |
 | 2509305 | Mataraca (PB) | `flags/mun/2509305.png` | Prefeitura Municipal de Mataraca | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeiramataraca.png) |
 | 2509339 | Matinhas (PB) | `flags/mun/2509339.png` | Prefeitura Matinhas | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeiramatinhas.jpg) |
 | 2509370 | Mato Grosso (PB) | `flags/mun/2509370.png` | Prefeitura Municipal de Mato Grosso | [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Mato_Grosso_-_Para%C3%ADba.png) |
@@ -815,19 +815,19 @@ Gerado por `tools/gerar.py`. A mesma informação está em `dados/bandeiras.json
 | 2509404 | Mogeiro (PB) | `flags/mun/2509404.png` | Prefeitura de Mogeiro | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Mogeiro.jpg) |
 | 2509503 | Montadas (PB) | `flags/mun/2509503.png` | Sergiocgbr | [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Montadas-PB.jpg) |
 | 2509701 | Monteiro (PB) | `flags/mun/2509701.png` | Prefeitura municipal de Monteiro | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_monteiro.jpg) |
-| 2509800 | Mulungu (PB) | `flags/mun/2509800.png` | UsuárioPar | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Mulungu-PB.svg) |
+| 2509800 | Mulungu (PB) | `flags/mun/2509800.svg` | UsuárioPar | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Mulungu-PB.svg) |
 | 2509909 | Natuba (PB) | `flags/mun/2509909.png` | Andeson Bruno de Barros | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Oficial_-_Natuba-PB.png) |
 | 2510105 | Nova Floresta (PB) | `flags/mun/2510105.png` | Prefeitura Municipal de Nova Floresta | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_NovaFloresta.jpg) |
-| 2510204 | Nova Olinda (PB) | `flags/mun/2510204.png` | BrCaLeTo | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Nova_Olinda_-_PB.svg) |
+| 2510204 | Nova Olinda (PB) | `flags/mun/2510204.svg` | BrCaLeTo | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Nova_Olinda_-_PB.svg) |
 | 2510303 | Nova Palmeira (PB) | `flags/mun/2510303.png` | Nova Palmeira | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Nova_Palmeira.jpg) |
 | 2510402 | Olho d'Água (PB) | `flags/mun/2510402.png` | Prefeitura Municipal de Olho d'Água | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Olho_d%27%C3%81gua_(PB).jpg) |
 | 2510501 | Olivedos (PB) | `flags/mun/2510501.png` | Prefeitura Municipal de Olivedos | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Olivedos.png) |
-| 2510659 | Parari (PB) | `flags/mun/2510659.png` | UsuárioPar | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Parari-PB.svg) |
+| 2510659 | Parari (PB) | `flags/mun/2510659.svg` | UsuárioPar | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Parari-PB.svg) |
 | 2510709 | Passagem (PB) | `flags/mun/2510709.png` | Prefeitura Municipal de Passagem | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Passagem_(PB).jpg) |
 | 2510808 | Patos (PB) | `flags/mun/2510808.png` | Prefeitura municipal de Patos | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_patos.PNG) |
 | 2510907 | Paulista (PB) | `flags/mun/2510907.png` | Prefeitura Municipal de Paulista | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Paulista_(PB).jpg) |
 | 2511103 | Pedra Lavrada (PB) | `flags/mun/2511103.png` | Prefeitura municipal de Pedra Lavrada | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_pedra_lavada.png) |
-| 2511202 | Pedras de Fogo (PB) | `flags/mun/2511202.png` | UsuárioPar | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Pedras_de_Fogo-PB.svg) |
+| 2511202 | Pedras de Fogo (PB) | `flags/mun/2511202.svg` | UsuárioPar | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Pedras_de_Fogo-PB.svg) |
 | 2511301 | Piancó (PB) | `flags/mun/2511301.png` | Prefeitura municipal de Piancó | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_pianco.PNG) |
 | 2511400 | Picuí (PB) | `flags/mun/2511400.png` | Prefeitura municipal de Picuí | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Municipio_Picui.jpg) |
 | 2511509 | Pilar (PB) | `flags/mun/2511509.png` | Prefeitura municipal de Pilar | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_pilar.PNG) |
@@ -838,32 +838,32 @@ Gerado por `tools/gerar.py`. A mesma informação está em `dados/bandeiras.json
 | 2512002 | Pocinhos (PB) | `flags/mun/2512002.png` | Prefeitura municipal de Pocinhos | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_pocinhos.jpg) |
 | 2512036 | Poço Dantas (PB) | `flags/mun/2512036.png` | Prefeitura Municipal de Poço Dantas | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Po%C3%A7o_Dantas.jpg) |
 | 2512077 | Poço de José de Moura (PB) | `flags/mun/2512077.png` | Prefeitura Municipal de Poço de José de Moura | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Po%C3%A7o_de_Jos%C3%A9_de_Moura.jpg) |
-| 2512101 | Pombal (PB) | `flags/mun/2512101.png` | UsuárioPar | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Pombal-PB.svg) |
-| 2512200 | Prata (PB) | `flags/mun/2512200.png` | autor desconhecido | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_do_Munic%C3%ADpio_de_Prata,_Para%C3%ADba.svg) |
-| 2512309 | Princesa Isabel (PB) | `flags/mun/2512309.png` | UsuárioPar | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Princesa_Isabel-PB.svg) |
+| 2512101 | Pombal (PB) | `flags/mun/2512101.svg` | UsuárioPar | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Pombal-PB.svg) |
+| 2512200 | Prata (PB) | `flags/mun/2512200.svg` | autor desconhecido | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_do_Munic%C3%ADpio_de_Prata,_Para%C3%ADba.svg) |
+| 2512309 | Princesa Isabel (PB) | `flags/mun/2512309.svg` | UsuárioPar | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Princesa_Isabel-PB.svg) |
 | 2512408 | Puxinanã (PB) | `flags/mun/2512408.png` | Prefeitura Municipal de Puxinanã | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Puxinan%C3%A3.jpg) |
 | 2512507 | Queimadas (PB) | `flags/mun/2512507.png` | Prefeitura Municipal de Queimadas | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeiraqueimadas.jpg) |
 | 2512606 | Quixaba (PB) | `flags/mun/2512606.png` | Weliopark | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_municip_quixaba.png) |
 | 2512705 | Remígio (PB) | `flags/mun/2512705.png` | Prefeitura Municipal de Remígio | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeiraremigio.png) |
 | 2512721 | Pedro Régis (PB) | `flags/mun/2512721.png` | Prefeitura Municipal de Pedro Régis | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Pedro_R%C3%A9gis-PB.jpg) |
 | 2512747 | Riachão (PB) | `flags/mun/2512747.png` | Prefeitura Municipal de Riachão | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Riach%C3%A3o_(PB).jpg) |
-| 2512754 | Riachão do Bacamarte (PB) | `flags/mun/2512754.png` | UsuárioPar | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Riach%C3%A3o_do_Bacamarte-PB.svg) |
-| 2512762 | Riachão do Poço (PB) | `flags/mun/2512762.png` | UsuárioPar | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Riach%C3%A3o_do_Po%C3%A7o-PB.svg) |
+| 2512754 | Riachão do Bacamarte (PB) | `flags/mun/2512754.svg` | UsuárioPar | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Riach%C3%A3o_do_Bacamarte-PB.svg) |
+| 2512762 | Riachão do Poço (PB) | `flags/mun/2512762.svg` | UsuárioPar | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Riach%C3%A3o_do_Po%C3%A7o-PB.svg) |
 | 2512903 | Rio Tinto (PB) | `flags/mun/2512903.png` | Prefeitura municipal de Rio Tinto | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_rio_tinto.PNG) |
-| 2513109 | Salgado de São Félix (PB) | `flags/mun/2513109.png` | UsuárioPar | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Salgado_de_S%C3%A3o_F%C3%A9lix-PB.svg) |
+| 2513109 | Salgado de São Félix (PB) | `flags/mun/2513109.svg` | UsuárioPar | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Salgado_de_S%C3%A3o_F%C3%A9lix-PB.svg) |
 | 2513158 | Santa Cecília (PB) | `flags/mun/2513158.png` | João Oliveira da Silva Sales | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_santa_cecilia.png) |
-| 2513406 | Santa Luzia (PB) | `flags/mun/2513406.png` | Mateus Leite | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Santa_Luzia_(PB).svg) |
+| 2513406 | Santa Luzia (PB) | `flags/mun/2513406.svg` | Mateus Leite | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Santa_Luzia_(PB).svg) |
 | 2513604 | Santana dos Garrotes (PB) | `flags/mun/2513604.png` | santana gos garrotes | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Santana_dos_Garrotes.jpg) |
-| 2513653 | Joca Claudino (PB) | `flags/mun/2513653.png` | UsuárioPar | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Joca_Claudino-PB.svg) |
+| 2513653 | Joca Claudino (PB) | `flags/mun/2513653.svg` | UsuárioPar | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Joca_Claudino-PB.svg) |
 | 2513703 | Santa Rita (PB) | `flags/mun/2513703.png` | AndersonPv | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Santa_Rita_PB.jpg) |
 | 2513802 | Santa Teresinha (PB) | `flags/mun/2513802.png` | Prefeitura Municipal de Santa Terezinha | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Santa_Terezinha.jpg) |
 | 2513851 | Santo André (PB) | `flags/mun/2513851.png` | Prefeitura Municipal de Santo André | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Santo_Andr%C3%A9_(PB).jpg) |
 | 2513901 | São Bento (PB) | `flags/mun/2513901.png` | Rodrigogomespedrosa | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_S%C3%A3o_Bento,_Para%C3%ADba,_Brasil.PNG) |
 | 2513927 | São Bentinho (PB) | `flags/mun/2513927.png` | Nelson R. de Lima Filho | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_S%C3%A3o_Bentinho.png) |
 | 2513968 | São Domingos (PB) | `flags/mun/2513968.png` | Prefeitura Municipal de São Domingos | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_S%C3%A3o_Domingos.png) |
-| 2513984 | São Francisco (PB) | `flags/mun/2513984.png` | UsuárioPar | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_S%C3%A3o_Francisco-PB.svg) |
+| 2513984 | São Francisco (PB) | `flags/mun/2513984.svg` | UsuárioPar | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_S%C3%A3o_Francisco-PB.svg) |
 | 2514008 | São João do Cariri (PB) | `flags/mun/2514008.png` | Prefeitura municipal de São João do Cariri | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_sao_joao_do_cariri.jpg) |
-| 2514107 | São João do Tigre (PB) | `flags/mun/2514107.png` | UsuárioPar | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_S%C3%A3o_Jo%C3%A3o_do_Tigre-PB.svg) |
+| 2514107 | São João do Tigre (PB) | `flags/mun/2514107.svg` | UsuárioPar | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_S%C3%A3o_Jo%C3%A3o_do_Tigre-PB.svg) |
 | 2514206 | São José da Lagoa Tapada (PB) | `flags/mun/2514206.png` | JCarlos PB | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_S%C3%A3o_Jos%C3%A9_da_Lagoa_Tapada.jpg) |
 | 2514404 | São José de Espinharas (PB) | `flags/mun/2514404.png` | Prefeitura Municipal de São José de Espinharas | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_S%C3%A3o_Jos%C3%A9_de_Espinharas.png) |
 | 2514602 | São José do Bonfim (PB) | `flags/mun/2514602.png` | Nelson R. de Lima Filho | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_S%C3%A3o_Jos%C3%A9_do_Bonfim.png) |
@@ -877,17 +877,17 @@ Gerado por `tools/gerar.py`. A mesma informação está em `dados/bandeiras.json
 | 2515302 | Sapé (PB) | `flags/mun/2515302.png` | Dansboy88 | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_sap%C3%A9.jpg) |
 | 2515401 | São Vicente do Seridó (PB) | `flags/mun/2515401.png` | Alcantara | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_S%C3%A3o_Vicente_do_Serid%C3%B3.JPG) |
 | 2515500 | Serra Branca (PB) | `flags/mun/2515500.png` | A.sbmotta | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_do_munic%C3%ADpio_de_Serra_Branca.jpg) |
-| 2515609 | Serra da Raiz (PB) | `flags/mun/2515609.png` | UsuárioPar | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Serra_da_Raiz-PB.svg) |
+| 2515609 | Serra da Raiz (PB) | `flags/mun/2515609.svg` | UsuárioPar | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Serra_da_Raiz-PB.svg) |
 | 2515807 | Serra Redonda (PB) | `flags/mun/2515807.png` | Prefeitura Municipal de Serra Redonda | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Serra_Redonda-PB.jpg) |
 | 2515930 | Sertãozinho (PB) | `flags/mun/2515930.png` | não informado | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Sert%C3%A3ozinho_PB.jpg) |
 | 2516003 | Solânea (PB) | `flags/mun/2516003.png` | Prefeitura Municipal de Solânea | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeirasolanea.png) |
-| 2516102 | Soledade (PB) | `flags/mun/2516102.png` | UsuárioPar | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Soledade-PB.svg) |
+| 2516102 | Soledade (PB) | `flags/mun/2516102.svg` | UsuárioPar | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Soledade-PB.svg) |
 | 2516151 | Sossêgo (PB) | `flags/mun/2516151.png` | Prefeitura Municipal de Sossêgo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Soss%C3%AAgo.jpg) |
-| 2516201 | Sousa (PB) | `flags/mun/2516201.png` | Município de Sousa | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Sousa.svg) |
-| 2516300 | Sumé (PB) | `flags/mun/2516300.png` | Prefeitura Municipal de Sumé | [CC BY 2.5](https://creativecommons.org/licenses/by/2.5) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Oficial_da_cidade_de_Sum%C3%A9-PB.svg) |
+| 2516201 | Sousa (PB) | `flags/mun/2516201.svg` | Município de Sousa | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Sousa.svg) |
+| 2516300 | Sumé (PB) | `flags/mun/2516300.svg` | Prefeitura Municipal de Sumé | [CC BY 2.5](https://creativecommons.org/licenses/by/2.5) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Oficial_da_cidade_de_Sum%C3%A9-PB.svg) |
 | 2516409 | Tacima (PB) | `flags/mun/2516409.png` | Ismaeltc23 | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Tacima_PB.jpg) |
 | 2516508 | Taperoá (PB) | `flags/mun/2516508.png` | Prefeitura municipal de Taperoá | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_taperoa.PNG) |
-| 2516607 | Tavares (PB) | `flags/mun/2516607.png` | vectorization by Anzee | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Tavares,_PB.svg) |
+| 2516607 | Tavares (PB) | `flags/mun/2516607.svg` | vectorization by Anzee | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Tavares,_PB.svg) |
 | 2516706 | Teixeira (PB) | `flags/mun/2516706.png` | Prefeitura municipal de Teixeira | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_teixeira_pb.png) |
 | 2516755 | Tenório (PB) | `flags/mun/2516755.png` | Prefeitura municipal de Tenório | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_tenorio.jpg) |
 | 2516805 | Triunfo (PB) | `flags/mun/2516805.png` | Prefeitura Municipal de Triunfo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Triunfo-PB.jpg) |
@@ -895,72 +895,72 @@ Gerado por `tools/gerar.py`. A mesma informação está em `dados/bandeiras.json
 | 2517001 | Umbuzeiro (PB) | `flags/mun/2517001.png` | Prefeitura municipal de Umbuzeiro | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_umbuzeiro.JPG) |
 | 2517100 | Várzea (PB) | `flags/mun/2517100.png` | autor desconhecido | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Varzea_PB.jpg) |
 | 2517407 | Zabelê (PB) | `flags/mun/2517407.png` | Prefeitura Municipal de Zabelê | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Zabel%C3%AA_(PB).jpg) |
-| 2600054 | Abreu e Lima (PE) | `flags/mun/2600054.png` | CityBreakingDown | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Abreu_e_Lima_Flag.svg) |
-| 2600104 | Afogados da Ingazeira (PE) | `flags/mun/2600104.png` | CityBreakingDown | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Afogados_da_Ingazeira,_PE.svg) |
-| 2600203 | Afrânio (PE) | `flags/mun/2600203.png` | CityBreakingDown | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:BANDEIRA_AFR%C3%82NIO-PE.svg) |
-| 2600302 | Agrestina (PE) | `flags/mun/2600302.png` | CityBreakingDown | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_agrestina.svg) |
-| 2600401 | Água Preta (PE) | `flags/mun/2600401.png` | CityBreakingDown | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_%C3%81gua_Preta.svg) |
-| 2600500 | Águas Belas (PE) | `flags/mun/2600500.png` | CityBreakingDown | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_aguas_belas.svg) |
+| 2600054 | Abreu e Lima (PE) | `flags/mun/2600054.svg` | CityBreakingDown | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Abreu_e_Lima_Flag.svg) |
+| 2600104 | Afogados da Ingazeira (PE) | `flags/mun/2600104.svg` | CityBreakingDown | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Afogados_da_Ingazeira,_PE.svg) |
+| 2600203 | Afrânio (PE) | `flags/mun/2600203.svg` | CityBreakingDown | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:BANDEIRA_AFR%C3%82NIO-PE.svg) |
+| 2600302 | Agrestina (PE) | `flags/mun/2600302.svg` | CityBreakingDown | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_agrestina.svg) |
+| 2600401 | Água Preta (PE) | `flags/mun/2600401.svg` | CityBreakingDown | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_%C3%81gua_Preta.svg) |
+| 2600500 | Águas Belas (PE) | `flags/mun/2600500.svg` | CityBreakingDown | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_aguas_belas.svg) |
 | 2600609 | Alagoinha (PE) | `flags/mun/2600609.svg` | CityBreakingDown | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Alagoinha_PE.svg) |
-| 2600708 | Aliança (PE) | `flags/mun/2600708.png` | CityBreakingDown | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira-alian%C3%A7a.svg) |
-| 2600807 | Altinho (PE) | `flags/mun/2600807.png` | CityBreakingDown | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Altinho.svg) |
-| 2600906 | Amaraji (PE) | `flags/mun/2600906.png` | CityBreakingDown | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira-amaraji.svg) |
-| 2601003 | Angelim (PE) | `flags/mun/2601003.png` | CityBreakingDown | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Band_Angelim_PE.svg) |
-| 2601052 | Araçoiaba (PE) | `flags/mun/2601052.png` | CityBreakingDown | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Aracoiaba.svg) |
+| 2600708 | Aliança (PE) | `flags/mun/2600708.svg` | CityBreakingDown | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira-alian%C3%A7a.svg) |
+| 2600807 | Altinho (PE) | `flags/mun/2600807.svg` | CityBreakingDown | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Altinho.svg) |
+| 2600906 | Amaraji (PE) | `flags/mun/2600906.svg` | CityBreakingDown | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira-amaraji.svg) |
+| 2601003 | Angelim (PE) | `flags/mun/2601003.svg` | CityBreakingDown | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Band_Angelim_PE.svg) |
+| 2601052 | Araçoiaba (PE) | `flags/mun/2601052.svg` | CityBreakingDown | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Aracoiaba.svg) |
 | 2601102 | Araripina (PE) | `flags/mun/2601102.png` | Fabricioararipina13 | [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_araripina.jpg) |
-| 2601201 | Arcoverde (PE) | `flags/mun/2601201.png` | CityBreakingDown | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_arcoverde.svg) |
-| 2601300 | Barra de Guabiraba (PE) | `flags/mun/2601300.png` | CityBreakingDown | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Barra_de_Guabiraba.svg) |
-| 2601409 | Barreiros (PE) | `flags/mun/2601409.png` | CityBreakingDown | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Barreiros.svg) |
-| 2601508 | Belém de Maria (PE) | `flags/mun/2601508.png` | CityBreakingDown | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Belem_de_Maria.svg) |
-| 2601607 | Belém do São Francisco (PE) | `flags/mun/2601607.png` | CityBreakingDown | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_belem_sao_francisco_pe.svg) |
-| 2601706 | Belo Jardim (PE) | `flags/mun/2601706.png` | J.Filgueiras | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Belo_Jardim.svg) |
-| 2601805 | Betânia (PE) | `flags/mun/2601805.png` | CityBreakingDown | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Betania.svg) |
-| 2601904 | Bezerros (PE) | `flags/mun/2601904.png` | CityBreakingDown | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Bezerros.svg) |
-| 2602001 | Bodocó (PE) | `flags/mun/2602001.png` | CityBreakingDown | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Bodoc%C3%B3.svg) |
+| 2601201 | Arcoverde (PE) | `flags/mun/2601201.svg` | CityBreakingDown | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_arcoverde.svg) |
+| 2601300 | Barra de Guabiraba (PE) | `flags/mun/2601300.svg` | CityBreakingDown | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Barra_de_Guabiraba.svg) |
+| 2601409 | Barreiros (PE) | `flags/mun/2601409.svg` | CityBreakingDown | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Barreiros.svg) |
+| 2601508 | Belém de Maria (PE) | `flags/mun/2601508.svg` | CityBreakingDown | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Belem_de_Maria.svg) |
+| 2601607 | Belém do São Francisco (PE) | `flags/mun/2601607.svg` | CityBreakingDown | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_belem_sao_francisco_pe.svg) |
+| 2601706 | Belo Jardim (PE) | `flags/mun/2601706.svg` | J.Filgueiras | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Belo_Jardim.svg) |
+| 2601805 | Betânia (PE) | `flags/mun/2601805.svg` | CityBreakingDown | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Betania.svg) |
+| 2601904 | Bezerros (PE) | `flags/mun/2601904.svg` | CityBreakingDown | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Bezerros.svg) |
+| 2602001 | Bodocó (PE) | `flags/mun/2602001.svg` | CityBreakingDown | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Bodoc%C3%B3.svg) |
 | 2602100 | Bom Conselho (PE) | `flags/mun/2602100.svg` | CityBreakingDown | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Bom_Conselho.svg) |
-| 2602209 | Bom Jardim (PE) | `flags/mun/2602209.png` | CityBreakingDown | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Bom_Jardim_PE.svg) |
-| 2602308 | Bonito (PE) | `flags/mun/2602308.png` | CityBreakingDown | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Bonito_PE.svg) |
-| 2602407 | Brejão (PE) | `flags/mun/2602407.png` | CityBreakingDown | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_brejao.svg) |
-| 2602506 | Brejinho (PE) | `flags/mun/2602506.png` | CityBreakingDown | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Brejinho-PE_montagem.svg) |
+| 2602209 | Bom Jardim (PE) | `flags/mun/2602209.svg` | CityBreakingDown | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Bom_Jardim_PE.svg) |
+| 2602308 | Bonito (PE) | `flags/mun/2602308.svg` | CityBreakingDown | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Bonito_PE.svg) |
+| 2602407 | Brejão (PE) | `flags/mun/2602407.svg` | CityBreakingDown | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_brejao.svg) |
+| 2602506 | Brejinho (PE) | `flags/mun/2602506.svg` | CityBreakingDown | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Brejinho-PE_montagem.svg) |
 | 2602605 | Brejo da Madre de Deus (PE) | `flags/mun/2602605.png` | Jhandoffer | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Brejo_-_PE.png) |
-| 2602704 | Buenos Aires (PE) | `flags/mun/2602704.png` | CityBreakingDown | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Buenos_Aires,_PE.svg) |
+| 2602704 | Buenos Aires (PE) | `flags/mun/2602704.svg` | CityBreakingDown | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Buenos_Aires,_PE.svg) |
 | 2602803 | Buíque (PE) | `flags/mun/2602803.png` | Blésman Modesto de Albuquerque e Edmilson Soares | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_buique.jpg) |
-| 2602902 | Cabo de Santo Agostinho (PE) | `flags/mun/2602902.png` | Municipio do Cabo de Santo Agostinho | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:BANDEIRA_DO_CABO_DE_SANTO_AGOSTINHO.svg) |
+| 2602902 | Cabo de Santo Agostinho (PE) | `flags/mun/2602902.svg` | Municipio do Cabo de Santo Agostinho | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:BANDEIRA_DO_CABO_DE_SANTO_AGOSTINHO.svg) |
 | 2603009 | Cabrobó (PE) | `flags/mun/2603009.png` | Pcgomes | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Flag_of_Cabrob%C3%B3_-_PE_-_Brazil.png) |
-| 2603108 | Cachoeirinha (PE) | `flags/mun/2603108.png` | Mateus Leite | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Cachoeirinha_-_PE.svg) |
+| 2603108 | Cachoeirinha (PE) | `flags/mun/2603108.svg` | Mateus Leite | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Cachoeirinha_-_PE.svg) |
 | 2603207 | Caetés (PE) | `flags/mun/2603207.png` | Pcgomes | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Flag_of_Caet%C3%A9s_-_PE_-_Brazil.png) |
-| 2603306 | Calçado (PE) | `flags/mun/2603306.png` | Prefeitura Municipal de Calçado | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Cal%C3%A7ado.svg) |
+| 2603306 | Calçado (PE) | `flags/mun/2603306.svg` | Prefeitura Municipal de Calçado | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Cal%C3%A7ado.svg) |
 | 2603405 | Calumbi (PE) | `flags/mun/2603405.png` | Daniel Migueis | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Municipal_de_Calumbi.png) |
-| 2603454 | Camaragibe (PE) | `flags/mun/2603454.png` | Município de Camaragibe | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:BANDEIRA_DE_CAMARAGIBE.svg) |
+| 2603454 | Camaragibe (PE) | `flags/mun/2603454.svg` | Município de Camaragibe | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:BANDEIRA_DE_CAMARAGIBE.svg) |
 | 2603504 | Camocim de São Félix (PE) | `flags/mun/2603504.png` | Gutembergsantosbezerra | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Camocim_de_S%C3%A3o_F%C3%A9lix.jpg) |
 | 2603603 | Camutanga (PE) | `flags/mun/2603603.png` | Associação Municipalista de Pernambuco | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Camutanga,_PE.png) |
-| 2603702 | Canhotinho (PE) | `flags/mun/2603702.png` | Prefeitura Municipal de Canhotinho (PE) | [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Canhotinho_(PE).svg) |
+| 2603702 | Canhotinho (PE) | `flags/mun/2603702.svg` | Prefeitura Municipal de Canhotinho (PE) | [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Canhotinho_(PE).svg) |
 | 2603801 | Capoeiras (PE) | `flags/mun/2603801.png` | Associação Municipalista de Pernambuco | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Capoeiras,_PE.png) |
 | 2603900 | Carnaíba (PE) | `flags/mun/2603900.png` | Joaoaf2009 | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Carna%C3%ADba,_PE.jpg) |
 | 2603926 | Carnaubeira da Penha (PE) | `flags/mun/2603926.png` | Associação Municipalista de Pernambuco | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Carnaubeira_da_Penha,_PE.png) |
 | 2604007 | Carpina (PE) | `flags/mun/2604007.png` | http://www.carpina.pe.gov.br | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeiracarpinape.jpg) |
 | 2604106 | Caruaru (PE) | `flags/mun/2604106.png` | Amaro Matias | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Caruaru.jpg) |
-| 2604155 | Casinhas (PE) | `flags/mun/2604155.png` | Edinelsonfr | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Casinhas_PE.svg) |
+| 2604155 | Casinhas (PE) | `flags/mun/2604155.svg` | Edinelsonfr | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Casinhas_PE.svg) |
 | 2604205 | Catende (PE) | `flags/mun/2604205.png` | Associação Municipalista de Pernambuco | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Catende,_PE.png) |
 | 2604304 | Cedro (PE) | `flags/mun/2604304.png` | Mais símbolos, história, paisagens e vídeos de Cedro PE em http://cedro.orgfree.com/ | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Cedrobandeira.jpg) |
 | 2604403 | Chã de Alegria (PE) | `flags/mun/2604403.png` | Prefeitura de Chã de Alegria | não declarada (símbolo oficial do município) | [site da prefeitura](https://chadealegria.pe.gov.br/publicacao.php?pg=bandeiraesimbolos) |
 | 2604502 | Chã Grande (PE) | `flags/mun/2604502.png` | não informado | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_ch%C3%A3_grande.jpg) |
 | 2604601 | Condado (PE) | `flags/mun/2604601.png` | Associação Municipalista de Pernambuco | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Condado,_PE.png) |
 | 2604700 | Correntes (PE) | `flags/mun/2604700.png` | User:Antonio de Machado Dias | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Correntes.jpg) |
-| 2604908 | Cumaru (PE) | `flags/mun/2604908.png` | Lucas Vinícius G. Ferreira | [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Cumaru-PE.svg) |
+| 2604908 | Cumaru (PE) | `flags/mun/2604908.svg` | Lucas Vinícius G. Ferreira | [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Cumaru-PE.svg) |
 | 2605004 | Cupira (PE) | `flags/mun/2605004.png` | autor desconhecido | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_cupira.jpg) |
-| 2605103 | Custódia (PE) | `flags/mun/2605103.png` | Jorge Remigio e Adelma Arruda | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Cust%C3%B3dia_(PE).svg) |
+| 2605103 | Custódia (PE) | `flags/mun/2605103.svg` | Jorge Remigio e Adelma Arruda | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Cust%C3%B3dia_(PE).svg) |
 | 2605152 | Dormentes (PE) | `flags/mun/2605152.png` | Associação Municipalista de Pernambuco | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Dormentes,_PE.png) |
 | 2605202 | Escada (PE) | `flags/mun/2605202.png` | Luciaccoelho | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_escada.jpg) |
 | 2605301 | Exu (PE) | `flags/mun/2605301.png` | Pytágoras Cordeiro de Oliveira | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_do_Exu.jpg) |
 | 2605400 | Feira Nova (PE) | `flags/mun/2605400.png` | Associação Municipalista de Pernambuco | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Feira_Nova,_PE.png) |
-| 2605459 | Fernando de Noronha (PE) | `flags/mun/2605459.png` | Ten. Cel. Av. Jorge Longuinho. Vectorized by User:Feitidede | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Flag_of_Fernando_de_Noronha.svg) |
+| 2605459 | Fernando de Noronha (PE) | `flags/mun/2605459.svg` | Ten. Cel. Av. Jorge Longuinho. Vectorized by User:Feitidede | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Flag_of_Fernando_de_Noronha.svg) |
 | 2605509 | Ferreiros (PE) | `flags/mun/2605509.png` | Prefeitura de Ferreiros | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Ferreiros_-_PE.jpg) |
 | 2605608 | Flores (PE) | `flags/mun/2605608.png` | Marconiptb14 | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Flores,_PE.jpg) |
 | 2605707 | Floresta (PE) | `flags/mun/2605707.png` | Floresta City Hall | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Floresta,_PE.png) |
 | 2605806 | Frei Miguelinho (PE) | `flags/mun/2605806.png` | Associação Municipalista de Pernambuco | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Frei_Miguelinho,_PE.png) |
 | 2605905 | Gameleira (PE) | `flags/mun/2605905.png` | Nayrobe | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_do_Munic%C3%ADpio_da_Gameleira-PE.png) |
-| 2606002 | Garanhuns (PE) | `flags/mun/2606002.png` | Prefeitura Municipal de Garanhuns | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:BandeiraGaranhuns.svg) |
+| 2606002 | Garanhuns (PE) | `flags/mun/2606002.svg` | Prefeitura Municipal de Garanhuns | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:BandeiraGaranhuns.svg) |
 | 2606200 | Goiana (PE) | `flags/mun/2606200.png` | Prefeitura Municipal de Goiana | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Goiana.jpg) |
 | 2606309 | Granito (PE) | `flags/mun/2606309.png` | Município de Granito-PE | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_municipio_granito.jpg) |
 | 2606408 | Gravatá (PE) | `flags/mun/2606408.png` | não informado | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_gravata.png) |
@@ -975,12 +975,12 @@ Gerado por `tools/gerar.py`. A mesma informação está em `dados/bandeiras.json
 | 2607307 | Ipubi (PE) | `flags/mun/2607307.png` | Prefeitura de Ipubi | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Ipubi_PE.png) |
 | 2607406 | Itacuruba (PE) | `flags/mun/2607406.png` | Prefeitura Municipal de Itacuruba | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Itacuruba.png) |
 | 2607505 | Itaíba (PE) | `flags/mun/2607505.png` | Associação Municipalista de Pernambuco | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Ita%C3%ADba.png) |
-| 2607604 | Ilha de Itamaracá (PE) | `flags/mun/2607604.png` | Samhanin | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Flag_of_Ilha_de_Itamarac%C3%A1.svg) |
-| 2607653 | Itambé (PE) | `flags/mun/2607653.png` | não informado | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Oficial_Itamb%C3%A9-PE.svg) |
+| 2607604 | Ilha de Itamaracá (PE) | `flags/mun/2607604.svg` | Samhanin | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Flag_of_Ilha_de_Itamarac%C3%A1.svg) |
+| 2607653 | Itambé (PE) | `flags/mun/2607653.svg` | não informado | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Oficial_Itamb%C3%A9-PE.svg) |
 | 2607703 | Itapetim (PE) | `flags/mun/2607703.png` | Diogo Sergio | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Itapetim_PE_2014.svg) |
 | 2607752 | Itapissuma (PE) | `flags/mun/2607752.png` | RonneyDiniz | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_oficial_de_Itapissuma.png) |
 | 2607802 | Itaquitinga (PE) | `flags/mun/2607802.png` | Prefeitura Municipal de Itaquitinga | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Itaquitinga.png) |
-| 2607901 | Jaboatão dos Guararapes (PE) | `flags/mun/2607901.png` | Municipal Prefecture of Jaboatão dos Guararapes | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_JaboataodosGuararapes_Pernambuco_Brasil.svg) |
+| 2607901 | Jaboatão dos Guararapes (PE) | `flags/mun/2607901.svg` | Municipal Prefecture of Jaboatão dos Guararapes | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_JaboataodosGuararapes_Pernambuco_Brasil.svg) |
 | 2607950 | Jaqueira (PE) | `flags/mun/2607950.png` | não informado | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_jaqueira.png) |
 | 2608057 | Jatobá (PE) | `flags/mun/2608057.png` | Associação Municipalista de Pernambuco | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Jatob%C3%A1.png) |
 | 2608107 | João Alfredo (PE) | `flags/mun/2608107.png` | Prefeitura de João Alfredo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Jo%C3%A3o_Alfredo.gif) |
@@ -993,7 +993,7 @@ Gerado por `tools/gerar.py`. A mesma informação está em `dados/bandeiras.json
 | 2608701 | Lagoa dos Gatos (PE) | `flags/mun/2608701.png` | Associação Municipalista de Pernambuco | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Lagoa_dos_Gatos,_PE.png) |
 | 2608750 | Lagoa Grande (PE) | `flags/mun/2608750.png` | Associação Municipalista de Pernambuco | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Lagoa_Grande,_PE.png) |
 | 2608800 | Lajedo (PE) | `flags/mun/2608800.png` | Maviaelb | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_lajedo.jpg) |
-| 2608909 | Limoeiro (PE) | `flags/mun/2608909.png` | UsuárioPar | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Limoeiro-PE.svg) |
+| 2608909 | Limoeiro (PE) | `flags/mun/2608909.svg` | UsuárioPar | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Limoeiro-PE.svg) |
 | 2609006 | Macaparana (PE) | `flags/mun/2609006.png` | Macaparana City Hall | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira-macaparana.png) |
 | 2609105 | Machados (PE) | `flags/mun/2609105.png` | Associação Municipalista de Pernambuco | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Machados,_PE.png) |
 | 2609154 | Manari (PE) | `flags/mun/2609154.png` | Wellber Drayton | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_do_Manari.jpg) |
@@ -1016,12 +1016,12 @@ Gerado por `tools/gerar.py`. A mesma informação está em `dados/bandeiras.json
 | 2610806 | Pedra (PE) | `flags/mun/2610806.png` | Associação Municipalista de Pernambuco | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Pedra,_Pernambuco.png) |
 | 2610905 | Pesqueira (PE) | `flags/mun/2610905.png` | Pc-cavalcanti arcoverde | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira-pesqueira-pernambuco.jpg) |
 | 2611002 | Petrolândia (PE) | `flags/mun/2611002.png` | não informado | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_petrolandia.jpg) |
-| 2611101 | Petrolina (PE) | `flags/mun/2611101.png` | Rodrigo Melo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_petrolina.svg) |
+| 2611101 | Petrolina (PE) | `flags/mun/2611101.svg` | Rodrigo Melo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_petrolina.svg) |
 | 2611200 | Poção (PE) | `flags/mun/2611200.png` | Roberval Mendes | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeirapocao.JPG) |
 | 2611309 | Pombos (PE) | `flags/mun/2611309.png` | Verônica Bernadete | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Pombos_PE.jpg) |
 | 2611507 | Quipapá (PE) | `flags/mun/2611507.png` | Prefeitura Municipal de Quipapá | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Quipap%C3%A1.jpg) |
-| 2611533 | Quixaba (PE) | `flags/mun/2611533.png` | Junior Silva Rodriguess | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Quixaba.svg) |
-| 2611606 | Recife (PE) | `flags/mun/2611606.png` | BrCaLeTo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Recife.svg) |
+| 2611533 | Quixaba (PE) | `flags/mun/2611533.svg` | Junior Silva Rodriguess | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Quixaba.svg) |
+| 2611606 | Recife (PE) | `flags/mun/2611606.svg` | BrCaLeTo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Recife.svg) |
 | 2611705 | Riacho das Almas (PE) | `flags/mun/2611705.png` | Associação Municipalista de Pernambuco | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Riacho_das_Almas.png) |
 | 2611804 | Ribeirão (PE) | `flags/mun/2611804.png` | A imagem é de domínio público, visto que é a bandeira do município, informado pela câmara municipal. Não apresenta ob… | [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Ribeir%C3%A3o_PE.png) |
 | 2611903 | Rio Formoso (PE) | `flags/mun/2611903.png` | Deyvid Willame | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Rio_Formoso.jpg) |
@@ -1052,7 +1052,7 @@ Gerado por `tools/gerar.py`. A mesma informação está em `dados/bandeiras.json
 | 2614105 | Sertânia (PE) | `flags/mun/2614105.png` | autor desconhecido | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_sertania.jpg) |
 | 2614204 | Sirinhaém (PE) | `flags/mun/2614204.png` | Municipality of Sirinhaém (uploaded by Felipe.igor) | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Sirinha%C3%A9m.jpg) |
 | 2614303 | Moreilândia (PE) | `flags/mun/2614303.png` | Unknown | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Moreil%C3%A2ndia.jpg) |
-| 2614402 | Solidão (PE) | `flags/mun/2614402.png` | CityBreakingDown | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Solid%C3%A3o.svg) |
+| 2614402 | Solidão (PE) | `flags/mun/2614402.svg` | CityBreakingDown | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Solid%C3%A3o.svg) |
 | 2614501 | Surubim (PE) | `flags/mun/2614501.png` | Nascigl | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Surubim.png) |
 | 2614600 | Tabira (PE) | `flags/mun/2614600.png` | Prefeitura Municipal de Tabira/PE | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira-de-Tabira-660x330.jpg) |
 | 2614709 | Tacaimbó (PE) | `flags/mun/2614709.png` | Associação Municipalista de Pernambuco | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Tacaimb%C3%B3,_PE.png) |
@@ -1060,7 +1060,7 @@ Gerado por `tools/gerar.py`. A mesma informação está em `dados/bandeiras.json
 | 2614857 | Tamandaré (PE) | `flags/mun/2614857.png` | Associação Municipalista de Pernambuco | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Tamandar%C3%A9,_PE.png) |
 | 2615003 | Taquaritinga do Norte (PE) | `flags/mun/2615003.png` | Associação Municipalista de Pernambuco | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Taquaritinga_do_Norte,_PE.png) |
 | 2615102 | Terezinha (PE) | `flags/mun/2615102.png` | IrvingMaynard | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Terezinha.png) |
-| 2615201 | Terra Nova (PE) | `flags/mun/2615201.png` | Original: Prefeitura de Terra Nova PE Vector: J. Kássio | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Terra_Nova.svg) |
+| 2615201 | Terra Nova (PE) | `flags/mun/2615201.svg` | Original: Prefeitura de Terra Nova PE Vector: J. Kássio | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Terra_Nova.svg) |
 | 2615300 | Timbaúba (PE) | `flags/mun/2615300.png` | http://www.timbauba.pe.gov.br | Copyrighted free use | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Timba%C3%BAba_PE.jpg) |
 | 2615409 | Toritama (PE) | `flags/mun/2615409.png` | Jbs.jonatas | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Toritama_2000x1200.jpg) |
 | 2615508 | Tracunhaém (PE) | `flags/mun/2615508.png` | Associação Municipalista de Pernambuco | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Tracunha%C3%A9m,_PE.png) |
@@ -1077,7 +1077,7 @@ Gerado por `tools/gerar.py`. A mesma informação está em `dados/bandeiras.json
 | 2616506 | Xexéu (PE) | `flags/mun/2616506.png` | Prefeitura Municipal Xexéu | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Xex%C3%A9u.png) |
 | 2700102 | Água Branca (AL) | `flags/mun/2700102.png` | Prefeitura Municipal | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_%C3%81gua_Branca.png) |
 | 2700201 | Anadia (AL) | `flags/mun/2700201.png` | Prefeitura Municipal | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Anadia.png) |
-| 2700300 | Arapiraca (AL) | `flags/mun/2700300.png` | BrCaLeTo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Arapiraca_-_AL.svg) |
+| 2700300 | Arapiraca (AL) | `flags/mun/2700300.svg` | BrCaLeTo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Arapiraca_-_AL.svg) |
 | 2700409 | Atalaia (AL) | `flags/mun/2700409.png` | Prefeitura de Atalaia. | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Atalaia_AL.png) |
 | 2700607 | Barra de São Miguel (AL) | `flags/mun/2700607.png` | autor desconhecido | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Al-barra-de-sao-miguel-bandeira.jpg) |
 | 2700706 | Batalha (AL) | `flags/mun/2700706.png` | Prefeitura Municipal | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Batalha.png) |
@@ -1106,25 +1106,25 @@ Gerado por `tools/gerar.py`. A mesma informação está em `dados/bandeiras.json
 | 2703601 | Japaratinga (AL) | `flags/mun/2703601.png` | Prefeitura de Japaratinga | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:BANDEIRA_JAPARATINGA.png) |
 | 2703759 | Jequiá da Praia (AL) | `flags/mun/2703759.png` | Municipality of Jequiá da Praia. | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Jequia_da_Praia.png) |
 | 2704104 | Lagoa da Canoa (AL) | `flags/mun/2704104.png` | Jailson | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Lagoa_da_Canoa.JPG) |
-| 2704203 | Limoeiro de Anadia (AL) | `flags/mun/2704203.png` | Silvano Almeida | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Limoeiro_de_Anadia.svg) |
-| 2704302 | Maceió (AL) | `flags/mun/2704302.png` | ViniciusBR11; Prefeitura de Maceió | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Macei%C3%B3.svg) |
+| 2704203 | Limoeiro de Anadia (AL) | `flags/mun/2704203.svg` | Silvano Almeida | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Limoeiro_de_Anadia.svg) |
+| 2704302 | Maceió (AL) | `flags/mun/2704302.svg` | ViniciusBR11; Prefeitura de Maceió | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Macei%C3%B3.svg) |
 | 2704708 | Marechal Deodoro (AL) | `flags/mun/2704708.png` | Maria Cicera Rozendo, Mafisa Guimarães, Neuzalia Costa , Carmelita Souto, Irene Lúcia, Pedro Teixeira | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Municipio_Marechal_Deodoro.png) |
 | 2705002 | Mata Grande (AL) | `flags/mun/2705002.png` | Municipality of Mata Grande. | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Mata_Grande.jpg) |
-| 2705101 | Matriz de Camaragibe (AL) | `flags/mun/2705101.png` | Gadoneus | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Matriz_de_Camaragibe_AL.svg) |
-| 2705507 | Murici (AL) | `flags/mun/2705507.png` | Mhsdias | [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:BANDEIRAMURICI.svg) |
+| 2705101 | Matriz de Camaragibe (AL) | `flags/mun/2705101.svg` | Gadoneus | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Matriz_de_Camaragibe_AL.svg) |
+| 2705507 | Murici (AL) | `flags/mun/2705507.svg` | Mhsdias | [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:BANDEIRAMURICI.svg) |
 | 2705606 | Novo Lino (AL) | `flags/mun/2705606.png` | Mannl21 | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:BANDEIRA_DE_NOVO_LINO.jpg) |
 | 2705705 | Olho d'Água das Flores (AL) | `flags/mun/2705705.png` | Municipality of Olho d'Àgua das Flores. | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Olho_d%27Agua_das_Flores.jpg) |
 | 2705903 | Olho d'Água Grande (AL) | `flags/mun/2705903.png` | Jdavid826 | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_olho_dagua_grande.png) |
 | 2706109 | Ouro Branco (AL) | `flags/mun/2706109.png` | não informado | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Ouro_Branco_(Alagoas).jpg) |
-| 2706208 | Palestina (AL) | `flags/mun/2706208.png` | Potkek01 | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Palestina_Alagoas.svg) |
-| 2706307 | Palmeira dos Índios (AL) | `flags/mun/2706307.png` | BrCaLeTo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Palmeira_dos_%C3%8Dndios_-_AL.svg) |
+| 2706208 | Palestina (AL) | `flags/mun/2706208.svg` | Potkek01 | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Palestina_Alagoas.svg) |
+| 2706307 | Palmeira dos Índios (AL) | `flags/mun/2706307.svg` | BrCaLeTo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Palmeira_dos_%C3%8Dndios_-_AL.svg) |
 | 2706406 | Pão de Açúcar (AL) | `flags/mun/2706406.png` | Municipality of Pão de Açúcar. | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Pao_de_Acucar.jpg) |
 | 2706448 | Paripueira (AL) | `flags/mun/2706448.png` | Prefeitura Municipal de Paripueira | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira-paripueira.jpg) |
 | 2706703 | Penedo (AL) | `flags/mun/2706703.png` | Município de Penedo. | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Penedo.png) |
 | 2706802 | Piaçabuçu (AL) | `flags/mun/2706802.png` | Antelmo Leao | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_oficial_de_Pia%C3%A7abu%C3%A7u.jpg) |
 | 2706901 | Pilar (AL) | `flags/mun/2706901.png` | Professora Rosalina Soares Cavalcante | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Pilar_(Alagoas).jpg) |
 | 2707107 | Piranhas (AL) | `flags/mun/2707107.png` | Governo do Estado de Alagoas | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Piranhas,_AL.jpg) |
-| 2707305 | Porto Calvo (AL) | `flags/mun/2707305.png` | Mysid | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Flag_of_Porto_Calvo.svg) |
+| 2707305 | Porto Calvo (AL) | `flags/mun/2707305.svg` | Mysid | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Flag_of_Porto_Calvo.svg) |
 | 2707503 | Porto Real do Colégio (AL) | `flags/mun/2707503.png` | não informado | Attribution | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_prc.jpg) |
 | 2707602 | Quebrangulo (AL) | `flags/mun/2707602.png` | Quebrangulo City Hall | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira-quebrangulo.png) |
 | 2707909 | Santa Luzia do Norte (AL) | `flags/mun/2707909.png` | User:Reberth Almeida | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bdcoru_por_reberth.GIF) |
@@ -1138,61 +1138,61 @@ Gerado por `tools/gerar.py`. A mesma informação está em `dados/bandeiras.json
 | 2708956 | Senador Rui Palmeira (AL) | `flags/mun/2708956.png` | autor desconhecido | [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Municipal_Senador_Rui_Palmeira.png) |
 | 2709152 | Teotônio Vilela (AL) | `flags/mun/2709152.png` | Teotônio Vilela City Hall | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira-teotoniovilela.png) |
 | 2709202 | Traipu (AL) | `flags/mun/2709202.png` | Mauriciograv | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Al-traipu-bandeira.jpg) |
-| 2709301 | União dos Palmares (AL) | `flags/mun/2709301.png` | BrCaLeTo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Uni%C3%A3o_dos_Palmares_-_AL.svg) |
+| 2709301 | União dos Palmares (AL) | `flags/mun/2709301.svg` | BrCaLeTo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Uni%C3%A3o_dos_Palmares_-_AL.svg) |
 | 2709400 | Viçosa (AL) | `flags/mun/2709400.png` | julio caio cesar vasconcelos | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_vi%C3%A7osa.jpg) |
-| 2800209 | Aquidabã (SE) | `flags/mun/2800209.png` | Riba28-maps | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_aquidaba.svg) |
-| 2800308 | Aracaju (SE) | `flags/mun/2800308.png` | Bruno Coutinho Araújo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Aracaju.svg) |
+| 2800209 | Aquidabã (SE) | `flags/mun/2800209.svg` | Riba28-maps | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_aquidaba.svg) |
+| 2800308 | Aracaju (SE) | `flags/mun/2800308.svg` | Bruno Coutinho Araújo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Aracaju.svg) |
 | 2800407 | Arauá (SE) | `flags/mun/2800407.png` | Jeremiasac | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Arau%C3%A1.jpg) |
 | 2800670 | Boquim (SE) | `flags/mun/2800670.png` | Boquim City Hall | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira-boquim.png) |
-| 2800704 | Brejo Grande (SE) | `flags/mun/2800704.png` | Prefeitura Municipal de Brejo Grande -SE | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Brasao_brejogrande.svg) |
-| 2801009 | Campo do Brito (SE) | `flags/mun/2801009.png` | Prefeitura Municipal Campo do Brito | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_campodobrito.svg) |
+| 2800704 | Brejo Grande (SE) | `flags/mun/2800704.svg` | Prefeitura Municipal de Brejo Grande -SE | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Brasao_brejogrande.svg) |
+| 2801009 | Campo do Brito (SE) | `flags/mun/2801009.svg` | Prefeitura Municipal Campo do Brito | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_campodobrito.svg) |
 | 2801108 | Canhoba (SE) | `flags/mun/2801108.png` | Prefeitura Municipal de Canhoba-SE | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Band_canhoba_se.jpg) |
 | 2801207 | Canindé de São Francisco (SE) | `flags/mun/2801207.png` | Prefeitura Municipal de Canindé de São Francisco | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Canind%C3%A9_de_S%C3%A3o_Francisco,_SE.png) |
-| 2801306 | Capela (SE) | `flags/mun/2801306.png` | Prefeitura Municipal de Capela-SE | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_capela.svg) |
+| 2801306 | Capela (SE) | `flags/mun/2801306.svg` | Prefeitura Municipal de Capela-SE | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_capela.svg) |
 | 2801405 | Carira (SE) | `flags/mun/2801405.png` | Mmsite (talk) | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Carira_Sergipe_Brasil.jpg) |
 | 2801504 | Carmópolis (SE) | `flags/mun/2801504.png` | Prefeitura municipal de Carmópolis-SE | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_carmopolis.JPG) |
-| 2801603 | Cedro de São João (SE) | `flags/mun/2801603.png` | Blackcat | [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Flag_of_Cedro_de_S%C3%A3o_Jo%C3%A3o.svg) |
+| 2801603 | Cedro de São João (SE) | `flags/mun/2801603.svg` | Blackcat | [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Flag_of_Cedro_de_S%C3%A3o_Jo%C3%A3o.svg) |
 | 2801702 | Cristinápolis (SE) | `flags/mun/2801702.png` | Riba28-maps | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_cristinapolis.png) |
 | 2801900 | Cumbe (SE) | `flags/mun/2801900.png` | Prefeitura Municipal de Cumbe-SE | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Cumbe_band.jpg) |
 | 2802007 | Divina Pastora (SE) | `flags/mun/2802007.png` | Rodrigonet | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_-_Divina_Pastora.jpg) |
 | 2802106 | Estância (SE) | `flags/mun/2802106.png` | Estância City Hall | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira-estanciase.jpg) |
-| 2802304 | Frei Paulo (SE) | `flags/mun/2802304.png` | Riba28-maps | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_frei_paulo.svg) |
+| 2802304 | Frei Paulo (SE) | `flags/mun/2802304.svg` | Riba28-maps | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_frei_paulo.svg) |
 | 2802403 | Gararu (SE) | `flags/mun/2802403.png` | Prefeitura Municipal Gararu | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Band_gararu.png) |
-| 2802700 | Ilha das Flores (SE) | `flags/mun/2802700.png` | Prefeitura Municipal de Ilha das Flores - SE | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_ilhadasflores.svg) |
+| 2802700 | Ilha das Flores (SE) | `flags/mun/2802700.svg` | Prefeitura Municipal de Ilha das Flores - SE | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_ilhadasflores.svg) |
 | 2802908 | Itabaiana (SE) | `flags/mun/2802908.png` | Itabaiana City Hall | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira-itabaiana-se.png) |
 | 2803005 | Itabaianinha (SE) | `flags/mun/2803005.png` | Prefeitura de Itabaianinha-SE | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:BANDEIRA_ITABAIANINHA.jpg) |
-| 2803104 | Itabi (SE) | `flags/mun/2803104.png` | Prefeitura municipal Itabi | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_itabi.svg) |
+| 2803104 | Itabi (SE) | `flags/mun/2803104.svg` | Prefeitura municipal Itabi | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_itabi.svg) |
 | 2803203 | Itaporanga d'Ajuda (SE) | `flags/mun/2803203.png` | Prefeitura Municipal de Itaporanga D'Ajuda-SE | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Itaporanga_d%27Ajuda.jpg) |
 | 2803302 | Japaratuba (SE) | `flags/mun/2803302.png` | Prefeitura Municipal de Japaratuba-SE | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Japaratuba,_Sergipe.jpg) |
 | 2803500 | Lagarto (SE) | `flags/mun/2803500.png` | Prefeitura Municipal de Lagarto-SE | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira-de-lagarto-se.jpg) |
 | 2803609 | Laranjeiras (SE) | `flags/mun/2803609.png` | Riba28-maps | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_laranjeiras.jpg) |
 | 2803708 | Macambira (SE) | `flags/mun/2803708.png` | Prefeitura Municipal de Macambira-SE | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Band_macambira.png) |
-| 2803906 | Malhador (SE) | `flags/mun/2803906.png` | Prefeitura Municipal de Malhador | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_malhador.svg) |
+| 2803906 | Malhador (SE) | `flags/mun/2803906.svg` | Prefeitura Municipal de Malhador | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_malhador.svg) |
 | 2804003 | Maruim (SE) | `flags/mun/2804003.png` | Prefeitura Municipal de Maruim | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Band_maruim.png) |
 | 2804201 | Monte Alegre de Sergipe (SE) | `flags/mun/2804201.png` | Prefeitura Municipal de Monte Alegre de Sergipe | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Monte_Alegre_de_Sergipe.jpg) |
 | 2804508 | Nossa Senhora da Glória (SE) | `flags/mun/2804508.png` | Prefeitura municipal de Nossa Senhora da Glória | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_gloria.png) |
-| 2804607 | Nossa Senhora das Dores (SE) | `flags/mun/2804607.png` | Riba28-maps | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_nossa_senhora_dores.svg) |
+| 2804607 | Nossa Senhora das Dores (SE) | `flags/mun/2804607.svg` | Riba28-maps | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_nossa_senhora_dores.svg) |
 | 2804805 | Nossa Senhora do Socorro (SE) | `flags/mun/2804805.png` | user:Ancelsan | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_N._Sra._do_Socoro_Basico.JPG) |
 | 2804904 | Pacatuba (SE) | `flags/mun/2804904.png` | Prefeitura Municipal de Pacatuba | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:BandeiraPacatuba-SE.jpg) |
 | 2805109 | Pedrinhas (SE) | `flags/mun/2805109.png` | Prefeitura de Pedrinhas | Attribution | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Pedrinhas.PNG) |
-| 2805307 | Pirambu (SE) | `flags/mun/2805307.png` | Prefeitura Municipal de Pirambu-SE | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_PIRAMBU.svg) |
+| 2805307 | Pirambu (SE) | `flags/mun/2805307.svg` | Prefeitura Municipal de Pirambu-SE | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_PIRAMBU.svg) |
 | 2805406 | Poço Redondo (SE) | `flags/mun/2805406.png` | Riba28-maps | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_poco_redondo.png) |
 | 2805505 | Poço Verde (SE) | `flags/mun/2805505.png` | Igoravlis | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:BandeiraPo%C3%A7oVerde.png) |
 | 2805604 | Porto da Folha (SE) | `flags/mun/2805604.png` | Porto da Folha City Hall | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira-portodafolha-se.jpg) |
 | 2805703 | Propriá (SE) | `flags/mun/2805703.png` | não informado | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_propia_se.png) |
 | 2805802 | Riachão do Dantas (SE) | `flags/mun/2805802.png` | Prefeitura Municipal de Riachão do Dantas-SE | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Band_riachao_dantas.jpg) |
-| 2805901 | Riachuelo (SE) | `flags/mun/2805901.png` | Riba28-maps | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Riachuelo_SE.svg) |
-| 2806008 | Ribeirópolis (SE) | `flags/mun/2806008.png` | autor desconhecido | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_ribeiropolis.svg) |
+| 2805901 | Riachuelo (SE) | `flags/mun/2805901.svg` | Riba28-maps | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Riachuelo_SE.svg) |
+| 2806008 | Ribeirópolis (SE) | `flags/mun/2806008.svg` | autor desconhecido | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_ribeiropolis.svg) |
 | 2806107 | Rosário do Catete (SE) | `flags/mun/2806107.png` | Bandeira | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:BANDEIRA_DE_ROSARIO.JPG) |
-| 2806305 | Santa Luzia do Itanhy (SE) | `flags/mun/2806305.png` | Prefeitura Municipal de Santa Luzia do Itanhy-SE | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Band_sta_luzia_itanhy.svg) |
-| 2806503 | Santa Rosa de Lima (SE) | `flags/mun/2806503.png` | Prefeitura Municipal de Santa Rosa de Lima - SE | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_starosalima.svg) |
-| 2806602 | Santo Amaro das Brotas (SE) | `flags/mun/2806602.png` | Prefeitura Municipal de Santo Amaro das Brotas-SE | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_stoamaro.svg) |
-| 2806701 | São Cristóvão (SE) | `flags/mun/2806701.png` | Riba28-maps, Spider | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_scristovao.svg) |
+| 2806305 | Santa Luzia do Itanhy (SE) | `flags/mun/2806305.svg` | Prefeitura Municipal de Santa Luzia do Itanhy-SE | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Band_sta_luzia_itanhy.svg) |
+| 2806503 | Santa Rosa de Lima (SE) | `flags/mun/2806503.svg` | Prefeitura Municipal de Santa Rosa de Lima - SE | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_starosalima.svg) |
+| 2806602 | Santo Amaro das Brotas (SE) | `flags/mun/2806602.svg` | Prefeitura Municipal de Santo Amaro das Brotas-SE | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_stoamaro.svg) |
+| 2806701 | São Cristóvão (SE) | `flags/mun/2806701.svg` | Riba28-maps, Spider | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_scristovao.svg) |
 | 2806800 | São Domingos (SE) | `flags/mun/2806800.png` | Prefeitura municipal de São Domingos | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sdomingos_band.png) |
 | 2806909 | São Francisco (SE) | `flags/mun/2806909.png` | http://www.saofrancisco.se.gov.br | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Band_saofrancisco_se.png) |
 | 2807006 | São Miguel do Aleixo (SE) | `flags/mun/2807006.png` | Prefeitura Município de São Miguel do Aleixo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_SMA-SE.jpg) |
 | 2807105 | Simão Dias (SE) | `flags/mun/2807105.png` | Ddsoluf | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Sim%C3%A3o_Dias.png) |
-| 2807204 | Siriri (SE) | `flags/mun/2807204.png` | Prefeitura Municipal Siriri | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_siriri.svg) |
+| 2807204 | Siriri (SE) | `flags/mun/2807204.svg` | Prefeitura Municipal Siriri | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_siriri.svg) |
 | 2807303 | Telha (SE) | `flags/mun/2807303.png` | Prefeitura Municipal de Telha-SE | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Band_Telha.jpg) |
 | 2807402 | Tobias Barreto (SE) | `flags/mun/2807402.png` | Eduardo Gois 2019 | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_tobias_barreto.png) |
 | 2807501 | Tomar do Geru (SE) | `flags/mun/2807501.png` | Prefeitura Municipal de Tomar do Geru | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:BadeiraGeru.jpg) |
@@ -1200,7 +1200,7 @@ Gerado por `tools/gerar.py`. A mesma informação está em `dados/bandeiras.json
 | 2900207 | Abaré (BA) | `flags/mun/2900207.png` | Prefeitura de Abaré | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Abar%C3%A9.png) |
 | 2900306 | Acajutiba (BA) | `flags/mun/2900306.png` | Prefeitura Municipal de Acajutiba | [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira-Acajutiba.jpg) |
 | 2900355 | Adustina (BA) | `flags/mun/2900355.png` | Prefeitura de Adustina | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Adustina.jpg) |
-| 2900702 | Alagoinhas (BA) | `flags/mun/2900702.png` | BrCaLeTo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Alagoinhas_-_BA.svg) |
+| 2900702 | Alagoinhas (BA) | `flags/mun/2900702.svg` | BrCaLeTo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Alagoinhas_-_BA.svg) |
 | 2900801 | Alcobaça (BA) | `flags/mun/2900801.png` | Andrevruas | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Alcobacabandeira.jpg) |
 | 2901007 | Amargosa (BA) | `flags/mun/2901007.png` | Gildeflá, Raul, Noélia e Maria | [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:BANDEIRA_DE_AMARGOSA2.JPG) |
 | 2901106 | Amélia Rodrigues (BA) | `flags/mun/2901106.png` | Amélia Rodrigues City Hall | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira-ameliarodrigues.png) |
@@ -1210,7 +1210,7 @@ Gerado por `tools/gerar.py`. A mesma informação está em `dados/bandeiras.json
 | 2901908 | Aporá (BA) | `flags/mun/2901908.png` | não informado | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Apor%C3%A1-BA.jpg) |
 | 2902005 | Aracatu (BA) | `flags/mun/2902005.png` | PCosta04 | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Aracatu.jpg) |
 | 2902054 | Araçás (BA) | `flags/mun/2902054.png` | Prefeitura de Araçás | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Ara%C3%A7%C3%A1s.png) |
-| 2902104 | Araci (BA) | `flags/mun/2902104.png` | autor desconhecido | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Araci.svg) |
+| 2902104 | Araci (BA) | `flags/mun/2902104.svg` | autor desconhecido | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Araci.svg) |
 | 2902609 | Baixa Grande (BA) | `flags/mun/2902609.png` | Carlos Abade | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Baixa_Grande.jpg) |
 | 2902658 | Banzaê (BA) | `flags/mun/2902658.png` | Douglazera | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira-de-Banza%C3%AA.jpg) |
 | 2902708 | Barra (BA) | `flags/mun/2902708.png` | Luciaccoelho | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Barra.png) |
@@ -1227,21 +1227,21 @@ Gerado por `tools/gerar.py`. A mesma informação está em `dados/bandeiras.json
 | 2904803 | Caatiba (BA) | `flags/mun/2904803.png` | Tiago José Soares Silva | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_caatiba.JPG) |
 | 2904902 | Cachoeira (BA) | `flags/mun/2904902.png` | Fabio Bergamo | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Cachoeira.jpg) |
 | 2905008 | Caculé (BA) | `flags/mun/2905008.png` | Prefeitura | [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_cacule.jpg) |
-| 2905206 | Caetité (BA) | `flags/mun/2905206.png` | André Koehne (by the law) | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_caetite.svg) |
+| 2905206 | Caetité (BA) | `flags/mun/2905206.svg` | André Koehne (by the law) | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_caetite.svg) |
 | 2905305 | Cafarnaum (BA) | `flags/mun/2905305.png` | Lpnovais | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Cafarnaum.jpg) |
-| 2905503 | Caldeirão Grande (BA) | `flags/mun/2905503.png` | J. Kássio | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Caldeir%C3%A3o_Grande.svg) |
+| 2905503 | Caldeirão Grande (BA) | `flags/mun/2905503.svg` | J. Kássio | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Caldeir%C3%A3o_Grande.svg) |
 | 2905602 | Camacan (BA) | `flags/mun/2905602.png` | Renatozumaeta | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Camacan.jpg) |
-| 2905701 | Camaçari (BA) | `flags/mun/2905701.png` | Mateus Leite | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Cama%C3%A7ari.svg) |
+| 2905701 | Camaçari (BA) | `flags/mun/2905701.svg` | Mateus Leite | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Cama%C3%A7ari.svg) |
 | 2906006 | Campo Formoso (BA) | `flags/mun/2906006.png` | autor desconhecido | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Campo_Formoso.jpg) |
 | 2906204 | Canarana (BA) | `flags/mun/2906204.png` | Canarana | [CC BY-SA 2.5](https://creativecommons.org/licenses/by-sa/2.5) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_canarana.jpg) |
-| 2906303 | Canavieiras (BA) | `flags/mun/2906303.png` | Seashell: Brasão de Mira.svg: Mafalda caetano (altered) derivative work: Gazilion | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Canavieiras_-_BA.svg) |
+| 2906303 | Canavieiras (BA) | `flags/mun/2906303.svg` | Seashell: Brasão de Mira.svg: Mafalda caetano (altered) derivative work: Gazilion | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Canavieiras_-_BA.svg) |
 | 2906600 | Candiba (BA) | `flags/mun/2906600.png` | Giliardgomes22 | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Candiba-bandeira-bandeira.png) |
 | 2906709 | Cândido Sales (BA) | `flags/mun/2906709.png` | Renato.ferro | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_C%C3%A2ndido_Sales.jpg) |
 | 2906808 | Cansanção (BA) | `flags/mun/2906808.png` | Afrânio Fagundes dos Santos | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Cansancao-Ba.jpg) |
-| 2906907 | Caravelas (BA) | `flags/mun/2906907.png` | BrCaLeTo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Caravelas_-_BA.svg) |
+| 2906907 | Caravelas (BA) | `flags/mun/2906907.svg` | BrCaLeTo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Caravelas_-_BA.svg) |
 | 2907004 | Cardeal da Silva (BA) | `flags/mun/2907004.png` | Prefeitura de Cardeal da Silva | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Cardeal_da_Silva.png) |
 | 2907202 | Casa Nova (BA) | `flags/mun/2907202.png` | George Pergentino de Souza | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Casa_Nova2.jpg) |
-| 2907509 | Catu (BA) | `flags/mun/2907509.png` | BrCaLeTo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Catu_-_BA.svg) |
+| 2907509 | Catu (BA) | `flags/mun/2907509.svg` | BrCaLeTo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Catu_-_BA.svg) |
 | 2907608 | Central (BA) | `flags/mun/2907608.png` | Michel_Pires | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Central_BA.jpg) |
 | 2907806 | Cícero Dantas (BA) | `flags/mun/2907806.png` | Eder Joffre | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Cicero_Dantas.JPG) |
 | 2908101 | Cocos (BA) | `flags/mun/2908101.png` | Pcgomes | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Flag_of_Cocos_-_BA_-_Brazil.png) |
@@ -1259,7 +1259,7 @@ Gerado por `tools/gerar.py`. A mesma informação está em `dados/bandeiras.json
 | 2910107 | Dom Basílio (BA) | `flags/mun/2910107.png` | Quis custodiet ipsos custodes | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:DomBasilio_Flag.png) |
 | 2910206 | Dom Macedo Costa (BA) | `flags/mun/2910206.png` | Prefeitura de Dom Macedo Costa. | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Dom_Macedo_Costa.PNG) |
 | 2910503 | Entre Rios (BA) | `flags/mun/2910503.png` | FabioToledo | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Entre_Rios_-_Bahia.png) |
-| 2910727 | Eunápolis (BA) | `flags/mun/2910727.png` | Rodrigo Melo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_eunapolis.svg) |
+| 2910727 | Eunápolis (BA) | `flags/mun/2910727.svg` | Rodrigo Melo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_eunapolis.svg) |
 | 2910750 | Fátima (BA) | `flags/mun/2910750.png` | Prefeitura de Fátima | [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_F%C3%A1tima.jpg) |
 | 2910800 | Feira de Santana (BA) | `flags/mun/2910800.png` | não informado | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Feira_de_Santana.jpg) |
 | 2911303 | Gentio do Ouro (BA) | `flags/mun/2911303.png` | Prefeitura Municipal de Gentio do Ouro | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Gentio_do_Ouro_-_Bandeira.jpg) |
@@ -1267,17 +1267,17 @@ Gerado por `tools/gerar.py`. A mesma informação está em `dados/bandeiras.json
 | 2911659 | Guajeru (BA) | `flags/mun/2911659.png` | não informado | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Guajeru.JPG) |
 | 2911709 | Guanambi (BA) | `flags/mun/2911709.png` | willporto | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira-guanambi.jpg) |
 | 2911857 | Heliópolis (BA) | `flags/mun/2911857.png` | Prefeitura Municipal de Heliópolis | [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Heli%C3%B3polis_Bahia.jpg) |
-| 2912806 | Ibirapuã (BA) | `flags/mun/2912806.png` | Gazilion | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Ibirapu%C3%A3_-_BA.svg) |
+| 2912806 | Ibirapuã (BA) | `flags/mun/2912806.svg` | Gazilion | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Ibirapu%C3%A3_-_BA.svg) |
 | 2912905 | Ibirataia (BA) | `flags/mun/2912905.png` | FReale | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeiradeibirataia.PNG) |
 | 2913101 | Ibititá (BA) | `flags/mun/2913101.png` | Prefeitura de Ibititá | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Ibitit%C3%A1.png) |
 | 2913408 | Igaporã (BA) | `flags/mun/2913408.png` | Alexalvesba | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Igapor%C3%A3.jpg) |
 | 2913507 | Iguaí (BA) | `flags/mun/2913507.png` | Carlosjaguar | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_igua%C3%AD.png) |
-| 2913606 | Ilhéus (BA) | `flags/mun/2913606.png` | Mysid | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Flag_of_Ilh%C3%A9us.svg) |
+| 2913606 | Ilhéus (BA) | `flags/mun/2913606.svg` | Mysid | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Flag_of_Ilh%C3%A9us.svg) |
 | 2914000 | Ipirá (BA) | `flags/mun/2914000.png` | GuzzLightyear | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Flag_of_Ipir%C3%A1_by_Gustavo_Oliveira.png) |
 | 2914109 | Ipupiara (BA) | `flags/mun/2914109.png` | autor desconhecido | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Ipupiara.jpg) |
 | 2914604 | Irecê (BA) | `flags/mun/2914604.png` | não informado | Attribution | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeirairece.jpg) |
-| 2914802 | Itabuna (BA) | `flags/mun/2914802.png` | Own work | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Itabuna_Bahia_Brasil.svg) |
-| 2915304 | Itagimirim (BA) | `flags/mun/2915304.png` | Original: Imub Vector: Rehua | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Itagimirim,_Bahia,_Brasil.svg) |
+| 2914802 | Itabuna (BA) | `flags/mun/2914802.svg` | Own work | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Itabuna_Bahia_Brasil.svg) |
+| 2915304 | Itagimirim (BA) | `flags/mun/2915304.svg` | Original: Imub Vector: Rehua | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Itagimirim,_Bahia,_Brasil.svg) |
 | 2915353 | Itaguaçu da Bahia (BA) | `flags/mun/2915353.png` | não informado | Attribution | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeirairece.jpg) |
 | 2915700 | Itamari (BA) | `flags/mun/2915700.png` | Municipio de Itamari | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_do_munic%C3%ADpio_de_Itamari.jpg) |
 | 2915809 | Itambé (BA) | `flags/mun/2915809.png` | Hugocamizao | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:BandeiraItamb%C3%A9BA.jpg) |
@@ -1287,94 +1287,94 @@ Gerado por `tools/gerar.py`. A mesma informação está em `dados/bandeiras.json
 | 2916500 | Itapicuru (BA) | `flags/mun/2916500.png` | Prefeitura Municipal de Itapicuru | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Itapicuru.png) |
 | 2916807 | Itarantim (BA) | `flags/mun/2916807.png` | SIGRIDS | [FAL](http://artlibre.org/licence/lal/en) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Itarantim.jpg) |
 | 2917409 | Jacaraci (BA) | `flags/mun/2917409.png` | Andermagem | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_do_munic%C3%ADpio_de_Jacaraci.jpg) |
-| 2917508 | Jacobina (BA) | `flags/mun/2917508.png` | Hilda Maria Magnavita de Carvalho Barbosa | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Jacobina.svg) |
-| 2917805 | Jaguaripe (BA) | `flags/mun/2917805.png` | Mysid | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Flag_of_Jaguaripe.svg) |
+| 2917508 | Jacobina (BA) | `flags/mun/2917508.svg` | Hilda Maria Magnavita de Carvalho Barbosa | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Jacobina.svg) |
+| 2917805 | Jaguaripe (BA) | `flags/mun/2917805.svg` | Mysid | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Flag_of_Jaguaripe.svg) |
 | 2918001 | Jequié (BA) | `flags/mun/2918001.png` | Municipal prefecture of Jequié | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Jequi%C3%A9.JPG) |
 | 2918100 | Jeremoabo (BA) | `flags/mun/2918100.png` | Vitor.castillo (talk) | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Jarinu.jpg) |
 | 2918209 | Jiquiriçá (BA) | `flags/mun/2918209.png` | WesleiSouza | [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Jiquiri%C3%A7%C3%A1.png) |
 | 2918308 | Jitaúna (BA) | `flags/mun/2918308.png` | Vandrepassos | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Jita%C3%BAna.png) |
 | 2918407 | Juazeiro (BA) | `flags/mun/2918407.png` | autor desconhecido | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Juazeiro_Flag.png) |
 | 2918753 | Lagoa Real (BA) | `flags/mun/2918753.png` | não informado | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeiralagoareal.jpg) |
-| 2918902 | Lajedão (BA) | `flags/mun/2918902.png` | user:GANO | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Lajed%C3%A3o.svg) |
+| 2918902 | Lajedão (BA) | `flags/mun/2918902.svg` | user:GANO | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Lajed%C3%A3o.svg) |
 | 2919207 | Lauro de Freitas (BA) | `flags/mun/2919207.png` | Hospedagem e Desenvolvimento - Edvan.com.br | Attribution | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira-de-Lauro-de-Freitas1.jpg) |
 | 2919405 | Licínio de Almeida (BA) | `flags/mun/2919405.png` | Sam SSilva | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Licinio_bandeira.jpg) |
-| 2919504 | Livramento de Nossa Senhora (BA) | `flags/mun/2919504.png` | Gazilion | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Livramento_de_Nossa_Senhora_-_BA.svg) |
-| 2919553 | Luís Eduardo Magalhães (BA) | `flags/mun/2919553.png` | Original: L E M City Hall Vector: Rehua | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Lu%C3%ADs_Eduardo_Magalh%C3%A3es_bandeira.svg) |
+| 2919504 | Livramento de Nossa Senhora (BA) | `flags/mun/2919504.svg` | Gazilion | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Livramento_de_Nossa_Senhora_-_BA.svg) |
+| 2919553 | Luís Eduardo Magalhães (BA) | `flags/mun/2919553.svg` | Original: L E M City Hall Vector: Rehua | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Lu%C3%ADs_Eduardo_Magalh%C3%A3es_bandeira.svg) |
 | 2919702 | Macarani (BA) | `flags/mun/2919702.png` | Denny Ewerton Costa Cruz | [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Macarani,_BA_2026.png) |
 | 2919801 | Macaúbas (BA) | `flags/mun/2919801.png` | Digaoboyy | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Maca%C3%BAbas.png) |
 | 2919926 | Madre de Deus (BA) | `flags/mun/2919926.png` | autor desconhecido | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Madre_de_Deus_Flag.PNG) |
-| 2920106 | Mairi (BA) | `flags/mun/2920106.png` | autor desconhecido | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Mairi.svg) |
-| 2920502 | Maracás (BA) | `flags/mun/2920502.png` | Brenno Gonçalves Cardoso | [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_da_Cidade_de_Marac%C3%A1s-BA.svg) |
-| 2920908 | Mascote (BA) | `flags/mun/2920908.png` | Gazilion | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Mascote_-_BA.svg) |
+| 2920106 | Mairi (BA) | `flags/mun/2920106.svg` | autor desconhecido | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Mairi.svg) |
+| 2920502 | Maracás (BA) | `flags/mun/2920502.svg` | Brenno Gonçalves Cardoso | [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_da_Cidade_de_Marac%C3%A1s-BA.svg) |
+| 2920908 | Mascote (BA) | `flags/mun/2920908.svg` | Gazilion | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Mascote_-_BA.svg) |
 | 2921104 | Medeiros Neto (BA) | `flags/mun/2921104.png` | Prefeitura de Medeiros neto | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Medeiros_neto.png) |
 | 2921302 | Milagres (BA) | `flags/mun/2921302.png` | Prefeitura Municipal de Milagres BA | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Milagre_BA.jpg) |
-| 2921500 | Monte Santo (BA) | `flags/mun/2921500.png` | BrCaLeTo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Monte_Santo_-_BA.svg) |
+| 2921500 | Monte Santo (BA) | `flags/mun/2921500.svg` | BrCaLeTo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Monte_Santo_-_BA.svg) |
 | 2921708 | Morro do Chapéu (BA) | `flags/mun/2921708.png` | Gean Carlo | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_do_Munic%C3%ADpio_de_Morro_do_Chap%C3%A9u_-_BA.png) |
 | 2921807 | Mortugaba (BA) | `flags/mun/2921807.png` | Max Dayan Barbosa | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:BANDEIRA_DE_MORTUGABA.jpg) |
 | 2922003 | Mucuri (BA) | `flags/mun/2922003.png` | Prefeitura Municipal | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeiramucuri.jpg) |
-| 2922102 | Mundo Novo (BA) | `flags/mun/2922102.png` | BrCaLeTo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Mundo_Novo_-_BA.svg) |
+| 2922102 | Mundo Novo (BA) | `flags/mun/2922102.svg` | BrCaLeTo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Mundo_Novo_-_BA.svg) |
 | 2922300 | Muritiba (BA) | `flags/mun/2922300.png` | Prefeitura de Muritiba_BA | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Muritiba_BA.png) |
 | 2922409 | Mutuípe (BA) | `flags/mun/2922409.png` | Símbolos Municipais | [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_mutuipe.png) |
 | 2922508 | Nazaré (BA) | `flags/mun/2922508.png` | Roque Medeiros | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Nazar%C3%A9,_Bahia.jpg) |
 | 2922656 | Nordestina (BA) | `flags/mun/2922656.png` | Prefeitura de Nordestina_BA | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Nordestina_BA.png) |
 | 2922706 | Nova Canaã (BA) | `flags/mun/2922706.png` | Rodrigosieja | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Flag_of_Nova_Cana%C3%A3_(Bahia).jpg) |
 | 2922904 | Nova Soure (BA) | `flags/mun/2922904.png` | Prefeitura Nova Soure_BA | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Nova_Soure_BA.png) |
-| 2923001 | Nova Viçosa (BA) | `flags/mun/2923001.png` | Tozeos | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Nova_Vi%C3%A7osa_-_BA.svg) |
+| 2923001 | Nova Viçosa (BA) | `flags/mun/2923001.svg` | Tozeos | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Nova_Vi%C3%A7osa_-_BA.svg) |
 | 2923407 | Palmas de Monte Alto (BA) | `flags/mun/2923407.png` | GM | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Palmas_de_Monte_Alto.jpg) |
-| 2923605 | Paramirim (BA) | `flags/mun/2923605.png` | BrCaLeTo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Paramirim_-_BA.svg) |
+| 2923605 | Paramirim (BA) | `flags/mun/2923605.svg` | BrCaLeTo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Paramirim_-_BA.svg) |
 | 2923803 | Paripiranga (BA) | `flags/mun/2923803.png` | Prefeitura Municipal | [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Paripiranga.png) |
 | 2924009 | Paulo Afonso (BA) | `flags/mun/2924009.png` | não informado | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Paulo_Afonso.jpg) |
 | 2924405 | Pilão Arcado (BA) | `flags/mun/2924405.png` | não informado | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Pil%C3%A3o_arcado.JPG) |
 | 2924652 | Pintadas (BA) | `flags/mun/2924652.png` | No machine-readable author provided. Pintadense~commonswiki assumed (based on copyright claims). | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Ban_mul_pintadas.jpg) |
 | 2924678 | Piraí do Norte (BA) | `flags/mun/2924678.png` | Governo de Piraí do Norte | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_Pira%C3%AD_do_Norte.png) |
 | 2924702 | Piripá (BA) | `flags/mun/2924702.png` | Igorluiz | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Pirip%C3%A1-Ba.jpg) |
-| 2924900 | Planaltino (BA) | `flags/mun/2924900.png` | Gazilion | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Planaltino_-_BA.svg) |
+| 2924900 | Planaltino (BA) | `flags/mun/2924900.svg` | Gazilion | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Planaltino_-_BA.svg) |
 | 2925006 | Planalto (BA) | `flags/mun/2925006.png` | Prefeitura de Planalto - Bahia | [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:BANDEIRA_OFICIAL_PLANALTO_BAHIA.jpg) |
 | 2925204 | Pojuca (BA) | `flags/mun/2925204.png` | BRASIL. Prefeitura Municipal de Pojuca. 1940 | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Pojucana.jpg) |
 | 2925253 | Ponto Novo (BA) | `flags/mun/2925253.png` | Prefeitura Municipal de Ponto Novo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Ponto_Novo_BA.png) |
 | 2925303 | Porto Seguro (BA) | `flags/mun/2925303.png` | Eduardoramirodematos | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:BandeiraPortoSeguro.jpg) |
 | 2925808 | Queimadas (BA) | `flags/mun/2925808.png` | Prefeitura de Queimadas | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Queimadas.jpg) |
 | 2926400 | Riacho de Santana (BA) | `flags/mun/2926400.png` | Reprodução | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Riacho_de_Santana_Flag.PNG) |
-| 2926806 | Rio do Antônio (BA) | `flags/mun/2926806.png` | Gazilion | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Rio_do_Ant%C3%B4nio_-_BA.svg) |
-| 2927101 | Rodelas (BA) | `flags/mun/2927101.png` | Camervan | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Rodelas_BA.svg) |
-| 2927408 | Salvador (BA) | `flags/mun/2927408.png` | não informado | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Salvador.svg) |
-| 2927705 | Santa Cruz Cabrália (BA) | `flags/mun/2927705.png` | ViniciusBR11 | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:BandeiraSantaCruzCabralia.svg) |
+| 2926806 | Rio do Antônio (BA) | `flags/mun/2926806.svg` | Gazilion | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Rio_do_Ant%C3%B4nio_-_BA.svg) |
+| 2927101 | Rodelas (BA) | `flags/mun/2927101.svg` | Camervan | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Rodelas_BA.svg) |
+| 2927408 | Salvador (BA) | `flags/mun/2927408.svg` | não informado | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Salvador.svg) |
+| 2927705 | Santa Cruz Cabrália (BA) | `flags/mun/2927705.svg` | ViniciusBR11 | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:BandeiraSantaCruzCabralia.svg) |
 | 2927903 | Santa Inês (BA) | `flags/mun/2927903.png` | Prefeitura de Santa Inês BA | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Santa_In%C3%AAs_BA.png) |
-| 2928109 | Santa Maria da Vitória (BA) | `flags/mun/2928109.png` | Camervan | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Sta._Maria_da_Vit%C3%B3ria_BA.svg) |
+| 2928109 | Santa Maria da Vitória (BA) | `flags/mun/2928109.svg` | Camervan | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Sta._Maria_da_Vit%C3%B3ria_BA.svg) |
 | 2928208 | Santana (BA) | `flags/mun/2928208.png` | Mateus Soares´S | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Santana,_BA.jpg) |
 | 2928604 | Santo Amaro (BA) | `flags/mun/2928604.png` | autor desconhecido | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Sto_Amaro.jpg) |
-| 2928703 | Santo Antônio de Jesus (BA) | `flags/mun/2928703.png` | Giro720 | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Santo_Ant%C3%B4nio_de_Jesus_(Bahia).svg) |
-| 2929057 | São Félix do Coribe (BA) | `flags/mun/2929057.png` | Gazilion | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_S%C3%A3o_F%C3%A9lix_do_Coribe_-_BA.svg) |
-| 2929107 | São Felipe (BA) | `flags/mun/2929107.png` | Gazilion | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_S%C3%A3o_Felipe_-_BA.svg) |
-| 2929305 | São Gonçalo dos Campos (BA) | `flags/mun/2929305.png` | BrCaLeTo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_S%C3%A3o_Gon%C3%A7alo_dos_Campos_-_BA.svg) |
+| 2928703 | Santo Antônio de Jesus (BA) | `flags/mun/2928703.svg` | Giro720 | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Santo_Ant%C3%B4nio_de_Jesus_(Bahia).svg) |
+| 2929057 | São Félix do Coribe (BA) | `flags/mun/2929057.svg` | Gazilion | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_S%C3%A3o_F%C3%A9lix_do_Coribe_-_BA.svg) |
+| 2929107 | São Felipe (BA) | `flags/mun/2929107.svg` | Gazilion | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_S%C3%A3o_Felipe_-_BA.svg) |
+| 2929305 | São Gonçalo dos Campos (BA) | `flags/mun/2929305.svg` | BrCaLeTo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_S%C3%A3o_Gon%C3%A7alo_dos_Campos_-_BA.svg) |
 | 2929503 | São Sebastião do Passé (BA) | `flags/mun/2929503.png` | Prefeitura de São Sebastião do Passé | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:BandeiraSSP.jpg) |
-| 2929602 | Sapeaçu (BA) | `flags/mun/2929602.png` | BrCaLeTo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Sapea%C3%A7u_-_BA.svg) |
+| 2929602 | Sapeaçu (BA) | `flags/mun/2929602.svg` | BrCaLeTo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Sapea%C3%A7u_-_BA.svg) |
 | 2929701 | Sátiro Dias (BA) | `flags/mun/2929701.png` | Prefeitura de Sátiro Dias | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_S%C3%A1tiro_Dias.jpg) |
-| 2929800 | Saúde (BA) | `flags/mun/2929800.png` | Original: Prefeitura Municipal de Saúde Vector: J. Kássio | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Sa%C3%BAde_BA.svg) |
+| 2929800 | Saúde (BA) | `flags/mun/2929800.svg` | Original: Prefeitura Municipal de Saúde Vector: J. Kássio | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Sa%C3%BAde_BA.svg) |
 | 2930006 | Sebastião Laranjeiras (BA) | `flags/mun/2930006.png` | TAYGUARAvs | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Sebasti%C3%A3o_Laranjeiras.jpg) |
-| 2930105 | Senhor do Bonfim (BA) | `flags/mun/2930105.png` | Gazilion | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Senhor_do_Bonfim_-_BA.svg) |
+| 2930105 | Senhor do Bonfim (BA) | `flags/mun/2930105.svg` | Gazilion | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Senhor_do_Bonfim_-_BA.svg) |
 | 2930204 | Sento Sé (BA) | `flags/mun/2930204.png` | Não existe registro, sobre a criação da imagem no site da prefeitura. | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Sento_S%C3%A9.png) |
 | 2930501 | Serrinha (BA) | `flags/mun/2930501.png` | Pedrofaggnerr | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Serrinha,_Bahia.jpg) |
 | 2930600 | Serrolândia (BA) | `flags/mun/2930600.png` | autor desconhecido | [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeiraserrolandia.jpg) |
 | 2930709 | Simões Filho (BA) | `flags/mun/2930709.png` | Prefeitura de Simões Filho | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Sim%C3%B5es_Filho.png) |
 | 2930766 | Sítio do Quinto (BA) | `flags/mun/2930766.png` | Jornalista Roseli Silva | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_S%C3%ADtio_do_Quinto.png) |
-| 2930774 | Sobradinho (BA) | `flags/mun/2930774.png` | Laudivan Freire de Almeida | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Sobradinho,_Bahia.svg) |
+| 2930774 | Sobradinho (BA) | `flags/mun/2930774.svg` | Laudivan Freire de Almeida | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Sobradinho,_Bahia.svg) |
 | 2930907 | Tabocas do Brejo Velho (BA) | `flags/mun/2930907.png` | Adjanderson | [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_deTabocas.jpg) |
 | 2931053 | Tanque Novo (BA) | `flags/mun/2931053.png` | Prefeitura Municipal de Tanque Novo, Bahia | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Tanque_Novo.jpg) |
 | 2931301 | Tapiramutá (BA) | `flags/mun/2931301.png` | não informado | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_tapiramuta.png) |
-| 2931350 | Teixeira de Freitas (BA) | `flags/mun/2931350.png` | Gazilion | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Teixeira_de_Freitas_-_BA.svg) |
+| 2931350 | Teixeira de Freitas (BA) | `flags/mun/2931350.svg` | Gazilion | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Teixeira_de_Freitas_-_BA.svg) |
 | 2931400 | Teodoro Sampaio (BA) | `flags/mun/2931400.png` | Batistaromulo | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:BANDEIRA-TEODORO-SAMPAIO.png) |
 | 2931509 | Teofilândia (BA) | `flags/mun/2931509.png` | Marcos ouro | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_do_Municipio_de_Teofilandia,_Ba.png) |
-| 2931608 | Teolândia (BA) | `flags/mun/2931608.png` | Camervan | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Teol%C3%A2ndia_BA.svg) |
+| 2931608 | Teolândia (BA) | `flags/mun/2931608.svg` | Camervan | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Teol%C3%A2ndia_BA.svg) |
 | 2931806 | Tremedal (BA) | `flags/mun/2931806.png` | Horfew | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_do_munic%C3%ADpio_de_Tremedal.jpg) |
 | 2932101 | Ubaíra (BA) | `flags/mun/2932101.png` | Arnoncorado | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Flag_ubaira_by_arnoncorado.png) |
-| 2932408 | Uibaí (BA) | `flags/mun/2932408.png` | J. Kássio | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Uiba%C3%AD.svg) |
-| 2932507 | Una (BA) | `flags/mun/2932507.png` | Camervan | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Una_BA.svg) |
+| 2932408 | Uibaí (BA) | `flags/mun/2932408.svg` | J. Kássio | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Uiba%C3%AD.svg) |
+| 2932507 | Una (BA) | `flags/mun/2932507.svg` | Camervan | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Una_BA.svg) |
 | 2932903 | Valença (BA) | `flags/mun/2932903.png` | User:Pablomhv | [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Flag_Valen%C3%A7a_Bahia.png) |
 | 2933000 | Valente (BA) | `flags/mun/2933000.png` | CronosZ | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeiravalente.png) |
 | 2933158 | Várzea Nova (BA) | `flags/mun/2933158.png` | Prefeitura de VN | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_V%C3%A1rzea_Nova_BA.jpg) |
 | 2933257 | Vereda (BA) | `flags/mun/2933257.png` | Prefeitura de Vereda | [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Vereda_BA.png) |
-| 2933307 | Vitória da Conquista (BA) | `flags/mun/2933307.png` | This W3C-unspecified vector image was created with Inkscape by GANO . | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Vitoria_da_Conquista.svg) |
+| 2933307 | Vitória da Conquista (BA) | `flags/mun/2933307.svg` | This W3C-unspecified vector image was created with Inkscape by GANO . | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Vitoria_da_Conquista.svg) |
 | 2933604 | Xique-Xique (BA) | `flags/mun/2933604.png` | Prefeitura Municipal de Xique-Xique | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Xique-Xique_-_bandeira.jpg) |
 | 3100104 | Abadia dos Dourados (MG) | `flags/mun/3100104.png` | A21ns1g4ts | [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Abadia-dos-dourados-bandeira.png) |
 | 3100203 | Abaeté (MG) | `flags/mun/3100203.png` | RamonSOliveira | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Abaet%C3%A9.jpg) |
@@ -1439,17 +1439,17 @@ Gerado por `tools/gerar.py`. A mesma informação está em `dados/bandeiras.json
 | 3105707 | Barra Longa (MG) | `flags/mun/3105707.png` | Pcgomes | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Flag_of_Barra_Longa_-_MG_-_Brazil.png) |
 | 3105905 | Barroso (MG) | `flags/mun/3105905.png` | não informado | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Barroso.png) |
 | 3106002 | Bela Vista de Minas (MG) | `flags/mun/3106002.png` | Prefeitura de Bela Vista de Minas | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bela_Vista_de_Minasmgbandeirabr.png) |
-| 3106101 | Belmiro Braga (MG) | `flags/mun/3106101.png` | Prefeitura de Belmiro Braga | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Flag_of_Belmiro_Braga.svg) |
-| 3106200 | Belo Horizonte (MG) | `flags/mun/3106200.png` | Giro720 | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Belo_Horizonte.svg) |
+| 3106101 | Belmiro Braga (MG) | `flags/mun/3106101.svg` | Prefeitura de Belmiro Braga | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Flag_of_Belmiro_Braga.svg) |
+| 3106200 | Belo Horizonte (MG) | `flags/mun/3106200.svg` | Giro720 | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Belo_Horizonte.svg) |
 | 3106408 | Belo Vale (MG) | `flags/mun/3106408.png` | Breno Booz Carvalho | [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Belo_Vale,_MG.jpg) |
 | 3106507 | Berilo (MG) | `flags/mun/3106507.png` | Prefeitura de Berilo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Berilomgbandeirabr.jpg) |
 | 3106606 | Bertópolis (MG) | `flags/mun/3106606.png` | Prefeitura de Bertópolis | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bert%C3%B3polismgbandeirabr.png) |
 | 3106655 | Berizal (MG) | `flags/mun/3106655.png` | Prefeitura de Berizal | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Berizalmgbandeirabr.jpg) |
-| 3106705 | Betim (MG) | `flags/mun/3106705.png` | ViniciusBR11; Prefeitura de Betim | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:BandeiraBetim.svg) |
+| 3106705 | Betim (MG) | `flags/mun/3106705.svg` | ViniciusBR11; Prefeitura de Betim | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:BandeiraBetim.svg) |
 | 3106804 | Bias Fortes (MG) | `flags/mun/3106804.png` | Fernando Evangelista Ferreira Paes | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Bias_Fortes_(foto).jpg) |
 | 3106903 | Bicas (MG) | `flags/mun/3106903.png` | André Maroco | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Bicas.png) |
 | 3107000 | Biquinhas (MG) | `flags/mun/3107000.png` | Renato Hilário de Medeiros (talk) | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Biquinhas,_MG.jpg) |
-| 3107109 | Boa Esperança (MG) | `flags/mun/3107109.png` | BrCaLeTo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Boa_Esperan%C3%A7a_-_MG.svg) |
+| 3107109 | Boa Esperança (MG) | `flags/mun/3107109.svg` | BrCaLeTo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Boa_Esperan%C3%A7a_-_MG.svg) |
 | 3107208 | Bocaina de Minas (MG) | `flags/mun/3107208.png` | Prefeitura de Bocaina de Minas | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bocaina_de_Minasmgbandeirabr.jpg) |
 | 3107307 | Bocaiúva (MG) | `flags/mun/3107307.png` | Jair Bastos | [CC BY 3.0](https://creativecommons.org/licenses/by/3.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:BandeiraBocaiuvaMG.jpg) |
 | 3107406 | Bom Despacho (MG) | `flags/mun/3107406.png` | Prefeitura Municipal de Bom Despacho | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Bom_Despacho_MG.png) |
@@ -1461,7 +1461,7 @@ Gerado por `tools/gerar.py`. A mesma informação está em `dados/bandeiras.json
 | 3108008 | Bom Sucesso (MG) | `flags/mun/3108008.png` | Rafael Tiago Sabino Messias | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_bom_sucesso_MG.jpg) |
 | 3108107 | Bonfim (MG) | `flags/mun/3108107.png` | Prefeitura de Bonfim | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bonfimmg_bandeira.jpg) |
 | 3108206 | Bonfinópolis de Minas (MG) | `flags/mun/3108206.png` | Prefeitura de Bonfinópolis de Minas | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bonfin%C3%B3polis_de_Minasmg_bandeira.jpg) |
-| 3108255 | Bonito de Minas (MG) | `flags/mun/3108255.png` | Raphael Castro Mota | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Bonito_de_Minas.svg) |
+| 3108255 | Bonito de Minas (MG) | `flags/mun/3108255.svg` | Raphael Castro Mota | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Bonito_de_Minas.svg) |
 | 3108305 | Borda da Mata (MG) | `flags/mun/3108305.png` | Borda da Mata City Hall | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira-bordadamata.png) |
 | 3108404 | Botelhos (MG) | `flags/mun/3108404.png` | Prefeitura de Botelhos | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Botelhosmg_bandeira.jpg) |
 | 3108503 | Botumirim (MG) | `flags/mun/3108503.png` | Prefeitura de Botumirim | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Botumirimmgbandeira.png) |
@@ -1534,7 +1534,7 @@ Gerado por `tools/gerar.py`. A mesma informação está em `dados/bandeiras.json
 | 3114808 | Carvalhos (MG) | `flags/mun/3114808.png` | Prefeitura de Carvalhos | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Carvalhosmgbandeira.jpg) |
 | 3114907 | Casa Grande (MG) | `flags/mun/3114907.png` | Prefeitura de Casa Grande | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Casa_Grandemgbandeira.png) |
 | 3115003 | Cascalho Rico (MG) | `flags/mun/3115003.png` | Prefeitura de Cascalho Rico | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Cascalho_Ricomgbandeira.jpg) |
-| 3115102 | Cássia (MG) | `flags/mun/3115102.png` | Prefeitura Municipal de Cássia | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeiracassia.svg) |
+| 3115102 | Cássia (MG) | `flags/mun/3115102.svg` | Prefeitura Municipal de Cássia | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeiracassia.svg) |
 | 3115201 | Conceição da Barra de Minas (MG) | `flags/mun/3115201.png` | Prefeitura de Conceição da Barra de Minas | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Concei%C3%A7%C3%A3o_da_Barra_de_Minasmgbandeira.jpg) |
 | 3115300 | Cataguases (MG) | `flags/mun/3115300.png` | Fernando José Condé de Araújo | [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Cataguases.png) |
 | 3115359 | Catas Altas (MG) | `flags/mun/3115359.png` | PMCA | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira-catasaltas-mg.jpg) |
@@ -1583,9 +1583,9 @@ Gerado por `tools/gerar.py`. A mesma informação está em `dados/bandeiras.json
 | 3119104 | Corinto (MG) | `flags/mun/3119104.png` | Prefeitura de Corinto | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Corintomgbandeira.png) |
 | 3119203 | Coroaci (MG) | `flags/mun/3119203.png` | Prefeitura de Coroaci | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Coroacimgbandeira.jpg) |
 | 3119302 | Coromandel (MG) | `flags/mun/3119302.png` | Prefeitura de Coromandel | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Coromandelmgbandeira.jpg) |
-| 3119401 | Coronel Fabriciano (MG) | `flags/mun/3119401.png` | André Koehne | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Coronel_Fabriciano.svg) |
+| 3119401 | Coronel Fabriciano (MG) | `flags/mun/3119401.svg` | André Koehne | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Coronel_Fabriciano.svg) |
 | 3119500 | Coronel Murta (MG) | `flags/mun/3119500.png` | Eugenio Miranda Pereira (talk) | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Coronel_Murta_Flag.PNG) |
-| 3119609 | Coronel Pacheco (MG) | `flags/mun/3119609.png` | Camervan This W3C-unspecified vector image was created with Inkscape . | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Coronel_Pacheco.svg) |
+| 3119609 | Coronel Pacheco (MG) | `flags/mun/3119609.svg` | Camervan This W3C-unspecified vector image was created with Inkscape . | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Coronel_Pacheco.svg) |
 | 3119708 | Coronel Xavier Chaves (MG) | `flags/mun/3119708.png` | Prefeitura de Coronel Xavier Chaves | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Coronel_Xavier_Chavesmgbandeira.jpg) |
 | 3119807 | Córrego Danta (MG) | `flags/mun/3119807.png` | autor desconhecido | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_corregodanta.jpg) |
 | 3119906 | Córrego do Bom Jesus (MG) | `flags/mun/3119906.png` | Prefeitura de Córrego do Bom Jesus | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:C%C3%B3rrego_do_Bom_Jesusmgbandeira.jpg) |
@@ -1616,7 +1616,7 @@ Gerado por `tools/gerar.py`. A mesma informação está em `dados/bandeiras.json
 | 3122009 | Divino (MG) | `flags/mun/3122009.png` | Prefeitura de Divino | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Divinomgbandeira.jpg) |
 | 3122108 | Divino das Laranjeiras (MG) | `flags/mun/3122108.png` | Prefeitura de Divino das Laranjeiras | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Divino_das_Laranjeirasmgbandeira.png) |
 | 3122207 | Divinolândia de Minas (MG) | `flags/mun/3122207.png` | Marirei | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Divinol%C3%A2ndia_de_Minas.jpg) |
-| 3122306 | Divinópolis (MG) | `flags/mun/3122306.png` | Franklin Baldo 05:34, 9 January 2007 (UTC)UTC) | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_divin%C3%B3polis.svg) |
+| 3122306 | Divinópolis (MG) | `flags/mun/3122306.svg` | Franklin Baldo 05:34, 9 January 2007 (UTC)UTC) | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_divin%C3%B3polis.svg) |
 | 3122355 | Divisa Alegre (MG) | `flags/mun/3122355.png` | Prefeitura de Divisa Alegre | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Divisa_Alegremgbandeira.png) |
 | 3122405 | Divisa Nova (MG) | `flags/mun/3122405.png` | Ernani Zimmermann | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_do_Munic%C3%ADpio_de_Divisa_Nova_-Minas_Gerais.jpg) |
 | 3122454 | Divisópolis (MG) | `flags/mun/3122454.png` | Prefeitura de Divisópolis | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Divis%C3%B3polismgbandeira.png) |
@@ -1649,7 +1649,7 @@ Gerado por `tools/gerar.py`. A mesma informação está em `dados/bandeiras.json
 | 3124807 | Estrela do Sul (MG) | `flags/mun/3124807.png` | Prefeitura de Estrela do Sul | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Estrela_do_Sulmgbandeira.png) |
 | 3124906 | Eugenópolis (MG) | `flags/mun/3124906.png` | Prefeitura de Eugenópolis | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Eugen%C3%B3polismgbandeira.gif) |
 | 3125002 | Ewbank da Câmara (MG) | `flags/mun/3125002.png` | Município de Ewbank da Câmara | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Ewbank,_Lei_Municipal_253_de_1981.jpg) |
-| 3125101 | Extrema (MG) | `flags/mun/3125101.png` | Camervan | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Extrema_MG.svg) |
+| 3125101 | Extrema (MG) | `flags/mun/3125101.svg` | Camervan | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Extrema_MG.svg) |
 | 3125200 | Fama (MG) | `flags/mun/3125200.png` | Prefeitura de Fama | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Famamgbandeira.png) |
 | 3125309 | Faria Lemos (MG) | `flags/mun/3125309.png` | Prefeitura de Faria Lemos | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Faria_Lemosmgbandeira.jpg) |
 | 3125408 | Felício dos Santos (MG) | `flags/mun/3125408.png` | Prefeitura de Felício dos Santos | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Fel%C3%ADcio_dos_Santosmgbandeira.png) |
@@ -1681,10 +1681,10 @@ Gerado por `tools/gerar.py`. A mesma informação está em `dados/bandeiras.json
 | 3127404 | Gonçalves (MG) | `flags/mun/3127404.png` | Prefeitura de Gonçalves - MG | Attribution | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:BandeiraGoncalvesMG.jpg) |
 | 3127503 | Gonzaga (MG) | `flags/mun/3127503.png` | Prefeitura de Gonzaga | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Gonzagamgbandeira.jpg) |
 | 3127602 | Gouveia (MG) | `flags/mun/3127602.png` | Prefeitura de Gouveia | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Gouveiamgbandeira.jpg) |
-| 3127701 | Governador Valadares (MG) | `flags/mun/3127701.png` | Srfortes | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Governador_Valadares.svg) |
+| 3127701 | Governador Valadares (MG) | `flags/mun/3127701.svg` | Srfortes | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Governador_Valadares.svg) |
 | 3127800 | Grão Mogol (MG) | `flags/mun/3127800.png` | Francisco Seixas | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira-graomogol.jpg) |
-| 3128006 | Guanhães (MG) | `flags/mun/3128006.png` | SVG by Flagvisioner | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Guanh%C3%A3es.svg) |
-| 3128105 | Guapé (MG) | `flags/mun/3128105.png` | Cássio Cândido de Rezende | [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Oficial_de_Guap%C3%A9-MG.svg) |
+| 3128006 | Guanhães (MG) | `flags/mun/3128006.svg` | SVG by Flagvisioner | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Guanh%C3%A3es.svg) |
+| 3128105 | Guapé (MG) | `flags/mun/3128105.svg` | Cássio Cândido de Rezende | [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Oficial_de_Guap%C3%A9-MG.svg) |
 | 3128204 | Guaraciaba (MG) | `flags/mun/3128204.png` | Prefeitura de Guaraciaba | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Guaraciabamgbandeira.jpg) |
 | 3128253 | Guaraciama (MG) | `flags/mun/3128253.png` | Prefeitura de Guaraciama | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Guaraciamamgbandeira.jpg) |
 | 3128303 | Guaranésia (MG) | `flags/mun/3128303.png` | cidade de guaranesia | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_guaranesia.png) |
@@ -1722,7 +1722,7 @@ Gerado por `tools/gerar.py`. A mesma informação está em `dados/bandeiras.json
 | 3132503 | Itamarandiba (MG) | `flags/mun/3132503.png` | Município de Itamarandiba | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_itamarandiba.jpg) |
 | 3133006 | Itamonte (MG) | `flags/mun/3133006.png` | Gordoita | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:BandeiraItamonte.jpg) |
 | 3133105 | Itanhandu (MG) | `flags/mun/3133105.png` | Prefeitura Municipal de Itanhandu | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Itanhandu_MG.png) |
-| 3133303 | Itaobim (MG) | `flags/mun/3133303.png` | Felipe mézio | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Itaobim_SVG_001.svg) |
+| 3133303 | Itaobim (MG) | `flags/mun/3133303.svg` | Felipe mézio | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Itaobim_SVG_001.svg) |
 | 3133709 | Itatiaiuçu (MG) | `flags/mun/3133709.png` | Pcgomes | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Flag_of_Itatiaiu%C3%A7u.jpg) |
 | 3133758 | Itaú de Minas (MG) | `flags/mun/3133758.png` | R8bs8n Silva | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Ita%C3%BA_de_Minas.jpg) |
 | 3133808 | Itaúna (MG) | `flags/mun/3133808.png` | João da Silva | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeiraitauna.jpg) |
@@ -1746,9 +1746,9 @@ Gerado por `tools/gerar.py`. A mesma informação está em `dados/bandeiras.json
 | 3136306 | João Pinheiro (MG) | `flags/mun/3136306.png` | Prefeitura Municipal de João Pinheiro, MG | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Jo%C3%A3o_Pinheiro.jpg) |
 | 3136603 | Nova União (MG) | `flags/mun/3136603.png` | Confederação Nacional de Municípios | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeiranovauniao.jpg) |
 | 3136652 | Juatuba (MG) | `flags/mun/3136652.png` | Samirsaliba | [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_juatuba.JPG) |
-| 3136702 | Juiz de Fora (MG) | `flags/mun/3136702.png` | não informado | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Juiz_de_Fora.svg) |
+| 3136702 | Juiz de Fora (MG) | `flags/mun/3136702.svg` | não informado | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Juiz_de_Fora.svg) |
 | 3136959 | Juvenília (MG) | `flags/mun/3136959.png` | não informado | Attribution | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:BandeiraJuvenilia.jpg) |
-| 3137106 | Lagamar (MG) | `flags/mun/3137106.png` | Municipal Prefecture of Lagamar | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Lagamar_MinasGerais_Brasil.svg) |
+| 3137106 | Lagamar (MG) | `flags/mun/3137106.svg` | Municipal Prefecture of Lagamar | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Lagamar_MinasGerais_Brasil.svg) |
 | 3137205 | Lagoa da Prata (MG) | `flags/mun/3137205.png` | Cesar4585 | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Lagoa_da_Prata.jpg) |
 | 3137403 | Lagoa Dourada (MG) | `flags/mun/3137403.png` | Eduardo Resende | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Lagoa_Dourada,_MG.jpg) |
 | 3137502 | Lagoa Formosa (MG) | `flags/mun/3137502.png` | Prefeitura Municipal de Lagoa Formosa | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeiralagoaformosa.jpg) |
@@ -1758,9 +1758,9 @@ Gerado por `tools/gerar.py`. A mesma informação está em `dados/bandeiras.json
 | 3137908 | Lamim (MG) | `flags/mun/3137908.png` | LeandroRD | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira.Lamim.jpg) |
 | 3138203 | Lavras (MG) | `flags/mun/3138203.png` | Municipal Prefecture of Lavras | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira-lavras.jpg) |
 | 3138401 | Leopoldina (MG) | `flags/mun/3138401.png` | The original uploader was Ludmilson at Portuguese Wikipedia. | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Leopoldina_-_MG.jpg) |
-| 3138708 | Luminárias (MG) | `flags/mun/3138708.png` | Prefeitura Municipal de Luminárias/MG-Brasil | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_municipio_luminarias_minas_gerais_brasil.svg) |
+| 3138708 | Luminárias (MG) | `flags/mun/3138708.svg` | Prefeitura Municipal de Luminárias/MG-Brasil | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_municipio_luminarias_minas_gerais_brasil.svg) |
 | 3138807 | Luz (MG) | `flags/mun/3138807.png` | Prefeitura Municipal de Luz | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_-_Munic%C3%ADpio_de_Luz_-_MG.gif) |
-| 3139003 | Machado (MG) | `flags/mun/3139003.png` | BrCaLeTo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Machado_-_MG.svg) |
+| 3139003 | Machado (MG) | `flags/mun/3139003.svg` | BrCaLeTo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Machado_-_MG.svg) |
 | 3139102 | Madre de Deus de Minas (MG) | `flags/mun/3139102.png` | Othon Fajardo | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Oficial_de_Madre_de_Deus_de_Minas.jpg) |
 | 3139201 | Malacacheta (MG) | `flags/mun/3139201.png` | Eponino Ferreira da Costa | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Malacacheta.png) |
 | 3139300 | Manga (MG) | `flags/mun/3139300.png` | Luiz F. Guedes (talk) | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Manga_MinasGerais_Brasil.JPG) |
@@ -1778,7 +1778,7 @@ Gerado por `tools/gerar.py`. A mesma informação está em `dados/bandeiras.json
 | 3140803 | Matias Barbosa (MG) | `flags/mun/3140803.png` | Francisco Seixas | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Matias_Barbosa,_MG.png) |
 | 3141009 | Mato Verde (MG) | `flags/mun/3141009.png` | não informado | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_mato_verde.jpg) |
 | 3141108 | Matozinhos (MG) | `flags/mun/3141108.png` | Pref. Mun. Matozinhos | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira-matozinhos-mg.jpg) |
-| 3141207 | Matutina (MG) | `flags/mun/3141207.png` | Ronaldo Dimas | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_do_municipio_de_Matutina.svg) |
+| 3141207 | Matutina (MG) | `flags/mun/3141207.svg` | Ronaldo Dimas | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_do_municipio_de_Matutina.svg) |
 | 3141405 | Medina (MG) | `flags/mun/3141405.png` | João Pedro e Henrigo | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Medina.jpg) |
 | 3141504 | Mendes Pimentel (MG) | `flags/mun/3141504.png` | Antoniofernando1990 | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Mendes_Pimentel.png) |
 | 3141702 | Mesquita (MG) | `flags/mun/3141702.png` | HVL | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Flag_of_Mesquita_MG.PNG) |
@@ -1791,7 +1791,7 @@ Gerado por `tools/gerar.py`. A mesma informação está em `dados/bandeiras.json
 | 3142809 | Monte Alegre de Minas (MG) | `flags/mun/3142809.png` | Prefeitura Municipal de Monte Alegre de Minas | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Monte_Alegre_de_Minas,_MG.jpg) |
 | 3142908 | Monte Azul (MG) | `flags/mun/3142908.png` | Prefeitura | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Monte_Azul_MG.png) |
 | 3143203 | Monte Santo de Minas (MG) | `flags/mun/3143203.png` | Prefmontesanto | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:BANDEIRA_MONTE_SANTO_DE_MINAS.jpg) |
-| 3143302 | Montes Claros (MG) | `flags/mun/3143302.png` | Own work | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_MontesClaros_MinasGerais_Brasil.svg) |
+| 3143302 | Montes Claros (MG) | `flags/mun/3143302.svg` | Own work | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_MontesClaros_MinasGerais_Brasil.svg) |
 | 3143401 | Monte Sião (MG) | `flags/mun/3143401.png` | Portal Monte Sião | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Monte_Si%C3%A3o_-_MG.jpg) |
 | 3143807 | Munhoz (MG) | `flags/mun/3143807.png` | Rogerio Rock | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Munhoz.jpg) |
 | 3143906 | Muriaé (MG) | `flags/mun/3143906.png` | Prefeitura | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Flag_of_Muria%C3%A9_MG.png) |
@@ -1799,7 +1799,7 @@ Gerado por `tools/gerar.py`. A mesma informação está em `dados/bandeiras.json
 | 3144102 | Muzambinho (MG) | `flags/mun/3144102.png` | Prefeitura | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Flag_of_Muzambinho_MG.png) |
 | 3144300 | Nanuque (MG) | `flags/mun/3144300.png` | Kelwy | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Nanuque_Flag.png) |
 | 3144656 | Ninheira (MG) | `flags/mun/3144656.png` | Medsjp | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_ninheira.jpg) |
-| 3144706 | Nova Era (MG) | `flags/mun/3144706.png` | Giro720 | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Nova_Era_(Minas_Gerais).svg) |
+| 3144706 | Nova Era (MG) | `flags/mun/3144706.svg` | Giro720 | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Nova_Era_(Minas_Gerais).svg) |
 | 3144904 | Nova Módica (MG) | `flags/mun/3144904.png` | MUNICÍPIO DE NOVA MÓDICA | [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Nova_M%C3%B3dica_MG_BANDEIRA.PNG) |
 | 3145000 | Nova Ponte (MG) | `flags/mun/3145000.png` | Prefeitura Municipal de Nova Ponte Minas Gerais | [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Nova_Ponte-MG.jpeg) |
 | 3145059 | Nova Porteirinha (MG) | `flags/mun/3145059.png` | Prefeitura Municipal de Nova Porteirinha | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeiranovaporteirinha.jpg) |
@@ -1812,7 +1812,7 @@ Gerado por `tools/gerar.py`. A mesma informação está em `dados/bandeiras.json
 | 3145851 | Oratórios (MG) | `flags/mun/3145851.png` | Gabrielusjajahsiabaqkoahsjz | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Orat%C3%B3rios,_MG.png) |
 | 3145901 | Ouro Branco (MG) | `flags/mun/3145901.png` | Prefeitura Municpal de Ouro Branco | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Ouro_Branco_(MG).jpg) |
 | 3146008 | Ouro Fino (MG) | `flags/mun/3146008.png` | Prefeitura Municipal de Ouro Fino | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeiraourofino.jpg) |
-| 3146107 | Ouro Preto (MG) | `flags/mun/3146107.png` | Franklinbaldo 09:55, 31 December 2006 (UTC) | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Flag_ouro_preto.svg) |
+| 3146107 | Ouro Preto (MG) | `flags/mun/3146107.svg` | Franklinbaldo 09:55, 31 December 2006 (UTC) | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Flag_ouro_preto.svg) |
 | 3146206 | Ouro Verde de Minas (MG) | `flags/mun/3146206.png` | Governo de Ouro Verde de Minas | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Flag_of_Ouro_Verde_de_Minas.png) |
 | 3146503 | Pains (MG) | `flags/mun/3146503.png` | Prefeitura Municipal de Pains | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_pains.png) |
 | 3146701 | Palma (MG) | `flags/mun/3146701.png` | Paulojsjunior | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Palma_Mg.jpg) |
@@ -1820,7 +1820,7 @@ Gerado por `tools/gerar.py`. A mesma informação está em `dados/bandeiras.json
 | 3147105 | Pará de Minas (MG) | `flags/mun/3147105.png` | não informado | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Par%C3%A1_de_Minas,_MG.gif) |
 | 3147204 | Paraguaçu (MG) | `flags/mun/3147204.png` | Yelo Evany Prado | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Paragua%C3%A7u,_MG.jpg) |
 | 3147303 | Paraisópolis (MG) | `flags/mun/3147303.png` | Paraisópolis City Hall | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira-parais%C3%B3polis.png) |
-| 3147402 | Paraopeba (MG) | `flags/mun/3147402.png` | Pablo Busatto | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Flag_of_Paraopeba.svg) |
+| 3147402 | Paraopeba (MG) | `flags/mun/3147402.svg` | Pablo Busatto | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Flag_of_Paraopeba.svg) |
 | 3147600 | Passa Quatro (MG) | `flags/mun/3147600.png` | Alberto Lima & Maria José Borges Guedes | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Passa_Quatro_flag.jpg) |
 | 3147709 | Passa Tempo (MG) | `flags/mun/3147709.png` | Danigalo (talk) | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_do_Munic%C3%ADpio_de_Passa_Tempo_-_MG.png) |
 | 3147907 | Passos (MG) | `flags/mun/3147907.png` | ViniciusBR11; Prefeitura de Passos | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:BandeiraPassosMG.svg) |
@@ -1875,7 +1875,7 @@ Gerado por `tools/gerar.py`. A mesma informação está em `dados/bandeiras.json
 | 3156502 | Rubelita (MG) | `flags/mun/3156502.png` | Huriali | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Rubelita.jpg) |
 | 3156601 | Rubim (MG) | `flags/mun/3156601.png` | Prefeitura Municipal de Rubim | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Munic%C3%ADpio_de_Rubim-MG.jpg) |
 | 3156700 | Sabará (MG) | `flags/mun/3156700.png` | Prefeitura Municipal de Sabará. | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Flag_Sabar%C3%A1.jpg) |
-| 3156908 | Sacramento (MG) | `flags/mun/3156908.png` | Giro720 | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Sacramento_(Minas_Gerais).svg) |
+| 3156908 | Sacramento (MG) | `flags/mun/3156908.svg` | Giro720 | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Sacramento_(Minas_Gerais).svg) |
 | 3157005 | Salinas (MG) | `flags/mun/3157005.png` | não informado | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Salinas.png) |
 | 3157104 | Salto da Divisa (MG) | `flags/mun/3157104.png` | Lucas Pinheiro | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_do_munic%C3%ADpio_de_Salto_da_Divisa-MG.png) |
 | 3157203 | Santa Bárbara (MG) | `flags/mun/3157203.png` | Prefeitura | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Flag_of_Santa_B%C3%A1rbara_MG.png) |
@@ -1915,7 +1915,7 @@ Gerado por `tools/gerar.py`. A mesma informação está em `dados/bandeiras.json
 | 3163706 | São Lourenço (MG) | `flags/mun/3163706.png` | Manoel Noronha | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sao_lourenco_mg_flag.jpg) |
 | 3164001 | São Pedro dos Ferros (MG) | `flags/mun/3164001.png` | Lino Jurio H | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_S%C3%A3o_Pedro_dos_Ferros.jpg) |
 | 3164407 | São Sebastião da Bela Vista (MG) | `flags/mun/3164407.png` | Iuri Gabriel Mota | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_S%C3%A3o_Sebasti%C3%A3o_da_Bela_Vista.jpg) |
-| 3164704 | São Sebastião do Paraíso (MG) | `flags/mun/3164704.png` | BrCaLeTo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_S%C3%A3o_Sebasti%C3%A3o_do_Para%C3%ADso_-_MG.svg) |
+| 3164704 | São Sebastião do Paraíso (MG) | `flags/mun/3164704.svg` | BrCaLeTo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_S%C3%A3o_Sebasti%C3%A3o_do_Para%C3%ADso_-_MG.svg) |
 | 3165008 | São Tiago (MG) | `flags/mun/3165008.png` | Mavaca8 | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_S%C3%A3o_Tiago-MG.jpg) |
 | 3165404 | Sapucaí-Mirim (MG) | `flags/mun/3165404.png` | Prefeitura | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Flag_of_Sapuca%C3%AD-Mirim_MG.png) |
 | 3165552 | Setubinha (MG) | `flags/mun/3165552.png` | Pcgomes | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Flag_of_Setubinha_-_MG_-_Brazil.png) |
@@ -1948,7 +1948,7 @@ Gerado por `tools/gerar.py`. A mesma informação está em `dados/bandeiras.json
 | 3170008 | Ubaí (MG) | `flags/mun/3170008.png` | Mariojoseubai | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Uba%C3%AD.jpg) |
 | 3170057 | Ubaporanga (MG) | `flags/mun/3170057.png` | Prefeitura Municipal de Ubaporanga | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_ubaporanga.png) |
 | 3170107 | Uberaba (MG) | `flags/mun/3170107.png` | não informado | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:BandeiraUberaba.jpg) |
-| 3170206 | Uberlândia (MG) | `flags/mun/3170206.png` | own work | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Uberl%C3%A2ndia.svg) |
+| 3170206 | Uberlândia (MG) | `flags/mun/3170206.svg` | own work | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Uberl%C3%A2ndia.svg) |
 | 3170404 | Unaí (MG) | `flags/mun/3170404.png` | Prefeitura Municipal de Unaí, MG | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Una%C3%AD.jpg) |
 | 3170438 | União de Minas (MG) | `flags/mun/3170438.png` | Prefeitura Municipal de União de Minas | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_uniao_de_minas.png) |
 | 3170529 | Urucuia (MG) | `flags/mun/3170529.png` | Urucuiano | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Urucuia,_MG.png) |
@@ -1960,7 +1960,7 @@ Gerado por `tools/gerar.py`. A mesma informação está em `dados/bandeiras.json
 | 3171204 | Vespasiano (MG) | `flags/mun/3171204.png` | Município de Vespasiano | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Vespasiano.jpg) |
 | 3171303 | Viçosa (MG) | `flags/mun/3171303.png` | Prof. Arlindo de Paula Gonçalves | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_vi%C3%A7osa.jpg) |
 | 3172004 | Visconde do Rio Branco (MG) | `flags/mun/3172004.png` | não informado | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Visconde_do_Rio_Branco_MG.jpg) |
-| 3200102 | Afonso Cláudio (ES) | `flags/mun/3200102.png` | Daniel de Souza Telles | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_afonso_claudio.svg) |
+| 3200102 | Afonso Cláudio (ES) | `flags/mun/3200102.svg` | Daniel de Souza Telles | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_afonso_claudio.svg) |
 | 3200136 | Águia Branca (ES) | `flags/mun/3200136.png` | autor desconhecido | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeiraaguiabranca.png) |
 | 3200201 | Alegre (ES) | `flags/mun/3200201.png` | Prefeitura de Alegre | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Alegre_(Esp%C3%ADrito_Santo).png) |
 | 3200300 | Alfredo Chaves (ES) | `flags/mun/3200300.png` | Prefeitura de Alfredo Chaves (Espírito Santo) | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Alfredo_Chaves_(Esp%C3%ADrito_Santo).gif) |
@@ -1970,27 +1970,27 @@ Gerado por `tools/gerar.py`. A mesma informação está em `dados/bandeiras.json
 | 3200904 | Barra de São Francisco (ES) | `flags/mun/3200904.png` | CleberSC | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Barra_de_S%C3%A3o_Francisco.jpg) |
 | 3201001 | Boa Esperança (ES) | `flags/mun/3201001.png` | Valadares GV | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Boa_Esperan%C3%A7a_Esp%C3%ADrito_Santo.png) |
 | 3201100 | Bom Jesus do Norte (ES) | `flags/mun/3201100.png` | Prefeitura de Bom Jesus do Norte | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Bom_Jesus_do_Norte_(Esp%C3%ADrito_Santo).gif) |
-| 3201209 | Cachoeiro de Itapemirim (ES) | `flags/mun/3201209.png` | Reorganizador | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Cachoeiro_de_Itapemirim.svg) |
+| 3201209 | Cachoeiro de Itapemirim (ES) | `flags/mun/3201209.svg` | Reorganizador | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Cachoeiro_de_Itapemirim.svg) |
 | 3201308 | Cariacica (ES) | `flags/mun/3201308.png` | Cariacica City Hall | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira-cariacica.jpg) |
 | 3201407 | Castelo (ES) | `flags/mun/3201407.png` | não informado | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Castelo_(Esp%C3%ADrito_Santo).jpg) |
 | 3201506 | Colatina (ES) | `flags/mun/3201506.png` | Colatina City Hall | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira-colatina.png) |
-| 3201605 | Conceição da Barra (ES) | `flags/mun/3201605.png` | BrCaLeTo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Concei%C3%A7%C3%A3o_da_Barra_-_ES.svg) |
+| 3201605 | Conceição da Barra (ES) | `flags/mun/3201605.svg` | BrCaLeTo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Concei%C3%A7%C3%A3o_da_Barra_-_ES.svg) |
 | 3201704 | Conceição do Castelo (ES) | `flags/mun/3201704.png` | Pet189 | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_concei%C3%A7%C3%A3o_do_castelo.jpg) |
 | 3201902 | Domingos Martins (ES) | `flags/mun/3201902.png` | não informado | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:BandeiraDomingosMartinsES.jpg) |
 | 3202108 | Ecoporanga (ES) | `flags/mun/3202108.png` | Ecoporanga City Hall | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira-ecoporanga.png) |
 | 3202207 | Fundão (ES) | `flags/mun/3202207.png` | não informado | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Flag_of_Fund%C3%A3o.PNG) |
-| 3202256 | Governador Lindenberg (ES) | `flags/mun/3202256.png` | Unknown | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Governador_Lindenberg.svg) |
+| 3202256 | Governador Lindenberg (ES) | `flags/mun/3202256.svg` | Unknown | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Governador_Lindenberg.svg) |
 | 3202306 | Guaçuí (ES) | `flags/mun/3202306.png` | Original uploader was Rnbastos at pt.wikipedia | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:BandeiraGuacuiES.jpg) |
 | 3202405 | Guarapari (ES) | `flags/mun/3202405.png` | Roger Thunger | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_nova_de_Guarapari.png) |
-| 3202504 | Ibiraçu (ES) | `flags/mun/3202504.png` | José Guilherme Pagiola | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Ibira%C3%A7u.svg) |
-| 3202603 | Iconha (ES) | `flags/mun/3202603.png` | Iconha City Hall | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira-iconha.svg) |
+| 3202504 | Ibiraçu (ES) | `flags/mun/3202504.svg` | José Guilherme Pagiola | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Ibira%C3%A7u.svg) |
+| 3202603 | Iconha (ES) | `flags/mun/3202603.svg` | Iconha City Hall | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira-iconha.svg) |
 | 3202652 | Irupi (ES) | `flags/mun/3202652.png` | varios | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Irupi_flag.png) |
 | 3202702 | Itaguaçu (ES) | `flags/mun/3202702.png` | Prefeitura de Itaguaçu | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Itagua%C3%A7u_(Esp%C3%ADrito_Santo).jpg) |
 | 3202801 | Itapemirim (ES) | `flags/mun/3202801.png` | Acweller | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Itapemirim.png) |
 | 3203007 | Iúna (ES) | `flags/mun/3203007.png` | Prefeitura de Iúna | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_I%C3%BAna_(Esp%C3%ADrito_Santo).jpg) |
 | 3203056 | Jaguaré (ES) | `flags/mun/3203056.png` | Thiagonegris | [CC BY 3.0](https://creativecommons.org/licenses/by/3.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Jaguar%C3%A9.jpg) |
 | 3203106 | Jerônimo Monteiro (ES) | `flags/mun/3203106.png` | Jerônimo Monteiro City Hall | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Jer%C3%B4nimo_Monteiro_(Esp%C3%ADrito_Santo).jpg) |
-| 3203130 | João Neiva (ES) | `flags/mun/3203130.png` | derivative work: McSush (talk) Bandeira_joaoneiva.jpg: Alexsanderxm | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_joaoneiva.svg) |
+| 3203130 | João Neiva (ES) | `flags/mun/3203130.svg` | derivative work: McSush (talk) Bandeira_joaoneiva.jpg: Alexsanderxm | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_joaoneiva.svg) |
 | 3203205 | Linhares (ES) | `flags/mun/3203205.png` | Linhares City Hall | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira-linhares.png) |
 | 3203304 | Mantenópolis (ES) | `flags/mun/3203304.png` | Prefeitura de Mantenópolis (uploaded by Dener EBS) | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira-Manten%C3%B3polis.png) |
 | 3203320 | Marataízes (ES) | `flags/mun/3203320.png` | Mataraízes City Hall | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira-marataizes.jpg) |
@@ -2007,7 +2007,7 @@ Gerado por `tools/gerar.py`. A mesma informação está em `dados/bandeiras.json
 | 3204104 | Pinheiros (ES) | `flags/mun/3204104.png` | Valadares GV | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Pinheiros_Esp%C3%ADrito_Santo.png) |
 | 3204203 | Piúma (ES) | `flags/mun/3204203.png` | Câmara municipal de Piúma | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Flag_of_Pi%C3%BAma_ES.png) |
 | 3204252 | Ponto Belo (ES) | `flags/mun/3204252.png` | Símbolo Municipal | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_ponto_belo.jpg) |
-| 3204302 | Presidente Kennedy (ES) | `flags/mun/3204302.png` | NINTENPUG | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Presidente_Kennedy.svg) |
+| 3204302 | Presidente Kennedy (ES) | `flags/mun/3204302.svg` | NINTENPUG | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Presidente_Kennedy.svg) |
 | 3204351 | Rio Bananal (ES) | `flags/mun/3204351.png` | Rio Bananal City Hall | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira-riobananal.jpg) |
 | 3204401 | Rio Novo do Sul (ES) | `flags/mun/3204401.png` | Rio Novo do Sul City Hall | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira-rionovodoul.jpg) |
 | 3204500 | Santa Leopoldina (ES) | `flags/mun/3204500.png` | Ismael Silva Oliveira | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_do_munic%C3%ADpio_de_Santa_Leopoldina.jpg) |
@@ -2020,10 +2020,10 @@ Gerado por `tools/gerar.py`. A mesma informação está em `dados/bandeiras.json
 | 3205010 | Sooretama (ES) | `flags/mun/3205010.png` | Valadares GV | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Sooretama_Esp%C3%ADrito_Santo.png) |
 | 3205069 | Venda Nova do Imigrante (ES) | `flags/mun/3205069.png` | Venda Nova do Imigrante City Hall | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Venda_Nova_do_Imigrante_(Esp%C3%ADrito_Santo).png) |
 | 3205101 | Viana (ES) | `flags/mun/3205101.png` | Viana City Hall | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira-viana-es.jpg) |
-| 3205150 | Vila Pavão (ES) | `flags/mun/3205150.png` | Ronaldo Furtado de Oliveira | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_vila_pavao.svg) |
+| 3205150 | Vila Pavão (ES) | `flags/mun/3205150.svg` | Ronaldo Furtado de Oliveira | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_vila_pavao.svg) |
 | 3205176 | Vila Valério (ES) | `flags/mun/3205176.png` | Câmara Municipal de Vila Valério | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Vila_Val%C3%A9rio_no_ES.png) |
-| 3205200 | Vila Velha (ES) | `flags/mun/3205200.png` | Reorganizador | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Vila_Velha_(Esp%C3%ADrito_Santo).svg) |
-| 3205309 | Vitória (ES) | `flags/mun/3205309.png` | ViniciusBR11, Prefeitura de Vitória | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Vit%C3%B3ria.svg) |
+| 3205200 | Vila Velha (ES) | `flags/mun/3205200.svg` | Reorganizador | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Vila_Velha_(Esp%C3%ADrito_Santo).svg) |
+| 3205309 | Vitória (ES) | `flags/mun/3205309.svg` | ViniciusBR11, Prefeitura de Vitória | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Vit%C3%B3ria.svg) |
 | 3300100 | Angra dos Reis (RJ) | `flags/mun/3300100.png` | Francisco Seixas | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Angra_dos_Reis.png) |
 | 3300159 | Aperibé (RJ) | `flags/mun/3300159.png` | Aperibé City Hall | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Aperib%C3%A9.jpg) |
 | 3300209 | Araruama (RJ) | `flags/mun/3300209.png` | não informado | [GPL](http://www.gnu.org/licenses/gpl.html) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira-araruama.png) |
@@ -2032,7 +2032,7 @@ Gerado por `tools/gerar.py`. A mesma informação está em `dados/bandeiras.json
 | 3300258 | Arraial do Cabo (RJ) | `flags/mun/3300258.png` | City Hall | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Flag_of_Arraial_do_Cabo_-_RJ.png) |
 | 3300308 | Barra do Piraí (RJ) | `flags/mun/3300308.png` | Municipal Prefecture of Barra do pirai | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Barra_do_Pira%C3%AD.png) |
 | 3300407 | Barra Mansa (RJ) | `flags/mun/3300407.png` | não informado | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Barra_Mansa.gif) |
-| 3300456 | Belford Roxo (RJ) | `flags/mun/3300456.png` | Wanderson S. Dantas | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Belford_Roxo.svg) |
+| 3300456 | Belford Roxo (RJ) | `flags/mun/3300456.svg` | Wanderson S. Dantas | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Belford_Roxo.svg) |
 | 3300506 | Bom Jardim (RJ) | `flags/mun/3300506.png` | Júlio Salusse | [FAL](http://artlibre.org/licence/lal/en) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Googd_garden-RJ-flag.jpg) |
 | 3300605 | Bom Jesus do Itabapoana (RJ) | `flags/mun/3300605.png` | não informado | [GPL](http://www.gnu.org/licenses/gpl.html) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Bom_Jesus_do_Itabapoana.png) |
 | 3300704 | Cabo Frio (RJ) | `flags/mun/3300704.png` | Anderson Lopes (Djmangueira) | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_cabo_frio.png) |
@@ -2042,8 +2042,8 @@ Gerado por `tools/gerar.py`. A mesma informação está em `dados/bandeiras.json
 | 3300951 | Comendador Levy Gasparian (RJ) | `flags/mun/3300951.png` | Comendador Levy Gasparian Municipalty | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira-levygasparian.JPG) |
 | 3301009 | Campos dos Goytacazes (RJ) | `flags/mun/3301009.png` | Prefecture of Campos dos Goytacazes | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Campos_dos_Goytacazes.png) |
 | 3301108 | Cantagalo (RJ) | `flags/mun/3301108.png` | Municipal Prefecture of Cantagalo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Cantagalo_(Rio_de_Janeiro).jpg) |
-| 3301157 | Cardoso Moreira (RJ) | `flags/mun/3301157.png` | BrCaLeTo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Cardoso_Moreira_-_RJ.svg) |
-| 3301207 | Carmo (RJ) | `flags/mun/3301207.png` | Own work | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Carmo_(Rio_de_Janeiro).svg) |
+| 3301157 | Cardoso Moreira (RJ) | `flags/mun/3301157.svg` | BrCaLeTo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Cardoso_Moreira_-_RJ.svg) |
+| 3301207 | Carmo (RJ) | `flags/mun/3301207.svg` | Own work | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Carmo_(Rio_de_Janeiro).svg) |
 | 3301306 | Casimiro de Abreu (RJ) | `flags/mun/3301306.png` | não informado | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Casimiro_de_Abreu_(Rio_de_Janeiro).png) |
 | 3301405 | Conceição de Macabu (RJ) | `flags/mun/3301405.png` | Francisco Seixas | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira-concei%C3%A7%C3%A3o_de_macabu.jpg) |
 | 3301504 | Cordeiro (RJ) | `flags/mun/3301504.png` | não informado | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira-cordeiro.jpg) |
@@ -2058,64 +2058,64 @@ Gerado por `tools/gerar.py`. A mesma informação está em `dados/bandeiras.json
 | 3302106 | Itaocara (RJ) | `flags/mun/3302106.png` | Pref. Municipal Itaocara | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Itaocara.jpg) |
 | 3302205 | Itaperuna (RJ) | `flags/mun/3302205.png` | não informado | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_ita.jpeg) |
 | 3302254 | Itatiaia (RJ) | `flags/mun/3302254.png` | Prefeitura Municipal de Itaiaia | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira-itatiaia2.png) |
-| 3302270 | Japeri (RJ) | `flags/mun/3302270.png` | Wanderson S. Dantas | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Japeri.svg) |
+| 3302270 | Japeri (RJ) | `flags/mun/3302270.svg` | Wanderson S. Dantas | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Japeri.svg) |
 | 3302304 | Laje do Muriaé (RJ) | `flags/mun/3302304.png` | Prefeitura Municipal de Laje do Muriaé | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Flag_of_Laje_do_Muria%C3%A9.gif) |
-| 3302403 | Macaé (RJ) | `flags/mun/3302403.png` | Loco085 | [CC BY-SA 2.5](https://creativecommons.org/licenses/by-sa/2.5) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira-macae.svg) |
+| 3302403 | Macaé (RJ) | `flags/mun/3302403.svg` | Loco085 | [CC BY-SA 2.5](https://creativecommons.org/licenses/by-sa/2.5) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira-macae.svg) |
 | 3302452 | Macuco (RJ) | `flags/mun/3302452.png` | Ari Evlis | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Macuco_(Rio_de_Janeiro).jpg) |
-| 3302502 | Magé (RJ) | `flags/mun/3302502.png` | Pcgomes | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Mag%C3%A9.svg) |
+| 3302502 | Magé (RJ) | `flags/mun/3302502.svg` | Pcgomes | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Mag%C3%A9.svg) |
 | 3302601 | Mangaratiba (RJ) | `flags/mun/3302601.png` | PMM | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Mangaratiba.jpg) |
-| 3302700 | Maricá (RJ) | `flags/mun/3302700.png` | Oren neu dag | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Maric%C3%A1.svg) |
+| 3302700 | Maricá (RJ) | `flags/mun/3302700.svg` | Oren neu dag | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Maric%C3%A1.svg) |
 | 3302809 | Mendes (RJ) | `flags/mun/3302809.png` | Francisco Seixas | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira-mendes.PNG) |
-| 3302858 | Mesquita (RJ) | `flags/mun/3302858.png` | Giro720 | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Mesquita_(Rio_de_Janeiro).svg) |
+| 3302858 | Mesquita (RJ) | `flags/mun/3302858.svg` | Giro720 | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Mesquita_(Rio_de_Janeiro).svg) |
 | 3302908 | Miguel Pereira (RJ) | `flags/mun/3302908.png` | Francisco Seixas | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Miguel_Pereira.jpg) |
 | 3303005 | Miracema (RJ) | `flags/mun/3303005.png` | Francisco Seixas | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Miracema.jpg) |
 | 3303104 | Natividade (RJ) | `flags/mun/3303104.png` | PM Natividade | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira-natividade.JPG) |
 | 3303203 | Nilópolis (RJ) | `flags/mun/3303203.png` | Daniel Lopes | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Nilopolis.png) |
-| 3303302 | Niterói (RJ) | `flags/mun/3303302.png` | Guilherme Paula | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Flag_of_Niter%C3%B3i.svg) |
+| 3303302 | Niterói (RJ) | `flags/mun/3303302.svg` | Guilherme Paula | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Flag_of_Niter%C3%B3i.svg) |
 | 3303401 | Nova Friburgo (RJ) | `flags/mun/3303401.png` | Himasaram | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Flag_of_Nova_Friburgo.png) |
-| 3303500 | Nova Iguaçu (RJ) | `flags/mun/3303500.png` | Wanderson S. Dantas | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Nova_Igua%C3%A7u.svg) |
+| 3303500 | Nova Iguaçu (RJ) | `flags/mun/3303500.svg` | Wanderson S. Dantas | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Nova_Igua%C3%A7u.svg) |
 | 3303609 | Paracambi (RJ) | `flags/mun/3303609.png` | não informado | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira-paracambi.jpg) |
-| 3303708 | Paraíba do Sul (RJ) | `flags/mun/3303708.png` | Kilom691 | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Para%C3%ADba_do_Sul.svg) |
+| 3303708 | Paraíba do Sul (RJ) | `flags/mun/3303708.svg` | Kilom691 | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Para%C3%ADba_do_Sul.svg) |
 | 3303807 | Paraty (RJ) | `flags/mun/3303807.png` | Prefeitura de Paraty | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Paraty.png) |
 | 3303856 | Paty do Alferes (RJ) | `flags/mun/3303856.png` | Prefeitura Municipal de Paty do Alferes | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira-patydoalferes.png) |
-| 3303906 | Petrópolis (RJ) | `flags/mun/3303906.png` | COA from: Projeto: Dr. Guilherme de Almeida / Desenho do Sr. Wasat Rodrigues Adaptation: Auguel | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Petr%C3%B3polis.svg) |
+| 3303906 | Petrópolis (RJ) | `flags/mun/3303906.svg` | COA from: Projeto: Dr. Guilherme de Almeida / Desenho do Sr. Wasat Rodrigues Adaptation: Auguel | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Petr%C3%B3polis.svg) |
 | 3303955 | Pinheiral (RJ) | `flags/mun/3303955.png` | Francisco Seixas | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira-pinheiral.PNG) |
 | 3304003 | Piraí (RJ) | `flags/mun/3304003.png` | Francisco Seixas | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira-pirai.PNG) |
 | 3304102 | Porciúncula (RJ) | `flags/mun/3304102.png` | não informado | [GPL](http://www.gnu.org/licenses/gpl.html) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira-porciuncula.jpg) |
 | 3304110 | Porto Real (RJ) | `flags/mun/3304110.png` | não informado | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Porto_Real.jpg) |
-| 3304128 | Quatis (RJ) | `flags/mun/3304128.png` | Guilherme Paula | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Flag_of_Quatis.svg) |
-| 3304144 | Queimados (RJ) | `flags/mun/3304144.png` | Wanderson S. Dantas | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Queimados.svg) |
-| 3304151 | Quissamã (RJ) | `flags/mun/3304151.png` | Srfortes | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Quissama_RiodeJaneiro_Brasil.svg) |
+| 3304128 | Quatis (RJ) | `flags/mun/3304128.svg` | Guilherme Paula | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Flag_of_Quatis.svg) |
+| 3304144 | Queimados (RJ) | `flags/mun/3304144.svg` | Wanderson S. Dantas | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Queimados.svg) |
+| 3304151 | Quissamã (RJ) | `flags/mun/3304151.svg` | Srfortes | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Quissama_RiodeJaneiro_Brasil.svg) |
 | 3304201 | Resende (RJ) | `flags/mun/3304201.png` | Municipal Prefecture of Resende | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira-resende.png) |
 | 3304300 | Rio Bonito (RJ) | `flags/mun/3304300.png` | Francisco Seixas | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Rio_Bonito_(Rio_de_Janeiro).png) |
 | 3304409 | Rio Claro (RJ) | `flags/mun/3304409.png` | Francisco Seixas | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira-rioclaro.PNG) |
 | 3304508 | Rio das Flores (RJ) | `flags/mun/3304508.png` | Rio das Flores City Hall | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira-riodasflores.png) |
 | 3304524 | Rio das Ostras (RJ) | `flags/mun/3304524.png` | Prefeitura de Rio das Ostras | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Oficial_de_Rio_das_Ostras.jpg) |
-| 3304557 | Rio de Janeiro (RJ) | `flags/mun/3304557.png` | Cidade do Rio de Janeiro | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_da_cidade_do_Rio_de_Janeiro.svg) |
+| 3304557 | Rio de Janeiro (RJ) | `flags/mun/3304557.svg` | Cidade do Rio de Janeiro | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_da_cidade_do_Rio_de_Janeiro.svg) |
 | 3304607 | Santa Maria Madalena (RJ) | `flags/mun/3304607.png` | Raul Breno Marquardt | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Santa_Maria_Madalena_(Rio_de_Janeiro).jpg) |
-| 3304706 | Santo Antônio de Pádua (RJ) | `flags/mun/3304706.png` | Flag: Governo do Brasil This file: SilentSpike | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Santo_Ant%C3%B4nio_de_P%C3%A1dua.svg) |
+| 3304706 | Santo Antônio de Pádua (RJ) | `flags/mun/3304706.svg` | Flag: Governo do Brasil This file: SilentSpike | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Santo_Ant%C3%B4nio_de_P%C3%A1dua.svg) |
 | 3304755 | São Francisco de Itabapoana (RJ) | `flags/mun/3304755.png` | São Francisco de Itabapoana City Hall | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira-saofranciscodoitabapoana.JPG) |
 | 3304805 | São Fidélis (RJ) | `flags/mun/3304805.png` | Grok (modelo Aurora da xAI). Prompt e supervisão de Alexandre Mury para restauração técnica fiel aos decretos de 1963… | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_S%C3%A3o_Fid%C3%A9lis_-_Decreto-25-72.png) |
-| 3304904 | São Gonçalo (RJ) | `flags/mun/3304904.png` | Guilherme Paula | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Flag_of_S%C3%A3o_Gon%C3%A7alo.svg) |
+| 3304904 | São Gonçalo (RJ) | `flags/mun/3304904.svg` | Guilherme Paula | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Flag_of_S%C3%A3o_Gon%C3%A7alo.svg) |
 | 3305000 | São João da Barra (RJ) | `flags/mun/3305000.png` | Prefeitura Municipal de São João da Barra | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:S%C3%A3o_Jo%C3%A3o_da_Barra.gif) |
 | 3305109 | São João de Meriti (RJ) | `flags/mun/3305109.png` | Prefeitura de São João de Meriti | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira-saojoaodemeriti.JPG) |
 | 3305133 | São José de Ubá (RJ) | `flags/mun/3305133.png` | Celomozer | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira-sao_jose_de_uba.JPG) |
 | 3305158 | São José do Vale do Rio Preto (RJ) | `flags/mun/3305158.png` | Prefeitura Municipal de São José do Vale do Rio Preto | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_S%C3%A3o_Jos%C3%A9_do_Vale_do_Rio_Preto.gif) |
 | 3305208 | São Pedro da Aldeia (RJ) | `flags/mun/3305208.png` | não informado | [GPL](http://www.gnu.org/licenses/gpl.html) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_S%C3%A3o_Pedro_da_Aldeia.jpg) |
 | 3305307 | São Sebastião do Alto (RJ) | `flags/mun/3305307.png` | Tennamilk | [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_S%C3%A3o_Sebasti%C3%A3o_do_Alto.png) |
-| 3305406 | Sapucaia (RJ) | `flags/mun/3305406.png` | Francisco Seixas Vectorized by Magasjukur2 | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira-sapucaia.svg) |
-| 3305505 | Saquarema (RJ) | `flags/mun/3305505.png` | Torimem | [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira-de-Saquarema.svg) |
+| 3305406 | Sapucaia (RJ) | `flags/mun/3305406.svg` | Francisco Seixas Vectorized by Magasjukur2 | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira-sapucaia.svg) |
+| 3305505 | Saquarema (RJ) | `flags/mun/3305505.svg` | Torimem | [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira-de-Saquarema.svg) |
 | 3305554 | Seropédica (RJ) | `flags/mun/3305554.png` | não informado | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira-seropedica.jpg) |
 | 3305604 | Silva Jardim (RJ) | `flags/mun/3305604.png` | Prefeitura Municipal de Silva Jardim | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:SilvaJardim.gif) |
 | 3305703 | Sumidouro (RJ) | `flags/mun/3305703.png` | não informado | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira-sumidouro.JPG) |
 | 3305752 | Tanguá (RJ) | `flags/mun/3305752.png` | Tanguá City Hall | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira-tangua.PNG) |
-| 3305802 | Teresópolis (RJ) | `flags/mun/3305802.png` | Eugenio Hansen, OFS | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Teresopolis.svg) |
+| 3305802 | Teresópolis (RJ) | `flags/mun/3305802.svg` | Eugenio Hansen, OFS | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Teresopolis.svg) |
 | 3305901 | Trajano de Moraes (RJ) | `flags/mun/3305901.png` | Francisco Seixas | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira-trajanodemorais.PNG) |
 | 3306008 | Três Rios (RJ) | `flags/mun/3306008.png` | Francisco Seixas | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Tr%C3%AAs_Rios.jpg) |
 | 3306107 | Valença (RJ) | `flags/mun/3306107.png` | não informado | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Valen%C3%A7a_(Rio_de_Janeiro).png) |
 | 3306156 | Varre-Sai (RJ) | `flags/mun/3306156.png` | não informado | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira-varresai.jpg) |
 | 3306206 | Vassouras (RJ) | `flags/mun/3306206.png` | não informado | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Vassouras_(Rio_de_Janeiro).png) |
-| 3306305 | Volta Redonda (RJ) | `flags/mun/3306305.png` | Torimem | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Volta_Redonda_-_RJ.svg) |
+| 3306305 | Volta Redonda (RJ) | `flags/mun/3306305.svg` | Torimem | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Volta_Redonda_-_RJ.svg) |
 | 3500105 | Adamantina (SP) | `flags/mun/3500105.png` | Municipal Prefecture of Adamantina | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Adamantina.jpg) |
 | 3500303 | Aguaí (SP) | `flags/mun/3500303.png` | Aguaí City Hall | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira-agua%C3%AD.png) |
 | 3500402 | Águas da Prata (SP) | `flags/mun/3500402.png` | Artistas municipais | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_aguasdaprata.jpg) |
@@ -2132,12 +2132,12 @@ Gerado por `tools/gerar.py`. A mesma informação está em `dados/bandeiras.json
 | 3501301 | Álvares Machado (SP) | `flags/mun/3501301.png` | Prefeitura Municipal | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_%C3%81lvares_Machado.jpg) |
 | 3501400 | Álvaro de Carvalho (SP) | `flags/mun/3501400.png` | Prefeitura Municipal | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_%C3%81lvaro_de_Carvalho.png) |
 | 3501509 | Alvinlândia (SP) | `flags/mun/3501509.png` | PrefeituradeAlvinlandia | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Alvinlandia.jpg) |
-| 3501608 | Americana (SP) | `flags/mun/3501608.png` | BrCaLeTo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Americana_-_SP.svg) |
+| 3501608 | Americana (SP) | `flags/mun/3501608.svg` | BrCaLeTo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Americana_-_SP.svg) |
 | 3501707 | Américo Brasiliense (SP) | `flags/mun/3501707.png` | não informado | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_americo_brasiliense.png) |
 | 3501806 | Américo de Campos (SP) | `flags/mun/3501806.png` | Prefeitura de Américo de Campos | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_americo_de_campos.JPG) |
 | 3501905 | Amparo (SP) | `flags/mun/3501905.png` | não informado | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:AmparoBand.jpg) |
 | 3502002 | Analândia (SP) | `flags/mun/3502002.png` | Manoel V. Lisboa | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeiraanalandia.jpg) |
-| 3502101 | Andradina (SP) | `flags/mun/3502101.png` | BrCaLeTo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Andradina_-_SP.svg) |
+| 3502101 | Andradina (SP) | `flags/mun/3502101.svg` | BrCaLeTo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Andradina_-_SP.svg) |
 | 3502200 | Angatuba (SP) | `flags/mun/3502200.png` | The original uploader was GronkOkara at Portuguese Wikipedia., fornecida pela prefeitura do município de Angatuba pel… | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Angatuba.jpg) |
 | 3502309 | Anhembi (SP) | `flags/mun/3502309.png` | Prefeitura de Anhembi | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Anhembi_bandeira.jpg) |
 | 3502408 | Anhumas (SP) | `flags/mun/3502408.png` | Prefeitura Municipal | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Anhumas.png) |
@@ -2145,13 +2145,13 @@ Gerado por `tools/gerar.py`. A mesma informação está em `dados/bandeiras.json
 | 3502606 | Aparecida d'Oeste (SP) | `flags/mun/3502606.png` | Prefeitura Municipal | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Aparecida_d%27Oeste.png) |
 | 3502705 | Apiaí (SP) | `flags/mun/3502705.png` | Evandroapiai | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_apiai.jpg) |
 | 3502754 | Araçariguama (SP) | `flags/mun/3502754.png` | Prefeitura Municipal | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Ara%C3%A7ariguama.png) |
-| 3502804 | Araçatuba (SP) | `flags/mun/3502804.png` | Abyssmanx | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Ara%C3%A7atuba.svg) |
+| 3502804 | Araçatuba (SP) | `flags/mun/3502804.svg` | Abyssmanx | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Ara%C3%A7atuba.svg) |
 | 3502903 | Araçoiaba da Serra (SP) | `flags/mun/3502903.png` | Euskadirlz | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Ara%C3%A7oiaba_da_serra.JPG) |
 | 3503000 | Aramina (SP) | `flags/mun/3503000.png` | Prefeitura Municipal de Aramina. | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_aramina.png) |
 | 3503109 | Arandu (SP) | `flags/mun/3503109.png` | Prefeitura Municipal | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Arandu.png) |
 | 3503158 | Arapeí (SP) | `flags/mun/3503158.png` | não informado | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Arapei_bandeira.png) |
-| 3503208 | Araraquara (SP) | `flags/mun/3503208.png` | Own work, José Romeu Ferraz, Guilherme de Almeida & Lauro Ribeiro Escobar | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:BandeiraAraraquara.svg) |
-| 3503307 | Araras (SP) | `flags/mun/3503307.png` | Enzo Silveira | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Araras.svg) |
+| 3503208 | Araraquara (SP) | `flags/mun/3503208.svg` | Own work, José Romeu Ferraz, Guilherme de Almeida & Lauro Ribeiro Escobar | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:BandeiraAraraquara.svg) |
+| 3503307 | Araras (SP) | `flags/mun/3503307.svg` | Enzo Silveira | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Araras.svg) |
 | 3503356 | Arco-Íris (SP) | `flags/mun/3503356.png` | Prefeitura Municipal | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Arco-%C3%8Dris.png) |
 | 3503406 | Arealva (SP) | `flags/mun/3503406.png` | Prefeitura Municipal | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Arealva.png) |
 | 3503505 | Areias (SP) | `flags/mun/3503505.png` | não informado | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Areias_bandeira.png) |
@@ -2166,7 +2166,7 @@ Gerado por `tools/gerar.py`. A mesma informação está em `dados/bandeiras.json
 | 3504305 | Avaí (SP) | `flags/mun/3504305.png` | City Hall | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Flag_of_Ava%C3%AD_-_SP.png) |
 | 3504404 | Avanhandava (SP) | `flags/mun/3504404.png` | Prefeitura Municipal | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Avanhandava.jpg) |
 | 3504503 | Avaré (SP) | `flags/mun/3504503.png` | não informado | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Avar%C3%A9.jpg) |
-| 3504602 | Bady Bassitt (SP) | `flags/mun/3504602.png` | Own work | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_BadyBassit_SaoPaulo_Brasil.svg) |
+| 3504602 | Bady Bassitt (SP) | `flags/mun/3504602.svg` | Own work | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_BadyBassit_SaoPaulo_Brasil.svg) |
 | 3504701 | Balbinos (SP) | `flags/mun/3504701.png` | Balbinos City Hall | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira-balbinossp.jpg) |
 | 3504800 | Bálsamo (SP) | `flags/mun/3504800.png` | Prefeitura Municipal de Bálsamo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_B%C3%A1lsamo.png) |
 | 3504909 | Bananal (SP) | `flags/mun/3504909.png` | não informado | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bananal_bandeira.png) |
@@ -2175,18 +2175,18 @@ Gerado por `tools/gerar.py`. A mesma informação está em `dados/bandeiras.json
 | 3505302 | Barra Bonita (SP) | `flags/mun/3505302.png` | Prefeitura de Barra Bonita | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Barra_Bonita_SP.jpg) |
 | 3505351 | Barra do Chapéu (SP) | `flags/mun/3505351.png` | City Hall of Barra do Chapéu | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Flag_of_Barra_do_Chapeu_SP.png) |
 | 3505401 | Barra do Turvo (SP) | `flags/mun/3505401.png` | Confederação Nacional dos Municípios | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_barra_do_turvo_bandeira.png) |
-| 3505500 | Barretos (SP) | `flags/mun/3505500.png` | Own work | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Barretos_SaoPaulo_Brasil.svg) |
+| 3505500 | Barretos (SP) | `flags/mun/3505500.svg` | Own work | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Barretos_SaoPaulo_Brasil.svg) |
 | 3505609 | Barrinha (SP) | `flags/mun/3505609.png` | Prefeitura Municipal | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Barrinha.png) |
 | 3505708 | Barueri (SP) | `flags/mun/3505708.png` | Prefeitura de Barueri | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Barueri.jpg) |
 | 3505807 | Bastos (SP) | `flags/mun/3505807.png` | Domaleixo | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_bastos.PNG) |
-| 3505906 | Batatais (SP) | `flags/mun/3505906.png` | ViniciusBR11; Prefeitura de Batatais | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:BandeiraBatatais.svg) |
-| 3506003 | Bauru (SP) | `flags/mun/3506003.png` | BrCaLeTo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Bauru_-_SP.svg) |
+| 3505906 | Batatais (SP) | `flags/mun/3505906.svg` | ViniciusBR11; Prefeitura de Batatais | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:BandeiraBatatais.svg) |
+| 3506003 | Bauru (SP) | `flags/mun/3506003.svg` | BrCaLeTo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Bauru_-_SP.svg) |
 | 3506102 | Bebedouro (SP) | `flags/mun/3506102.png` | não informado | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:BandeiraBebedouro.jpg) |
 | 3506201 | Bento de Abreu (SP) | `flags/mun/3506201.png` | Prefeitura Municipal | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Bento_de_Abreu.png) |
 | 3506300 | Bernardino de Campos (SP) | `flags/mun/3506300.png` | Prefeitura do Município de Bernardino de Campos São Paulo, Brasil | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_bernardino_de_campos.jpg) |
 | 3506359 | Bertioga (SP) | `flags/mun/3506359.png` | não informado | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Bertioga.jpg) |
 | 3506409 | Bilac (SP) | `flags/mun/3506409.png` | Prefeitura Municipal | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Bilac.jpg) |
-| 3506508 | Birigui (SP) | `flags/mun/3506508.png` | Município de Birigüi | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Birig%C3%BCi.svg) |
+| 3506508 | Birigui (SP) | `flags/mun/3506508.svg` | Município de Birigüi | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Birig%C3%BCi.svg) |
 | 3506607 | Biritiba Mirim (SP) | `flags/mun/3506607.png` | não informado | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Biritiba-Mirim.jpg) |
 | 3506706 | Boa Esperança do Sul (SP) | `flags/mun/3506706.png` | Prefeitura Municipal | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Boa_Esperan%C3%A7a_do_Sul.jpg) |
 | 3506805 | Bocaina (SP) | `flags/mun/3506805.png` | Prefeitura Municipal de Bocaina | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Bocaina.jpg) |
@@ -2197,14 +2197,14 @@ Gerado por `tools/gerar.py`. A mesma informação está em `dados/bandeiras.json
 | 3507308 | Boracéia (SP) | `flags/mun/3507308.png` | Prefeitura Municipal | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Boraceia.png) |
 | 3507407 | Borborema (SP) | `flags/mun/3507407.png` | Municipal Prefecture of Borborema | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_borborema.png) |
 | 3507456 | Borebi (SP) | `flags/mun/3507456.png` | Prefeitura Municipal | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Borebi.png) |
-| 3507506 | Botucatu (SP) | `flags/mun/3507506.png` | Prefeitura Municipal de Botucatu | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Botucatu_SaoPaulo_Brasil.svg) |
+| 3507506 | Botucatu (SP) | `flags/mun/3507506.svg` | Prefeitura Municipal de Botucatu | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Botucatu_SaoPaulo_Brasil.svg) |
 | 3507605 | Bragança Paulista (SP) | `flags/mun/3507605.png` | não informado | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Bragan%C3%A7a_Paulista.jpg) |
 | 3507704 | Braúna (SP) | `flags/mun/3507704.png` | Prefeitura Municipal de Brauna | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Bra%C3%BAna.png) |
 | 3507753 | Brejo Alegre (SP) | `flags/mun/3507753.png` | Prefeitura Municipal | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Brejo_Alegre.png) |
 | 3507803 | Brodowski (SP) | `flags/mun/3507803.png` | Prefeitura Municipal | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Brodowski.png) |
 | 3507902 | Brotas (SP) | `flags/mun/3507902.png` | Prefeitura Municipal | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Brotas.png) |
 | 3508009 | Buri (SP) | `flags/mun/3508009.png` | pm buri | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeiraburi.jpg) |
-| 3508108 | Buritama (SP) | `flags/mun/3508108.png` | BrCaLeTo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Buritama_-_SP.svg) |
+| 3508108 | Buritama (SP) | `flags/mun/3508108.svg` | BrCaLeTo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Buritama_-_SP.svg) |
 | 3508207 | Buritizal (SP) | `flags/mun/3508207.png` | Prefeitura Municipal de Buritizal. | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Buritizal.png) |
 | 3508306 | Cabrália Paulista (SP) | `flags/mun/3508306.png` | Prefeitura Municipal | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Cabr%C3%A1lia_Paulista.png) |
 | 3508405 | Cabreúva (SP) | `flags/mun/3508405.png` | não informado | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Cabreuva.jpg) |
@@ -2220,18 +2220,18 @@ Gerado por `tools/gerar.py`. A mesma informação está em `dados/bandeiras.json
 | 3509304 | Cajobi (SP) | `flags/mun/3509304.png` | Prefeitura Municipal | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Cajobi.png) |
 | 3509403 | Cajuru (SP) | `flags/mun/3509403.png` | Prefeitura Municipal | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Cajuru.png) |
 | 3509452 | Campina do Monte Alegre (SP) | `flags/mun/3509452.png` | não informado | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeiracma.jpg) |
-| 3509502 | Campinas (SP) | `flags/mun/3509502.png` | Guilherme de Almeida | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Campinas_city_flag.svg) |
+| 3509502 | Campinas (SP) | `flags/mun/3509502.svg` | Guilherme de Almeida | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Campinas_city_flag.svg) |
 | 3509601 | Campo Limpo Paulista (SP) | `flags/mun/3509601.png` | Arcinóe Antonio Peixoto de Faria | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_campo_limpo_paulista.png) |
-| 3509700 | Campos do Jordão (SP) | `flags/mun/3509700.png` | FORTES | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_CamposdoJordao_SaoPaulo_Brasil_2.svg) |
+| 3509700 | Campos do Jordão (SP) | `flags/mun/3509700.svg` | FORTES | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_CamposdoJordao_SaoPaulo_Brasil_2.svg) |
 | 3509809 | Campos Novos Paulista (SP) | `flags/mun/3509809.png` | Prefeitura Municipal de Campos Novos Paulista | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:BandeiraCamposNovosPta.jpg) |
-| 3509908 | Cananéia (SP) | `flags/mun/3509908.png` | Own work | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Cananeia_SaoPaulo_Brasil.svg) |
+| 3509908 | Cananéia (SP) | `flags/mun/3509908.svg` | Own work | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Cananeia_SaoPaulo_Brasil.svg) |
 | 3509957 | Canas (SP) | `flags/mun/3509957.png` | Prefeitura de Canas | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Canas_-_SP.jpg) |
 | 3510005 | Cândido Mota (SP) | `flags/mun/3510005.png` | Prefeitura Municipal de Cândido Mota | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:BandeiraCandidoMota.jpg) |
 | 3510104 | Cândido Rodrigues (SP) | `flags/mun/3510104.png` | Prefeitura Municipal de Cândido Rodrigues. | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_C%C3%A2ndido_Rodrigues.jpg) |
 | 3510203 | Capão Bonito (SP) | `flags/mun/3510203.png` | não informado | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Cap%C3%A3o_Bonito.jpg) |
 | 3510302 | Capela do Alto (SP) | `flags/mun/3510302.png` | City Hall of Capela do Alto | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Flag_of_Capela_do_Alto_SP.png) |
 | 3510401 | Capivari (SP) | `flags/mun/3510401.png` | não informado | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Capivari.jpg) |
-| 3510500 | Caraguatatuba (SP) | `flags/mun/3510500.png` | FORTES | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Caraguatatuba_SaoPaulo_Brasil_v2.svg) |
+| 3510500 | Caraguatatuba (SP) | `flags/mun/3510500.svg` | FORTES | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Caraguatatuba_SaoPaulo_Brasil_v2.svg) |
 | 3510609 | Carapicuíba (SP) | `flags/mun/3510609.png` | não informado | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Carapicuiba_bandeira.jpg) |
 | 3510708 | Cardoso (SP) | `flags/mun/3510708.png` | Prefeitura Municipal de Cardoso/SP | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeiracardososp.JPG) |
 | 3510807 | Casa Branca (SP) | `flags/mun/3510807.png` | não informado | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeiracasabranca.jpg) |
@@ -2258,7 +2258,7 @@ Gerado por `tools/gerar.py`. A mesma informação está em `dados/bandeiras.json
 | 3513108 | Cravinhos (SP) | `flags/mun/3513108.png` | Cravinhos City Hall | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira-cravinhos.png) |
 | 3513207 | Cristais Paulista (SP) | `flags/mun/3513207.png` | Prefeitura Municipal | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Cristais_Paulista.png) |
 | 3513306 | Cruzália (SP) | `flags/mun/3513306.png` | Prefeitura Municipal de Cruzália | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:BandeiraCruzalia.jpg) |
-| 3513405 | Cruzeiro (SP) | `flags/mun/3513405.png` | FORTES | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Cruzeiro_(SP).svg) |
+| 3513405 | Cruzeiro (SP) | `flags/mun/3513405.svg` | FORTES | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Cruzeiro_(SP).svg) |
 | 3513504 | Cubatão (SP) | `flags/mun/3513504.png` | Humbertosousasilva 01:31, 6 February 2008 (UTC) | [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Cubatao_bandeira.png) |
 | 3513603 | Cunha (SP) | `flags/mun/3513603.png` | não informado | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Cunha_bandeira.png) |
 | 3513702 | Descalvado (SP) | `flags/mun/3513702.png` | Prefeitura de Descalvado | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Descalvado-SP.jpg) |
@@ -2269,7 +2269,7 @@ Gerado por `tools/gerar.py`. A mesma informação está em `dados/bandeiras.json
 | 3514106 | Dois Córregos (SP) | `flags/mun/3514106.png` | Prefeitura Municipal | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Dois_C%C3%B3rregos.png) |
 | 3514205 | Dolcinópolis (SP) | `flags/mun/3514205.png` | Prefeitura Municipal | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Dolcin%C3%B3polis.png) |
 | 3514304 | Dourado (SP) | `flags/mun/3514304.png` | http://www.dourado.sp.gov.br/ | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Dourado_SP.jpg) |
-| 3514403 | Dracena (SP) | `flags/mun/3514403.png` | Own work | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Dracena_SaoPaulo_Brasil.svg) |
+| 3514403 | Dracena (SP) | `flags/mun/3514403.svg` | Own work | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Dracena_SaoPaulo_Brasil.svg) |
 | 3514502 | Duartina (SP) | `flags/mun/3514502.png` | Prefeitura Municipal de Duartina - SP | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Duartina.jpg) |
 | 3514601 | Dumont (SP) | `flags/mun/3514601.png` | Eftibali (talk) | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Dumont_SaoPaulo_Brasil.jpg) |
 | 3514700 | Echaporã (SP) | `flags/mun/3514700.png` | Prefeitura de Echaporã | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Echapor%C3%A3-SP,Brasil.jpg) |
@@ -2316,7 +2316,7 @@ Gerado por `tools/gerar.py`. A mesma informação está em `dados/bandeiras.json
 | 3518107 | Guarantã (SP) | `flags/mun/3518107.png` | Prefeitura Municipal | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Guarant%C3%A3.png) |
 | 3518206 | Guararapes (SP) | `flags/mun/3518206.png` | Prefeitura Municipal de Guararapes | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Guararapes.png) |
 | 3518305 | Guararema (SP) | `flags/mun/3518305.png` | Município de Guararema | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_do_Municipio_de_Guararema-SP.png) |
-| 3518404 | Guaratinguetá (SP) | `flags/mun/3518404.png` | FORTES | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Guaratingueta_SaoPaulo_Brasil_2.svg) |
+| 3518404 | Guaratinguetá (SP) | `flags/mun/3518404.svg` | FORTES | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Guaratingueta_SaoPaulo_Brasil_2.svg) |
 | 3518503 | Guareí (SP) | `flags/mun/3518503.png` | Site Oficial da Prefeitura Municipal | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Guare%C3%AD.png) |
 | 3518602 | Guariba (SP) | `flags/mun/3518602.png` | Guariba | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Guaribafl.jpg) |
 | 3518701 | Guarujá (SP) | `flags/mun/3518701.png` | Prefeitura do Guarujá | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Guaruj%C3%A1.png) |
@@ -2325,7 +2325,7 @@ Gerado por `tools/gerar.py`. A mesma informação está em `dados/bandeiras.json
 | 3518909 | Guzolândia (SP) | `flags/mun/3518909.png` | Prefeitura Municipal de Guzolândia | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Guzol%C3%A2ndia,_SP.jpg) |
 | 3519006 | Herculândia (SP) | `flags/mun/3519006.png` | Prefeitura Municipal | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Hercul%C3%A2ndia.png) |
 | 3519055 | Holambra (SP) | `flags/mun/3519055.png` | Prefeitura Municipal | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Holambra.jpg) |
-| 3519071 | Hortolândia (SP) | `flags/mun/3519071.png` | own work | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Hortolandia_SaoPaulo_Brasil.svg) |
+| 3519071 | Hortolândia (SP) | `flags/mun/3519071.svg` | own work | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Hortolandia_SaoPaulo_Brasil.svg) |
 | 3519105 | Iacanga (SP) | `flags/mun/3519105.png` | Site Oficial da Prefeitura Municipal | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Iacanga.jpg) |
 | 3519204 | Iacri (SP) | `flags/mun/3519204.png` | City Hall | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Flag_of_Iacri_-_SP.png) |
 | 3519303 | Ibaté (SP) | `flags/mun/3519303.png` | City Hall | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Flag_of_Ibat%C3%A9_-_SP.png) |
@@ -2336,12 +2336,12 @@ Gerado por `tools/gerar.py`. A mesma informação está em `dados/bandeiras.json
 | 3519907 | Iepê (SP) | `flags/mun/3519907.png` | Prefeitura Municipal de Iepê | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:BandeiraIepe.jpg) |
 | 3520004 | Igaraçu do Tietê (SP) | `flags/mun/3520004.png` | Prefeitura Municipal | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Igara%C3%A7u_do_Tiet%C3%AA.jpg) |
 | 3520103 | Igarapava (SP) | `flags/mun/3520103.png` | ViniciusBR11, Prefeitura de Igarapava | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:BandeiraIgarapava.png) |
-| 3520202 | Igaratá (SP) | `flags/mun/3520202.png` | Own work | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Igarata_SaoPaulo_Brasil.svg) |
+| 3520202 | Igaratá (SP) | `flags/mun/3520202.svg` | Own work | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Igarata_SaoPaulo_Brasil.svg) |
 | 3520301 | Iguape (SP) | `flags/mun/3520301.png` | Prefeitura Municipal de Iguape/SP | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_iguape.JPG) |
 | 3520400 | Ilhabela (SP) | `flags/mun/3520400.png` | não informado | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Ilhabela_bandeira.gif) |
-| 3520426 | Ilha Comprida (SP) | `flags/mun/3520426.png` | Sidnei Oliveira Pinho | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_IlhaComprida_SaoPaulo_Brasil.svg) |
+| 3520426 | Ilha Comprida (SP) | `flags/mun/3520426.svg` | Sidnei Oliveira Pinho | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_IlhaComprida_SaoPaulo_Brasil.svg) |
 | 3520442 | Ilha Solteira (SP) | `flags/mun/3520442.png` | Own Work | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Ilha_Solteira.jpg) |
-| 3520509 | Indaiatuba (SP) | `flags/mun/3520509.png` | Rbalieiro | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Indaiatuba_bandeira.svg) |
+| 3520509 | Indaiatuba (SP) | `flags/mun/3520509.svg` | Rbalieiro | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Indaiatuba_bandeira.svg) |
 | 3520608 | Indiana (SP) | `flags/mun/3520608.png` | Prefeitura Municipal | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Indiana.jpg) |
 | 3520707 | Indiaporã (SP) | `flags/mun/3520707.png` | Prefeitura Municipal | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Indiapor%C3%A3.png) |
 | 3520806 | Inúbia Paulista (SP) | `flags/mun/3520806.png` | Prefeitura | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_In%C3%BAbia_Paulista_(SP).png) |
@@ -2359,11 +2359,11 @@ Gerado por `tools/gerar.py`. A mesma informação está em `dados/bandeiras.json
 | 3522000 | Itaju (SP) | `flags/mun/3522000.png` | Prefeitura Municipal | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Itaju.png) |
 | 3522109 | Itanhaém (SP) | `flags/mun/3522109.png` | não informado | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Itanha%C3%A9m.png) |
 | 3522158 | Itaoca (SP) | `flags/mun/3522158.png` | Prefeitura Municipal | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Itaoca.jpg) |
-| 3522208 | Itapecerica da Serra (SP) | `flags/mun/3522208.png` | Own work | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Itapecerica_da_Serra.svg) |
+| 3522208 | Itapecerica da Serra (SP) | `flags/mun/3522208.svg` | Own work | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Itapecerica_da_Serra.svg) |
 | 3522307 | Itapetininga (SP) | `flags/mun/3522307.png` | autor desconhecido | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Itapetininga.jpg) |
 | 3522406 | Itapeva (SP) | `flags/mun/3522406.png` | Prefeitura Itapeva | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Itapeva.jpg) |
 | 3522505 | Itapevi (SP) | `flags/mun/3522505.png` | não informado | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Itapevi.png) |
-| 3522604 | Itapira (SP) | `flags/mun/3522604.png` | Municipal Prefecture of Itapira | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Itapira_SaoPaulo_Brasil.svg) |
+| 3522604 | Itapira (SP) | `flags/mun/3522604.svg` | Municipal Prefecture of Itapira | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Itapira_SaoPaulo_Brasil.svg) |
 | 3522653 | Itapirapuã Paulista (SP) | `flags/mun/3522653.png` | Prefeitura Municipal de Itapirapuã Paulista | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_-_Itapirapu%C3%A3_Paulista.jpg) |
 | 3522703 | Itápolis (SP) | `flags/mun/3522703.png` | não informado | Copyrighted free use | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_It%C3%A1polis.jpg) |
 | 3522802 | Itaporanga (SP) | `flags/mun/3522802.png` | Site Oficial da Prefeitura Municipal | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Itaporanga.png) |
@@ -2372,16 +2372,16 @@ Gerado por `tools/gerar.py`. A mesma informação está em `dados/bandeiras.json
 | 3523107 | Itaquaquecetuba (SP) | `flags/mun/3523107.png` | Público | [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Itaquaquecetuba.png) |
 | 3523206 | Itararé (SP) | `flags/mun/3523206.png` | Site Oficial da Prefeitura Municipal | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Itarar%C3%A9.png) |
 | 3523305 | Itariri (SP) | `flags/mun/3523305.png` | não informado | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_itariri.png) |
-| 3523404 | Itatiba (SP) | `flags/mun/3523404.png` | Nilson Silva | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_do_Munic%C3%ADpio_de_Itatiba-SP.svg) |
+| 3523404 | Itatiba (SP) | `flags/mun/3523404.svg` | Nilson Silva | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_do_Munic%C3%ADpio_de_Itatiba-SP.svg) |
 | 3523503 | Itatinga (SP) | `flags/mun/3523503.png` | não informado | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Itatinga.jpg) |
 | 3523602 | Itirapina (SP) | `flags/mun/3523602.png` | não informado | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Itirapina_SP_..jpg) |
 | 3523701 | Itirapuã (SP) | `flags/mun/3523701.png` | Confederação Nacional de Municípios | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Itirapu%C3%A3,_S%C3%A3o_Paulo,_Brasil.png) |
 | 3523800 | Itobi (SP) | `flags/mun/3523800.png` | Prefeitura Municipal | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Itobi.png) |
-| 3523909 | Itu (SP) | `flags/mun/3523909.png` | Torimem | [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Itu.svg) |
+| 3523909 | Itu (SP) | `flags/mun/3523909.svg` | Torimem | [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Itu.svg) |
 | 3524006 | Itupeva (SP) | `flags/mun/3524006.png` | Site Oficial da Prefeitura Municipal | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Itupeva.png) |
 | 3524105 | Ituverava (SP) | `flags/mun/3524105.png` | Prefeitura Municipal de Ituverava. | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Ituverava.png) |
 | 3524204 | Jaborandi (SP) | `flags/mun/3524204.png` | Prefeitura Municipal | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Jaborandi.png) |
-| 3524303 | Jaboticabal (SP) | `flags/mun/3524303.png` | Own work; Dorival Martins de Andrade & José Francisco Espanhol | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:BandeiraJaboticabal.svg) |
+| 3524303 | Jaboticabal (SP) | `flags/mun/3524303.svg` | Own work; Dorival Martins de Andrade & José Francisco Espanhol | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:BandeiraJaboticabal.svg) |
 | 3524402 | Jacareí (SP) | `flags/mun/3524402.png` | Municipio de Jacareí | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Jacarei_flag.png) |
 | 3524501 | Jaci (SP) | `flags/mun/3524501.png` | Prefeitura Municipal | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Jaci.png) |
 | 3524600 | Jacupiranga (SP) | `flags/mun/3524600.png` | Prefeitura Municipal de Jacupiranga | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Jacupiranga.png) |
@@ -2389,7 +2389,7 @@ Gerado por `tools/gerar.py`. A mesma informação está em `dados/bandeiras.json
 | 3524808 | Jales (SP) | `flags/mun/3524808.png` | não informado | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Jales_Bandeira.gif) |
 | 3524907 | Jambeiro (SP) | `flags/mun/3524907.png` | Diego Campos | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_municipal_de_Jambeiro.png) |
 | 3525003 | Jandira (SP) | `flags/mun/3525003.png` | não informado | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Jandira.jpg) |
-| 3525102 | Jardinópolis (SP) | `flags/mun/3525102.png` | Own work | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:BandeiraJardinopolisSP.svg) |
+| 3525102 | Jardinópolis (SP) | `flags/mun/3525102.svg` | Own work | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:BandeiraJardinopolisSP.svg) |
 | 3525201 | Jarinu (SP) | `flags/mun/3525201.png` | Vitor.castillo (talk) | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Jarinu.jpg) |
 | 3525300 | Jaú (SP) | `flags/mun/3525300.png` | não informado | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Ja%C3%BA.jpg) |
 | 3525409 | Jeriquara (SP) | `flags/mun/3525409.png` | Prefeitura Municipal | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Jeriquara.jpg) |
@@ -2398,23 +2398,23 @@ Gerado por `tools/gerar.py`. A mesma informação está em `dados/bandeiras.json
 | 3525706 | José Bonifácio (SP) | `flags/mun/3525706.png` | PMJB | [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeirajb.jpg) |
 | 3525805 | Júlio Mesquita (SP) | `flags/mun/3525805.png` | Prefeitura Municipal | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_J%C3%BAlio_Mesquita.png) |
 | 3525854 | Jumirim (SP) | `flags/mun/3525854.png` | Prefeitura Municipal | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Jumirim.png) |
-| 3525904 | Jundiaí (SP) | `flags/mun/3525904.png` | ViniciusBR11; Prefeitura de Jundiaí. | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:BandeiraJundiai.svg) |
-| 3526001 | Junqueirópolis (SP) | `flags/mun/3526001.png` | Municipal Prefecture of Junqueirópolis | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Junqueiropolis_SaoPaulo_Brasil.svg) |
+| 3525904 | Jundiaí (SP) | `flags/mun/3525904.svg` | ViniciusBR11; Prefeitura de Jundiaí. | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:BandeiraJundiai.svg) |
+| 3526001 | Junqueirópolis (SP) | `flags/mun/3526001.svg` | Municipal Prefecture of Junqueirópolis | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Junqueiropolis_SaoPaulo_Brasil.svg) |
 | 3526100 | Juquiá (SP) | `flags/mun/3526100.png` | Marcio Benvenuto de Lima | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Juquia.jpg) |
 | 3526209 | Juquitiba (SP) | `flags/mun/3526209.png` | município de juquitiba | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_juquitiba.jpg) |
-| 3526308 | Lagoinha (SP) | `flags/mun/3526308.png` | FORTES | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Lagoinha_SaoPaulo_Brasil_2.svg) |
-| 3526407 | Laranjal Paulista (SP) | `flags/mun/3526407.png` | Igor Eliezer Borges | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Laranjal_Paulista.svg) |
+| 3526308 | Lagoinha (SP) | `flags/mun/3526308.svg` | FORTES | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Lagoinha_SaoPaulo_Brasil_2.svg) |
+| 3526407 | Laranjal Paulista (SP) | `flags/mun/3526407.svg` | Igor Eliezer Borges | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Laranjal_Paulista.svg) |
 | 3526506 | Lavínia (SP) | `flags/mun/3526506.png` | Prefeitura Municipal de Lavínia | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Lav%C3%ADnia.png) |
 | 3526605 | Lavrinhas (SP) | `flags/mun/3526605.png` | não informado | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Lavrinhas_bandeira.png) |
-| 3526704 | Leme (SP) | `flags/mun/3526704.png` | Municipal Prefecture of Leme | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Leme_SaoPaulo_Brasil.svg) |
+| 3526704 | Leme (SP) | `flags/mun/3526704.svg` | Municipal Prefecture of Leme | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Leme_SaoPaulo_Brasil.svg) |
 | 3526803 | Lençóis Paulista (SP) | `flags/mun/3526803.png` | Prefeitura Municipal de Lençóis Paulista | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:BandeiraLencoisPaulista.png) |
-| 3526902 | Limeira (SP) | `flags/mun/3526902.png` | Srfortes | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Limeira_SaoPaulo_Brasil.svg) |
+| 3526902 | Limeira (SP) | `flags/mun/3526902.svg` | Srfortes | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Limeira_SaoPaulo_Brasil.svg) |
 | 3527009 | Lindóia (SP) | `flags/mun/3527009.png` | não informado | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Lind%C3%B3ia.jpg) |
-| 3527108 | Lins (SP) | `flags/mun/3527108.png` | BrCaLeTo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Lins_-_SP.svg) |
-| 3527207 | Lorena (SP) | `flags/mun/3527207.png` | FORTES | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Lorena_SaoPaulo_Brasil_2.svg) |
+| 3527108 | Lins (SP) | `flags/mun/3527108.svg` | BrCaLeTo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Lins_-_SP.svg) |
+| 3527207 | Lorena (SP) | `flags/mun/3527207.svg` | FORTES | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Lorena_SaoPaulo_Brasil_2.svg) |
 | 3527256 | Lourdes (SP) | `flags/mun/3527256.png` | Prefeitura Municipal | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Lourdes.png) |
 | 3527306 | Louveira (SP) | `flags/mun/3527306.png` | Domínio Publico | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Louveira.jpg) |
-| 3527405 | Lucélia (SP) | `flags/mun/3527405.png` | BrCaLeTo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Luc%C3%A9lia_-_SP.svg) |
+| 3527405 | Lucélia (SP) | `flags/mun/3527405.svg` | BrCaLeTo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Luc%C3%A9lia_-_SP.svg) |
 | 3527603 | Luís Antônio (SP) | `flags/mun/3527603.png` | Prefeitura Municipal | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Lu%C3%ADs_Ant%C3%B4nio.png) |
 | 3527702 | Luiziânia (SP) | `flags/mun/3527702.png` | Prefeitura Municipal | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Luizi%C3%A2nia.jpg) |
 | 3527801 | Lupércio (SP) | `flags/mun/3527801.png` | Prefeitura Municipal | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Lup%C3%A9rcio.jpg) |
@@ -2424,17 +2424,17 @@ Gerado por `tools/gerar.py`. A mesma informação está em `dados/bandeiras.json
 | 3528205 | Macedônia (SP) | `flags/mun/3528205.png` | Prefeitura Municipal de Macedônia | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Maced%C3%B4nia.png) |
 | 3528304 | Magda (SP) | `flags/mun/3528304.png` | Prefeitura Municipal | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Magda.jpg) |
 | 3528403 | Mairinque (SP) | `flags/mun/3528403.png` | CJIIIoestado50-80 | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_mairinque.jpg) |
-| 3528502 | Mairiporã (SP) | `flags/mun/3528502.png` | BrCaLeTo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Mairipor%C3%A3_-_SP.svg) |
+| 3528502 | Mairiporã (SP) | `flags/mun/3528502.svg` | BrCaLeTo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Mairipor%C3%A3_-_SP.svg) |
 | 3528601 | Manduri (SP) | `flags/mun/3528601.png` | Prefeitura Municipal | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Manduri.png) |
 | 3528700 | Marabá Paulista (SP) | `flags/mun/3528700.png` | Prefeitura de Marabá Paulista | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:BANDEIRAMARABAPAULISTA.png) |
 | 3528809 | Maracaí (SP) | `flags/mun/3528809.png` | não informado | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Maraca%C3%AD.jpg) |
 | 3528858 | Marapoama (SP) | `flags/mun/3528858.png` | Prefeitura Municipal | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Marapoama.png) |
 | 3528908 | Mariápolis (SP) | `flags/mun/3528908.png` | Prefeitura Municipal | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Mari%C3%A1polis.png) |
-| 3529005 | Marília (SP) | `flags/mun/3529005.png` | Prefeitura de Marília | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Mar%C3%ADlia.svg) |
+| 3529005 | Marília (SP) | `flags/mun/3529005.svg` | Prefeitura de Marília | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Mar%C3%ADlia.svg) |
 | 3529104 | Marinópolis (SP) | `flags/mun/3529104.png` | Prefeitura Municipal | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Marin%C3%B3polis.png) |
 | 3529203 | Martinópolis (SP) | `flags/mun/3529203.png` | Municipal Prefecture of Martinópolis | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Martin%C3%B3polis.jpg) |
 | 3529302 | Matão (SP) | `flags/mun/3529302.png` | não informado | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Matao_Bandeira.jpg) |
-| 3529401 | Mauá (SP) | `flags/mun/3529401.png` | Srfortes | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Maua_SaoPaulo_Brasil.svg) |
+| 3529401 | Mauá (SP) | `flags/mun/3529401.svg` | Srfortes | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Maua_SaoPaulo_Brasil.svg) |
 | 3529609 | Meridiano (SP) | `flags/mun/3529609.png` | Município de Meridiano | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:BandeiraMeridiano.png) |
 | 3529658 | Mesópolis (SP) | `flags/mun/3529658.png` | City Hall | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Flag_of_Mes%C3%B3polis_-_SP.png) |
 | 3529708 | Miguelópolis (SP) | `flags/mun/3529708.png` | NosLida | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Miguel%C3%B3polis.JPG) |
@@ -2481,13 +2481,13 @@ Gerado por `tools/gerar.py`. A mesma informação está em `dados/bandeiras.json
 | 3533304 | Nova Luzitânia (SP) | `flags/mun/3533304.png` | Prefeitura Municipal | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Nova_Luzit%C3%A2nia.png) |
 | 3533403 | Nova Odessa (SP) | `flags/mun/3533403.png` | Municipal Prefecture of Nova Odessa | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Nova_Odessa.jpg) |
 | 3533502 | Novo Horizonte (SP) | `flags/mun/3533502.png` | Jonas Faccio | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Novo_Horizonte_Flag.jpg) |
-| 3533601 | Nuporanga (SP) | `flags/mun/3533601.png` | ViniciusBR11 | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:BandeiraNuporanga.svg) |
+| 3533601 | Nuporanga (SP) | `flags/mun/3533601.svg` | ViniciusBR11 | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:BandeiraNuporanga.svg) |
 | 3533700 | Ocauçu (SP) | `flags/mun/3533700.png` | Prefeitura Municipal | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Ocau%C3%A7u.png) |
 | 3533809 | Óleo (SP) | `flags/mun/3533809.png` | Prefeitura Municipal | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_%C3%93leo.png) |
 | 3533908 | Olímpia (SP) | `flags/mun/3533908.png` | Prefeitura Municipal de Olímpia-SP | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Ol%C3%ADmpia,_SP.jpg) |
 | 3534005 | Onda Verde (SP) | `flags/mun/3534005.png` | Prefeitura Municipal | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Onda_Verde.png) |
 | 3534104 | Oriente (SP) | `flags/mun/3534104.png` | Prefeitura Municipal de Oriente | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Oriente.png) |
-| 3534302 | Orlândia (SP) | `flags/mun/3534302.png` | ViniciusBR11, Prefeitura de Orlândia | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:BandeiraOrlandia.svg) |
+| 3534302 | Orlândia (SP) | `flags/mun/3534302.svg` | ViniciusBR11, Prefeitura de Orlândia | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:BandeiraOrlandia.svg) |
 | 3534401 | Osasco (SP) | `flags/mun/3534401.png` | Prefeitura de Osasco | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Osasco.svg) |
 | 3534500 | Oscar Bressane (SP) | `flags/mun/3534500.png` | Prefeitura Municipal de Oscar Bressane | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeiraoscarbressane.jpg) |
 | 3534609 | Osvaldo Cruz (SP) | `flags/mun/3534609.png` | Prefeitura municípal de Osvaldo Cruz-SP | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_do_Municipio_de_Osvaldo_Cruz-SP.jpg) |
@@ -2511,7 +2511,7 @@ Gerado por `tools/gerar.py`. A mesma informação está em `dados/bandeiras.json
 | 3536505 | Paulínia (SP) | `flags/mun/3536505.png` | Prefeitura Municipal de Paulínia. | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Paul%C3%ADnia.png) |
 | 3536570 | Paulistânia (SP) | `flags/mun/3536570.png` | Prefeitura Municipal | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Paulist%C3%A2nia.png) |
 | 3536604 | Paulo de Faria (SP) | `flags/mun/3536604.png` | Prefeitura Municipal | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Paulo_de_Faria.png) |
-| 3536703 | Pederneiras (SP) | `flags/mun/3536703.png` | Srfortes | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Pederneiras_SaoPaulo_Brasil.svg) |
+| 3536703 | Pederneiras (SP) | `flags/mun/3536703.svg` | Srfortes | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Pederneiras_SaoPaulo_Brasil.svg) |
 | 3536802 | Pedra Bela (SP) | `flags/mun/3536802.png` | Paulo Vinicius da Silva | [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Pedra_Bela.png) |
 | 3536901 | Pedranópolis (SP) | `flags/mun/3536901.png` | Prefeitura Municipal | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Pedran%C3%B3polis.png) |
 | 3537008 | Pedregulho (SP) | `flags/mun/3537008.png` | Página da prefeitura de Pedregulho | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Pedregulho.jpg) |
@@ -2521,11 +2521,11 @@ Gerado por `tools/gerar.py`. A mesma informação está em `dados/bandeiras.json
 | 3537305 | Penápolis (SP) | `flags/mun/3537305.png` | não informado | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_penapolis.png) |
 | 3537404 | Pereira Barreto (SP) | `flags/mun/3537404.png` | Prefeitura da Estância Turística de Pereira Barreto (uploaded by Rafaelbassorapbto) | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_da_Est%C3%A2ncia_Tur%C3%ADstica_de_Pereira_Barreto.png) |
 | 3537503 | Pereiras (SP) | `flags/mun/3537503.png` | Prefeitura Municipal | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Pereiras.png) |
-| 3537602 | Peruíbe (SP) | `flags/mun/3537602.png` | Srfortes | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Peruibe_SaoPaulo_Brasil2.svg) |
+| 3537602 | Peruíbe (SP) | `flags/mun/3537602.svg` | Srfortes | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Peruibe_SaoPaulo_Brasil2.svg) |
 | 3537701 | Piacatu (SP) | `flags/mun/3537701.png` | Bruno manhani | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Piacatu.jpg) |
 | 3537800 | Piedade (SP) | `flags/mun/3537800.png` | Euskadirlz | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_piedade.JPG) |
 | 3537909 | Pilar do Sul (SP) | `flags/mun/3537909.png` | Domínio Público | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Pilar_do_Sul.jpg) |
-| 3538006 | Pindamonhangaba (SP) | `flags/mun/3538006.png` | FORTES | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Pindamonhangaba_SaoPaulo_Brasil.svg) |
+| 3538006 | Pindamonhangaba (SP) | `flags/mun/3538006.svg` | FORTES | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Pindamonhangaba_SaoPaulo_Brasil.svg) |
 | 3538105 | Pindorama (SP) | `flags/mun/3538105.png` | Prefeitura Municipal de Pindorama | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Pindorama,_SP.jpg) |
 | 3538204 | Pinhalzinho (SP) | `flags/mun/3538204.png` | Pinhal86 | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandpinh.jpg) |
 | 3538303 | Piquerobi (SP) | `flags/mun/3538303.png` | Prefeitura Municipal de Piquerobi | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Piquerobi.png) |
@@ -2559,7 +2559,7 @@ Gerado por `tools/gerar.py`. A mesma informação está em `dados/bandeiras.json
 | 3541109 | Presidente Alves (SP) | `flags/mun/3541109.png` | City Hall | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Flag_of_Presidente_Alves_-_SP.png) |
 | 3541208 | Presidente Bernardes (SP) | `flags/mun/3541208.png` | não informado | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Presidente_Bernardes.jpg) |
 | 3541307 | Presidente Epitácio (SP) | `flags/mun/3541307.png` | não informado | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Presidente_Epit%C3%A1cio.jpg) |
-| 3541406 | Presidente Prudente (SP) | `flags/mun/3541406.png` | Daniiitheconqueror | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Presidente_Prudente.svg) |
+| 3541406 | Presidente Prudente (SP) | `flags/mun/3541406.svg` | Daniiitheconqueror | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Presidente_Prudente.svg) |
 | 3541505 | Presidente Venceslau (SP) | `flags/mun/3541505.png` | Prefeitura municipal de Presidente Venceslau, SP | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Presidente_Venceslau_(SP).png) |
 | 3541604 | Promissão (SP) | `flags/mun/3541604.png` | Prefeitura de Promissão | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Promiss%C3%A3o-SP.jpg) |
 | 3541653 | Quadra (SP) | `flags/mun/3541653.png` | Prefeitura Municipal de Quadra | [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeiraquadra.jpg) |
@@ -2582,12 +2582,12 @@ Gerado por `tools/gerar.py`. A mesma informação está em `dados/bandeiras.json
 | 3543238 | Ribeirão dos Índios (SP) | `flags/mun/3543238.png` | Prefeitura Municipal | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Ribeir%C3%A3o_dos_%C3%8Dndios.png) |
 | 3543253 | Ribeirão Grande (SP) | `flags/mun/3543253.png` | Prefeitura de Ribeirão Grande | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:BandeiraRibeiraoGrandeSP.png) |
 | 3543303 | Ribeirão Pires (SP) | `flags/mun/3543303.png` | Ribeirão Pires City Hall | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira-ribeiraopires.jpg) |
-| 3543402 | Ribeirão Preto (SP) | `flags/mun/3543402.png` | Prefeitura de Ribeirão Preto | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Ribeir%C3%A3o_Preto.svg) |
+| 3543402 | Ribeirão Preto (SP) | `flags/mun/3543402.svg` | Prefeitura de Ribeirão Preto | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Ribeir%C3%A3o_Preto.svg) |
 | 3543501 | Riversul (SP) | `flags/mun/3543501.png` | Prefeitura Municipal | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Riversul.jpg) |
 | 3543600 | Rifaina (SP) | `flags/mun/3543600.png` | Prefeitura Municipal de Rifaina. | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Rifaina.png) |
 | 3543709 | Rincão (SP) | `flags/mun/3543709.png` | Prefeitura Municipal | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Rinc%C3%A3o.png) |
 | 3543808 | Rinópolis (SP) | `flags/mun/3543808.png` | Prefeitura Municipal | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Rin%C3%B3polis.png) |
-| 3543907 | Rio Claro (SP) | `flags/mun/3543907.png` | GumSL | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Rio_Claro_(S%C3%A3o_Paulo).svg) |
+| 3543907 | Rio Claro (SP) | `flags/mun/3543907.svg` | GumSL | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Rio_Claro_(S%C3%A3o_Paulo).svg) |
 | 3544004 | Rio das Pedras (SP) | `flags/mun/3544004.png` | Culturardp | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Rio_das_Pedras_Flag.PNG) |
 | 3544103 | Rio Grande da Serra (SP) | `flags/mun/3544103.png` | Rio Gde. da Serra City Hall | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira-riograndedaserra.png) |
 | 3544202 | Riolândia (SP) | `flags/mun/3544202.png` | Prefeitura Municipal | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Riol%C3%A2ndia.png) |
@@ -2599,7 +2599,7 @@ Gerado por `tools/gerar.py`. A mesma informação está em `dados/bandeiras.json
 | 3544707 | Sagres (SP) | `flags/mun/3544707.png` | Prefeitura Municipal | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Sagres.jpg) |
 | 3544806 | Sales (SP) | `flags/mun/3544806.png` | Prefeitura Municipal | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Sales.png) |
 | 3544905 | Sales Oliveira (SP) | `flags/mun/3544905.png` | ViniciusBR11 | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:BandeiraSalesOliveira.png) |
-| 3545001 | Salesópolis (SP) | `flags/mun/3545001.png` | FORTES | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Salesopolis_SaoPaulo_Brasil.svg) |
+| 3545001 | Salesópolis (SP) | `flags/mun/3545001.svg` | FORTES | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Salesopolis_SaoPaulo_Brasil.svg) |
 | 3545100 | Salmourão (SP) | `flags/mun/3545100.png` | City Hall of Salmourão | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Flag_of_Salmour%C3%A3o_SP.png) |
 | 3545159 | Saltinho (SP) | `flags/mun/3545159.png` | Prefeitura Municipal | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Saltinho.png) |
 | 3545209 | Salto (SP) | `flags/mun/3545209.png` | não informado | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_salto.png) |
@@ -2608,7 +2608,7 @@ Gerado por `tools/gerar.py`. A mesma informação está em `dados/bandeiras.json
 | 3545506 | Sandovalina (SP) | `flags/mun/3545506.png` | Prefeitura Municipal | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Sandovalina.png) |
 | 3545605 | Santa Adélia (SP) | `flags/mun/3545605.png` | Sta. Adélia City Hall | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira-santaad%C3%A9lia.png) |
 | 3545704 | Santa Albertina (SP) | `flags/mun/3545704.png` | Prefeitura Municipal | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Santa_Albertina.png) |
-| 3545803 | Santa Bárbara d'Oeste (SP) | `flags/mun/3545803.png` | Own work | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_SantaBarbaradOeste_SaoPaulo_Brasil.svg) |
+| 3545803 | Santa Bárbara d'Oeste (SP) | `flags/mun/3545803.svg` | Own work | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_SantaBarbaradOeste_SaoPaulo_Brasil.svg) |
 | 3546009 | Santa Branca (SP) | `flags/mun/3546009.png` | Prefeitura Municipal de Santa Branca | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_do_Municipio_de_Santa_Branca-SP.png) |
 | 3546108 | Santa Clara d'Oeste (SP) | `flags/mun/3546108.png` | Prefeitura Municipal | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Santa_Clara_d%27Oeste.png) |
 | 3546256 | Santa Cruz da Esperança (SP) | `flags/mun/3546256.png` | Municipio de Santa Cruz da Esperança | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_do_Municipio_de_Santa_Cruz_da_Esperan%C3%A7a.png) |
@@ -2627,51 +2627,51 @@ Gerado por `tools/gerar.py`. A mesma informação está em `dados/bandeiras.json
 | 3547502 | Santa Rita do Passa Quatro (SP) | `flags/mun/3547502.png` | não informado | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Santa_Rita_do_Passa_Quatro.png) |
 | 3547601 | Santa Rosa de Viterbo (SP) | `flags/mun/3547601.png` | não informado | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Santa_Rosa_de_Viterbo.jpg) |
 | 3547700 | Santo Anastácio (SP) | `flags/mun/3547700.png` | Prefeitura Municipal | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Santo_Anast%C3%A1cio.png) |
-| 3547809 | Santo André (SP) | `flags/mun/3547809.png` | ViniciusBR11, Prefeitura de Santo André | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:BandeiraSantoAndre.svg) |
+| 3547809 | Santo André (SP) | `flags/mun/3547809.svg` | ViniciusBR11, Prefeitura de Santo André | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:BandeiraSantoAndre.svg) |
 | 3547908 | Santo Antônio da Alegria (SP) | `flags/mun/3547908.png` | Domaleixo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_SAA.PNG) |
 | 3548005 | Santo Antônio de Posse (SP) | `flags/mun/3548005.png` | Prefeitura de Santo Antônio de Posse | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Santo_Ant%C3%B4nio_de_Posse-SP,_Brasil.jpg) |
 | 3548054 | Santo Antônio do Aracanguá (SP) | `flags/mun/3548054.png` | Prefeitura Municipal de Santo Antônio do Aracanguá | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Santo_Ant%C3%B4nio_do_Aracangu%C3%A1.jpg) |
 | 3548104 | Santo Antônio do Jardim (SP) | `flags/mun/3548104.png` | Prefeitura Municipal | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Santo_Ant%C3%B4nio_do_Jardim.png) |
 | 3548203 | Santo Antônio do Pinhal (SP) | `flags/mun/3548203.png` | não informado | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Santoantoniodopinhal_bandeira.png) |
 | 3548302 | Santo Expedito (SP) | `flags/mun/3548302.png` | City Hall of Santo Expedito | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Flag_of_Santo_Expedito_SP.png) |
-| 3548500 | Santos (SP) | `flags/mun/3548500.png` | Own work | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Santos_(S%C3%A3o_Paulo).svg) |
+| 3548500 | Santos (SP) | `flags/mun/3548500.svg` | Own work | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Santos_(S%C3%A3o_Paulo).svg) |
 | 3548609 | São Bento do Sapucaí (SP) | `flags/mun/3548609.png` | não informado | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Saobentodosapucai_bandeira.png) |
 | 3548708 | São Bernardo do Campo (SP) | `flags/mun/3548708.png` | não informado | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Flag_SBC.jpg) |
-| 3548807 | São Caetano do Sul (SP) | `flags/mun/3548807.png` | Srfortes | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_S%C3%A3o_Caetano_do_Sul.svg) |
-| 3548906 | São Carlos (SP) | `flags/mun/3548906.png` | Own work | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_S%C3%A3o_Carlos.svg) |
+| 3548807 | São Caetano do Sul (SP) | `flags/mun/3548807.svg` | Srfortes | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_S%C3%A3o_Caetano_do_Sul.svg) |
+| 3548906 | São Carlos (SP) | `flags/mun/3548906.svg` | Own work | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_S%C3%A3o_Carlos.svg) |
 | 3549102 | São João da Boa Vista (SP) | `flags/mun/3549102.png` | não informado | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_s%C3%A3o_jo%C3%A3o_da_boa_vista.png) |
 | 3549250 | São João de Iracema (SP) | `flags/mun/3549250.png` | Prefeitura de São João de Iracema | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_S%C3%A3o_Jo%C3%A3o_de_Iracema,_SP.jpg) |
 | 3549300 | São João do Pau d'Alho (SP) | `flags/mun/3549300.png` | Município de São João do Pau-d'Alho | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira-paudalho.jpg) |
-| 3549409 | São Joaquim da Barra (SP) | `flags/mun/3549409.png` | ViniciusBR11; Prefeitura de São Joaquim da Barra | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:BandeiraSaoJoaquimDaBarra.svg) |
+| 3549409 | São Joaquim da Barra (SP) | `flags/mun/3549409.svg` | ViniciusBR11; Prefeitura de São Joaquim da Barra | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:BandeiraSaoJoaquimDaBarra.svg) |
 | 3549508 | São José da Bela Vista (SP) | `flags/mun/3549508.png` | Prefeitura Municipal | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_S%C3%A3o_Jos%C3%A9_da_Bela_Vista.png) |
 | 3549607 | São José do Barreiro (SP) | `flags/mun/3549607.png` | não informado | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Saojosedobarreiro_bandeira.png) |
 | 3549706 | São José do Rio Pardo (SP) | `flags/mun/3549706.png` | não informado | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeirasaojosedoriopardo.jpg) |
 | 3549805 | São José do Rio Preto (SP) | `flags/mun/3549805.png` | HVL | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Flag_of_S%C3%A3o_Jos%C3%A9_do_Rio_Preto_SP.png) |
-| 3549904 | São José dos Campos (SP) | `flags/mun/3549904.png` | FORTES | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_S%C3%A3o_Jos%C3%A9_dos_Campos.svg) |
+| 3549904 | São José dos Campos (SP) | `flags/mun/3549904.svg` | FORTES | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_S%C3%A3o_Jos%C3%A9_dos_Campos.svg) |
 | 3549953 | São Lourenço da Serra (SP) | `flags/mun/3549953.png` | São Lourenço da Serra City Hall | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira-saolourencodaserra.png) |
 | 3550001 | São Luiz do Paraitinga (SP) | `flags/mun/3550001.png` | não informado | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Saoluizdoparaitinga_bandeira.png) |
 | 3550100 | São Manuel (SP) | `flags/mun/3550100.png` | autor desconhecido | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_sao_manuel.jpg) |
 | 3550209 | São Miguel Arcanjo (SP) | `flags/mun/3550209.png` | antonio correa | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_do_municipio_de_s%C3%A3o_miguel_arcanjo.jpg) |
-| 3550308 | São Paulo (SP) | `flags/mun/3550308.png` | Pedro Cardoso de Carvalho e Freitas, Srfortes and Giro720 | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_da_cidade_de_S%C3%A3o_Paulo.svg) |
+| 3550308 | São Paulo (SP) | `flags/mun/3550308.svg` | Pedro Cardoso de Carvalho e Freitas, Srfortes and Giro720 | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_da_cidade_de_S%C3%A3o_Paulo.svg) |
 | 3550407 | São Pedro (SP) | `flags/mun/3550407.png` | São Pedro City Hall | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira-saopedrosp.png) |
 | 3550506 | São Pedro do Turvo (SP) | `flags/mun/3550506.png` | Prefeitura Municipal de São Pedro do Turvo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_S%C3%A3o_Pedro_do_Turvo.jpg) |
 | 3550605 | São Roque (SP) | `flags/mun/3550605.png` | Não Informado | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeirasroquesp.jpg) |
 | 3550704 | São Sebastião (SP) | `flags/mun/3550704.png` | São Sebastião City Hall | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira-saosebastiao.png) |
 | 3550803 | São Sebastião da Grama (SP) | `flags/mun/3550803.png` | município de são sebastião da grama | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_saosebastiaodagrama.jpg) |
 | 3550902 | São Simão (SP) | `flags/mun/3550902.png` | Prefeitura Municipal | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_S%C3%A3o_Sim%C3%A3o.png) |
-| 3551009 | São Vicente (SP) | `flags/mun/3551009.png` | ChrisDHDR | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Flag_of_S%C3%A3o_Vicente,_S%C3%A3o_Paulo.svg) |
+| 3551009 | São Vicente (SP) | `flags/mun/3551009.svg` | ChrisDHDR | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Flag_of_S%C3%A3o_Vicente,_S%C3%A3o_Paulo.svg) |
 | 3551108 | Sarapuí (SP) | `flags/mun/3551108.png` | Prefeitura Municipal | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Sarapu%C3%AD.png) |
 | 3551207 | Sarutaiá (SP) | `flags/mun/3551207.png` | Prefeitura Municipal | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Saratui%C3%A1.png) |
 | 3551306 | Sebastianópolis do Sul (SP) | `flags/mun/3551306.png` | Prefeitura Municipal | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Sebastian%C3%B3polis_do_Sul.jpg) |
 | 3551405 | Serra Azul (SP) | `flags/mun/3551405.png` | Prefeitura Municipal de Serra Azul. | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Serra_Azul.png) |
 | 3551504 | Serrana (SP) | `flags/mun/3551504.png` | Prefeitura Municipal | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Serrana.png) |
 | 3551603 | Serra Negra (SP) | `flags/mun/3551603.png` | Serra Negra City Hall | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira-serranegra.png) |
-| 3551702 | Sertãozinho (SP) | `flags/mun/3551702.png` | Own work; José Arnaldo de Azevedo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:BandeiraSertaozinhoSP.svg) |
+| 3551702 | Sertãozinho (SP) | `flags/mun/3551702.svg` | Own work; José Arnaldo de Azevedo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:BandeiraSertaozinhoSP.svg) |
 | 3551801 | Sete Barras (SP) | `flags/mun/3551801.png` | http://www.setebarras.sp.gov.br/images/Bandeira_sete_barras.gif Unknown authorUnknown author | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Sete_Barras.png) |
 | 3551900 | Severínia (SP) | `flags/mun/3551900.png` | City Hall | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Flag_of_Severinia_-_SP.png) |
 | 3552007 | Silveiras (SP) | `flags/mun/3552007.png` | não informado | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Silveiras_bandeira.png) |
 | 3552106 | Socorro (SP) | `flags/mun/3552106.png` | não informado | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_socorro_sp.jpg) |
-| 3552205 | Sorocaba (SP) | `flags/mun/3552205.png` | Prefeitura de Sorocaba | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:BandeiraSorocaba.svg) |
+| 3552205 | Sorocaba (SP) | `flags/mun/3552205.svg` | Prefeitura de Sorocaba | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:BandeiraSorocaba.svg) |
 | 3552304 | Sud Mennucci (SP) | `flags/mun/3552304.png` | Prefeitura Municipal | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Sud_Menucci.png) |
 | 3552403 | Sumaré (SP) | `flags/mun/3552403.png` | não informado | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:BandeiraSumare.png) |
 | 3552502 | Suzano (SP) | `flags/mun/3552502.png` | não informado | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Suzano.png) |
@@ -2698,7 +2698,7 @@ Gerado por `tools/gerar.py`. A mesma informação está em `dados/bandeiras.json
 | 3554201 | Tejupá (SP) | `flags/mun/3554201.png` | Prefeitura Municipal do Tejupá | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Flag_of_Tejup%C3%A1_SP.png) |
 | 3554300 | Teodoro Sampaio (SP) | `flags/mun/3554300.png` | Domínio público | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_teodoro.jpg) |
 | 3554409 | Terra Roxa (SP) | `flags/mun/3554409.png` | Dr. Lauro Escobar | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Terra_Roxa_sao_paulo_brasil.jpg) |
-| 3554508 | Tietê (SP) | `flags/mun/3554508.png` | Mysid | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Flag_of_Tiet%C3%AA.svg) |
+| 3554508 | Tietê (SP) | `flags/mun/3554508.svg` | Mysid | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Flag_of_Tiet%C3%AA.svg) |
 | 3554607 | Timburi (SP) | `flags/mun/3554607.png` | Prefeitura Municipal | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Timburi.png) |
 | 3554656 | Torre de Pedra (SP) | `flags/mun/3554656.png` | City Hall | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Flag_of_Torre_de_Pedra_-_SP.png) |
 | 3554706 | Torrinha (SP) | `flags/mun/3554706.png` | Prefeitura Municipal | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Torrinha.png) |
@@ -2706,26 +2706,26 @@ Gerado por `tools/gerar.py`. A mesma informação está em `dados/bandeiras.json
 | 3554805 | Tremembé (SP) | `flags/mun/3554805.png` | não informado | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Tremembe_bandeira.png) |
 | 3554904 | Três Fronteiras (SP) | `flags/mun/3554904.png` | Eltonepol | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Tres_Fronteiras.jpg) |
 | 3554953 | Tuiuti (SP) | `flags/mun/3554953.png` | City Hall | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Flag_of_Tuiuti_-_SP.png) |
-| 3555000 | Tupã (SP) | `flags/mun/3555000.png` | não informado | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:BandeiraTupa.svg) |
+| 3555000 | Tupã (SP) | `flags/mun/3555000.svg` | não informado | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:BandeiraTupa.svg) |
 | 3555109 | Tupi Paulista (SP) | `flags/mun/3555109.png` | Sgoncalves | [CC BY 3.0](https://creativecommons.org/licenses/by/3.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeiratupi_paulista.jpg) |
 | 3555208 | Turiúba (SP) | `flags/mun/3555208.png` | Prefeitura Municipal | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Turi%C3%BAba.png) |
 | 3555307 | Turmalina (SP) | `flags/mun/3555307.png` | Município de Turmalina-SP | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_do_Munic%C3%ADpio_de_Turmalina.png) |
-| 3555406 | Ubatuba (SP) | `flags/mun/3555406.png` | FORTES | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Ubatuba.svg) |
+| 3555406 | Ubatuba (SP) | `flags/mun/3555406.svg` | FORTES | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Ubatuba.svg) |
 | 3555505 | Ubirajara (SP) | `flags/mun/3555505.png` | Prefeitura Municipal | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Ubirajara.png) |
 | 3555604 | Uchoa (SP) | `flags/mun/3555604.png` | Prefeitura Municipal | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Uchoa.png) |
 | 3555703 | União Paulista (SP) | `flags/mun/3555703.png` | City Hall | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Flag_of_Uni%C3%A3o_Paulista_-_SP.png) |
 | 3555802 | Urânia (SP) | `flags/mun/3555802.png` | Prefeitura Municipal | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Ur%C3%A2nia.png) |
 | 3555901 | Uru (SP) | `flags/mun/3555901.png` | Prefeitura Municipal | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Uru.png) |
-| 3556008 | Urupês (SP) | `flags/mun/3556008.png` | Lfernandoslv | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Urup%C3%AAs.svg) |
+| 3556008 | Urupês (SP) | `flags/mun/3556008.svg` | Lfernandoslv | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Urup%C3%AAs.svg) |
 | 3556107 | Valentim Gentil (SP) | `flags/mun/3556107.png` | Município de Valentim Gentil | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_valentim_gentil.jpg) |
-| 3556206 | Valinhos (SP) | `flags/mun/3556206.png` | victorwestmann | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira-Valinhos.svg) |
+| 3556206 | Valinhos (SP) | `flags/mun/3556206.svg` | victorwestmann | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira-Valinhos.svg) |
 | 3556305 | Valparaíso (SP) | `flags/mun/3556305.png` | Prefeitura Municipal | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Valpara%C3%ADso.png) |
 | 3556354 | Vargem (SP) | `flags/mun/3556354.png` | City Hall | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Flag_of_Vargem_-_SP.png) |
 | 3556404 | Vargem Grande do Sul (SP) | `flags/mun/3556404.png` | não informado | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_vgsul.jpg) |
 | 3556453 | Vargem Grande Paulista (SP) | `flags/mun/3556453.png` | Prefeitura de Vargem Grande Paulista | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Vargem_Grande_Paulista.jpg) |
 | 3556503 | Várzea Paulista (SP) | `flags/mun/3556503.png` | Brazilian government | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_V%C3%A1rzea_Paulista.png) |
 | 3556602 | Vera Cruz (SP) | `flags/mun/3556602.png` | VeraCruz City Hall | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira-veracruz.png) |
-| 3556701 | Vinhedo (SP) | `flags/mun/3556701.png` | Câmara Municipal de Vinhedo; vectorization by SiBr4 | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Vinhedo_-_SP.svg) |
+| 3556701 | Vinhedo (SP) | `flags/mun/3556701.svg` | Câmara Municipal de Vinhedo; vectorization by SiBr4 | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Vinhedo_-_SP.svg) |
 | 3556800 | Viradouro (SP) | `flags/mun/3556800.png` | Prefeitura Municipal | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Viradouro.png) |
 | 3556909 | Vista Alegre do Alto (SP) | `flags/mun/3556909.png` | Prefeitura Municipal | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Vista_Alegre_do_Alto.jpg) |
 | 3556958 | Vitória Brasil (SP) | `flags/mun/3556958.png` | Prefeitura Municipal | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Vit%C3%B3ria_Brasil.png) |
@@ -2745,19 +2745,19 @@ Gerado por `tools/gerar.py`. A mesma informação está em `dados/bandeiras.json
 | 4100905 | Amaporã (PR) | `flags/mun/4100905.png` | HugoHenriqueCAP | [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Amapor%C3%A3.webp) |
 | 4101002 | Ampére (PR) | `flags/mun/4101002.png` | Batistussi | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Pr-ampere-bandeira.jpg) |
 | 4101051 | Anahy (PR) | `flags/mun/4101051.png` | HugoHenriqueCAP | [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Anahy.webp) |
-| 4101101 | Andirá (PR) | `flags/mun/4101101.png` | BrCaLeTo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Andir%C3%A1_-_PR.svg) |
+| 4101101 | Andirá (PR) | `flags/mun/4101101.svg` | BrCaLeTo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Andir%C3%A1_-_PR.svg) |
 | 4101150 | Ângulo (PR) | `flags/mun/4101150.png` | Fotógrafo Oficial de Ângulo | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_%C3%82ngulo.jpg) |
 | 4101200 | Antonina (PR) | `flags/mun/4101200.png` | não informado | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Band_Antonina.jpg) |
 | 4101309 | Antônio Olinto (PR) | `flags/mun/4101309.png` | HugoHenriqueCAP | [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Ant%C3%B4nio_Olinto.webp) |
 | 4101408 | Apucarana (PR) | `flags/mun/4101408.png` | não informado | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_apucarana.jpg) |
-| 4101507 | Arapongas (PR) | `flags/mun/4101507.png` | BrCaLeTo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Arapongas_-_PR.svg) |
-| 4101606 | Arapoti (PR) | `flags/mun/4101606.png` | BrCaLeTo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Arapoti_-_PR.svg) |
+| 4101507 | Arapongas (PR) | `flags/mun/4101507.svg` | BrCaLeTo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Arapongas_-_PR.svg) |
+| 4101606 | Arapoti (PR) | `flags/mun/4101606.svg` | BrCaLeTo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Arapoti_-_PR.svg) |
 | 4101655 | Arapuã (PR) | `flags/mun/4101655.png` | HugoHenriqueCAP | [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Arapu%C3%A3.jpg) |
 | 4101705 | Araruna (PR) | `flags/mun/4101705.png` | Fabiobnt | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeiraararunapr.png) |
 | 4101804 | Araucária (PR) | `flags/mun/4101804.png` | não informado | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_araucaria.jpg) |
 | 4101853 | Ariranha do Ivaí (PR) | `flags/mun/4101853.png` | Prefeitura Municipal. | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Ariranha_do_Iva%C3%AD.jpg) |
 | 4101903 | Assaí (PR) | `flags/mun/4101903.png` | não informado | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeiraassai.jpg) |
-| 4102000 | Assis Chateaubriand (PR) | `flags/mun/4102000.png` | BrCaLeTo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Assis_Chateaubriand_-_PR.svg) |
+| 4102000 | Assis Chateaubriand (PR) | `flags/mun/4102000.svg` | BrCaLeTo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Assis_Chateaubriand_-_PR.svg) |
 | 4102208 | Atalaia (PR) | `flags/mun/4102208.png` | HugoHenriqueCAP | [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Atalaia,_PR.webp) |
 | 4102307 | Balsa Nova (PR) | `flags/mun/4102307.png` | Arthur Luponi | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:BandeiraBalsaNovaPR.png) |
 | 4102406 | Bandeirantes (PR) | `flags/mun/4102406.png` | Luiz Henrique Jacobucci | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Bandeirantes_-_PR.jpg) |
@@ -2772,16 +2772,16 @@ Gerado por `tools/gerar.py`. A mesma informação está em `dados/bandeiras.json
 | 4103107 | Bocaiúva do Sul (PR) | `flags/mun/4103107.png` | HugoHenriqueCAP | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Bocai%C3%BAva_do_Sul.png) |
 | 4103156 | Bom Jesus do Sul (PR) | `flags/mun/4103156.png` | RUBIA | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Bom_Jesus_do_Sul,_PR.png) |
 | 4103206 | Bom Sucesso (PR) | `flags/mun/4103206.png` | Assessores da Prefeitura | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Bom_Sucesso,_PR.png) |
-| 4103222 | Bom Sucesso do Sul (PR) | `flags/mun/4103222.png` | Camervan This W3C-unspecified vector image was created with Inkscape . | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Bom_Sucesso_do_Sul_PR.svg) |
+| 4103222 | Bom Sucesso do Sul (PR) | `flags/mun/4103222.svg` | Camervan This W3C-unspecified vector image was created with Inkscape . | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Bom_Sucesso_do_Sul_PR.svg) |
 | 4103305 | Borrazópolis (PR) | `flags/mun/4103305.png` | EduardoPas | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Borraz%C3%B3polis,_PR.jpg) |
 | 4103354 | Braganey (PR) | `flags/mun/4103354.png` | HugoHenriqueCAP | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Braganey.png) |
 | 4103370 | Brasilândia do Sul (PR) | `flags/mun/4103370.png` | HugoHenriqueCAP | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Brasil%C3%A2ndia_do_Sul.jpg) |
 | 4103404 | Cafeara (PR) | `flags/mun/4103404.png` | Cafeara City Hall | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira-cafeara.jpg) |
-| 4103453 | Cafelândia (PR) | `flags/mun/4103453.png` | BrCaLeTo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Cafel%C3%A2ndia_-_PR.svg) |
+| 4103453 | Cafelândia (PR) | `flags/mun/4103453.svg` | BrCaLeTo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Cafel%C3%A2ndia_-_PR.svg) |
 | 4103479 | Cafezal do Sul (PR) | `flags/mun/4103479.png` | HugoHenriqueCAP | [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeita_Cafezal_do_Sul.webp) |
 | 4103503 | Califórnia (PR) | `flags/mun/4103503.png` | Prefeitura de Califórnia | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Calif%C3%B3rnia,_PR.jpg) |
 | 4103602 | Cambará (PR) | `flags/mun/4103602.png` | não informado | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:BAND_CAMBARA.jpg) |
-| 4103701 | Cambé (PR) | `flags/mun/4103701.png` | Own work | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Cambe_Parana_Brasil.svg) |
+| 4103701 | Cambé (PR) | `flags/mun/4103701.svg` | Own work | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Cambe_Parana_Brasil.svg) |
 | 4103800 | Cambira (PR) | `flags/mun/4103800.png` | Prefeitura de Cambira | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Cambira,_PR.jpg) |
 | 4103909 | Campina da Lagoa (PR) | `flags/mun/4103909.png` | Campina da Lagoa | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira-campina-da-lagoa.png) |
 | 4103958 | Campina do Simão (PR) | `flags/mun/4103958.png` | HugoHenriqueCAP | [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Campina_do_Sim%C3%A3o.png) |
@@ -2790,7 +2790,7 @@ Gerado por `tools/gerar.py`. A mesma informação está em `dados/bandeiras.json
 | 4104105 | Campo do Tenente (PR) | `flags/mun/4104105.png` | HugoHenriqueCAP | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Campo_do_Tenente.jpg) |
 | 4104204 | Campo Largo (PR) | `flags/mun/4104204.png` | não informado | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Campo-Largo.png) |
 | 4104253 | Campo Magro (PR) | `flags/mun/4104253.png` | Girardi81 | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Campo_Magro.jpg) |
-| 4104303 | Campo Mourão (PR) | `flags/mun/4104303.png` | Municipal Prefecture of Campo Mourao | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_CampoMourao_Parana_Brasil.svg) |
+| 4104303 | Campo Mourão (PR) | `flags/mun/4104303.svg` | Municipal Prefecture of Campo Mourao | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_CampoMourao_Parana_Brasil.svg) |
 | 4104402 | Cândido de Abreu (PR) | `flags/mun/4104402.png` | HugoHenriqueCAP | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_C%C3%A2ndido_de_Abreu.png) |
 | 4104428 | Candói (PR) | `flags/mun/4104428.png` | HugoHenriqueCAP | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Cand%C3%B3i.jpg) |
 | 4104451 | Cantagalo (PR) | `flags/mun/4104451.png` | HugoHenriqueCAP | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Cantagalo,_PR.webp) |
@@ -2798,11 +2798,11 @@ Gerado por `tools/gerar.py`. A mesma informação está em `dados/bandeiras.json
 | 4104600 | Capitão Leônidas Marques (PR) | `flags/mun/4104600.png` | Heitor100YT | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Capit%C3%A3o_Le%C3%B4nidas_Marques_-_PR.jpg) |
 | 4104709 | Carlópolis (PR) | `flags/mun/4104709.png` | Prefeitura municipal de Carlópolis, estado Paraná, Brasil | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Carl%C3%B3polis.jpg) |
 | 4104808 | Cascavel (PR) | `flags/mun/4104808.png` | Prefeitura Municipal de Cascavel | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Flag_of_Cascavel.jpg) |
-| 4104907 | Castro (PR) | `flags/mun/4104907.png` | Municipal prefecture of Castro | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Castro_Parana_Brasil.svg) |
+| 4104907 | Castro (PR) | `flags/mun/4104907.svg` | Municipal prefecture of Castro | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Castro_Parana_Brasil.svg) |
 | 4105003 | Catanduvas (PR) | `flags/mun/4105003.png` | HugoHenriqueCAP | [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Catanduvas,_PR.jpg) |
 | 4105102 | Centenário do Sul (PR) | `flags/mun/4105102.png` | Hamilton Carvalho Neto | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Municipal_de_Centen%C3%A1rio_do_Sul.png) |
 | 4105201 | Cerro Azul (PR) | `flags/mun/4105201.png` | Municipal Prefecture of Cerro Azul. | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Cerro_Azul.png) |
-| 4105300 | Céu Azul (PR) | `flags/mun/4105300.png` | Gazilion | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_C%C3%A9u_Azul_-_PR.svg) |
+| 4105300 | Céu Azul (PR) | `flags/mun/4105300.svg` | Gazilion | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_C%C3%A9u_Azul_-_PR.svg) |
 | 4105508 | Cianorte (PR) | `flags/mun/4105508.png` | prefeitura de cianorte | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Cianorte,_PR.gif) |
 | 4105607 | Cidade Gaúcha (PR) | `flags/mun/4105607.png` | Gustavo Schwerz | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeiracgaucha.jpg) |
 | 4105706 | Clevelândia (PR) | `flags/mun/4105706.png` | Batistussi | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_clevelandia-png.jpg) |
@@ -2812,21 +2812,21 @@ Gerado por `tools/gerar.py`. A mesma informação está em `dados/bandeiras.json
 | 4106100 | Conselheiro Mairinck (PR) | `flags/mun/4106100.png` | Djjorgeguilherme | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_cmk.png) |
 | 4106209 | Contenda (PR) | `flags/mun/4106209.png` | Prefeitura Municipal de Contenda | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeiracontenda.jpg) |
 | 4106308 | Corbélia (PR) | `flags/mun/4106308.png` | Batistussi | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeiracorbelia.jpg) |
-| 4106407 | Cornélio Procópio (PR) | `flags/mun/4106407.png` | Municipal Prefecture of Cornélio Procópio | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_CornelioProcopio_Parana_Brasil.svg) |
+| 4106407 | Cornélio Procópio (PR) | `flags/mun/4106407.svg` | Municipal Prefecture of Cornélio Procópio | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_CornelioProcopio_Parana_Brasil.svg) |
 | 4106456 | Coronel Domingos Soares (PR) | `flags/mun/4106456.png` | HugoHenriqueCAP | [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Coronel_Domingos_Soares.webp) |
 | 4106506 | Coronel Vivida (PR) | `flags/mun/4106506.png` | não informado | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Band_Cel_Vivida.jpg) |
 | 4106555 | Corumbataí do Sul (PR) | `flags/mun/4106555.png` | HugoHenriqueCAP | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Corumbata%C3%AD_do_Sul.png) |
 | 4106571 | Cruzeiro do Iguaçu (PR) | `flags/mun/4106571.png` | HugoHenriqueCAP | [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Cruzeiro_do_Igua%C3%A7u.gif) |
 | 4106605 | Cruzeiro do Oeste (PR) | `flags/mun/4106605.png` | HugoHenriqueCAP | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Cruzeiro_do_Oeste.png) |
 | 4106704 | Cruzeiro do Sul (PR) | `flags/mun/4106704.png` | não informado | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Cruzeiro_do_Sul_(PR).jpg) |
-| 4106902 | Curitiba (PR) | `flags/mun/4106902.png` | ViniciusBR11; Prefeitura de Curitiba | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Curitiba.svg) |
+| 4106902 | Curitiba (PR) | `flags/mun/4106902.svg` | ViniciusBR11; Prefeitura de Curitiba | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Curitiba.svg) |
 | 4107009 | Curiúva (PR) | `flags/mun/4107009.png` | José Carlos Pereira | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Curi%C3%BAva.PNG) |
 | 4107108 | Diamante do Norte (PR) | `flags/mun/4107108.png` | HugoHenriqueCAP | [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Diamante_do_Norte.webp) |
 | 4107124 | Diamante do Sul (PR) | `flags/mun/4107124.png` | Prefeitura Municipal de Diamante do Sul | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_do_Diamante_do_Sul.jpg) |
 | 4107157 | Diamante D'Oeste (PR) | `flags/mun/4107157.png` | Ssnas2003 | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:BandeiraDiamanteDOestePR.jpg) |
 | 4107207 | Dois Vizinhos (PR) | `flags/mun/4107207.png` | McPot | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Dois_Vizinhos,_PR.png) |
 | 4107256 | Douradina (PR) | `flags/mun/4107256.png` | Município de Douradina | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Douradina,_PR.jpg) |
-| 4107306 | Doutor Camargo (PR) | `flags/mun/4107306.png` | Camervan This W3C-unspecified vector image was created with Inkscape . | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Doutor_Camargo_PR.svg) |
+| 4107306 | Doutor Camargo (PR) | `flags/mun/4107306.svg` | Camervan This W3C-unspecified vector image was created with Inkscape . | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Doutor_Camargo_PR.svg) |
 | 4107405 | Enéas Marques (PR) | `flags/mun/4107405.png` | FelipeRM2008 | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Eneas_Marques.jpg) |
 | 4107504 | Engenheiro Beltrão (PR) | `flags/mun/4107504.png` | 113.009.934b | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Engenheiro_Beltr%C3%A3o.jpg) |
 | 4107520 | Esperança Nova (PR) | `flags/mun/4107520.png` | HugoHenriqueCAP | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Esperan%C3%A7a_Nova.jpg) |
@@ -2842,14 +2842,14 @@ Gerado por `tools/gerar.py`. A mesma informação está em `dados/bandeiras.json
 | 4107850 | Flor da Serra do Sul (PR) | `flags/mun/4107850.png` | HugoHenriqueCAP | [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Flor_da_Serra_do_Sul.webp) |
 | 4107900 | Floresta (PR) | `flags/mun/4107900.png` | Prefeitura de Floresta | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Floresta,_PR.jpg) |
 | 4108007 | Florestópolis (PR) | `flags/mun/4108007.png` | PMF | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Florest%C3%B3polis,_PR.jpg) |
-| 4108205 | Formosa do Oeste (PR) | `flags/mun/4108205.png` | FelipeRM2008 | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Formosa_do_Oeste,_PR.svg) |
-| 4108304 | Foz do Iguaçu (PR) | `flags/mun/4108304.png` | não informado | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:BandeiraFozDoIguacu.svg) |
+| 4108205 | Formosa do Oeste (PR) | `flags/mun/4108205.svg` | FelipeRM2008 | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Formosa_do_Oeste,_PR.svg) |
+| 4108304 | Foz do Iguaçu (PR) | `flags/mun/4108304.svg` | não informado | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:BandeiraFozDoIguacu.svg) |
 | 4108320 | Francisco Alves (PR) | `flags/mun/4108320.png` | CNM | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Flag_of_Francisco_Alves_PR.png) |
 | 4108403 | Francisco Beltrão (PR) | `flags/mun/4108403.png` | Severino666~commonswiki | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Francisco_Beltr%C3%A3o,_PR.png) |
-| 4108452 | Foz do Jordão (PR) | `flags/mun/4108452.png` | Camervan This W3C-unspecified vector image was created with Inkscape . | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Foz_do_Jord%C3%A3o_PR.svg) |
+| 4108452 | Foz do Jordão (PR) | `flags/mun/4108452.svg` | Camervan This W3C-unspecified vector image was created with Inkscape . | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Foz_do_Jord%C3%A3o_PR.svg) |
 | 4108502 | General Carneiro (PR) | `flags/mun/4108502.png` | Heitor100YT | [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_General_Carneiro_-_PR.jpg) |
 | 4108551 | Godoy Moreira (PR) | `flags/mun/4108551.png` | HugoHenriqueCAP | [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Godoy_Moreira.webp) |
-| 4108601 | Goioerê (PR) | `flags/mun/4108601.png` | Claudia Domenes, IdrabmoL | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Goioere_Parana_Brasil.svg) |
+| 4108601 | Goioerê (PR) | `flags/mun/4108601.svg` | Claudia Domenes, IdrabmoL | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Goioere_Parana_Brasil.svg) |
 | 4108650 | Goioxim (PR) | `flags/mun/4108650.png` | HugoHenriqueCAP | [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Goioxim.jpg) |
 | 4108700 | Grandes Rios (PR) | `flags/mun/4108700.png` | HugoHenriqueCAP | [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Grandes_Rios.webp) |
 | 4108809 | Guaíra (PR) | `flags/mun/4108809.png` | Brazilian government | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Gua%C3%ADra_(Paran%C3%A1).png) |
@@ -2885,7 +2885,7 @@ Gerado por `tools/gerar.py`. A mesma informação está em `dados/bandeiras.json
 | 4111100 | Itambé (PR) | `flags/mun/4111100.png` | Andrespineli | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira-itambe-pr.png) |
 | 4111209 | Itapejara d'Oeste (PR) | `flags/mun/4111209.png` | não informado | Copyrighted free use | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Itapejara_d%27Oeste.png) |
 | 4111258 | Itaperuçu (PR) | `flags/mun/4111258.png` | Prefeitura de Itaperuçu | Attribution | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Itaperucu.jpg) |
-| 4111308 | Itaúna do Sul (PR) | `flags/mun/4111308.png` | Washington Batista de Souza | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Ita%C3%BAna_do_Sul.svg) |
+| 4111308 | Itaúna do Sul (PR) | `flags/mun/4111308.svg` | Washington Batista de Souza | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Ita%C3%BAna_do_Sul.svg) |
 | 4111407 | Ivaí (PR) | `flags/mun/4111407.png` | HugoHenriqueCAP | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Iva%C3%AD.jpg) |
 | 4111506 | Ivaiporã (PR) | `flags/mun/4111506.png` | Drluisclaudio | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeiraivaipora.jpeg) |
 | 4111555 | Ivaté (PR) | `flags/mun/4111555.png` | HugoHenriqueCAP | [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Ivat%C3%A9.webp) |
@@ -2897,7 +2897,7 @@ Gerado por `tools/gerar.py`. A mesma informação está em `dados/bandeiras.json
 | 4112207 | Janiópolis (PR) | `flags/mun/4112207.png` | Município de Janiópolis, PR. | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Janiopolis.jpg) |
 | 4112306 | Japira (PR) | `flags/mun/4112306.png` | autor desconhecido | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Japira_Bandeira.jpg) |
 | 4112405 | Japurá (PR) | `flags/mun/4112405.png` | autor desconhecido | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Japur%C3%A1.jpg) |
-| 4112504 | Jardim Alegre (PR) | `flags/mun/4112504.png` | Camervan This W3C-unspecified vector image was created with Inkscape . | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Jardim_Alegre_PR.svg) |
+| 4112504 | Jardim Alegre (PR) | `flags/mun/4112504.svg` | Camervan This W3C-unspecified vector image was created with Inkscape . | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Jardim_Alegre_PR.svg) |
 | 4112603 | Jardim Olinda (PR) | `flags/mun/4112603.png` | não informado | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_JardimOlinda.jpg) |
 | 4112702 | Jataizinho (PR) | `flags/mun/4112702.png` | Sjulianof | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Jataizinho,_PR.jpg) |
 | 4112801 | Joaquim Távora (PR) | `flags/mun/4112801.png` | HugoHenriqueCAP | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Joaquim_T%C3%A1vora.png) |
@@ -2913,9 +2913,9 @@ Gerado por `tools/gerar.py`. A mesma informação está em `dados/bandeiras.json
 | 4113452 | Lindoeste (PR) | `flags/mun/4113452.png` | HugoHenriqueCAP | [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Lindoeste.webp) |
 | 4113502 | Loanda (PR) | `flags/mun/4113502.png` | Prefeitura Municipal de Loanda | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Loanda.png) |
 | 4113601 | Lobato (PR) | `flags/mun/4113601.png` | autor desconhecido | [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_do_munic%C3%ADpio_de_Lobato-Paran%C3%A1.jpg) |
-| 4113700 | Londrina (PR) | `flags/mun/4113700.png` | Original design: Guilherme de Almeida SVG implementation: Slady, Giro720 | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_londrina.svg) |
+| 4113700 | Londrina (PR) | `flags/mun/4113700.svg` | Original design: Guilherme de Almeida SVG implementation: Slady, Giro720 | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_londrina.svg) |
 | 4113734 | Luiziana (PR) | `flags/mun/4113734.png` | HugoHenriqueCAP | [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Luiziana.webp) |
-| 4113759 | Lunardelli (PR) | `flags/mun/4113759.png` | Camervan This W3C-unspecified vector image was created with Inkscape . | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Lunardelli_PR.svg) |
+| 4113759 | Lunardelli (PR) | `flags/mun/4113759.svg` | Camervan This W3C-unspecified vector image was created with Inkscape . | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Lunardelli_PR.svg) |
 | 4113809 | Lupionópolis (PR) | `flags/mun/4113809.png` | LucianoAngelini | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Lupionopolis3_320x200.jpg) |
 | 4113908 | Mallet (PR) | `flags/mun/4113908.png` | HugoHenriqueCAP | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Mallet.jpg) |
 | 4114104 | Mandaguaçu (PR) | `flags/mun/4114104.png` | não informado | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Mandagua%C3%A7u.png) |
@@ -2929,8 +2929,8 @@ Gerado por `tools/gerar.py`. A mesma informação está em `dados/bandeiras.json
 | 4114807 | Marialva (PR) | `flags/mun/4114807.png` | Prefeitura | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Flag_of_Marialva_PR.png) |
 | 4114906 | Marilândia do Sul (PR) | `flags/mun/4114906.png` | HugoHenriqueCAP | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Maril%C3%A2ndia_do_Sul.jpg) |
 | 4115002 | Marilena (PR) | `flags/mun/4115002.png` | Eltongongora | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:BandeiraMarilena.jpg) |
-| 4115101 | Mariluz (PR) | `flags/mun/4115101.png` | IdrabmoL | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Mariluz_-_PR.svg) |
-| 4115200 | Maringá (PR) | `flags/mun/4115200.png` | BrCaLeTo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Maring%C3%A1_-_PR.svg) |
+| 4115101 | Mariluz (PR) | `flags/mun/4115101.svg` | IdrabmoL | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Mariluz_-_PR.svg) |
+| 4115200 | Maringá (PR) | `flags/mun/4115200.svg` | BrCaLeTo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Maring%C3%A1_-_PR.svg) |
 | 4115309 | Mariópolis (PR) | `flags/mun/4115309.png` | Governo municipal de Mariópolis | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_mari%C3%B3polis.gif) |
 | 4115358 | Maripá (PR) | `flags/mun/4115358.png` | Maripá City Hall | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira-marip%C3%A1.png) |
 | 4115408 | Marmeleiro (PR) | `flags/mun/4115408.png` | PMM | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira-marmeleiro.jpg) |
@@ -2940,18 +2940,18 @@ Gerado por `tools/gerar.py`. A mesma informação está em `dados/bandeiras.json
 | 4115705 | Matinhos (PR) | `flags/mun/4115705.png` | Prefeitura Municipal de Matinhos | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Matinhos,_PR.jpg) |
 | 4115739 | Mato Rico (PR) | `flags/mun/4115739.png` | HugoHenriqueCAP | [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Mato_Rico.webp) |
 | 4115754 | Mauá da Serra (PR) | `flags/mun/4115754.png` | não informado | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Band_Maua_da_Serra.jpg) |
-| 4115804 | Medianeira (PR) | `flags/mun/4115804.png` | Gazilion | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Medianeira_-_PR.svg) |
+| 4115804 | Medianeira (PR) | `flags/mun/4115804.svg` | Gazilion | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Medianeira_-_PR.svg) |
 | 4115853 | Mercedes (PR) | `flags/mun/4115853.png` | município de Mercedes | [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Mercedes.jpg) |
-| 4115903 | Mirador (PR) | `flags/mun/4115903.png` | autor desconhecido | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Mirador,_PR.svg) |
+| 4115903 | Mirador (PR) | `flags/mun/4115903.svg` | autor desconhecido | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Mirador,_PR.svg) |
 | 4116000 | Miraselva (PR) | `flags/mun/4116000.png` | HugoHenriqueCAP | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Miraselva.jpg) |
 | 4116059 | Missal (PR) | `flags/mun/4116059.png` | Prefeitura | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Flag_of_Missal_PR.png) |
 | 4116109 | Moreira Sales (PR) | `flags/mun/4116109.png` | HugoHenriqueCAP | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Moreira_Sales.png) |
-| 4116208 | Morretes (PR) | `flags/mun/4116208.png` | BrCaLeTo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Morretes_-_PR.svg) |
+| 4116208 | Morretes (PR) | `flags/mun/4116208.svg` | BrCaLeTo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Morretes_-_PR.svg) |
 | 4116307 | Munhoz de Melo (PR) | `flags/mun/4116307.png` | HugoHenriqueCAP | [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Munhoz_de_Melo.jpg) |
 | 4116406 | Nossa Senhora das Graças (PR) | `flags/mun/4116406.png` | HugoHenriqueCAP | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Nossa_Senhora_das_Gra%C3%A7as.png) |
 | 4116505 | Nova Aliança do Ivaí (PR) | `flags/mun/4116505.png` | HugoHenriqueCAP | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Nova_Alian%C3%A7a_do_Iva%C3%AD.png) |
 | 4116604 | Nova América da Colina (PR) | `flags/mun/4116604.png` | HugoHenriqueCAP | [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Nova_Am%C3%A9rica_da_Colina.png) |
-| 4116703 | Nova Aurora (PR) | `flags/mun/4116703.png` | Gazilion | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Nova_Aurora_-_PR.svg) |
+| 4116703 | Nova Aurora (PR) | `flags/mun/4116703.svg` | Gazilion | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Nova_Aurora_-_PR.svg) |
 | 4116802 | Nova Cantu (PR) | `flags/mun/4116802.png` | HugoHenriqueCAP | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Nova_Cantu.png) |
 | 4116901 | Nova Esperança (PR) | `flags/mun/4116901.png` | Sandy | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Nova_Esperan%C3%A7a,_PR,_Brazil.jpg) |
 | 4116950 | Nova Esperança do Sudoeste (PR) | `flags/mun/4116950.png` | HugoHenriqueCAP | [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Nova_Esperan%C3%A7a_do_Sudoeste.png) |
@@ -2960,25 +2960,25 @@ Gerado por `tools/gerar.py`. A mesma informação está em `dados/bandeiras.json
 | 4117107 | Nova Londrina (PR) | `flags/mun/4117107.png` | autor desconhecido | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Nova_Londrina.jpg) |
 | 4117206 | Nova Olímpia (PR) | `flags/mun/4117206.png` | HugoHenriqueCAP | [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Nova_Ol%C3%ADmpia.gif) |
 | 4117214 | Nova Santa Bárbara (PR) | `flags/mun/4117214.png` | não informado | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:BAND_NOVA_STA_BARB.jpg) |
-| 4117222 | Nova Santa Rosa (PR) | `flags/mun/4117222.png` | Abyssmanx | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Nova_Santa_Rosa.svg) |
+| 4117222 | Nova Santa Rosa (PR) | `flags/mun/4117222.svg` | Abyssmanx | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Nova_Santa_Rosa.svg) |
 | 4117255 | Nova Prata do Iguaçu (PR) | `flags/mun/4117255.png` | HugoHenriqueCAP | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Nova_Prata_do_Igua%C3%A7u.jpg) |
 | 4117271 | Nova Tebas (PR) | `flags/mun/4117271.png` | Mairieli Wessel (talk) | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_NovaTebas_Parana_Brasil.jpg) |
 | 4117297 | Novo Itacolomi (PR) | `flags/mun/4117297.png` | HugoHenriqueCAP | [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Novo_Itacolomi.png) |
-| 4117305 | Ortigueira (PR) | `flags/mun/4117305.png` | BrCaLeTo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Ortigueira_-_PR.svg) |
+| 4117305 | Ortigueira (PR) | `flags/mun/4117305.svg` | BrCaLeTo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Ortigueira_-_PR.svg) |
 | 4117404 | Ourizona (PR) | `flags/mun/4117404.png` | Prefeitura Municipal de Ourizona | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Ourizona.jpg) |
 | 4117453 | Ouro Verde do Oeste (PR) | `flags/mun/4117453.png` | HugoHenriqueCAP | [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Ouro_Verde_do_Oeste.jpg) |
 | 4117503 | Paiçandu (PR) | `flags/mun/4117503.png` | Paiçandu | [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_pai%C3%A7andu.jpg) |
 | 4117602 | Palmas (PR) | `flags/mun/4117602.png` | não informado | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_palmaspr.png) |
-| 4117701 | Palmeira (PR) | `flags/mun/4117701.png` | Palm tree symbol.svg: DarkEvil (altered) Oil_lamps_in_heraldry2.svg: Eugenio_Hansen,_OFS (altered) derivative work: G… | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Palmeira_-_PR.svg) |
+| 4117701 | Palmeira (PR) | `flags/mun/4117701.svg` | Palm tree symbol.svg: DarkEvil (altered) Oil_lamps_in_heraldry2.svg: Eugenio_Hansen,_OFS (altered) derivative work: G… | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Palmeira_-_PR.svg) |
 | 4117800 | Palmital (PR) | `flags/mun/4117800.png` | autor desconhecido | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Palmital,_PR.jpg) |
-| 4117909 | Palotina (PR) | `flags/mun/4117909.png` | Mysid | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Flag_of_Palotina,_Paran%C3%A1,_Brazil.svg) |
+| 4117909 | Palotina (PR) | `flags/mun/4117909.svg` | Mysid | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Flag_of_Palotina,_Paran%C3%A1,_Brazil.svg) |
 | 4118006 | Paraíso do Norte (PR) | `flags/mun/4118006.png` | Município de Paraíso do Norte | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Paraiso_do_Norte.jpg) |
-| 4118105 | Paranacity (PR) | `flags/mun/4118105.png` | Own work | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Paranacity_Parana_Brasil.svg) |
+| 4118105 | Paranacity (PR) | `flags/mun/4118105.svg` | Own work | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Paranacity_Parana_Brasil.svg) |
 | 4118204 | Paranaguá (PR) | `flags/mun/4118204.png` | não informado | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_paranagua.png) |
 | 4118303 | Paranapoema (PR) | `flags/mun/4118303.png` | HugoHenriqueCAP | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Paranapoema.png) |
 | 4118402 | Paranavaí (PR) | `flags/mun/4118402.png` | Município de Paranavaí | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_paranava%C3%AD.jpg) |
 | 4118451 | Pato Bragado (PR) | `flags/mun/4118451.png` | Prefeitura de Pato Bragado | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Pato_Bragado.jpg) |
-| 4118501 | Pato Branco (PR) | `flags/mun/4118501.png` | ViniciusBR11, Prefeitura de Pato Branco | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Pato_Branco.svg) |
+| 4118501 | Pato Branco (PR) | `flags/mun/4118501.svg` | ViniciusBR11, Prefeitura de Pato Branco | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Pato_Branco.svg) |
 | 4118600 | Paula Freitas (PR) | `flags/mun/4118600.png` | HugoHenriqueCAP | [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Paula_Freitas.png) |
 | 4118709 | Paulo Frontin (PR) | `flags/mun/4118709.png` | Prefeitura municipal de Paulo Frontin | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Paulo_Frontin.png) |
 | 4118808 | Peabiru (PR) | `flags/mun/4118808.png` | Sexugi | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_peabiru.jpg) |
@@ -2992,7 +2992,7 @@ Gerado por `tools/gerar.py`. A mesma informação está em `dados/bandeiras.json
 | 4119301 | Pinhão (PR) | `flags/mun/4119301.png` | Guilherme GK | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Pinh%C3%A3o_(Paran%C3%A1).jpg) |
 | 4119400 | Piraí do Sul (PR) | `flags/mun/4119400.png` | Município de Piraí do Sul | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Piraidosul_bandeira.jpg) |
 | 4119509 | Piraquara (PR) | `flags/mun/4119509.png` | autor desconhecido | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Piraquara.png) |
-| 4119608 | Pitanga (PR) | `flags/mun/4119608.png` | BrCaLeTo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Pitanga_-_PR.svg) |
+| 4119608 | Pitanga (PR) | `flags/mun/4119608.svg` | BrCaLeTo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Pitanga_-_PR.svg) |
 | 4119657 | Pitangueiras (PR) | `flags/mun/4119657.png` | HugoHenriqueCAP | [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Pitangueiras,_PR.jpg) |
 | 4119806 | Planalto (PR) | `flags/mun/4119806.png` | Dedefeix | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Planalto,_PR.jpg) |
 | 4119905 | Ponta Grossa (PR) | `flags/mun/4119905.png` | não informado | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_ponta_grossa.png) |
@@ -3024,7 +3024,7 @@ Gerado por `tools/gerar.py`. A mesma informação está em `dados/bandeiras.json
 | 4121703 | Reserva (PR) | `flags/mun/4121703.png` | Arcinoé Antonio Peixoto de Faria | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Reserva_PR.png) |
 | 4121752 | Reserva do Iguaçu (PR) | `flags/mun/4121752.png` | HugoHenriqueCAP | [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Reserva_do_Igua%C3%A7u.webp) |
 | 4121802 | Ribeirão Claro (PR) | `flags/mun/4121802.png` | HugoHenriqueCAP | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Ribeir%C3%A3o_Claro.png) |
-| 4121901 | Ribeirão do Pinhal (PR) | `flags/mun/4121901.png` | BrCaLeTo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Ribeir%C3%A3o_do_Pinhal_-_PR.svg) |
+| 4121901 | Ribeirão do Pinhal (PR) | `flags/mun/4121901.svg` | BrCaLeTo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Ribeir%C3%A3o_do_Pinhal_-_PR.svg) |
 | 4122008 | Rio Azul (PR) | `flags/mun/4122008.png` | HugoHenriqueCAP | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Rio_Azul.jpg) |
 | 4122107 | Rio Bom (PR) | `flags/mun/4122107.png` | HugoHenriqueCAP | [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Rio_Bom.webp) |
 | 4122156 | Rio Bonito do Iguaçu (PR) | `flags/mun/4122156.png` | Prefeitura municipal | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Rio_Bonito_do_Igua%C3%A7u.jpg) |
@@ -3046,9 +3046,9 @@ Gerado por `tools/gerar.py`. A mesma informação está em `dados/bandeiras.json
 | 4123501 | Santa Helena (PR) | `flags/mun/4123501.png` | Cleverson Cândido da Roza | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Santa_helena_bandeira.jpg) |
 | 4123600 | Santa Inês (PR) | `flags/mun/4123600.png` | HugoHenriqueCAP | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Santa_In%C3%AAs,_PR.png) |
 | 4123709 | Santa Isabel do Ivaí (PR) | `flags/mun/4123709.png` | HugoHenriqueCAP | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Santa_Isabel_do_Iva%C3%AD.png) |
-| 4123808 | Santa Izabel do Oeste (PR) | `flags/mun/4123808.png` | BrCaLeTo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Santa_Izabel_do_Oeste_-_PR.svg) |
+| 4123808 | Santa Izabel do Oeste (PR) | `flags/mun/4123808.svg` | BrCaLeTo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Santa_Izabel_do_Oeste_-_PR.svg) |
 | 4123824 | Santa Lúcia (PR) | `flags/mun/4123824.png` | HugoHenriqueCAP | [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Santa_L%C3%BAcia,_PR.png) |
-| 4123857 | Santa Maria do Oeste (PR) | `flags/mun/4123857.png` | Camervan This W3C-unspecified vector image was created with Inkscape . | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Santa_Maria_do_Oeste_PR.svg) |
+| 4123857 | Santa Maria do Oeste (PR) | `flags/mun/4123857.svg` | Camervan This W3C-unspecified vector image was created with Inkscape . | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Santa_Maria_do_Oeste_PR.svg) |
 | 4123907 | Santa Mariana (PR) | `flags/mun/4123907.png` | Prefeitura Municipal de Santa Mariana, Assessoria de Comunicação | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Santa_Mariana.jpg) |
 | 4123956 | Santa Mônica (PR) | `flags/mun/4123956.png` | HugoHenriqueCAP | [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Santa_M%C3%B4nica.jpg) |
 | 4124004 | Santana do Itararé (PR) | `flags/mun/4124004.png` | autor desconhecido | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira-santanadoitarare.png) |
@@ -3071,7 +3071,7 @@ Gerado por `tools/gerar.py`. A mesma informação está em `dados/bandeiras.json
 | 4125456 | São José das Palmeiras (PR) | `flags/mun/4125456.png` | HugoHenriqueCAP | [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_S%C3%A3o_Jos%C3%A9_das_Palmeiras.webp) |
 | 4125506 | São José dos Pinhais (PR) | `flags/mun/4125506.png` | não informado | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Br-pr-sj.png) |
 | 4125555 | São Manoel do Paraná (PR) | `flags/mun/4125555.png` | Elizeu Petrelli de Vitor e José Carlos Pereira | [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Municipal_S%C3%A3o_Manoel_do_Paran%C3%A1.jpg) |
-| 4125704 | São Miguel do Iguaçu (PR) | `flags/mun/4125704.png` | BrCaLeTo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_S%C3%A3o_Miguel_do_Igua%C3%A7u_-_PR.svg) |
+| 4125704 | São Miguel do Iguaçu (PR) | `flags/mun/4125704.svg` | BrCaLeTo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_S%C3%A3o_Miguel_do_Igua%C3%A7u_-_PR.svg) |
 | 4125753 | São Pedro do Iguaçu (PR) | `flags/mun/4125753.png` | HugoHenriqueCAP | [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_S%C3%A3o_Pedro_do_Igua%C3%A7u.jpg) |
 | 4125803 | São Pedro do Ivaí (PR) | `flags/mun/4125803.png` | HugoHenriqueCAP | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_S%C3%A3o_Pedro_do_Iva%C3%AD.jpg) |
 | 4125902 | São Pedro do Paraná (PR) | `flags/mun/4125902.png` | HugoHenriqueCAP | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_S%C3%A3o_Pedro_do_Paran%C3%A1.jpg) |
@@ -3080,7 +3080,7 @@ Gerado por `tools/gerar.py`. A mesma informação está em `dados/bandeiras.json
 | 4126256 | Sarandi (PR) | `flags/mun/4126256.png` | Prefeitura Municipal de Sarandi - PR | Attribution | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Sarandi.jpg) |
 | 4126272 | Saudade do Iguaçu (PR) | `flags/mun/4126272.png` | HugoHenriqueCAP | [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Saudade_do_Igua%C3%A7u.jpg) |
 | 4126306 | Sengés (PR) | `flags/mun/4126306.png` | Prefeitura Municipal de Sengés | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeirasenges.jpg) |
-| 4126355 | Serranópolis do Iguaçu (PR) | `flags/mun/4126355.png` | Blacks | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Serran%C3%B3polis_do_Igua%C3%A7u.svg) |
+| 4126355 | Serranópolis do Iguaçu (PR) | `flags/mun/4126355.svg` | Blacks | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Serran%C3%B3polis_do_Igua%C3%A7u.svg) |
 | 4126405 | Sertaneja (PR) | `flags/mun/4126405.png` | Pcgomes | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Flag_of_Sertaneja_-_PR_-_Brazil.png) |
 | 4126504 | Sertanópolis (PR) | `flags/mun/4126504.png` | http://www.camarasertanopolis.pr.gov.br/_portal/simbolos/ver.asp?id=1 | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Sertan%C3%B3polis,_PR.jpg) |
 | 4126603 | Siqueira Campos (PR) | `flags/mun/4126603.png` | Batistussi | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Siqueira_Campos,_PR_300x200.jpg) |
@@ -3108,18 +3108,18 @@ Gerado por `tools/gerar.py`. A mesma informação está em `dados/bandeiras.json
 | 4128203 | União da Vitória (PR) | `flags/mun/4128203.png` | autor desconhecido | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Uni%C3%A3o_da_Vit%C3%B3ria,_PR.png) |
 | 4128302 | Uniflor (PR) | `flags/mun/4128302.png` | HugoHenriqueCAP | [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Uniflor.png) |
 | 4128401 | Uraí (PR) | `flags/mun/4128401.png` | HugoHenriqueCAP | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Ura%C3%AD.png) |
-| 4128500 | Wenceslau Braz (PR) | `flags/mun/4128500.png` | Victor.westmann | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Wenceslau_braz_-_flag.svg) |
+| 4128500 | Wenceslau Braz (PR) | `flags/mun/4128500.svg` | Victor.westmann | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Wenceslau_braz_-_flag.svg) |
 | 4128534 | Ventania (PR) | `flags/mun/4128534.png` | HugoHenriqueCAP | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Ventania.jpg) |
 | 4128559 | Vera Cruz do Oeste (PR) | `flags/mun/4128559.png` | autor desconhecido | [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Vera_Cruz_do_Oeste,_PR.jpg) |
-| 4128609 | Verê (PR) | `flags/mun/4128609.png` | BrCaLeTo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Ver%C3%AA_-_PR.svg) |
+| 4128609 | Verê (PR) | `flags/mun/4128609.svg` | BrCaLeTo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Ver%C3%AA_-_PR.svg) |
 | 4128625 | Alto Paraíso (PR) | `flags/mun/4128625.png` | HugoHenriqueCAP | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Alto_Para%C3%ADso,_PR.png) |
 | 4128633 | Doutor Ulysses (PR) | `flags/mun/4128633.png` | HugoHenriqueCAP | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Doutor_Ulysses.jpg) |
 | 4128658 | Virmond (PR) | `flags/mun/4128658.png` | Prefeitura Municipal de Virmond. | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Virmond.jpg) |
-| 4128708 | Vitorino (PR) | `flags/mun/4128708.png` | Gazilion | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Vitorino_-_PR.svg) |
+| 4128708 | Vitorino (PR) | `flags/mun/4128708.svg` | Gazilion | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Vitorino_-_PR.svg) |
 | 4200051 | Abdon Batista (SC) | `flags/mun/4200051.png` | Abdon Batista | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Abdon_Batista.png) |
 | 4200101 | Abelardo Luz (SC) | `flags/mun/4200101.png` | não informado | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_abelardoluz.jpg) |
-| 4200200 | Agrolândia (SC) | `flags/mun/4200200.png` | Prefeitura Municipal de Agrolândia (SC) | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_do_munic%C3%ADpio_de_Agrol%C3%A2ndia_(SC).svg) |
-| 4200309 | Agronômica (SC) | `flags/mun/4200309.png` | Prefeitura Municipal de Agronômica (SC) | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_do_munic%C3%ADpio_de_Agron%C3%B4mica_(SC).svg) |
+| 4200200 | Agrolândia (SC) | `flags/mun/4200200.svg` | Prefeitura Municipal de Agrolândia (SC) | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_do_munic%C3%ADpio_de_Agrol%C3%A2ndia_(SC).svg) |
+| 4200309 | Agronômica (SC) | `flags/mun/4200309.svg` | Prefeitura Municipal de Agronômica (SC) | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_do_munic%C3%ADpio_de_Agron%C3%B4mica_(SC).svg) |
 | 4200408 | Água Doce (SC) | `flags/mun/4200408.png` | não informado | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_aguadoce.jpg) |
 | 4200507 | Águas de Chapecó (SC) | `flags/mun/4200507.png` | Prefeitura de Águas de Chapecó. | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:%C3%81guas%2Bde%2BChapec%C3%B3%2BFlag.PNG) |
 | 4200556 | Águas Frias (SC) | `flags/mun/4200556.png` | Prefeitura Municipal de Águas Frias | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_do_munic%C3%ADpio_de_%C3%81guas_Frias_(SC).png) |
@@ -3138,17 +3138,17 @@ Gerado por `tools/gerar.py`. A mesma informação está em `dados/bandeiras.json
 | 4201604 | Arroio Trinta (SC) | `flags/mun/4201604.png` | Francisco Seixas (talk) | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira-arroiotrinta.jpg) |
 | 4201653 | Arvoredo (SC) | `flags/mun/4201653.png` | Prefeitura Municipal de Arvoredo (SC) | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_do_munic%C3%ADpio_de_Arvoredo_(SC).png) |
 | 4201703 | Ascurra (SC) | `flags/mun/4201703.png` | Prefeitura Municipal de Ascurra (SC) | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_do_Munic%C3%ADpio_de_Ascurra_(SC).png) |
-| 4201802 | Atalanta (SC) | `flags/mun/4201802.png` | Prefeitura Municipal de Atalanta (SC) | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_do_munic%C3%ADpio_de_Atalanta_(SC).svg) |
-| 4201901 | Aurora (SC) | `flags/mun/4201901.png` | Prefeitura Municipal de Aurora (SC) | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_do_munic%C3%ADpio_de_Aurora_(SC).svg) |
+| 4201802 | Atalanta (SC) | `flags/mun/4201802.svg` | Prefeitura Municipal de Atalanta (SC) | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_do_munic%C3%ADpio_de_Atalanta_(SC).svg) |
+| 4201901 | Aurora (SC) | `flags/mun/4201901.svg` | Prefeitura Municipal de Aurora (SC) | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_do_munic%C3%ADpio_de_Aurora_(SC).svg) |
 | 4201950 | Balneário Arroio do Silva (SC) | `flags/mun/4201950.png` | Prefeitura Municipal de Balneário Arroio do Silva (SC) | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_do_Munic%C3%ADpio_de_Balne%C3%A1rio_Arroio_do_Silva_(SC).png) |
-| 4202008 | Balneário Camboriú (SC) | `flags/mun/4202008.png` | BrCaLeTo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Balne%C3%A1rio_Cambori%C3%BA_-_SC.svg) |
+| 4202008 | Balneário Camboriú (SC) | `flags/mun/4202008.svg` | BrCaLeTo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Balne%C3%A1rio_Cambori%C3%BA_-_SC.svg) |
 | 4202057 | Balneário Barra do Sul (SC) | `flags/mun/4202057.png` | Prefeitura Municipal de Balneário Barra do Sul (SC) | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_do_munic%C3%ADpio_de_Balne%C3%A1rio_Barra_do_Sul_(SC).jpg) |
 | 4202081 | Bandeirante (SC) | `flags/mun/4202081.png` | Prefeitura Municipal de Bandeirante (SC) | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_do_munic%C3%ADpio_de_Bandeirante_(SC).png) |
-| 4202107 | Barra Velha (SC) | `flags/mun/4202107.png` | Prefeitura Municipal de Barra Velha (SC) | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_do_munic%C3%ADpio_de_Barra_Velha_(SC).svg) |
+| 4202107 | Barra Velha (SC) | `flags/mun/4202107.svg` | Prefeitura Municipal de Barra Velha (SC) | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_do_munic%C3%ADpio_de_Barra_Velha_(SC).svg) |
 | 4202131 | Bela Vista do Toldo (SC) | `flags/mun/4202131.png` | Prefeitura Municipal de Bela Vista do Toldo (SC) | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_do_munic%C3%ADpio_de_Bela_Vista_do_Toldo_(SC).png) |
-| 4202156 | Belmonte (SC) | `flags/mun/4202156.png` | BrCaLeTo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Belmonte_-_SC.svg) |
+| 4202156 | Belmonte (SC) | `flags/mun/4202156.svg` | BrCaLeTo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Belmonte_-_SC.svg) |
 | 4202206 | Benedito Novo (SC) | `flags/mun/4202206.png` | Prefeitura de Benedito Novo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:A001.png) |
-| 4202305 | Biguaçu (SC) | `flags/mun/4202305.png` | Municipal Prefecture of Biguaçu | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Biguacu_SantaCatarina_Brasil.svg) |
+| 4202305 | Biguaçu (SC) | `flags/mun/4202305.svg` | Municipal Prefecture of Biguaçu | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Biguacu_SantaCatarina_Brasil.svg) |
 | 4202404 | Blumenau (SC) | `flags/mun/4202404.svg` | Josedar (SVG conversion) | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Flag_of_Blumenau.svg) |
 | 4202453 | Bombinhas (SC) | `flags/mun/4202453.svg` | Prefeitura Municipal de Bombinhas (SC) | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_do_munic%C3%ADpio_de_Bombinhas_(SC).svg) |
 | 4202503 | Bom Jardim da Serra (SC) | `flags/mun/4202503.png` | Prefeitura Municipal de Bom Jardim da Serra | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_BomJardimdaSerra_SantaCatarina_Brasil.jpg) |
@@ -3157,48 +3157,48 @@ Gerado por `tools/gerar.py`. A mesma informação está em `dados/bandeiras.json
 | 4202602 | Bom Retiro (SC) | `flags/mun/4202602.png` | Prefeitura Municipal de Bom Retiro | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_BomRetiro_SantaCatarina_Brasil.jpg) |
 | 4202701 | Botuverá (SC) | `flags/mun/4202701.png` | Prefeitura municipal de Botuverá | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_botuvera.jpg) |
 | 4202800 | Braço do Norte (SC) | `flags/mun/4202800.png` | Prefeitura de Braço do Norte | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Bra%C3%A7o_do_Norte.jpg) |
-| 4202859 | Braço do Trombudo (SC) | `flags/mun/4202859.png` | Prefeitura Municipal de Braço do Trombudo (SC) | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_do_munic%C3%ADpio_de_Bra%C3%A7o_do_Trombudo_(SC).svg) |
+| 4202859 | Braço do Trombudo (SC) | `flags/mun/4202859.svg` | Prefeitura Municipal de Braço do Trombudo (SC) | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_do_munic%C3%ADpio_de_Bra%C3%A7o_do_Trombudo_(SC).svg) |
 | 4202875 | Brunópolis (SC) | `flags/mun/4202875.png` | Prefeitura Municipal de Brunópolis (SC) | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_do_munic%C3%ADpio_de_Brun%C3%B3polis_(SC).png) |
-| 4202909 | Brusque (SC) | `flags/mun/4202909.png` | Reference image: Prefeitura Municipal de BrusqueCOAs: AuguelSVG: Auguel | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Flag_of_Brusque_city_(Santa_Catarina).svg) |
-| 4203006 | Caçador (SC) | `flags/mun/4203006.png` | Vetorização/Vectorization: Claudemir Todo Bom | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Cacador.svg) |
+| 4202909 | Brusque (SC) | `flags/mun/4202909.svg` | Reference image: Prefeitura Municipal de BrusqueCOAs: AuguelSVG: Auguel | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Flag_of_Brusque_city_(Santa_Catarina).svg) |
+| 4203006 | Caçador (SC) | `flags/mun/4203006.svg` | Vetorização/Vectorization: Claudemir Todo Bom | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Cacador.svg) |
 | 4203105 | Caibi (SC) | `flags/mun/4203105.png` | Lucas | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_caibi.jpg) |
 | 4203154 | Calmon (SC) | `flags/mun/4203154.png` | Prefeitura Municipal de Calmon (SC) | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_do_munic%C3%ADpio_de_Calmon_(SC).png) |
-| 4203204 | Camboriú (SC) | `flags/mun/4203204.png` | Prefeitura municipal de Camboriú | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Camboriu_SantaCatarina_Brasil.svg) |
+| 4203204 | Camboriú (SC) | `flags/mun/4203204.svg` | Prefeitura municipal de Camboriú | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Camboriu_SantaCatarina_Brasil.svg) |
 | 4203253 | Capão Alto (SC) | `flags/mun/4203253.png` | Prefeitura Municipal de Capão Alto (SC) | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_do_munic%C3%ADpio_de_Cap%C3%A3o_Alto_(SC).png) |
 | 4203303 | Campo Alegre (SC) | `flags/mun/4203303.png` | Prefeitura municipal de Campo Alegre | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_campoalegre.jpg) |
 | 4203402 | Campo Belo do Sul (SC) | `flags/mun/4203402.png` | Prefeitura Municipal de Campo Belo do Sul (SC) | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_do_munic%C3%ADpio_de_Campo_Belo_do_Sul_(SC).png) |
-| 4203600 | Campos Novos (SC) | `flags/mun/4203600.png` | BrCaLeTo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Campos_Novos_-_SC.svg) |
+| 4203600 | Campos Novos (SC) | `flags/mun/4203600.svg` | BrCaLeTo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Campos_Novos_-_SC.svg) |
 | 4203709 | Canelinha (SC) | `flags/mun/4203709.png` | Prefeitura de Canelinha. | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Canelinha.jpg) |
 | 4203808 | Canoinhas (SC) | `flags/mun/4203808.png` | não informado | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_canoinhas.jpg) |
 | 4203907 | Capinzal (SC) | `flags/mun/4203907.png` | Mirna Markus | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Capinzal.PNG) |
-| 4203956 | Capivari de Baixo (SC) | `flags/mun/4203956.png` | Bandeira_capivaridebaixo.jpg: Prefeitura municipal de Capivari de Baixo derivative work: McSush (talk) | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Capivari_de_Baixo.svg) |
-| 4204004 | Catanduvas (SC) | `flags/mun/4204004.png` | Prefeitura Municipal de Catanduvas (SC) | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_do_munic%C3%ADpio_de_Catanduvas_(SC).svg) |
-| 4204103 | Caxambu do Sul (SC) | `flags/mun/4204103.png` | Prefeitura Municipal de Caxambu do Sul (SC) | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_do_munic%C3%ADpio_de_Caxambu_do_Sul_(SC).svg) |
+| 4203956 | Capivari de Baixo (SC) | `flags/mun/4203956.svg` | Bandeira_capivaridebaixo.jpg: Prefeitura municipal de Capivari de Baixo derivative work: McSush (talk) | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Capivari_de_Baixo.svg) |
+| 4204004 | Catanduvas (SC) | `flags/mun/4204004.svg` | Prefeitura Municipal de Catanduvas (SC) | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_do_munic%C3%ADpio_de_Catanduvas_(SC).svg) |
+| 4204103 | Caxambu do Sul (SC) | `flags/mun/4204103.svg` | Prefeitura Municipal de Caxambu do Sul (SC) | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_do_munic%C3%ADpio_de_Caxambu_do_Sul_(SC).svg) |
 | 4204152 | Celso Ramos (SC) | `flags/mun/4204152.png` | Prefeitura Municipal de Cesar Ramos | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Celso_Ramos.jpg) |
 | 4204178 | Cerro Negro (SC) | `flags/mun/4204178.png` | Prefeitura Municipal de Cerro Negro (SC) | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_do_munic%C3%ADpio_de_Cerro_Negro_(SC).png) |
-| 4204194 | Chapadão do Lageado (SC) | `flags/mun/4204194.png` | Prefeitura Municipal de Chapadão do Lageado (SC) | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_do_munic%C3%ADpio_de_Chapad%C3%A3o_do_Lageado_(SC).svg) |
-| 4204202 | Chapecó (SC) | `flags/mun/4204202.png` | Josedar: Flag conversion ; (Lauro Sant'Anna e Homero M. Franco. Prefeitura Municipal de Chapecó): Coat of arms File:B… | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_chapeco.svg) |
+| 4204194 | Chapadão do Lageado (SC) | `flags/mun/4204194.svg` | Prefeitura Municipal de Chapadão do Lageado (SC) | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_do_munic%C3%ADpio_de_Chapad%C3%A3o_do_Lageado_(SC).svg) |
+| 4204202 | Chapecó (SC) | `flags/mun/4204202.svg` | Josedar: Flag conversion ; (Lauro Sant'Anna e Homero M. Franco. Prefeitura Municipal de Chapecó): Coat of arms File:B… | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_chapeco.svg) |
 | 4204251 | Cocal do Sul (SC) | `flags/mun/4204251.png` | Prefeitura Municipal de Cocal do Sul (SC) | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_do_munic%C3%ADpio_de_Cocal_do_Sul_(SC).png) |
-| 4204301 | Concórdia (SC) | `flags/mun/4204301.png` | CityBreakingDown | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Concordia_SantaCatarina_Brasil.svg) |
+| 4204301 | Concórdia (SC) | `flags/mun/4204301.svg` | CityBreakingDown | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Concordia_SantaCatarina_Brasil.svg) |
 | 4204350 | Cordilheira Alta (SC) | `flags/mun/4204350.png` | Prefeitura Municipal de Cordilheira Alta (SC) | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_do_munic%C3%ADpio_de_Cordilheira_Alta_(SC).png) |
 | 4204400 | Coronel Freitas (SC) | `flags/mun/4204400.png` | Prefeitura municipal de Coronel Freitas | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_coronelfreitas.jpg) |
 | 4204459 | Coronel Martins (SC) | `flags/mun/4204459.png` | Prefeitura Municipal de Coronel Martins (SC) | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_do_munic%C3%ADpio_de_Coronel_Martins_(SC).png) |
 | 4204509 | Corupá (SC) | `flags/mun/4204509.png` | Prefeitura Municipal de Corupá (SC) | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_do_munic%C3%ADpio_de_Corup%C3%A1_(SC).png) |
 | 4204558 | Correia Pinto (SC) | `flags/mun/4204558.png` | Prefeitura Municipal de Correia Pinto | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_CorreiaPinto_SantaCatarina_Brasil.jpg) |
-| 4204608 | Criciúma (SC) | `flags/mun/4204608.png` | ViniciusBR11, Prefeitura de Criciúma. | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:BandeiraCriciuma.svg) |
+| 4204608 | Criciúma (SC) | `flags/mun/4204608.svg` | ViniciusBR11, Prefeitura de Criciúma. | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:BandeiraCriciuma.svg) |
 | 4204707 | Cunha Porã (SC) | `flags/mun/4204707.png` | não informado | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeiracun.png) |
 | 4204756 | Cunhataí (SC) | `flags/mun/4204756.png` | Prefeitura Municipal de Cunhataí (SC) | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_do_munic%C3%ADpio_de_Cunhata%C3%AD_(SC).png) |
-| 4204806 | Curitibanos (SC) | `flags/mun/4204806.png` | Prefeitura Municipal de Curitibanos (SC) | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_do_munic%C3%ADpio_de_Curitibanos_(SC).svg) |
+| 4204806 | Curitibanos (SC) | `flags/mun/4204806.svg` | Prefeitura Municipal de Curitibanos (SC) | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_do_munic%C3%ADpio_de_Curitibanos_(SC).svg) |
 | 4204905 | Descanso (SC) | `flags/mun/4204905.png` | (domínio público) | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:0.718426001251220020_bandeira_descanso.jpg) |
 | 4205001 | Dionísio Cerqueira (SC) | `flags/mun/4205001.png` | Prefeitura Municipal de Dionísio Cerqueira | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_DionisioCerqueira_SantaCatarina_Brasil.jpg) |
-| 4205100 | Dona Emma (SC) | `flags/mun/4205100.png` | Prefeitura Municipal de Dona Emma (SC) | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_do_munic%C3%ADpio_de_Dona_Emma_(SC).svg) |
+| 4205100 | Dona Emma (SC) | `flags/mun/4205100.svg` | Prefeitura Municipal de Dona Emma (SC) | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_do_munic%C3%ADpio_de_Dona_Emma_(SC).svg) |
 | 4205159 | Doutor Pedrinho (SC) | `flags/mun/4205159.png` | Prefeitura Municipal de Doutor Pedrinho | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_do_munic%C3%ADpio_de_Doutor_Pedrinho_(SC).png) |
 | 4205175 | Entre Rios (SC) | `flags/mun/4205175.png` | Prefeitura Municipal de Entre Rios (SC) | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_do_munic%C3%ADpio_de_Entre_Rios_(SC).png) |
 | 4205209 | Erval Velho (SC) | `flags/mun/4205209.png` | não informado | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_ervalvelho.jpg) |
 | 4205357 | Flor do Sertão (SC) | `flags/mun/4205357.png` | Prefeitura Municipal de Flor do Sertão (SC) | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_do_munic%C3%ADpio_de_Flor_do_Sert%C3%A3o_(SC).png) |
-| 4205407 | Florianópolis (SC) | `flags/mun/4205407.png` | SVG file by Luís Flávio: Please note that it is not 100% accurate as I couldn't find enough information about the fla… | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Florian%C3%B3polis.svg) |
+| 4205407 | Florianópolis (SC) | `flags/mun/4205407.svg` | SVG file by Luís Flávio: Please note that it is not 100% accurate as I couldn't find enough information about the fla… | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Florian%C3%B3polis.svg) |
 | 4205431 | Formosa do Sul (SC) | `flags/mun/4205431.png` | Prefeitura Municipal de Formosa do Sul (SC) | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_do_munic%C3%ADpio_de_Formosa_do_Sul_(SC).png) |
-| 4205456 | Forquilhinha (SC) | `flags/mun/4205456.png` | Prefeitura Municipal de Forquilhinha (SC) (Vetorizado por Eloir) | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_do_munic%C3%ADpio_de_Forquilhinha_(SC).svg) |
+| 4205456 | Forquilhinha (SC) | `flags/mun/4205456.svg` | Prefeitura Municipal de Forquilhinha (SC) (Vetorizado por Eloir) | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_do_munic%C3%ADpio_de_Forquilhinha_(SC).svg) |
 | 4205506 | Fraiburgo (SC) | `flags/mun/4205506.png` | Município de Fraiburgo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Fraiburgo.jpg) |
 | 4205555 | Frei Rogério (SC) | `flags/mun/4205555.png` | Prefeitura Municipal de Frei Rogério (SC) | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_do_munic%C3%ADpio_de_Frei_Rog%C3%A9rio.png) |
 | 4205704 | Garopaba (SC) | `flags/mun/4205704.png` | Garopaba City Hall | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira-garopaba.png) |
@@ -3207,58 +3207,58 @@ Gerado por `tools/gerar.py`. A mesma informação está em `dados/bandeiras.json
 | 4206009 | Governador Celso Ramos (SC) | `flags/mun/4206009.png` | Puca96 | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_GovernadorCelsoRamos.png) |
 | 4206108 | Grão-Pará (SC) | `flags/mun/4206108.png` | Prefeitura municipal de Grão-Pará | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_grao_para.jpg) |
 | 4206207 | Gravatal (SC) | `flags/mun/4206207.png` | Prefeitura Municipal de Gravatal (SC) | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_do_munic%C3%ADpio_de_Gravatal_(SC).png) |
-| 4206306 | Guabiruba (SC) | `flags/mun/4206306.png` | Prefeitura Municipal de Guabiruba | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_do_munic%C3%ADpio_de_Guabiruba_(SC).svg) |
+| 4206306 | Guabiruba (SC) | `flags/mun/4206306.svg` | Prefeitura Municipal de Guabiruba | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_do_munic%C3%ADpio_de_Guabiruba_(SC).svg) |
 | 4206405 | Guaraciaba (SC) | `flags/mun/4206405.png` | Prefeitura municipal de Guabiruba | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_guaraciaba.jpg) |
-| 4206504 | Guaramirim (SC) | `flags/mun/4206504.png` | Prefeitura Municipal de Guaramirim (SC) | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_do_munic%C3%ADpio_de_Guaramirim_(SC).svg) |
+| 4206504 | Guaramirim (SC) | `flags/mun/4206504.svg` | Prefeitura Municipal de Guaramirim (SC) | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_do_munic%C3%ADpio_de_Guaramirim_(SC).svg) |
 | 4206603 | Guarujá do Sul (SC) | `flags/mun/4206603.png` | Prefeitura Municipal de Guarujá do Sul | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_GuarujadoSul_SantaCatarina_Brasil2.jpg) |
-| 4206702 | Herval d'Oeste (SC) | `flags/mun/4206702.png` | Prefeitura Municipal de Herval d'Oeste (SC) | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_do_munic%C3%ADpio_de_Herval_d%27Oeste_(SC).svg) |
+| 4206702 | Herval d'Oeste (SC) | `flags/mun/4206702.svg` | Prefeitura Municipal de Herval d'Oeste (SC) | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_do_munic%C3%ADpio_de_Herval_d%27Oeste_(SC).svg) |
 | 4206751 | Ibiam (SC) | `flags/mun/4206751.png` | Prefeitura Municipal de Ibiam (SC) | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_do_munic%C3%ADpio_de_Ibiam_(SC).png) |
 | 4206801 | Ibicaré (SC) | `flags/mun/4206801.png` | Prefeitura Municipal de Ibicaré | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Ibicare_SantaCatarina_Brasil.jpg) |
-| 4206900 | Ibirama (SC) | `flags/mun/4206900.png` | Prefeitura Municipal de Ibirama (SC) | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_do_munic%C3%ADpio_de_Ibirama_(SC).svg) |
+| 4206900 | Ibirama (SC) | `flags/mun/4206900.svg` | Prefeitura Municipal de Ibirama (SC) | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_do_munic%C3%ADpio_de_Ibirama_(SC).svg) |
 | 4207007 | Içara (SC) | `flags/mun/4207007.png` | não informado | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_I%C3%A7ara.png) |
 | 4207106 | Ilhota (SC) | `flags/mun/4207106.png` | Prefeitura Municipal de Ilhota (SC) | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_do_munic%C3%ADpio_de_Ilhota_(SC).png) |
 | 4207205 | Imaruí (SC) | `flags/mun/4207205.png` | Prefeitura Municipal de Imaruí (SC) | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_do_munic%C3%ADpio_de_Imaru%C3%AD_(SC).png) |
 | 4207304 | Imbituba (SC) | `flags/mun/4207304.png` | Prefeitura Municipal de Imbituba (SC) | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_do_munic%C3%ADpio_de_Imbituba_(SC).png) |
-| 4207403 | Imbuia (SC) | `flags/mun/4207403.png` | Prefeitura Municipal de Imbuia (SC) | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_do_munic%C3%ADpio_de_Imbuia_(SC).svg) |
-| 4207502 | Indaial (SC) | `flags/mun/4207502.png` | Prefeitura Municipal de Indaial (SC) | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_do_munic%C3%ADpio_de_Indaial_(SC).svg) |
+| 4207403 | Imbuia (SC) | `flags/mun/4207403.svg` | Prefeitura Municipal de Imbuia (SC) | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_do_munic%C3%ADpio_de_Imbuia_(SC).svg) |
+| 4207502 | Indaial (SC) | `flags/mun/4207502.svg` | Prefeitura Municipal de Indaial (SC) | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_do_munic%C3%ADpio_de_Indaial_(SC).svg) |
 | 4207577 | Iomerê (SC) | `flags/mun/4207577.png` | Prefeitura Municipal de Iomerê (SC) | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_do_munic%C3%ADpio_de_Iomer%C3%AA_(SC).png) |
 | 4207601 | Ipira (SC) | `flags/mun/4207601.png` | Prefeitura Municipal de Ipira | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Ipira_SantaCatarina_Brasil.jpg) |
 | 4207650 | Iporã do Oeste (SC) | `flags/mun/4207650.png` | Prefeitura Municipal de Iporã do Oeste (SC) | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_do_munic%C3%ADpio_de_Ipor%C3%A3_do_Oeste_(SC).png) |
 | 4207700 | Ipumirim (SC) | `flags/mun/4207700.png` | Prefeitura Municipal de Ipumirim (SC) | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_do_munic%C3%ADpio_de_Ipumirim_(SC).png) |
-| 4207759 | Iraceminha (SC) | `flags/mun/4207759.png` | Prefeitura Municipal de Iraceminha (SC) | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_do_munic%C3%ADpio_de_Iraceminha_(SC).svg) |
+| 4207759 | Iraceminha (SC) | `flags/mun/4207759.svg` | Prefeitura Municipal de Iraceminha (SC) | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_do_munic%C3%ADpio_de_Iraceminha_(SC).svg) |
 | 4207809 | Irani (SC) | `flags/mun/4207809.png` | Prefeitura Municipal de Irani (SC) | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_do_munic%C3%ADpio_de_Irani_(SC).png) |
 | 4207858 | Irati (SC) | `flags/mun/4207858.png` | Prefeitura Municipal de Irati (SC) | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_do_munic%C3%ADpio_de_Irati_(SC).png) |
 | 4207908 | Irineópolis (SC) | `flags/mun/4207908.png` | Prefeitura Municipal de Irineópolis (SC) | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_do_munic%C3%ADpio_de_Irine%C3%B3polis_(SC).png) |
 | 4208005 | Itá (SC) | `flags/mun/4208005.png` | Autor Desconhecido | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_It%C3%A1_SC_Brasil.jpg) |
 | 4208104 | Itaiópolis (SC) | `flags/mun/4208104.png` | não informado | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_itaiopolis.jpg) |
-| 4208203 | Itajaí (SC) | `flags/mun/4208203.png` | não informado | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Itajai_SantaCatarina_Brasil.svg) |
-| 4208302 | Itapema (SC) | `flags/mun/4208302.png` | Prefeitura Municipal de Itapema (SC) | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_do_munic%C3%ADpio_de_Itapema_(SC).svg) |
+| 4208203 | Itajaí (SC) | `flags/mun/4208203.svg` | não informado | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Itajai_SantaCatarina_Brasil.svg) |
+| 4208302 | Itapema (SC) | `flags/mun/4208302.svg` | Prefeitura Municipal de Itapema (SC) | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_do_munic%C3%ADpio_de_Itapema_(SC).svg) |
 | 4208401 | Itapiranga (SC) | `flags/mun/4208401.png` | não informado | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_itapiranga.jpg) |
-| 4208450 | Itapoá (SC) | `flags/mun/4208450.png` | BrCaLeTo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Itapo%C3%A1_-_SC.svg) |
-| 4208500 | Ituporanga (SC) | `flags/mun/4208500.png` | Prefeitura Municipal de Ituporanga (SC) | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_do_munic%C3%ADpio_de_Ituporanga_(SC).svg) |
+| 4208450 | Itapoá (SC) | `flags/mun/4208450.svg` | BrCaLeTo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Itapo%C3%A1_-_SC.svg) |
+| 4208500 | Ituporanga (SC) | `flags/mun/4208500.svg` | Prefeitura Municipal de Ituporanga (SC) | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_do_munic%C3%ADpio_de_Ituporanga_(SC).svg) |
 | 4208609 | Jaborá (SC) | `flags/mun/4208609.png` | Prefeitura Municipal de Jaborá (SC) | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_do_munic%C3%ADpio_de_Jabor%C3%A1_(SC).png) |
 | 4208708 | Jacinto Machado (SC) | `flags/mun/4208708.png` | Prefeitura Municipal de Jacinto Machado (SC) | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_do_munic%C3%ADpio_de_Jacinto_Machado_(SC).png) |
 | 4208807 | Jaguaruna (SC) | `flags/mun/4208807.png` | Prefeitura municipal de Jaguaruna | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_jaguaruna.jpg) |
-| 4208906 | Jaraguá do Sul (SC) | `flags/mun/4208906.png` | Municipal prefecture of jaraguá do Sul | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_JaraguadoSul_SantaCatarina_Brasil.svg) |
-| 4208955 | Jardinópolis (SC) | `flags/mun/4208955.png` | Prefeitura Municipal de Jardinópolis | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_do_munic%C3%ADpio_de_Jardin%C3%B3polis_(SC).svg) |
+| 4208906 | Jaraguá do Sul (SC) | `flags/mun/4208906.svg` | Municipal prefecture of jaraguá do Sul | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_JaraguadoSul_SantaCatarina_Brasil.svg) |
+| 4208955 | Jardinópolis (SC) | `flags/mun/4208955.svg` | Prefeitura Municipal de Jardinópolis | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_do_munic%C3%ADpio_de_Jardin%C3%B3polis_(SC).svg) |
 | 4209003 | Joaçaba (SC) | `flags/mun/4209003.png` | Prefeitura Municipal de Joaçaba (SC) | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_do_munic%C3%ADpio_de_Joa%C3%A7aba_(SC).png) |
-| 4209102 | Joinville (SC) | `flags/mun/4209102.png` | Great Brightstar; Prefeitura de Joinville | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Joinville.svg) |
-| 4209151 | José Boiteux (SC) | `flags/mun/4209151.png` | Prefeitura Municipal de José Boiteux (SC) | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_do_munic%C3%ADpio_de_Jos%C3%A9_Boiteux_(SC).svg) |
+| 4209102 | Joinville (SC) | `flags/mun/4209102.svg` | Great Brightstar; Prefeitura de Joinville | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Joinville.svg) |
+| 4209151 | José Boiteux (SC) | `flags/mun/4209151.svg` | Prefeitura Municipal de José Boiteux (SC) | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_do_munic%C3%ADpio_de_Jos%C3%A9_Boiteux_(SC).svg) |
 | 4209177 | Jupiá (SC) | `flags/mun/4209177.png` | Prefeitura Municipal de Jupiá (SC) | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_do_munic%C3%ADpio_de_Jupi%C3%A1_(SC).png) |
 | 4209201 | Lacerdópolis (SC) | `flags/mun/4209201.png` | Prefeitura Municipal de Lacerdópolis | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Lacerdopolis_SantaCatarina_Brasil.jpg) |
-| 4209300 | Lages (SC) | `flags/mun/4209300.png` | Camervan | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Lages-SC.svg) |
+| 4209300 | Lages (SC) | `flags/mun/4209300.svg` | Camervan | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Lages-SC.svg) |
 | 4209409 | Laguna (SC) | `flags/mun/4209409.png` | Prefeitura Municipal de Laguna | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Laguna_SantaCatarina_Brasil.jpg) |
 | 4209458 | Lajeado Grande (SC) | `flags/mun/4209458.png` | Prefeitura Municipal de Lajeado Grande (SC) | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_do_munic%C3%ADpio_de_Lajeado_Grande_(SC).png) |
-| 4209508 | Laurentino (SC) | `flags/mun/4209508.png` | Prefeitura Municipal de Laurentino (SC) | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_do_munic%C3%ADpio_de_Laurentino_(SC).svg) |
+| 4209508 | Laurentino (SC) | `flags/mun/4209508.svg` | Prefeitura Municipal de Laurentino (SC) | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_do_munic%C3%ADpio_de_Laurentino_(SC).svg) |
 | 4209607 | Lauro Müller (SC) | `flags/mun/4209607.png` | Lauro Müller City Hall | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira-lauro_m%C3%BCller.png) |
 | 4209706 | Lebon Régis (SC) | `flags/mun/4209706.png` | Prefeitura Municipal de Lebon Régis (SC) | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_do_munic%C3%ADpio_de_Lebon_R%C3%A9gis_(SC).png) |
 | 4209805 | Leoberto Leal (SC) | `flags/mun/4209805.png` | Prefeitura Municipal de Leoberto Leal | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_LeobertoLeal_SantaCatarina_Brasil.jpg) |
 | 4209854 | Lindóia do Sul (SC) | `flags/mun/4209854.png` | Prefeitura Municipal de Lindóia do Sul (SC) | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_do_munic%C3%ADpio_de_Lind%C3%B3ia_do_Sul_(SC).png) |
-| 4209904 | Lontras (SC) | `flags/mun/4209904.png` | Prefeitura Municipal de Lontras (SC) | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_do_munic%C3%ADpio_de_Lontras_(SC).svg) |
+| 4209904 | Lontras (SC) | `flags/mun/4209904.svg` | Prefeitura Municipal de Lontras (SC) | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_do_munic%C3%ADpio_de_Lontras_(SC).svg) |
 | 4210001 | Luiz Alves (SC) | `flags/mun/4210001.png` | Prefeitura Municipal de Luiz Alves (SC) | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_do_munic%C3%ADpio_de_Luiz_Alves_(SC).png) |
 | 4210035 | Luzerna (SC) | `flags/mun/4210035.png` | Município de Luzerna | [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Municipal_de_Luzerna.png) |
 | 4210050 | Macieira (SC) | `flags/mun/4210050.png` | Prefeitura Municipal de Macieira (SC) | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_do_munic%C3%ADpio_de_Macieira_(SC).png) |
-| 4210100 | Mafra (SC) | `flags/mun/4210100.png` | Prefeitura Municipal de Mafra (SC) | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_do_munic%C3%ADpio_de_Mafra_(SC).svg) |
+| 4210100 | Mafra (SC) | `flags/mun/4210100.svg` | Prefeitura Municipal de Mafra (SC) | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_do_munic%C3%ADpio_de_Mafra_(SC).svg) |
 | 4210209 | Major Gercino (SC) | `flags/mun/4210209.png` | Prefeitura Municipal de Major Gercino (SC) | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_do_munic%C3%ADpio_de_Major_Gercino_(SC).png) |
 | 4210308 | Major Vieira (SC) | `flags/mun/4210308.png` | Prefeitura Municipal de Major Vieira (SC) | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_do_munic%C3%ADpio_de_Major_Vieira_(SC).png) |
 | 4210407 | Maracajá (SC) | `flags/mun/4210407.png` | Prefeitura Municipal de Maracajá | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Maracaja_SantaCatarina_Brasil.jpg) |
@@ -3267,8 +3267,8 @@ Gerado por `tools/gerar.py`. A mesma informação está em `dados/bandeiras.json
 | 4210605 | Massaranduba (SC) | `flags/mun/4210605.png` | Prefeitura Municipal de Massaranduba (SC) | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_do_munic%C3%ADpio_de_Massaranduba_(SC).png) |
 | 4210704 | Matos Costa (SC) | `flags/mun/4210704.png` | Prefeitura Municipal de Matos Costa (SC) | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_do_munic%C3%ADpio_de_Matos_Costa_(SC).png) |
 | 4210803 | Meleiro (SC) | `flags/mun/4210803.png` | Prefeitura Municipal de Meleiro (SC) | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_do_munic%C3%ADpio_de_Meleiro_(SC).png) |
-| 4210852 | Mirim Doce (SC) | `flags/mun/4210852.png` | Prefeitura Municipal de Mirim Doce (SC) | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_do_munic%C3%ADpio_de_Mirim_Doce_(SC).svg) |
-| 4210902 | Modelo (SC) | `flags/mun/4210902.png` | Prefeitura Municipal de Modelo (SC) | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_do_munic%C3%ADpio_de_Modelo_(SC).svg) |
+| 4210852 | Mirim Doce (SC) | `flags/mun/4210852.svg` | Prefeitura Municipal de Mirim Doce (SC) | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_do_munic%C3%ADpio_de_Mirim_Doce_(SC).svg) |
+| 4210902 | Modelo (SC) | `flags/mun/4210902.svg` | Prefeitura Municipal de Modelo (SC) | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_do_munic%C3%ADpio_de_Modelo_(SC).svg) |
 | 4211009 | Mondaí (SC) | `flags/mun/4211009.png` | Prefeitura Municipal de Mondaí | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Mondai_SantaCatarina_Brasil.jpg) |
 | 4211058 | Monte Carlo (SC) | `flags/mun/4211058.png` | Prefeitura de Monte Carlo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Monte_Carlo_(Santa_Catarina).jpg) |
 | 4211108 | Monte Castelo (SC) | `flags/mun/4211108.png` | Prefeitura Municipal de Monte Castelo (SC) | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_do_munic%C3%ADpio_de_Monte_Castelo_(SC).png) |
@@ -3279,14 +3279,14 @@ Gerado por `tools/gerar.py`. A mesma informação está em `dados/bandeiras.json
 | 4211454 | Nova Itaberaba (SC) | `flags/mun/4211454.png` | Prefeitura Municipal de Nova Itaberaba (SC) | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_do_munic%C3%ADpio_de_Nova_Itaberaba_(SC).png) |
 | 4211504 | Nova Trento (SC) | `flags/mun/4211504.png` | Prefeitura Municipal de Nova Trento. | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandiera_nova_trento.JPG) |
 | 4211603 | Nova Veneza (SC) | `flags/mun/4211603.png` | Antoniomiguelm | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Novaveneza_bandeira.png) |
-| 4211652 | Novo Horizonte (SC) | `flags/mun/4211652.png` | Prefeitura Municipal de Novo Horizonte (SC) | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_do_munic%C3%ADpio_de_Novo_Horizonte_(SC).svg) |
+| 4211652 | Novo Horizonte (SC) | `flags/mun/4211652.svg` | Prefeitura Municipal de Novo Horizonte (SC) | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_do_munic%C3%ADpio_de_Novo_Horizonte_(SC).svg) |
 | 4211702 | Orleans (SC) | `flags/mun/4211702.png` | Município de Orleans | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_orleans.png) |
 | 4211751 | Otacílio Costa (SC) | `flags/mun/4211751.png` | Prefeitura de Otacílio Costa | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Otac%C3%ADlio_Costa.gif) |
 | 4211801 | Ouro (SC) | `flags/mun/4211801.png` | Ouro City Hall | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira-ouro.png) |
 | 4211850 | Ouro Verde (SC) | `flags/mun/4211850.png` | Prefeitura Municipal de Ouro Verde (SC) | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_do_munic%C3%ADpio_de_Ouro_Verde_(SC).png) |
 | 4211876 | Paial (SC) | `flags/mun/4211876.png` | Prefeitura Municipal de Paial | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_do_munic%C3%ADpio_de_Paial_(SC).png) |
 | 4211900 | Palhoça (SC) | `flags/mun/4211900.png` | não informado | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Palho%C3%A7a.png) |
-| 4212007 | Palma Sola (SC) | `flags/mun/4212007.png` | Prefeitura Municipal de Palma Sola (SC) | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_do_munic%C3%ADpio_de_Palma_Sola_(SC).svg) |
+| 4212007 | Palma Sola (SC) | `flags/mun/4212007.svg` | Prefeitura Municipal de Palma Sola (SC) | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_do_munic%C3%ADpio_de_Palma_Sola_(SC).svg) |
 | 4212056 | Palmeira (SC) | `flags/mun/4212056.png` | Prefeitura Municipal de Palmeira (SC) | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_do_munic%C3%ADpio_de_Palmeira_(SC).png) |
 | 4212106 | Palmitos (SC) | `flags/mun/4212106.png` | (domínio público) | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Palmitos_(Santa_Catarina).jpg) |
 | 4212205 | Papanduva (SC) | `flags/mun/4212205.png` | não informado | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_papanduva.png) |
@@ -3297,9 +3297,9 @@ Gerado por `tools/gerar.py`. A mesma informação está em `dados/bandeiras.json
 | 4212502 | Penha (SC) | `flags/mun/4212502.png` | Prefeitura | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Flag_of_Penha_SC.png) |
 | 4212601 | Peritiba (SC) | `flags/mun/4212601.png` | não informado | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_peritiba.jpg) |
 | 4212650 | Pescaria Brava (SC) | `flags/mun/4212650.png` | Prefeitura Municipal de Pescaria Brava | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_do_munic%C3%ADpio_de_Pescaria_Brava_(SC).png) |
-| 4212700 | Petrolândia (SC) | `flags/mun/4212700.png` | Prefeitura Municipal de Petrolândia (SC) | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_do_munic%C3%ADpio_de_Petrol%C3%A2ndia_(SC).svg) |
+| 4212700 | Petrolândia (SC) | `flags/mun/4212700.svg` | Prefeitura Municipal de Petrolândia (SC) | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_do_munic%C3%ADpio_de_Petrol%C3%A2ndia_(SC).svg) |
 | 4212908 | Pinhalzinho (SC) | `flags/mun/4212908.png` | Pinhalzinho City Hall | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira-pinhalzinho.png) |
-| 4213005 | Pinheiro Preto (SC) | `flags/mun/4213005.png` | Prefeitura Municipal de Pinheiro Preto (SC) | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_do_munic%C3%ADpio_de_Pinheiro_Preto_(SC).svg) |
+| 4213005 | Pinheiro Preto (SC) | `flags/mun/4213005.svg` | Prefeitura Municipal de Pinheiro Preto (SC) | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_do_munic%C3%ADpio_de_Pinheiro_Preto_(SC).svg) |
 | 4213104 | Piratuba (SC) | `flags/mun/4213104.png` | autor desconhecido | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_piratuba_sc_bra.png) |
 | 4213153 | Planalto Alegre (SC) | `flags/mun/4213153.png` | Prefeitura Municipal de Planalto Alegre (SC) | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_do_munic%C3%ADpio_de_Planalto_Alegre_(SC).png) |
 | 4213203 | Pomerode (SC) | `flags/mun/4213203.png` | Francisco Seixas | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira-pomerode.PNG) |
@@ -3307,24 +3307,24 @@ Gerado por `tools/gerar.py`. A mesma informação está em `dados/bandeiras.json
 | 4213401 | Ponte Serrada (SC) | `flags/mun/4213401.png` | direitos reservados | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Ponte_Serrada.gif) |
 | 4213500 | Porto Belo (SC) | `flags/mun/4213500.png` | Prefeitura Municipal de Porto Belo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_PortoBelo_SantaCatarina_Brasil.jpg) |
 | 4213609 | Porto União (SC) | `flags/mun/4213609.png` | Mckee | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:BandeiraPortoUni%C3%A3o.jpg) |
-| 4213708 | Pouso Redondo (SC) | `flags/mun/4213708.png` | Prefeitura Municipal de Pouso Redondo (SC) | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_do_munic%C3%ADpio_de_Pouso_Redondo_(SC).svg) |
+| 4213708 | Pouso Redondo (SC) | `flags/mun/4213708.svg` | Prefeitura Municipal de Pouso Redondo (SC) | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_do_munic%C3%ADpio_de_Pouso_Redondo_(SC).svg) |
 | 4213906 | Presidente Castello Branco (SC) | `flags/mun/4213906.png` | Prefeitura Municipal de Presidente Castello Branco (SC) | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_do_munic%C3%ADpio_de_Presidente_Castello_Branco_(SC).png) |
-| 4214003 | Presidente Getúlio (SC) | `flags/mun/4214003.png` | Prefeitura Municipal de Presidente Getúlio (SC) | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_do_munic%C3%ADpio_de_Presidente_Get%C3%BAlio_(SC).svg) |
-| 4214102 | Presidente Nereu (SC) | `flags/mun/4214102.png` | Prefeitura Municipal de Presidente Nereu (SC) | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_do_munic%C3%ADpio_de_Presidente_Nereu_(SC).svg) |
+| 4214003 | Presidente Getúlio (SC) | `flags/mun/4214003.svg` | Prefeitura Municipal de Presidente Getúlio (SC) | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_do_munic%C3%ADpio_de_Presidente_Get%C3%BAlio_(SC).svg) |
+| 4214102 | Presidente Nereu (SC) | `flags/mun/4214102.svg` | Prefeitura Municipal de Presidente Nereu (SC) | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_do_munic%C3%ADpio_de_Presidente_Nereu_(SC).svg) |
 | 4214151 | Princesa (SC) | `flags/mun/4214151.png` | Prefeitura Municipal de Princesa (SC) | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_do_munic%C3%ADpio_de_Princesa_(SC).png) |
 | 4214201 | Quilombo (SC) | `flags/mun/4214201.png` | Quilombo City Hall | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira-quilombo.jpg) |
 | 4214409 | Rio das Antas (SC) | `flags/mun/4214409.png` | Prefeitura Municipal de Rio das Antas (SC) | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_do_munic%C3%ADpio_de_Rio_das_Antas_(SC).png) |
 | 4214508 | Rio do Campo (SC) | `flags/mun/4214508.png` | Prefeitura Municipal de Rio do Campo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_RiodoCampo_SantaCatarina_Brasil.jpg) |
-| 4214607 | Rio do Oeste (SC) | `flags/mun/4214607.png` | Prefeitura Municipal de Rio do Oeste (SC) | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_do_munic%C3%ADpio_de_Rio_do_Oeste_(SC).svg) |
+| 4214607 | Rio do Oeste (SC) | `flags/mun/4214607.svg` | Prefeitura Municipal de Rio do Oeste (SC) | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_do_munic%C3%ADpio_de_Rio_do_Oeste_(SC).svg) |
 | 4214706 | Rio dos Cedros (SC) | `flags/mun/4214706.png` | não informado | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_riodoscedros.jpg) |
-| 4214805 | Rio do Sul (SC) | `flags/mun/4214805.png` | Prefeitura Municipal de Rio do Sul (SC) | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_do_munic%C3%ADpio_de_Rio_do_Sul_(SC).svg) |
+| 4214805 | Rio do Sul (SC) | `flags/mun/4214805.svg` | Prefeitura Municipal de Rio do Sul (SC) | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_do_munic%C3%ADpio_de_Rio_do_Sul_(SC).svg) |
 | 4214904 | Rio Fortuna (SC) | `flags/mun/4214904.png` | não informado | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_riofortuna.jpg) |
 | 4215000 | Rio Negrinho (SC) | `flags/mun/4215000.png` | JMAugustin | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:BandeiraRioNegrinho.jpg) |
 | 4215059 | Rio Rufino (SC) | `flags/mun/4215059.png` | Gui gerber | [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Rio_Rufino,_SC.png) |
 | 4215075 | Riqueza (SC) | `flags/mun/4215075.png` | Prefeitura Municipal de Riqueza (SC) | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_do_munic%C3%ADpio_de_Riqueza_(SC).png) |
 | 4215208 | Romelândia (SC) | `flags/mun/4215208.png` | não informado | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_romelandia.jpg) |
-| 4215307 | Salete (SC) | `flags/mun/4215307.png` | Prefeitura Municipal de Salete (SC) | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_do_munic%C3%ADpio_de_Salete_(SC).svg) |
-| 4215356 | Saltinho (SC) | `flags/mun/4215356.png` | Prefeitura Municipal de Saltinho (SC) | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_do_munic%C3%ADpio_de_Saltinho_(SC).svg) |
+| 4215307 | Salete (SC) | `flags/mun/4215307.svg` | Prefeitura Municipal de Salete (SC) | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_do_munic%C3%ADpio_de_Salete_(SC).svg) |
+| 4215356 | Saltinho (SC) | `flags/mun/4215356.svg` | Prefeitura Municipal de Saltinho (SC) | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_do_munic%C3%ADpio_de_Saltinho_(SC).svg) |
 | 4215406 | Salto Veloso (SC) | `flags/mun/4215406.png` | Crizan Soldi | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Salto_Veloso.jpg) |
 | 4215455 | Sangão (SC) | `flags/mun/4215455.png` | Prefeitura Municipal de Sangão (SC) | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_do_munic%C3%ADpio_de_Sang%C3%A3o_(SC).png) |
 | 4215505 | Santa Cecília (SC) | `flags/mun/4215505.png` | Diegoetten | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_municipio_santa_cecilia.png) |
@@ -3339,11 +3339,11 @@ Gerado por `tools/gerar.py`. A mesma informação está em `dados/bandeiras.json
 | 4215901 | São Bonifácio (SC) | `flags/mun/4215901.png` | Prefeitura municipal de São Bonifácio | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_SaoBonifacio_SantaCatarina_Brasil.png) |
 | 4216008 | São Carlos (SC) | `flags/mun/4216008.png` | Nahyra Cobs | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_S%C3%A3o_Carlos-SC_120_X_84.jpg) |
 | 4216057 | São Cristóvão do Sul (SC) | `flags/mun/4216057.png` | Prefeitura Municipal de São Cristóvão do Sul (SC) | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_do_munic%C3%ADpio_de_S%C3%A3o_Crist%C3%B3v%C3%A3o_do_Sul_(SC).png) |
-| 4216107 | São Domingos (SC) | `flags/mun/4216107.png` | Prefeitura Municipal de São Domingos (SC) | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_do_munic%C3%ADpio_de_S%C3%A3o_Domingos_(SC).svg) |
+| 4216107 | São Domingos (SC) | `flags/mun/4216107.svg` | Prefeitura Municipal de São Domingos (SC) | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_do_munic%C3%ADpio_de_S%C3%A3o_Domingos_(SC).svg) |
 | 4216206 | São Francisco do Sul (SC) | `flags/mun/4216206.png` | São Francisco do Sul City Hall | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_S%C3%A3o_Francisco_do_Sul.png) |
-| 4216255 | São João do Oeste (SC) | `flags/mun/4216255.png` | BrCaLeTo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_S%C3%A3o_Jo%C3%A3o_do_Oeste_-_SC.svg) |
+| 4216255 | São João do Oeste (SC) | `flags/mun/4216255.svg` | BrCaLeTo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_S%C3%A3o_Jo%C3%A3o_do_Oeste_-_SC.svg) |
 | 4216305 | São João Batista (SC) | `flags/mun/4216305.png` | Município de São João Batista (Santa Catarina) | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Br-sc-243.gif) |
-| 4216354 | São João do Itaperiú (SC) | `flags/mun/4216354.png` | Prefeitura Municipal de São João do Itaperiú (SC) | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_do_munic%C3%ADpio_de_S%C3%A3o_Jo%C3%A3o_do_Itaperi%C3%BA_(SC).svg) |
+| 4216354 | São João do Itaperiú (SC) | `flags/mun/4216354.svg` | Prefeitura Municipal de São João do Itaperiú (SC) | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_do_munic%C3%ADpio_de_S%C3%A3o_Jo%C3%A3o_do_Itaperi%C3%BA_(SC).svg) |
 | 4216503 | São Joaquim (SC) | `flags/mun/4216503.png` | Prefeitura de São Joaquim | [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_S%C3%A3o_Joaquim_HD.jpg) |
 | 4216602 | São José (SC) | `flags/mun/4216602.png` | Sjofrk | [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Municipal_de_S%C3%A3o_Jos%C3%A9.png) |
 | 4216800 | São José do Cerrito (SC) | `flags/mun/4216800.png` | HVL | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Flag_of_S%C3%A3o_Jos%C3%A9_do_Serrito_SC.png) |
@@ -3359,19 +3359,19 @@ Gerado por `tools/gerar.py`. A mesma informação está em `dados/bandeiras.json
 | 4217550 | Serra Alta (SC) | `flags/mun/4217550.png` | Prefeitura Municipal de Serra Alta (SC) | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_do_munic%C3%ADpio_de_Serra_Alta_(SC).png) |
 | 4217600 | Siderópolis (SC) | `flags/mun/4217600.png` | Rblaurindo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_sideropolis.png) |
 | 4217709 | Sombrio (SC) | `flags/mun/4217709.png` | Brenner Cardoso | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Band_sombrio_sc2.jpg) |
-| 4217758 | Sul Brasil (SC) | `flags/mun/4217758.png` | vectorization by Anzee | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_sulbrasil.svg) |
-| 4217808 | Taió (SC) | `flags/mun/4217808.png` | Prefeitura Municipal de Taió (SC) | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_do_munic%C3%ADpio_de_Tai%C3%B3_(SC).svg) |
-| 4217907 | Tangará (SC) | `flags/mun/4217907.png` | BrCaLeTo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Tangar%C3%A1_-_SC.svg) |
+| 4217758 | Sul Brasil (SC) | `flags/mun/4217758.svg` | vectorization by Anzee | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_sulbrasil.svg) |
+| 4217808 | Taió (SC) | `flags/mun/4217808.svg` | Prefeitura Municipal de Taió (SC) | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_do_munic%C3%ADpio_de_Tai%C3%B3_(SC).svg) |
+| 4217907 | Tangará (SC) | `flags/mun/4217907.svg` | BrCaLeTo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Tangar%C3%A1_-_SC.svg) |
 | 4217956 | Tigrinhos (SC) | `flags/mun/4217956.png` | Prefeitura Municipal | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Tigrinhos_Bandeira.jpg) |
 | 4218004 | Tijucas (SC) | `flags/mun/4218004.png` | Prefeitura Municipal de Tijucas (SC) | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_do_munic%C3%ADpio_de_Tijucas_(SC).png) |
 | 4218103 | Timbé do Sul (SC) | `flags/mun/4218103.png` | Prefeitura Municipal de Timbé do Sul (SC) | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_do_munic%C3%ADpio_de_Timb%C3%A9_do_Sul_(SC).png) |
-| 4218202 | Timbó (SC) | `flags/mun/4218202.png` | Prefeitura Municipal de Timbó (SC) | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_do_munic%C3%ADpio_de_Timb%C3%B3_(SC).svg) |
+| 4218202 | Timbó (SC) | `flags/mun/4218202.svg` | Prefeitura Municipal de Timbó (SC) | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_do_munic%C3%ADpio_de_Timb%C3%B3_(SC).svg) |
 | 4218251 | Timbó Grande (SC) | `flags/mun/4218251.png` | DieGoetten | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Timb%C3%B3_Grande_SC.png) |
 | 4218301 | Três Barras (SC) | `flags/mun/4218301.png` | Dkelcheski | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Tr%C3%AAs_Barras_(Santa_Catarina).png) |
 | 4218350 | Treviso (SC) | `flags/mun/4218350.png` | Prefeitura Municipal de Treviso (SC) | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_do_munic%C3%ADpio_de_Treviso_(SC).png) |
 | 4218400 | Treze de Maio (SC) | `flags/mun/4218400.png` | Prefeitura Municipal de Treze de Maio (SC) | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_do_munic%C3%ADpio_de_Treze_de_Maio_(SC).png) |
 | 4218509 | Treze Tílias (SC) | `flags/mun/4218509.png` | Treze Tílias City Hall | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira-trezetilias.png) |
-| 4218608 | Trombudo Central (SC) | `flags/mun/4218608.png` | Prefeitura Municipal de Trombudo Central (SC) | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_do_munic%C3%ADpio_de_Trombudo_Central_(SC).svg) |
+| 4218608 | Trombudo Central (SC) | `flags/mun/4218608.svg` | Prefeitura Municipal de Trombudo Central (SC) | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_do_munic%C3%ADpio_de_Trombudo_Central_(SC).svg) |
 | 4218707 | Tubarão (SC) | `flags/mun/4218707.png` | não informado | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Tubar%C3%A3o.png) |
 | 4218756 | Tunápolis (SC) | `flags/mun/4218756.png` | Arto Gus | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_da_cidade_de_Tun%C3%A1polis_SC.png) |
 | 4218806 | Turvo (SC) | `flags/mun/4218806.png` | Municipal Prefecture of Turvo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Band_Turvo.jpg) |
@@ -3381,21 +3381,21 @@ Gerado por `tools/gerar.py`. A mesma informação está em `dados/bandeiras.json
 | 4219101 | Vargeão (SC) | `flags/mun/4219101.png` | Cristiano Pierog | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_do_Munic%C3%ADpio_de_Varge%C3%A3o.png) |
 | 4219150 | Vargem (SC) | `flags/mun/4219150.png` | Prefeitura Municipal de Vargem (SC) | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_do_munic%C3%ADpio_de_Vargem_(SC).png) |
 | 4219176 | Vargem Bonita (SC) | `flags/mun/4219176.png` | Heitor Fonseca Amaro (Armação do Itapocorói) | [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Vargem_Bonita_-_SC.gif) |
-| 4219200 | Vidal Ramos (SC) | `flags/mun/4219200.png` | Prefeitura Municipal de Vidal Ramos (SC) | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_do_munic%C3%ADpio_de_Vidal_Ramos_(SC).svg) |
+| 4219200 | Vidal Ramos (SC) | `flags/mun/4219200.svg` | Prefeitura Municipal de Vidal Ramos (SC) | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_do_munic%C3%ADpio_de_Vidal_Ramos_(SC).svg) |
 | 4219309 | Videira (SC) | `flags/mun/4219309.png` | (domínio público) | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_videira.jpg) |
-| 4219358 | Vitor Meireles (SC) | `flags/mun/4219358.png` | Prefeitura Municipal de Vitor Meireles | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_do_munic%C3%ADpio_de_Vitor_Meireles_(SC).svg) |
-| 4219408 | Witmarsum (SC) | `flags/mun/4219408.png` | Prefeitura Municipal de Witmarsum (SC) | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_do_munic%C3%ADpio_de_Witmarsum_(SC).svg) |
+| 4219358 | Vitor Meireles (SC) | `flags/mun/4219358.svg` | Prefeitura Municipal de Vitor Meireles | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_do_munic%C3%ADpio_de_Vitor_Meireles_(SC).svg) |
+| 4219408 | Witmarsum (SC) | `flags/mun/4219408.svg` | Prefeitura Municipal de Witmarsum (SC) | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_do_munic%C3%ADpio_de_Witmarsum_(SC).svg) |
 | 4219507 | Xanxerê (SC) | `flags/mun/4219507.png` | Município de Xanxerê | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Xanxer%C3%AA_(Santa_Catarina).jpg) |
 | 4219606 | Xavantina (SC) | `flags/mun/4219606.png` | Prefeitura Municipal de Xavantina | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_do_munic%C3%ADpio_de_Xavantina_(SC).png) |
 | 4219705 | Xaxim (SC) | `flags/mun/4219705.png` | Prefeitura Municipal de Xaxim (SC) | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_do_munic%C3%ADpio_de_Xaxim_(SC).png) |
 | 4219853 | Zortéa (SC) | `flags/mun/4219853.png` | Prefeitura Municipal de Zortéa | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_do_munic%C3%ADpio_de_Zort%C3%A9a_(SC).png) |
-| 4300034 | Aceguá (RS) | `flags/mun/4300034.png` | Prefeitura Municipal de Aceguá | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Acegu%C3%A1.svg) |
+| 4300034 | Aceguá (RS) | `flags/mun/4300034.svg` | Prefeitura Municipal de Aceguá | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Acegu%C3%A1.svg) |
 | 4300059 | Água Santa (RS) | `flags/mun/4300059.png` | Ismael Silva Oliveira | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_do_munic%C3%ADpio_de_%C3%81gua_Santa.png) |
 | 4300109 | Agudo (RS) | `flags/mun/4300109.png` | Municipality of Agudo. | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_agudo.png) |
-| 4300208 | Ajuricaba (RS) | `flags/mun/4300208.png` | Prefeitura Municipal de Ajuricaba | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Ajuricaba.svg) |
+| 4300208 | Ajuricaba (RS) | `flags/mun/4300208.svg` | Prefeitura Municipal de Ajuricaba | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Ajuricaba.svg) |
 | 4300307 | Alecrim (RS) | `flags/mun/4300307.png` | Prefeitura de Alecrim | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Alecrim.JPG) |
-| 4300406 | Alegrete (RS) | `flags/mun/4300406.png` | Prefeitura Municipal de Alegrete | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Alegrete_(Rio_Grande_do_Sul).svg) |
-| 4300455 | Alegria (RS) | `flags/mun/4300455.png` | Prefeitura Municipal de Alegria - RS, Brasil. | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Alegria_RS.svg) |
+| 4300406 | Alegrete (RS) | `flags/mun/4300406.svg` | Prefeitura Municipal de Alegrete | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Alegrete_(Rio_Grande_do_Sul).svg) |
+| 4300455 | Alegria (RS) | `flags/mun/4300455.svg` | Prefeitura Municipal de Alegria - RS, Brasil. | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Alegria_RS.svg) |
 | 4300471 | Almirante Tamandaré do Sul (RS) | `flags/mun/4300471.png` | Prefeitura Municipal de Almirante Tamandaré do Sul - RS. | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Almirante_Tamandar%C3%A9_do_Sul.jpg) |
 | 4300505 | Alpestre (RS) | `flags/mun/4300505.png` | Municipality of Alpestre. | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Banderia_Alpestre.jpg) |
 | 4300554 | Alto Alegre (RS) | `flags/mun/4300554.png` | Prefeitura Municipal | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Alto_Alegre_RS.jpg) |
@@ -3417,11 +3417,11 @@ Gerado por `tools/gerar.py`. A mesma informação está em `dados/bandeiras.json
 | 4301305 | Arroio Grande (RS) | `flags/mun/4301305.png` | não informado | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:BandeiraArroiogrande.jpg) |
 | 4301404 | Arvorezinha (RS) | `flags/mun/4301404.png` | Prefeitura Municipal de Arvorezinha - RS. | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Arvorezinha.png) |
 | 4301503 | Augusto Pestana (RS) | `flags/mun/4301503.png` | Nonducorduco1971 | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Augusto_Pestana_vc.PNG) |
-| 4301552 | Áurea (RS) | `flags/mun/4301552.png` | Unknown | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_%C3%81urea.svg) |
+| 4301552 | Áurea (RS) | `flags/mun/4301552.svg` | Unknown | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_%C3%81urea.svg) |
 | 4301602 | Bagé (RS) | `flags/mun/4301602.png` | Municipality of Bagé. | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Bage.png) |
 | 4301636 | Balneário Pinhal (RS) | `flags/mun/4301636.png` | Prefeitura de Balneário Pinhal | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Balne%C3%A1rio_Pinhalriograsul.jpeg) |
 | 4301651 | Barão (RS) | `flags/mun/4301651.png` | Unavailable | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Bar%C3%A3o_(Rio_Grande_do_Sul).png) |
-| 4301701 | Barão de Cotegipe (RS) | `flags/mun/4301701.png` | Municipality of Barão de Cotegipe | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Bar%C3%A3o_de_Cotegipe.svg) |
+| 4301701 | Barão de Cotegipe (RS) | `flags/mun/4301701.svg` | Municipality of Barão de Cotegipe | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Bar%C3%A3o_de_Cotegipe.svg) |
 | 4301750 | Barão do Triunfo (RS) | `flags/mun/4301750.png` | Prefeitura de Barão do Triunfo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bar%C3%A3o_do_Triunfobandeirars.png) |
 | 4301800 | Barracão (RS) | `flags/mun/4301800.png` | Municipality of Barracão. | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Barrac%C3%A3o,_RS.png) |
 | 4301859 | Barra do Guarita (RS) | `flags/mun/4301859.png` | Prefeitura de Barra do Guarita | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Barra_do_Guaritabandeirars.png) |
@@ -3430,13 +3430,13 @@ Gerado por `tools/gerar.py`. A mesma informação está em `dados/bandeiras.json
 | 4301925 | Barra do Rio Azul (RS) | `flags/mun/4301925.png` | Prefeitura de Barra do Rio Azul | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Barra_do_Rio_Azul.jpg) |
 | 4301958 | Barra Funda (RS) | `flags/mun/4301958.png` | Prefeitura de Barra Funda | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:BarraFundabandeirars.png) |
 | 4302006 | Barros Cassal (RS) | `flags/mun/4302006.png` | Prefeitura de Barros Cassal | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Barros_Cassalbandeirars.png) |
-| 4302105 | Bento Gonçalves (RS) | `flags/mun/4302105.png` | Original file: User:BentoGFilers | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Bento_Gon%C3%A7alves.svg) |
+| 4302105 | Bento Gonçalves (RS) | `flags/mun/4302105.svg` | Original file: User:BentoGFilers | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Bento_Gon%C3%A7alves.svg) |
 | 4302154 | Boa Vista das Missões (RS) | `flags/mun/4302154.png` | Prefeitura | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Flag_of_Boa_Vista_das_Miss%C3%B5es_RS.png) |
 | 4302204 | Boa Vista do Buricá (RS) | `flags/mun/4302204.png` | não informado | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:BandeiraB.jpg) |
 | 4302220 | Boa Vista do Cadeado (RS) | `flags/mun/4302220.png` | Prefeitura de Boa Vista do Cadeado | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Boa_Vista_do_Cadeadobandeirars.png) |
 | 4302238 | Boa Vista do Incra (RS) | `flags/mun/4302238.png` | Prefeitura Municipal | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Boa_Vista_do_Incra.JPG) |
 | 4302253 | Boa Vista do Sul (RS) | `flags/mun/4302253.png` | Prefeitura Municipal | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Boa_Vista_do_Sul.png) |
-| 4302303 | Bom Jesus (RS) | `flags/mun/4302303.png` | Unknown | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Bom_Jesus_(Rio_Grande_do_Sul).svg) |
+| 4302303 | Bom Jesus (RS) | `flags/mun/4302303.svg` | Unknown | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Bom_Jesus_(Rio_Grande_do_Sul).svg) |
 | 4302352 | Bom Princípio (RS) | `flags/mun/4302352.png` | Prefeitura de Bom Princípio | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bom_Princ%C3%ADpioriograsul.jpeg) |
 | 4302378 | Bom Progresso (RS) | `flags/mun/4302378.png` | Prefeitura de Bom Progresso | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bom_Progressobandeirars.png) |
 | 4302402 | Bom Retiro do Sul (RS) | `flags/mun/4302402.png` | Prefeitura de Bom Retiro do Sul | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bom_Retiro_do_Sulbandriosul.jpeg) |
@@ -3446,18 +3446,18 @@ Gerado por `tools/gerar.py`. A mesma informação está em `dados/bandeiras.json
 | 4302659 | Brochier (RS) | `flags/mun/4302659.png` | CNM | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Flag_of_Brochier_RS.png) |
 | 4302709 | Butiá (RS) | `flags/mun/4302709.png` | Prefeitura | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Buti%C3%A1-RS,_Brasil.jpg) |
 | 4302808 | Caçapava do Sul (RS) | `flags/mun/4302808.png` | Ruiffilho | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Ca%C3%A7apava.PNG) |
-| 4302907 | Cacequi (RS) | `flags/mun/4302907.png` | BrCaLeTo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Cacequi_-_RS.svg) |
+| 4302907 | Cacequi (RS) | `flags/mun/4302907.svg` | BrCaLeTo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Cacequi_-_RS.svg) |
 | 4303004 | Cachoeira do Sul (RS) | `flags/mun/4303004.png` | Felipe Pereira Gomes | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_cachoeira_do_sul.JPG) |
 | 4303103 | Cachoeirinha (RS) | `flags/mun/4303103.png` | Municipality of Cachoeirinha. | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Cachoeirinha.jpg) |
 | 4303202 | Cacique Doble (RS) | `flags/mun/4303202.png` | Prefeitura de Cacique Doble | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Cacique_Doblebandeirars.png) |
 | 4303301 | Caibaté (RS) | `flags/mun/4303301.png` | Prefeitura de Caibaté | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Caibat%C3%A9bandeirars.png) |
 | 4303400 | Caiçara (RS) | `flags/mun/4303400.png` | Prefeitura de Caiçara | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Cai%C3%A7arabandeirars.png) |
-| 4303509 | Camaquã (RS) | `flags/mun/4303509.png` | Prefeitura Municipal de Camaquã | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Camaqu%C3%A3.svg) |
+| 4303509 | Camaquã (RS) | `flags/mun/4303509.svg` | Prefeitura Municipal de Camaquã | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Camaqu%C3%A3.svg) |
 | 4303558 | Camargo (RS) | `flags/mun/4303558.png` | Prefeitura de Camargo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Camargobandeirars.png) |
 | 4303608 | Cambará do Sul (RS) | `flags/mun/4303608.png` | Municipality of Cambará do Sul | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Cambar%C3%A1_do_Sul.jpg) |
 | 4303673 | Campestre da Serra (RS) | `flags/mun/4303673.png` | Prefeitura de Campestre da Serra | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Campestre_da_Serrabanders.png) |
 | 4303707 | Campina das Missões (RS) | `flags/mun/4303707.png` | não informado | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeiracampina.jpg) |
-| 4303806 | Campinas do Sul (RS) | `flags/mun/4303806.png` | BrCaLeTo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Campinas_do_Sul_-_RS.svg) |
+| 4303806 | Campinas do Sul (RS) | `flags/mun/4303806.svg` | BrCaLeTo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Campinas_do_Sul_-_RS.svg) |
 | 4303905 | Campo Bom (RS) | `flags/mun/4303905.png` | não informado | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Campo_Bom.png) |
 | 4304002 | Campo Novo (RS) | `flags/mun/4304002.png` | Prefeitura Municipal | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Campo_Novo.jpg) |
 | 4304101 | Campos Borges (RS) | `flags/mun/4304101.png` | Prefeitura de Campos Borges | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Campos_Borgesbanders.png) |
@@ -3489,7 +3489,7 @@ Gerado por `tools/gerar.py`. A mesma informação está em `dados/bandeiras.json
 | 4305207 | Cerro Largo (RS) | `flags/mun/4305207.png` | Prefeitura de Cerro Largo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Cerro_Largobandeira.png) |
 | 4305306 | Chapada (RS) | `flags/mun/4305306.png` | Osmaludo | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_chapada.png) |
 | 4305355 | Charqueadas (RS) | `flags/mun/4305355.png` | Prefeitura de Charqueadas | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Charqueadasbandts.jpg) |
-| 4305371 | Charrua (RS) | `flags/mun/4305371.png` | Prefeitura de Charrua | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Charrua.svg) |
+| 4305371 | Charrua (RS) | `flags/mun/4305371.svg` | Prefeitura de Charrua | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Charrua.svg) |
 | 4305405 | Chiapetta (RS) | `flags/mun/4305405.png` | Alansavariz | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:BANDEIRA_CHIAPETTA.jpg) |
 | 4305439 | Chuí (RS) | `flags/mun/4305439.png` | não informado | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_do_Chu%C3%AD.jpg) |
 | 4305447 | Chuvisca (RS) | `flags/mun/4305447.png` | Prefeitura de Chuvisca | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Chuviscabanders.png) |
@@ -3500,7 +3500,7 @@ Gerado por `tools/gerar.py`. A mesma informação está em `dados/bandeiras.json
 | 4305702 | Condor (RS) | `flags/mun/4305702.png` | Prefeitura de Condor | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Condorbanders.png) |
 | 4305801 | Constantina (RS) | `flags/mun/4305801.png` | Osmaludo | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeiraconstantinars.gif) |
 | 4305850 | Coqueiros do Sul (RS) | `flags/mun/4305850.png` | Prefeitura de Coqueiros do Sul | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Coqueiros_do_Sulbanders.png) |
-| 4305900 | Coronel Bicaco (RS) | `flags/mun/4305900.png` | BrCaLeTo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Coronel_Bicaco_-_RS.svg) |
+| 4305900 | Coronel Bicaco (RS) | `flags/mun/4305900.svg` | BrCaLeTo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Coronel_Bicaco_-_RS.svg) |
 | 4305934 | Coronel Pilar (RS) | `flags/mun/4305934.png` | Municipality of Coronel Pilar | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Flag_from_Coronel_Pilar.png) |
 | 4305959 | Cotiporã (RS) | `flags/mun/4305959.png` | Jonas Faccio | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Cotipor%C3%A3_-_RS.gif) |
 | 4305975 | Coxilha (RS) | `flags/mun/4305975.png` | Municipality of Coxilha. | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Coxilha.png) |
@@ -3516,11 +3516,11 @@ Gerado por `tools/gerar.py`. A mesma informação está em `dados/bandeiras.json
 | 4306452 | Dois Lajeados (RS) | `flags/mun/4306452.png` | Prefeitura de Dois Lajeados | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Dois_Lajeadosbanders.png) |
 | 4306502 | Dom Feliciano (RS) | `flags/mun/4306502.png` | Municipality of Dom Feliciano. | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Dom_Feliciano.jpg) |
 | 4306551 | Dom Pedro de Alcântara (RS) | `flags/mun/4306551.png` | Prefeitura de Dom Pedro de Alcântara | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Dom_Pedro_de_Alc%C3%A2ntarabanders.jpg) |
-| 4306601 | Dom Pedrito (RS) | `flags/mun/4306601.png` | CityBreakingDown | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Dom_Pedrito_RS.svg) |
+| 4306601 | Dom Pedrito (RS) | `flags/mun/4306601.svg` | CityBreakingDown | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Dom_Pedrito_RS.svg) |
 | 4306700 | Dona Francisca (RS) | `flags/mun/4306700.png` | Prefeitura de Dona Francisca | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Dona_Franciscabanders.png) |
 | 4306734 | Doutor Maurício Cardoso (RS) | `flags/mun/4306734.png` | Prefeitura de Doutor Maurício Cardoso | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Doutor_Maur%C3%ADcio_Cardosobanders.png) |
 | 4306759 | Doutor Ricardo (RS) | `flags/mun/4306759.png` | Prefeitura de Doutor Ricardo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Doutor_Ricardobanders.jpg) |
-| 4306767 | Eldorado do Sul (RS) | `flags/mun/4306767.png` | Prefeitura Municipal de Eldorado do Sul | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Eldorado_do_Sul.svg) |
+| 4306767 | Eldorado do Sul (RS) | `flags/mun/4306767.svg` | Prefeitura Municipal de Eldorado do Sul | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Eldorado_do_Sul.svg) |
 | 4306809 | Encantado (RS) | `flags/mun/4306809.png` | Town of Encantado | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Flag_of_Encantado.jpg) |
 | 4306908 | Encruzilhada do Sul (RS) | `flags/mun/4306908.png` | The original uploader was Anaalmeida at Portuguese Wikipedia. | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira-encruzilhada.jpg) |
 | 4306924 | Engenho Velho (RS) | `flags/mun/4306924.png` | Prefeitura de Engenho Velho | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Engenho_Velho.jpg) |
@@ -3540,7 +3540,7 @@ Gerado por `tools/gerar.py`. A mesma informação está em `dados/bandeiras.json
 | 4307807 | Estrela (RS) | `flags/mun/4307807.png` | Prefeitura de Estrela | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_estrela_rs_br.jpg) |
 | 4307831 | Eugênio de Castro (RS) | `flags/mun/4307831.png` | Prefeitura de Eugênio de Castro | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Eug%C3%AAnio_de_Castrobanders.png) |
 | 4307864 | Fagundes Varela (RS) | `flags/mun/4307864.png` | Prefeitura de Fagundes Varela | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Fagundes_Varelabanders.png) |
-| 4307906 | Farroupilha (RS) | `flags/mun/4307906.png` | Prefeitura Municipal de Farroupilha | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Farroupilha.svg) |
+| 4307906 | Farroupilha (RS) | `flags/mun/4307906.svg` | Prefeitura Municipal de Farroupilha | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Farroupilha.svg) |
 | 4308052 | Faxinalzinho (RS) | `flags/mun/4308052.png` | Prefeitura de Faxinalzinho | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Faxinalzinhobanders.jpg) |
 | 4308078 | Fazenda Vilanova (RS) | `flags/mun/4308078.png` | Prefeitura de Fazenda Vilanova | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Fazenda_Vilanova.jpg) |
 | 4308102 | Feliz (RS) | `flags/mun/4308102.png` | Municipality of Feliz. | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Feliz_(Rio_Grande_do_Sul).jpg) |
@@ -3569,7 +3569,7 @@ Gerado por `tools/gerar.py`. A mesma informação está em `dados/bandeiras.json
 | 4309803 | Ibiaçá (RS) | `flags/mun/4309803.png` | Prefeitura de Ibiaçá | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Ibia%C3%A7%C3%A1.jpg) |
 | 4309902 | Ibiraiaras (RS) | `flags/mun/4309902.png` | Prefeitura de Ibiraiaras | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Ibiraiarasrsbanders.jpg) |
 | 4310009 | Ibirubá (RS) | `flags/mun/4310009.png` | Municipality of Ibirubá. | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Ibiruba.jpg) |
-| 4310108 | Igrejinha (RS) | `flags/mun/4310108.png` | Prefeitura Municipal de Igrejinha | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Igrejinha.svg) |
+| 4310108 | Igrejinha (RS) | `flags/mun/4310108.svg` | Prefeitura Municipal de Igrejinha | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Igrejinha.svg) |
 | 4310207 | Ijuí (RS) | `flags/mun/4310207.png` | Prefeitura de Ijuí | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Ijui-RS_Bandeira.jpg) |
 | 4310306 | Ilópolis (RS) | `flags/mun/4310306.png` | Prefeitura de Ilópolis | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Il%C3%B3polisrsbanders.png) |
 | 4310405 | Independência (RS) | `flags/mun/4310405.png` | Prefeitura de Independência | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Independ%C3%AAnciarsbanders.png) |
@@ -3604,7 +3604,7 @@ Gerado por `tools/gerar.py`. A mesma informação está em `dados/bandeiras.json
 | 4311775 | Maquiné (RS) | `flags/mun/4311775.png` | Municipality of Maquiné. | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Maquine.jpg) |
 | 4311791 | Maratá (RS) | `flags/mun/4311791.png` | Júlio César Schenkel Hanauer | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_do_Munic%C3%ADpio_de_Marat%C3%A1.jpg) |
 | 4311809 | Marau (RS) | `flags/mun/4311809.png` | Portal dos Municipios do RS - http://www.portalmunicipal.org.br/entidades/famurs/municipio/ | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_marau.png) |
-| 4311981 | Mariana Pimentel (RS) | `flags/mun/4311981.png` | Prefeitura Municipal de Mariana Pimentel | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Mariana_Pimentel.svg) |
+| 4311981 | Mariana Pimentel (RS) | `flags/mun/4311981.svg` | Prefeitura Municipal de Mariana Pimentel | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Mariana_Pimentel.svg) |
 | 4312054 | Marques de Souza (RS) | `flags/mun/4312054.png` | Prefeitura de Marques de Souza | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Marques_de_Souzabandeirars.png) |
 | 4312104 | Mata (RS) | `flags/mun/4312104.png` | Prefeitura Municipal da Mata | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Mata_bandeira_site.jpg) |
 | 4312153 | Mato Leitão (RS) | `flags/mun/4312153.png` | Prefeitura de Mato Leitão | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Mato_Leit%C3%A3obandeirars.png) |
@@ -3632,7 +3632,7 @@ Gerado por `tools/gerar.py`. A mesma informação está em `dados/bandeiras.json
 | 4313201 | Nova Petrópolis (RS) | `flags/mun/4313201.png` | autor desconhecido | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_cidade_nova_petropolis_RS.jpg) |
 | 4313300 | Nova Prata (RS) | `flags/mun/4313300.png` | Municipal Prefecture of Nova Prata | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira-Nova_Prata.jpg) |
 | 4313391 | Novo Cabrais (RS) | `flags/mun/4313391.png` | Prefeitura | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_cabrais.jpg) |
-| 4313409 | Novo Hamburgo (RS) | `flags/mun/4313409.png` | Prefeitura Municipal de Novo Hamburgo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Novo_Hamburgo.svg) |
+| 4313409 | Novo Hamburgo (RS) | `flags/mun/4313409.svg` | Prefeitura Municipal de Novo Hamburgo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Novo_Hamburgo.svg) |
 | 4313466 | Novo Xingu (RS) | `flags/mun/4313466.png` | Prefeitura de Nova Xingu | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Nova_Xingubandeirars.png) |
 | 4313490 | Novo Barreiro (RS) | `flags/mun/4313490.png` | Mário da Silva Oliveira | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Municipal_de_Novo_Barreiro.png) |
 | 4313508 | Osório (RS) | `flags/mun/4313508.png` | Naturalgum | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Osoriense.png) |
@@ -3661,7 +3661,7 @@ Gerado por `tools/gerar.py`. A mesma informação está em `dados/bandeiras.json
 | 4314753 | Poço das Antas (RS) | `flags/mun/4314753.png` | Prefeitura de Poço das Antas | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Pcantasbandeirars.png) |
 | 4314787 | Ponte Preta (RS) | `flags/mun/4314787.png` | Prefeitura de Ponte Preta | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Pontepretarsflagmun.png) |
 | 4314803 | Portão (RS) | `flags/mun/4314803.png` | Prefeitura Municipal de Portão | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Port%C3%A3o.jpg) |
-| 4314902 | Porto Alegre (RS) | `flags/mun/4314902.png` | Porto_Alegre_(RS)_-_Brasao.svg: Grandiose Derivate work: by Marcos Elias de Oliveira Júnior talk! + — Marcos Elias de… | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Porto_Alegre.svg) |
+| 4314902 | Porto Alegre (RS) | `flags/mun/4314902.svg` | Porto_Alegre_(RS)_-_Brasao.svg: Grandiose Derivate work: by Marcos Elias de Oliveira Júnior talk! + — Marcos Elias de… | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Porto_Alegre.svg) |
 | 4315008 | Porto Lucena (RS) | `flags/mun/4315008.png` | Prefeitura de Poço das Antas | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Po%C3%A7o_das_Antasbandeirars.png) |
 | 4315057 | Porto Mauá (RS) | `flags/mun/4315057.png` | Prefeitura de Porto Mauá | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:PortoMau%C3%A1sbandeirars.png) |
 | 4315073 | Porto Vera Cruz (RS) | `flags/mun/4315073.png` | Prefeitura | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Flag_of_Porto_Vera_Cruz_RS.png) |
@@ -3690,11 +3690,11 @@ Gerado por `tools/gerar.py`. A mesma informação está em `dados/bandeiras.json
 | 4316477 | Salvador das Missões (RS) | `flags/mun/4316477.png` | Prefeitura Municipal de Salvador das Missões | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Salvador_das_Miss%C3%B5es.jpg) |
 | 4316501 | Salvador do Sul (RS) | `flags/mun/4316501.png` | autor desconhecido | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:BANDEIRA_-_SALVADOR_DO_SUL.jpg) |
 | 4316600 | Sananduva (RS) | `flags/mun/4316600.png` | não informado | [CC BY-SA 2.5](https://creativecommons.org/licenses/by-sa/2.5) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_sananduva.png) |
-| 4316709 | Santa Bárbara do Sul (RS) | `flags/mun/4316709.png` | BrCaLeTo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Santa_B%C3%A1rbara_do_Sul_-_RS.svg) |
+| 4316709 | Santa Bárbara do Sul (RS) | `flags/mun/4316709.svg` | BrCaLeTo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Santa_B%C3%A1rbara_do_Sul_-_RS.svg) |
 | 4316733 | Santa Cecília do Sul (RS) | `flags/mun/4316733.png` | Prefeitura de Santa Cecília do Sul | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Gentilbanderriosul.jpeg) |
 | 4316758 | Santa Clara do Sul (RS) | `flags/mun/4316758.png` | não informado | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Santa-Clara-do-Sul_pequena.png) |
 | 4316808 | Santa Cruz do Sul (RS) | `flags/mun/4316808.png` | Prefeitura Municipal de Santa Cruz do Sul (local government) | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Santa_Cruz_do_Sul.png) |
-| 4316907 | Santa Maria (RS) | `flags/mun/4316907.png` | Franklin Baldo; Prefeitura de Santa Maria, Rio Grande do Sul. | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:BandeiraSantaMariaRS.svg) |
+| 4316907 | Santa Maria (RS) | `flags/mun/4316907.svg` | Franklin Baldo; Prefeitura de Santa Maria, Rio Grande do Sul. | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:BandeiraSantaMariaRS.svg) |
 | 4317004 | Santana da Boa Vista (RS) | `flags/mun/4317004.png` | Lazouwnik | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Santana_da_Boa_Vista,_RS.jpg) |
 | 4317103 | Sant'Ana do Livramento (RS) | `flags/mun/4317103.png` | Camara de Santana do Livramento | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Flag_of_Santana_do_Livramento.jpg) |
 | 4317202 | Santa Rosa (RS) | `flags/mun/4317202.png` | Prefeitura Municipal de Santa Rosa | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Santa_Rosa,_RS.jpg) |
@@ -3706,7 +3706,7 @@ Gerado por `tools/gerar.py`. A mesma informação está em `dados/bandeiras.json
 | 4317707 | Santo Antônio das Missões (RS) | `flags/mun/4317707.png` | Prefeitura Municipal de Santo Antônio das Missões | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Santo_Ant%C3%B4nio_das_Miss%C3%B5es.jpg) |
 | 4317756 | Santo Antônio do Planalto (RS) | `flags/mun/4317756.png` | Municipality of Santo Antônio do Planalto. | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Santo_Antonio_do_Planalto.jpg) |
 | 4317806 | Santo Augusto (RS) | `flags/mun/4317806.png` | Prefeitura de Santo Augusto | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Santo_Augustoriograsul.jpeg) |
-| 4317905 | Santo Cristo (RS) | `flags/mun/4317905.png` | Srfortes | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_SantoCristo_RioGrandedoSul_Brasil.svg) |
+| 4317905 | Santo Cristo (RS) | `flags/mun/4317905.svg` | Srfortes | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_SantoCristo_RioGrandedoSul_Brasil.svg) |
 | 4317954 | Santo Expedito do Sul (RS) | `flags/mun/4317954.png` | Prefeitura de Santo Expedito do Sul | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Santo_Expedito_do_Sulrs_bandeira.jpg) |
 | 4318002 | São Borja (RS) | `flags/mun/4318002.png` | Prefeitura Municipal de São Borja | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_S%C3%A3o_Borja.jpg) |
 | 4318051 | São Domingos do Sul (RS) | `flags/mun/4318051.png` | Prefeitura Municipal de São Domingos do Sul | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_S%C3%A3o_Domingos_do_Sul.jpg) |
@@ -3722,7 +3722,7 @@ Gerado por `tools/gerar.py`. A mesma informação está em `dados/bandeiras.json
 | 4318614 | São José do Sul (RS) | `flags/mun/4318614.png` | Municipality of São José do Sul | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Sao_Jose_do_Sul.png) |
 | 4318622 | São José dos Ausentes (RS) | `flags/mun/4318622.png` | FrancoBras | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_S._Jose_dos_Ausentes.jpg) |
 | 4318705 | São Leopoldo (RS) | `flags/mun/4318705.png` | Municipality of São Leopoldo. | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Sao_Leopoldo.jpg) |
-| 4318804 | São Lourenço do Sul (RS) | `flags/mun/4318804.png` | Prefeitura Municipal de São Lourenço do Sul | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_S%C3%A3o_Louren%C3%A7o_do_Sul.svg) |
+| 4318804 | São Lourenço do Sul (RS) | `flags/mun/4318804.svg` | Prefeitura Municipal de São Lourenço do Sul | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_S%C3%A3o_Louren%C3%A7o_do_Sul.svg) |
 | 4318903 | São Luiz Gonzaga (RS) | `flags/mun/4318903.png` | Câmara Municipal do Município de São Luís Gonzaga | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_S%C3%A3o_Luiz_Gonzaga.jpg) |
 | 4319000 | São Marcos (RS) | `flags/mun/4319000.png` | Prefeitura de São Marcos | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:S%C3%A3o_Marcosrs_bandeira.png) |
 | 4319109 | São Martinho (RS) | `flags/mun/4319109.png` | Prefeitura Municipal de São Martinho | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_S%C3%A3o_Martinho.jpg) |
@@ -3754,7 +3754,7 @@ Gerado por `tools/gerar.py`. A mesma informação está em `dados/bandeiras.json
 | 4320602 | Severiano de Almeida (RS) | `flags/mun/4320602.png` | FrancoBras | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Severiano_de_Almeida.jpg) |
 | 4320651 | Silveira Martins (RS) | `flags/mun/4320651.png` | Prefeitura de Silveira Martins | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Silveira_Martinsrsbandeira.png) |
 | 4320677 | Sinimbu (RS) | `flags/mun/4320677.png` | Prefeitura de Sinimbu | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Sinimbura_(RS).png) |
-| 4320701 | Sobradinho (RS) | `flags/mun/4320701.png` | BrCaLeTo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Sobradinho_-_RS.svg) |
+| 4320701 | Sobradinho (RS) | `flags/mun/4320701.svg` | BrCaLeTo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Sobradinho_-_RS.svg) |
 | 4320800 | Soledade (RS) | `flags/mun/4320800.png` | Municipality of Soledade. | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Soledade.png) |
 | 4320859 | Tabaí (RS) | `flags/mun/4320859.png` | Tadeu de Paula | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeirataba%C3%AD.jpg) |
 | 4320909 | Tapejara (RS) | `flags/mun/4320909.png` | Osmaludo | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Tapejarabandeira.png) |
@@ -3798,7 +3798,7 @@ Gerado por `tools/gerar.py`. A mesma informação está em `dados/bandeiras.json
 | 4323309 | Vila Flores (RS) | `flags/mun/4323309.png` | Prefeitura de Vila Flores | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Vila_Floresrsbandeira.png) |
 | 4323358 | Vila Lângaro (RS) | `flags/mun/4323358.png` | Prefeitura de Vila Lângaro | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Vila_L%C3%A2ngarorsbandeira.png) |
 | 4323408 | Vila Maria (RS) | `flags/mun/4323408.png` | Osmaludo | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_vila_maria.png) |
-| 4323457 | Vila Nova do Sul (RS) | `flags/mun/4323457.png` | BrCaLeTo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Vila_Nova_do_Sul_-_RS.svg) |
+| 4323457 | Vila Nova do Sul (RS) | `flags/mun/4323457.svg` | BrCaLeTo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Vila_Nova_do_Sul_-_RS.svg) |
 | 4323507 | Vista Alegre (RS) | `flags/mun/4323507.png` | Prefeitura Municipal de Vista Alegre | [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira-Vista-Alegre_(1).jpg) |
 | 4323705 | Vista Gaúcha (RS) | `flags/mun/4323705.png` | Yaanub | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Vista_Ga%C3%BAcha.png) |
 | 4323770 | Westfália (RS) | `flags/mun/4323770.png` | Geovanischwarz | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Westf%C3%A1lia.jpg) |
@@ -3809,17 +3809,17 @@ Gerado por `tools/gerar.py`. A mesma informação está em `dados/bandeiras.json
 | 5000807 | Anaurilândia (MS) | `flags/mun/5000807.png` | Temp1980 | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Band_Anaurilandia.png) |
 | 5000856 | Angélica (MS) | `flags/mun/5000856.png` | Temp1980 | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Ang%C3%A9lica.png) |
 | 5000906 | Antônio João (MS) | `flags/mun/5000906.png` | Temp1980 | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Band_Antonio_Joao.png) |
-| 5001003 | Aparecida do Taboado (MS) | `flags/mun/5001003.png` | autor desconhecido | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:ApTaboadoBandeira.svg) |
+| 5001003 | Aparecida do Taboado (MS) | `flags/mun/5001003.svg` | autor desconhecido | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:ApTaboadoBandeira.svg) |
 | 5001102 | Aquidauana (MS) | `flags/mun/5001102.png` | 1aquidauana.gif: Municipal Prefecture of Aquidauana derivative work: Amit6 (talk) | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Aquidauana_.png) |
 | 5001243 | Aral Moreira (MS) | `flags/mun/5001243.png` | Temp1980 | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Band_Aral_Moreira.png) |
 | 5001508 | Bandeirantes (MS) | `flags/mun/5001508.png` | Paulo Higa | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Bandeirantes,_MS.png) |
-| 5001904 | Bataguassu (MS) | `flags/mun/5001904.png` | não informado | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Bataguassu_MatoGrossodoSul_Brasil.svg) |
+| 5001904 | Bataguassu (MS) | `flags/mun/5001904.svg` | não informado | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Bataguassu_MatoGrossodoSul_Brasil.svg) |
 | 5002001 | Batayporã (MS) | `flags/mun/5002001.png` | Batayporã City Hall | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira-bataipor%C3%A3.jpg) |
 | 5002159 | Bodoquena (MS) | `flags/mun/5002159.png` | Prefeitura de Bodoquena, Mato Grosso do Sul. | [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Bodoquena-MS.jpg) |
 | 5002308 | Brasilândia (MS) | `flags/mun/5002308.png` | Temp1980 | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Band_Brasilandia.png) |
-| 5002407 | Caarapó (MS) | `flags/mun/5002407.png` | não informado | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Caarapo_MatoGrossodoSul_Brasil.svg) |
+| 5002407 | Caarapó (MS) | `flags/mun/5002407.svg` | não informado | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Caarapo_MatoGrossodoSul_Brasil.svg) |
 | 5002605 | Camapuã (MS) | `flags/mun/5002605.png` | Gabrielsilvagarcia | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeiradecamapua.png) |
-| 5002704 | Campo Grande (MS) | `flags/mun/5002704.png` | BrCaLeTo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Campo_Grande.svg) |
+| 5002704 | Campo Grande (MS) | `flags/mun/5002704.svg` | BrCaLeTo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Campo_Grande.svg) |
 | 5002803 | Caracol (MS) | `flags/mun/5002803.png` | Temp1980 | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Band_Caracol.png) |
 | 5002902 | Cassilândia (MS) | `flags/mun/5002902.png` | Estado de Mato Grosso do Sul | Attribution | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Cassilandia.JPG) |
 | 5002951 | Chapadão do Sul (MS) | `flags/mun/5002951.png` | autor desconhecido | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Chapadaodosul.png) |
@@ -3872,7 +3872,7 @@ Gerado por `tools/gerar.py`. A mesma informação está em `dados/bandeiras.json
 | 5007802 | Selvíria (MS) | `flags/mun/5007802.png` | Temp1980 | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Band_Selviria.png) |
 | 5007901 | Sidrolândia (MS) | `flags/mun/5007901.png` | http://www.sidrolandia.ms.gov.br/ | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Sidrol%C3%A2ndia.gif) |
 | 5007935 | Sonora (MS) | `flags/mun/5007935.png` | Temp1980 | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Band_Sonora.png) |
-| 5007950 | Tacuru (MS) | `flags/mun/5007950.png` | Giro720 | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Flag_of_Tacuru.svg) |
+| 5007950 | Tacuru (MS) | `flags/mun/5007950.svg` | Giro720 | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Flag_of_Tacuru.svg) |
 | 5007976 | Taquarussu (MS) | `flags/mun/5007976.png` | Temp1980 | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Band_Taquarussu.png) |
 | 5008008 | Terenos (MS) | `flags/mun/5008008.png` | Temp1980 | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Band_Terenos.png) |
 | 5008305 | Três Lagoas (MS) | `flags/mun/5008305.png` | não informado | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:BandeiradeTresLagoas.jpg) |
@@ -3884,7 +3884,7 @@ Gerado por `tools/gerar.py`. A mesma informação está em `dados/bandeiras.json
 | 5100508 | Alto Paraguai (MT) | `flags/mun/5100508.png` | Creator:Luis Gabriel Moraes Dias | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Alto_Paraguai.jpg) |
 | 5101209 | Araguainha (MT) | `flags/mun/5101209.png` | Luucasmoreira | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Araguainha-MT.jpg) |
 | 5101407 | Aripuanã (MT) | `flags/mun/5101407.png` | não informado | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Aripuan%C3%A3_-_Bandeira.PNG) |
-| 5101704 | Barra do Bugres (MT) | `flags/mun/5101704.png` | BrCaLeTo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Barra_do_Bugres_(Mato_Grosso).svg) |
+| 5101704 | Barra do Bugres (MT) | `flags/mun/5101704.svg` | BrCaLeTo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Barra_do_Bugres_(Mato_Grosso).svg) |
 | 5101803 | Barra do Garças (MT) | `flags/mun/5101803.png` | http://www.achetudoeregiao.com.br/mt/barra_do_garcas/geografia.htm | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Barra_do_Gar%C3%A7as.jpg) |
 | 5101902 | Brasnorte (MT) | `flags/mun/5101902.png` | Prefeitura Municipal de Brasnorte | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Brasnorte.png) |
 | 5102504 | Cáceres (MT) | `flags/mun/5102504.png` | Cáceres City Hall | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira-caceres.jpg) |
@@ -3899,10 +3899,10 @@ Gerado por `tools/gerar.py`. A mesma informação está em `dados/bandeiras.json
 | 5103353 | Confresa (MT) | `flags/mun/5103353.png` | Mário Cardoso de Lima | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Confresa.jpg) |
 | 5103361 | Conquista D'Oeste (MT) | `flags/mun/5103361.png` | Prefeitura Conquista d'Oeste_MT | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Conquista_d%27Oeste_MT.png) |
 | 5103379 | Cotriguaçu (MT) | `flags/mun/5103379.png` | Prefeitura Cotriguaçu_MT | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Cotrigua%C3%A7u_MT.jpg) |
-| 5103403 | Cuiabá (MT) | `flags/mun/5103403.png` | Franklinbaldo 21:27, 30 December 2006 (UTC) | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Cuiab%C3%A1.svg) |
+| 5103403 | Cuiabá (MT) | `flags/mun/5103403.svg` | Franklinbaldo 21:27, 30 December 2006 (UTC) | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Cuiab%C3%A1.svg) |
 | 5103452 | Denise (MT) | `flags/mun/5103452.png` | FelipeGMV | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:BandeiraDenise-MT.jpg) |
-| 5103502 | Diamantino (MT) | `flags/mun/5103502.png` | Wikimandia | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Diamantino.svg) |
-| 5103700 | Feliz Natal (MT) | `flags/mun/5103700.png` | Wikimandia | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Feliz_Natal,_Mato_Grosso.svg) |
+| 5103502 | Diamantino (MT) | `flags/mun/5103502.svg` | Wikimandia | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Diamantino.svg) |
+| 5103700 | Feliz Natal (MT) | `flags/mun/5103700.svg` | Wikimandia | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Feliz_Natal,_Mato_Grosso.svg) |
 | 5103809 | Figueirópolis D'Oeste (MT) | `flags/mun/5103809.png` | Azarias Neto | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Figueiropolis_dOeste.jpg) |
 | 5103957 | Glória D'Oeste (MT) | `flags/mun/5103957.png` | DanielBeroy | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_do_Munic%C3%ADpio_de_Gl%C3%B3ria_d%60Oeste.png) |
 | 5104203 | Guiratinga (MT) | `flags/mun/5104203.png` | Walisson Barreto | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Flag_of_Guiratinga.png) |
@@ -3919,11 +3919,11 @@ Gerado por `tools/gerar.py`. A mesma informação está em `dados/bandeiras.json
 | 5106224 | Nova Mutum (MT) | `flags/mun/5106224.png` | Laismara Tasca | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Nova_Mutum.jpg) |
 | 5106232 | Nova Olímpia (MT) | `flags/mun/5106232.png` | Prefeitura Municipal de Nova Olímpia | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Nova_Ol%C3%ADmpia.png) |
 | 5106240 | Nova Ubiratã (MT) | `flags/mun/5106240.png` | Prefeitura de Nova Ubiratã | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Nova_Ubirat%C3%A3.png) |
-| 5106257 | Nova Xavantina (MT) | `flags/mun/5106257.png` | vectorization by Anzee | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Nova_Xavantina.svg) |
+| 5106257 | Nova Xavantina (MT) | `flags/mun/5106257.svg` | vectorization by Anzee | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Nova_Xavantina.svg) |
 | 5106265 | Novo Mundo (MT) | `flags/mun/5106265.png` | Prefeitura Novo Mundo_MT | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Novo_Mundo_MT.png) |
 | 5106299 | Paranaíta (MT) | `flags/mun/5106299.png` | Prefeitura | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Flag_of_Parana%C3%ADta_MT.png) |
 | 5106307 | Paranatinga (MT) | `flags/mun/5106307.png` | Prefeitura de Paranatinga | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Paranatinga.png) |
-| 5106372 | Pedra Preta (MT) | `flags/mun/5106372.png` | BrCaLeTo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Pedra_Preta_-_MT.svg) |
+| 5106372 | Pedra Preta (MT) | `flags/mun/5106372.svg` | BrCaLeTo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Pedra_Preta_-_MT.svg) |
 | 5106653 | Pontal do Araguaia (MT) | `flags/mun/5106653.png` | Marcelina Henrica Ferreira (talk) | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_PontalDoAraguaia_MatoGrosso_Brasil.jpg) |
 | 5106703 | Ponte Branca (MT) | `flags/mun/5106703.png` | Bruno Luiz | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Ponte_Branca_flag.png) |
 | 5106752 | Pontes e Lacerda (MT) | `flags/mun/5106752.png` | Creator:Luis Gabriel Moraes Dias | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Flag_of_Pontes_e_Lacerda.jpg) |
@@ -3933,7 +3933,7 @@ Gerado por `tools/gerar.py`. A mesma informação está em `dados/bandeiras.json
 | 5107107 | São José dos Quatro Marcos (MT) | `flags/mun/5107107.png` | Blog4marcos | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_SJQMarcos.jpg) |
 | 5107156 | Reserva do Cabaçal (MT) | `flags/mun/5107156.png` | Prefeitura Reserva do Cabeçal_MT | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Reserva_do_Caba%C3%A7al_MT.png) |
 | 5107180 | Ribeirão Cascalheira (MT) | `flags/mun/5107180.png` | Prefeitura Ribeirão Cascalheira_MT | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Ribeir%C3%A3o_Cascalheira_MT.jpg) |
-| 5107198 | Ribeirãozinho (MT) | `flags/mun/5107198.png` | Camervan | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Ribeir%C3%A3ozinho.svg) |
+| 5107198 | Ribeirãozinho (MT) | `flags/mun/5107198.svg` | Camervan | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Ribeir%C3%A3ozinho.svg) |
 | 5107248 | Santa Carmem (MT) | `flags/mun/5107248.png` | Andrefs | [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_santa_carmem.png) |
 | 5107305 | São José do Rio Claro (MT) | `flags/mun/5107305.png` | Prefeitura de São José do Rio Claro | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_S%C3%A3o_Jos%C3%A9_do_Rio_Claro.png) |
 | 5107404 | São Pedro da Cipa (MT) | `flags/mun/5107404.png` | Emmanuel Lucas Vieira | [CC BY-SA 2.5](https://creativecommons.org/licenses/by-sa/2.5) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_S%C3%A3o_Pedro_da_Cipa.jpg) |
@@ -3964,7 +3964,7 @@ Gerado por `tools/gerar.py`. A mesma informação está em `dados/bandeiras.json
 | 5200829 | Amaralina (GO) | `flags/mun/5200829.png` | Prefeitura de Amaralina | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Amaralina.jpg) |
 | 5200852 | Americano do Brasil (GO) | `flags/mun/5200852.png` | Carlosamb | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Americano_do_Brasil.png) |
 | 5200902 | Amorinópolis (GO) | `flags/mun/5200902.png` | Prefeitura de Amorinópolis | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Amorin%C3%B3polis.jpg) |
-| 5201108 | Anápolis (GO) | `flags/mun/5201108.png` | BrCaLeTo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_An%C3%A1polis_-_GO.svg) |
+| 5201108 | Anápolis (GO) | `flags/mun/5201108.svg` | BrCaLeTo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_An%C3%A1polis_-_GO.svg) |
 | 5201207 | Anhanguera (GO) | `flags/mun/5201207.png` | Prefeitura de Anhanguera | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Anhanguera.jpg) |
 | 5201306 | Anicuns (GO) | `flags/mun/5201306.png` | Prefeitura de Anicuns | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Anicuns.jpg) |
 | 5201405 | Aparecida de Goiânia (GO) | `flags/mun/5201405.png` | Junior Villela | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Aparecida_de_Goi%C3%A2nia.jpg) |
@@ -3972,7 +3972,7 @@ Gerado por `tools/gerar.py`. A mesma informação está em `dados/bandeiras.json
 | 5201504 | Aporé (GO) | `flags/mun/5201504.png` | Prefeitura de Aporé | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Apor%C3%A9.jpg) |
 | 5201603 | Araçu (GO) | `flags/mun/5201603.png` | Prefeitura de Araçu | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Ara%C3%A7u.png) |
 | 5201702 | Aragarças (GO) | `flags/mun/5201702.png` | Prefeitura de Aragarças | [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Aragar%C3%A7as_Flag.jpg) |
-| 5203203 | Barro Alto (GO) | `flags/mun/5203203.png` | Blackcat | [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Flag_of_Barro_Alto_(Goi%C3%A1s).svg) |
+| 5203203 | Barro Alto (GO) | `flags/mun/5203203.svg` | Blackcat | [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Flag_of_Barro_Alto_(Goi%C3%A1s).svg) |
 | 5203302 | Bela Vista de Goiás (GO) | `flags/mun/5203302.png` | Prefeitura de Bela Vista de Goiás - GO | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_belavistadegoias.png) |
 | 5203401 | Bom Jardim de Goiás (GO) | `flags/mun/5203401.png` | Prefeitura de Bom Jardim de Goiás | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Bom_Jardim_de_Goi%C3%A1s.jpg) |
 | 5203807 | Britânia (GO) | `flags/mun/5203807.png` | Prefeitura de Britânia | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Brit%C3%A2nia_(Goi%C3%A1s).jpg) |
@@ -3980,14 +3980,14 @@ Gerado por `tools/gerar.py`. A mesma informação está em `dados/bandeiras.json
 | 5203939 | Buriti de Goiás (GO) | `flags/mun/5203939.png` | Prefeitura de Buriti de Goiás | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Buriti_de_Goi%C3%A1s.png) |
 | 5204003 | Cabeceiras (GO) | `flags/mun/5204003.png` | Prefeitura de Cabeceiras | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Cabeceiras.png) |
 | 5204102 | Cachoeira Alta (GO) | `flags/mun/5204102.png` | Prefeitura de Cachoeira Alta | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Cachoeira_Alta.jpg) |
-| 5204250 | Cachoeira Dourada (GO) | `flags/mun/5204250.png` | EuropeanV | [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Flag_of_Cachoeira_Dourada.svg) |
+| 5204250 | Cachoeira Dourada (GO) | `flags/mun/5204250.svg` | EuropeanV | [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Flag_of_Cachoeira_Dourada.svg) |
 | 5204300 | Caçu (GO) | `flags/mun/5204300.png` | Prefeitura Municipal de Caçu - Goiás | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Cacu_Goias_Brasil.jpg) |
 | 5204409 | Caiapônia (GO) | `flags/mun/5204409.png` | Prefeitura de Caiapônia | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Caiap%C3%B4nia.jpg) |
 | 5204508 | Caldas Novas (GO) | `flags/mun/5204508.png` | Handrade | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_caldas_novas.jpg) |
 | 5204607 | Campestre de Goiás (GO) | `flags/mun/5204607.png` | Prefeitura de Campestre de Goiás | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Campestre_de_Goi%C3%A1s.png) |
 | 5204805 | Campo Alegre de Goiás (GO) | `flags/mun/5204805.png` | Prefeitura de Campo Alegre de Goiás | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Campo_Alegre_de_Goi%C3%A1s.png) |
 | 5204854 | Campo Limpo de Goiás (GO) | `flags/mun/5204854.png` | Prefeitura de Campo Limpo de Goiás | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Campo_Limpo_de_Goi%C3%A1s.jpg) |
-| 5204904 | Campos Belos (GO) | `flags/mun/5204904.png` | Giro720 | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Campos_Belos.svg) |
+| 5204904 | Campos Belos (GO) | `flags/mun/5204904.svg` | Giro720 | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Campos_Belos.svg) |
 | 5205109 | Catalão (GO) | `flags/mun/5205109.png` | Lei orgânica do Município de Catalão | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Catal%C3%A3o.JPG) |
 | 5205208 | Caturaí (GO) | `flags/mun/5205208.png` | Henrique de Castro | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira-de-Catura%C3%AD-GO.jpg) |
 | 5205406 | Ceres (GO) | `flags/mun/5205406.png` | SÍMBOLOS MUNICIPAIS, PREFEITURA DE CERES GOIÁS. | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:BANDEIRA_DE_CERES.jpg) |
@@ -4003,18 +4003,18 @@ Gerado por `tools/gerar.py`. A mesma informação está em `dados/bandeiras.json
 | 5206503 | Cromínia (GO) | `flags/mun/5206503.png` | Prefeitura de Cromínia | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Crom%C3%ADnia.jpg) |
 | 5206602 | Cumari (GO) | `flags/mun/5206602.png` | Prefeitura de Cumari | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Cumari.jpg) |
 | 5206800 | Damolândia (GO) | `flags/mun/5206800.png` | Prefeitura municipal de Damolândia, Goiás. | [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Damol%C3%A2ndia-GO.jpg) |
-| 5206909 | Davinópolis (GO) | `flags/mun/5206909.png` | Zvenigorod | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Flag_of_Davin%C3%B3polis,_Goi%C3%A1s.svg) |
-| 5207253 | Doverlândia (GO) | `flags/mun/5207253.png` | paulopetry | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_municipio_doverlandia-go.svg) |
+| 5206909 | Davinópolis (GO) | `flags/mun/5206909.svg` | Zvenigorod | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Flag_of_Davin%C3%B3polis,_Goi%C3%A1s.svg) |
+| 5207253 | Doverlândia (GO) | `flags/mun/5207253.svg` | paulopetry | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_municipio_doverlandia-go.svg) |
 | 5207402 | Edéia (GO) | `flags/mun/5207402.png` | Prefeitura de Edéia | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Ed%C3%A9ia.jpg) |
 | 5207535 | Faina (GO) | `flags/mun/5207535.png` | Prefeitura de Faina | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Faina.jpg) |
 | 5207600 | Fazenda Nova (GO) | `flags/mun/5207600.png` | Prefeitura de Fazenda Nova | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Fazenda_Nova.png) |
 | 5207808 | Firminópolis (GO) | `flags/mun/5207808.png` | Prefeitura de Firminópolis. | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Firmin%C3%B3polis.jpg) |
-| 5208004 | Formosa (GO) | `flags/mun/5208004.png` | Prefeitura Municipal de Formosa, GO | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Formosa_-_GO.svg) |
+| 5208004 | Formosa (GO) | `flags/mun/5208004.svg` | Prefeitura Municipal de Formosa, GO | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Formosa_-_GO.svg) |
 | 5208301 | Divinópolis de Goiás (GO) | `flags/mun/5208301.png` | Prefeitura de Divinópolis de Goiás | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Divin%C3%B3polis_de_Goi%C3%A1s.png) |
 | 5208400 | Goianápolis (GO) | `flags/mun/5208400.png` | Prefeitura de Goianápolis | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Goian%C3%A1polis.jpg) |
 | 5208509 | Goiandira (GO) | `flags/mun/5208509.png` | Prefeitura municipal de Goiandira, Goiás. | [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Goiandira-GO.jpg) |
 | 5208608 | Goianésia (GO) | `flags/mun/5208608.png` | Prefeitura de Goianésia | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Goian%C3%A9sia.jpg) |
-| 5208707 | Goiânia (GO) | `flags/mun/5208707.png` | ViniciusBR11; Prefeitura de Goiânia | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Goi%C3%A2nia.svg) |
+| 5208707 | Goiânia (GO) | `flags/mun/5208707.svg` | ViniciusBR11; Prefeitura de Goiânia | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Goi%C3%A2nia.svg) |
 | 5209101 | Goiatuba (GO) | `flags/mun/5209101.png` | Djtesao | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Goiatuba.JPG) |
 | 5209150 | Gouvelândia (GO) | `flags/mun/5209150.png` | Prefeitura de Gouvelândia | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Gouvel%C3%A2ndia.jpg) |
 | 5209606 | Heitoraí (GO) | `flags/mun/5209606.png` | Prefeitura municipal de Heitoraí, Goiás. | [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Heitora%C3%AD-GO.jpg) |
@@ -4031,7 +4031,7 @@ Gerado por `tools/gerar.py`. A mesma informação está em `dados/bandeiras.json
 | 5210901 | Itapaci (GO) | `flags/mun/5210901.png` | Prefeitura de Itapaci | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Itapaci.jpg) |
 | 5211008 | Itapirapuã (GO) | `flags/mun/5211008.png` | Prefeitura de Itapirapuã | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Itapirapu%C3%A3.jpg) |
 | 5211305 | Itarumã (GO) | `flags/mun/5211305.png` | Valdiele | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Itarum%C3%A3.jpg) |
-| 5211404 | Itauçu (GO) | `flags/mun/5211404.png` | Blackcat | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Flag_of_Itau%C3%A7u.svg) |
+| 5211404 | Itauçu (GO) | `flags/mun/5211404.svg` | Blackcat | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Flag_of_Itau%C3%A7u.svg) |
 | 5211503 | Itumbiara (GO) | `flags/mun/5211503.png` | Municipality of Itumbiara | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Nova_Bandeira_de_Itumbiara.jpg) |
 | 5211602 | Ivolândia (GO) | `flags/mun/5211602.png` | Prefeitura de Ivolândia | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Ivol%C3%A2ndia.jpg) |
 | 5211909 | Jataí (GO) | `flags/mun/5211909.png` | Lei orgânica do Município de Jataí | [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_do_munic%C3%ADpio_de_Jata%C3%AD.jpg) |
@@ -4106,7 +4106,7 @@ Gerado por `tools/gerar.py`. A mesma informação está em `dados/bandeiras.json
 | 5220504 | Serranópolis (GO) | `flags/mun/5220504.png` | Prefeitura de Serranópolis | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Serran%C3%B3polis.jpg) |
 | 5220603 | Silvânia (GO) | `flags/mun/5220603.png` | Prefeitura de Silvânia | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Silv%C3%A2nia.jpg) |
 | 5221007 | Taquaral de Goiás (GO) | `flags/mun/5221007.png` | Prefeitura municipal de Taquaral de Goiás. | [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Taquaral_de_Goi%C3%A1s-GO.png) |
-| 5221080 | Teresina de Goiás (GO) | `flags/mun/5221080.png` | Prefeitura de Teresina de Goiás, ViniciusBR11 | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Teresina_de_Goi%C3%A1s.svg) |
+| 5221080 | Teresina de Goiás (GO) | `flags/mun/5221080.svg` | Prefeitura de Teresina de Goiás, ViniciusBR11 | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Teresina_de_Goi%C3%A1s.svg) |
 | 5221197 | Terezópolis de Goiás (GO) | `flags/mun/5221197.png` | Prefeitura de Terezópolis de Goiás | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Terez%C3%B3polis_de_Goi%C3%A1s.png) |
 | 5221304 | Três Ranchos (GO) | `flags/mun/5221304.png` | Prefeitura de Três Ranchos | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Tr%C3%AAs_Ranchos.jpg) |
 | 5221403 | Trindade (GO) | `flags/mun/5221403.png` | Prefeitura Municipal de Trindade | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_trindade_go.png) |
@@ -4118,4 +4118,4 @@ Gerado por `tools/gerar.py`. A mesma informação está em `dados/bandeiras.json
 | 5221858 | Valparaíso de Goiás (GO) | `flags/mun/5221858.png` | Prefeitura Municipal de Valparaíso de Goiás, GO | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Valpara%C3%ADso_de_Goi%C3%A1s.png) |
 | 5222005 | Vianópolis (GO) | `flags/mun/5222005.png` | Prefeitura de Vianópolis | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Vian%C3%B3polis.jpg) |
 | 5222203 | Vila Boa (GO) | `flags/mun/5222203.png` | Eneide Rufino | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_VilaBoa.jpg) |
-| 5300108 | Brasília (DF) | `flags/mun/5300108.png` | Governo do Distrito Federal; [ Decreto 1090 de 25/08/1969 Sem Revogação Expressa https://www.sinj.df.gov.br/sinj/Diar… | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_do_Distrito_Federal_(Brasil).svg) |
+| 5300108 | Brasília (DF) | `flags/mun/5300108.svg` | Governo do Distrito Federal; [ Decreto 1090 de 25/08/1969 Sem Revogação Expressa https://www.sinj.df.gov.br/sinj/Diar… | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_do_Distrito_Federal_(Brasil).svg) |

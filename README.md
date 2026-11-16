@@ -14,39 +14,39 @@ cobre: estados e municípios brasileiros.
 - Classes CSS no estilo do flag-icons, um manifesto JSON e créditos por arquivo.
 
 <!-- resumo:inicio -->
-Hoje: Brasil, 27 UFs e **4085 de 5571 municípios** (48 em SVG, 4037 em PNG, dos quais 77 também com SVG vetorizado automaticamente).
+Hoje: Brasil, 27 UFs e **4085 de 5571 municípios** (603 em SVG, 3482 em PNG, dos quais 682 também com SVG vetorizado automaticamente).
 
 <details><summary>Cobertura por UF</summary>
 
 | UF | Municípios | Com bandeira | SVG | PNG | Cobertura |
 |---|--:|--:|--:|--:|--:|
 | AC | 22 | 14 | 7 | 7 | 64% |
-| AL | 102 | 65 | 0 | 65 | 64% |
-| AM | 62 | 47 | 15 | 32 | 76% |
-| AP | 16 | 13 | 0 | 13 | 81% |
-| BA | 417 | 179 | 0 | 179 | 43% |
-| CE | 184 | 141 | 0 | 141 | 77% |
-| DF | 1 | 1 | 0 | 1 | 100% |
-| ES | 78 | 64 | 0 | 64 | 82% |
-| GO | 246 | 169 | 0 | 169 | 69% |
-| MA | 217 | 89 | 0 | 89 | 41% |
-| MG | 853 | 584 | 0 | 584 | 68% |
-| MS | 79 | 75 | 0 | 75 | 95% |
-| MT | 142 | 72 | 0 | 72 | 51% |
-| PA | 144 | 93 | 0 | 93 | 65% |
-| PB | 223 | 193 | 0 | 193 | 87% |
-| PE | 185 | 180 | 2 | 178 | 97% |
-| PI | 224 | 68 | 0 | 68 | 30% |
-| PR | 399 | 383 | 2 | 381 | 96% |
-| RJ | 92 | 92 | 0 | 92 | 100% |
-| RN | 167 | 117 | 0 | 117 | 70% |
+| AL | 102 | 65 | 9 | 56 | 64% |
+| AM | 62 | 47 | 16 | 31 | 76% |
+| AP | 16 | 13 | 9 | 4 | 81% |
+| BA | 417 | 179 | 44 | 135 | 43% |
+| CE | 184 | 141 | 23 | 118 | 77% |
+| DF | 1 | 1 | 1 | 0 | 100% |
+| ES | 78 | 64 | 11 | 53 | 82% |
+| GO | 246 | 169 | 10 | 159 | 69% |
+| MA | 217 | 89 | 20 | 69 | 41% |
+| MG | 853 | 584 | 26 | 558 | 68% |
+| MS | 79 | 75 | 5 | 70 | 95% |
+| MT | 142 | 72 | 7 | 65 | 51% |
+| PA | 144 | 93 | 20 | 73 | 65% |
+| PB | 223 | 193 | 63 | 130 | 87% |
+| PE | 185 | 180 | 46 | 134 | 97% |
+| PI | 224 | 68 | 9 | 59 | 30% |
+| PR | 399 | 383 | 44 | 339 | 96% |
+| RJ | 92 | 92 | 22 | 70 | 100% |
+| RN | 167 | 117 | 1 | 116 | 70% |
 | RO | 52 | 41 | 16 | 25 | 79% |
-| RR | 15 | 15 | 4 | 11 | 100% |
-| RS | 497 | 413 | 0 | 413 | 83% |
-| SC | 295 | 273 | 2 | 271 | 93% |
-| SE | 75 | 57 | 0 | 57 | 76% |
-| SP | 645 | 617 | 0 | 617 | 96% |
-| TO | 139 | 30 | 0 | 30 | 22% |
+| RR | 15 | 15 | 8 | 7 | 100% |
+| RS | 497 | 413 | 26 | 387 | 83% |
+| SC | 295 | 273 | 69 | 204 | 93% |
+| SE | 75 | 57 | 19 | 38 | 76% |
+| SP | 645 | 617 | 67 | 550 | 96% |
+| TO | 139 | 30 | 5 | 25 | 22% |
 
 </details>
 <!-- resumo:fim -->
@@ -120,7 +120,7 @@ Em Quarto/Markdown: `![](https://strategicprojects.github.io/flags-brasil/flags/
 
 ```sh
 npm install flags-brasil                 # Brasil, UFs, CSS base e manifesto (~1,5 MB)
-npm install flags-brasil-municipios      # municípios, CSS por UF e SVG vetorizados
+npm install flags-brasil-municipios      # municípios e CSS por UF
 ```
 
 ```js
@@ -129,7 +129,10 @@ import 'flags-brasil-municipios/css/uf/pe.css';
 ```
 
 Os caminhos dentro dos pacotes são os mesmos deste repositório. Pelo CDN:
-`https://cdn.jsdelivr.net/npm/flags-brasil/css/flags-brasil.css`.
+`https://cdn.jsdelivr.net/npm/flags-brasil/css/flags-brasil.css` e, para os
+municípios, `https://unpkg.com/flags-brasil-municipios/css/uf/pe.css` (o
+jsDelivr não estava servindo o pacote de municípios quando testamos). Os SVG vetorizados
+ficam só no repositório e no site, fora do pacote npm.
 
 ## Créditos e licenças
 

@@ -3,7 +3,7 @@
 
 São dois pacotes:
   flags-brasil             a raiz deste repo: Brasil, UFs, CSS base e manifesto
-  flags-brasil-municipios  bandeiras municipais, CSS por UF e SVG vetorizados
+  flags-brasil-municipios  bandeiras municipais e CSS por UF (sem os vetorizados)
 
 Os caminhos dentro dos dois são os mesmos do repo (css/ ao lado de flags/), então
 as folhas de estilo funcionam sem ajuste. Para publicar:
@@ -45,9 +45,7 @@ import 'flags-brasil-municipios/css/uf/pe.css';        // municípios de uma UF
 | Caminho | Conteúdo |
 |---|---|
 | `flags/mun/<codigo>.svg` ou `.png` | bandeira do município |
-| `flags/mun/vetorizado/<codigo>.svg` | traçado automático do PNG, quando existe |
 | `css/municipios.css`, `css/uf/<sigla>.css` | classes `.fbr-<codigo>` |
-| `css/vetorizado.css` | troca o PNG pelo SVG vetorizado (carregue por último) |
 | `dados/bandeiras.json` | nome, UF, arquivo, formato, autor e licença |
 
 ## Licenças
@@ -57,6 +55,13 @@ O código é MIT. **Cada bandeira mantém a licença do arquivo de origem**
 público, parte em Creative Commons BY ou BY-SA, que exigem atribuição. Autor,
 licença e página de origem de cada arquivo estão em `CREDITOS.md` e em
 `dados/bandeiras.json` (campo `fonte`).
+
+Os SVG vetorizados automaticamente (`flags/mun/vetorizado/`) não entram neste
+pacote, pelo tamanho; estão no repositório e no site, e o campo `vetorizado` do
+manifesto aponta para eles.
+
+Pelo CDN use o unpkg (o jsDelivr não estava servindo este pacote quando testamos):
+`https://unpkg.com/flags-brasil-municipios/css/uf/pe.css`.
 
 Documentação completa: <https://github.com/StrategicProjects/flags-brasil>
 """
@@ -69,10 +74,11 @@ def main() -> None:
     (DEST / "flags").mkdir(parents=True)
     (DEST / "css").mkdir()
     (DEST / "dados").mkdir()
-    shutil.copytree(RAIZ / "flags" / "mun", DEST / "flags" / "mun")
+    # os vetorizados ficam só no repositório e no site: somariam ~45 MB ao pacote
+    shutil.copytree(RAIZ / "flags" / "mun", DEST / "flags" / "mun",
+                    ignore=shutil.ignore_patterns("vetorizado"))
     shutil.copytree(RAIZ / "css" / "uf", DEST / "css" / "uf")
-    for f in ("municipios.css", "vetorizado.css"):
-        shutil.copyfile(RAIZ / "css" / f, DEST / "css" / f)
+    shutil.copyfile(RAIZ / "css" / "municipios.css", DEST / "css" / "municipios.css")
     shutil.copyfile(RAIZ / "dados" / "bandeiras.json", DEST / "dados" / "bandeiras.json")
     for f in ("CREDITOS.md", "LICENSE"):
         shutil.copyfile(RAIZ / f, DEST / f)
