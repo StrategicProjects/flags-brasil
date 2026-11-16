@@ -14,7 +14,7 @@ cobre: estados e municípios brasileiros.
 - Classes CSS no estilo do flag-icons, um manifesto JSON e créditos por arquivo.
 
 <!-- resumo:inicio -->
-Hoje: Brasil, 27 UFs e **4032 de 5571 municípios** (8 em SVG, 4024 em PNG).
+Hoje: Brasil, 27 UFs e **4082 de 5571 municípios** (12 em SVG, 4070 em PNG).
 
 <details><summary>Cobertura por UF</summary>
 
@@ -35,12 +35,12 @@ Hoje: Brasil, 27 UFs e **4032 de 5571 municípios** (8 em SVG, 4024 em PNG).
 | MT | 142 | 72 | 0 | 72 | 51% |
 | PA | 144 | 93 | 0 | 93 | 65% |
 | PB | 223 | 193 | 0 | 193 | 87% |
-| PE | 185 | 127 | 0 | 127 | 69% |
+| PE | 185 | 177 | 2 | 175 | 96% |
 | PI | 224 | 68 | 0 | 68 | 30% |
 | PR | 399 | 383 | 2 | 381 | 96% |
 | RJ | 92 | 92 | 0 | 92 | 100% |
 | RN | 167 | 117 | 0 | 117 | 70% |
-| RO | 52 | 41 | 3 | 38 | 79% |
+| RO | 52 | 41 | 5 | 36 | 79% |
 | RR | 15 | 15 | 0 | 15 | 100% |
 | RS | 497 | 413 | 0 | 413 | 83% |
 | SC | 295 | 273 | 2 | 271 | 93% |

@@ -42,9 +42,9 @@ Gerado por `tools/gerar.py`. A mesma informação está em `dados/bandeiras.json
 | 1100064 | Colorado do Oeste (RO) | `flags/mun/1100064.svg` | Franklinbaldo 01:48, 28 December 2006 (UTC) | Public domain | [Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_colorado_do_oeste.svg) |
 | 1100072 | Corumbiara (RO) | `flags/mun/1100072.png` | Municipality of Corumbiara. | Public domain | [Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Corumbiara.png) |
 | 1100098 | Espigão D'Oeste (RO) | `flags/mun/1100098.png` | Espigão do Oeste City Hall | Public domain | [Commons](https://commons.wikimedia.org/wiki/File:Bandeira-espigaodoeste-ro.png) |
-| 1100106 | Guajará-Mirim (RO) | `flags/mun/1100106.png` | Franklinbaldo | Public domain | [Commons](https://commons.wikimedia.org/wiki/File:Flag_rondonia_guajaramirim.svg) |
+| 1100106 | Guajará-Mirim (RO) | `flags/mun/1100106.svg` | Franklinbaldo | Public domain | [Commons](https://commons.wikimedia.org/wiki/File:Flag_rondonia_guajaramirim.svg) |
 | 1100114 | Jaru (RO) | `flags/mun/1100114.png` | PMJ | Public domain | [Commons](https://commons.wikimedia.org/wiki/File:Bandeira-jaru-ro.png) |
-| 1100122 | Ji-Paraná (RO) | `flags/mun/1100122.png` | Own work | Public domain | [Commons](https://commons.wikimedia.org/wiki/File:Flag_ji-paran%C3%A1.svg) |
+| 1100122 | Ji-Paraná (RO) | `flags/mun/1100122.svg` | Own work | Public domain | [Commons](https://commons.wikimedia.org/wiki/File:Flag_ji-paran%C3%A1.svg) |
 | 1100130 | Machadinho D'Oeste (RO) | `flags/mun/1100130.png` | Prefeitura de Machadinho_d'Oeste_RO | Public domain | [Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Machadinho_d%27Oeste_RO.jpg) |
 | 1100148 | Nova Brasilândia D'Oeste (RO) | `flags/mun/1100148.png` | Marioreus123 | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File:Ro-nova-brasilandia-d-oeste-bandeira.jpg) |
 | 1100155 | Ouro Preto do Oeste (RO) | `flags/mun/1100155.png` | wenning luizWenning Luiz (talk) | Public domain | [Commons](https://commons.wikimedia.org/wiki/File:Bandeira_OuroPretodoOeste_Rond%C3%B4nia_Brasil.png) |
@@ -901,6 +901,7 @@ Gerado por `tools/gerar.py`. A mesma informação está em `dados/bandeiras.json
 | 2600302 | Agrestina (PE) | `flags/mun/2600302.png` | CityBreakingDown | Public domain | [Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_agrestina.svg) |
 | 2600401 | Água Preta (PE) | `flags/mun/2600401.png` | CityBreakingDown | Public domain | [Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_%C3%81gua_Preta.svg) |
 | 2600500 | Águas Belas (PE) | `flags/mun/2600500.png` | CityBreakingDown | Public domain | [Commons](https://commons.wikimedia.org/wiki/File:Bandeira_aguas_belas.svg) |
+| 2600609 | Alagoinha (PE) | `flags/mun/2600609.svg` | CityBreakingDown | Public domain | [Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Alagoinha_PE.svg) |
 | 2600708 | Aliança (PE) | `flags/mun/2600708.png` | CityBreakingDown | Public domain | [Commons](https://commons.wikimedia.org/wiki/File:Bandeira-alian%C3%A7a.svg) |
 | 2600807 | Altinho (PE) | `flags/mun/2600807.png` | CityBreakingDown | Public domain | [Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Altinho.svg) |
 | 2600906 | Amaraji (PE) | `flags/mun/2600906.png` | CityBreakingDown | Public domain | [Commons](https://commons.wikimedia.org/wiki/File:Bandeira-amaraji.svg) |
@@ -916,6 +917,7 @@ Gerado por `tools/gerar.py`. A mesma informação está em `dados/bandeiras.json
 | 2601805 | Betânia (PE) | `flags/mun/2601805.png` | CityBreakingDown | Public domain | [Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Betania.svg) |
 | 2601904 | Bezerros (PE) | `flags/mun/2601904.png` | CityBreakingDown | Public domain | [Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Bezerros.svg) |
 | 2602001 | Bodocó (PE) | `flags/mun/2602001.png` | CityBreakingDown | Public domain | [Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Bodoc%C3%B3.svg) |
+| 2602100 | Bom Conselho (PE) | `flags/mun/2602100.svg` | CityBreakingDown | Public domain | [Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Bom_Conselho.svg) |
 | 2602209 | Bom Jardim (PE) | `flags/mun/2602209.png` | CityBreakingDown | Public domain | [Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Bom_Jardim_PE.svg) |
 | 2602308 | Bonito (PE) | `flags/mun/2602308.png` | CityBreakingDown | Public domain | [Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Bonito_PE.svg) |
 | 2602407 | Brejão (PE) | `flags/mun/2602407.png` | CityBreakingDown | Public domain | [Commons](https://commons.wikimedia.org/wiki/File:Bandeira_brejao.svg) |
@@ -925,28 +927,40 @@ Gerado por `tools/gerar.py`. A mesma informação está em `dados/bandeiras.json
 | 2602803 | Buíque (PE) | `flags/mun/2602803.png` | Blésman Modesto de Albuquerque e Edmilson Soares | Public domain | [Commons](https://commons.wikimedia.org/wiki/File:Bandeira_buique.jpg) |
 | 2602902 | Cabo de Santo Agostinho (PE) | `flags/mun/2602902.png` | Cabo de Santo Agostinho City Hall | Public domain | [Commons](https://commons.wikimedia.org/wiki/File:Bandeira-cabodesantoagostinho.png) |
 | 2603009 | Cabrobó (PE) | `flags/mun/2603009.png` | Pcgomes | Public domain | [Commons](https://commons.wikimedia.org/wiki/File:Flag_of_Cabrob%C3%B3_-_PE_-_Brazil.png) |
+| 2603108 | Cachoeirinha (PE) | `flags/mun/2603108.png` | Mateus Leite | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Cachoeirinha_-_PE.svg) |
 | 2603207 | Caetés (PE) | `flags/mun/2603207.png` | Pcgomes | Public domain | [Commons](https://commons.wikimedia.org/wiki/File:Flag_of_Caet%C3%A9s_-_PE_-_Brazil.png) |
 | 2603306 | Calçado (PE) | `flags/mun/2603306.png` | Prefeitura Municipal de Calçado | Public domain | [Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Cal%C3%A7ado.svg) |
 | 2603405 | Calumbi (PE) | `flags/mun/2603405.png` | Daniel Migueis | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Municipal_de_Calumbi.png) |
 | 2603454 | Camaragibe (PE) | `flags/mun/2603454.png` | Município de Camaragibe | Public domain | [Commons](https://commons.wikimedia.org/wiki/File:BANDEIRA_DE_CAMARAGIBE.svg) |
+| 2603504 | Camocim de São Félix (PE) | `flags/mun/2603504.png` | Gutembergsantosbezerra | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Camocim_de_S%C3%A3o_F%C3%A9lix.jpg) |
+| 2603603 | Camutanga (PE) | `flags/mun/2603603.png` | Associação Municipalista de Pernambuco | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Camutanga,_PE.png) |
 | 2603702 | Canhotinho (PE) | `flags/mun/2603702.png` | Prefeitura do município de Canhotinho | Public domain | [Commons](https://commons.wikimedia.org/wiki/File:2_arquivo.jpg) |
+| 2603801 | Capoeiras (PE) | `flags/mun/2603801.png` | Associação Municipalista de Pernambuco | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Capoeiras,_PE.png) |
 | 2603900 | Carnaíba (PE) | `flags/mun/2603900.png` | Joaoaf2009 | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Carna%C3%ADba,_PE.jpg) |
+| 2603926 | Carnaubeira da Penha (PE) | `flags/mun/2603926.png` | Associação Municipalista de Pernambuco | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Carnaubeira_da_Penha,_PE.png) |
 | 2604007 | Carpina (PE) | `flags/mun/2604007.png` | http://www.carpina.pe.gov.br | Public domain | [Commons](https://commons.wikimedia.org/wiki/File:Bandeiracarpinape.jpg) |
 | 2604106 | Caruaru (PE) | `flags/mun/2604106.png` | Amaro Matias | Public domain | [Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Caruaru.jpg) |
+| 2604155 | Casinhas (PE) | `flags/mun/2604155.png` | Edinelsonfr | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Casinhas_PE.svg) |
+| 2604205 | Catende (PE) | `flags/mun/2604205.png` | Associação Municipalista de Pernambuco | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Catende,_PE.png) |
 | 2604304 | Cedro (PE) | `flags/mun/2604304.png` | Mais símbolos, história, paisagens e vídeos de Cedro PE em http://cedro.orgfree.com/ | Public domain | [Commons](https://commons.wikimedia.org/wiki/File:Cedrobandeira.jpg) |
 | 2604502 | Chã Grande (PE) | `flags/mun/2604502.png` | não informado | Public domain | [Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_ch%C3%A3_grande.jpg) |
+| 2604601 | Condado (PE) | `flags/mun/2604601.png` | Associação Municipalista de Pernambuco | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Condado,_PE.png) |
 | 2604700 | Correntes (PE) | `flags/mun/2604700.png` | User:Antonio de Machado Dias | Public domain | [Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Correntes.jpg) |
 | 2604908 | Cumaru (PE) | `flags/mun/2604908.png` | Lucas Vinícius G. Ferreira | [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) | [Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Cumaru-PE.svg) |
 | 2605004 | Cupira (PE) | `flags/mun/2605004.png` | autor desconhecido | Public domain | [Commons](https://commons.wikimedia.org/wiki/File:Bandeira_cupira.jpg) |
 | 2605103 | Custódia (PE) | `flags/mun/2605103.png` | Jorge Remigio e Adelma Arruda (Comissioned by Custódia Municipality) | Public domain | [Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Cust%C3%B3dia,_PE.jpg) |
+| 2605152 | Dormentes (PE) | `flags/mun/2605152.png` | Associação Municipalista de Pernambuco | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Dormentes,_PE.png) |
 | 2605202 | Escada (PE) | `flags/mun/2605202.png` | Luciaccoelho | Public domain | [Commons](https://commons.wikimedia.org/wiki/File:Bandeira_escada.jpg) |
 | 2605301 | Exu (PE) | `flags/mun/2605301.png` | Pytágoras Cordeiro de Oliveira | Public domain | [Commons](https://commons.wikimedia.org/wiki/File:Bandeira_do_Exu.jpg) |
+| 2605400 | Feira Nova (PE) | `flags/mun/2605400.png` | Associação Municipalista de Pernambuco | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Feira_Nova,_PE.png) |
 | 2605459 | Fernando de Noronha (PE) | `flags/mun/2605459.png` | Ten. Cel. Av. Jorge Longuinho. Vectorized by User:Feitidede | Public domain | [Commons](https://commons.wikimedia.org/wiki/File:Flag_of_Fernando_de_Noronha.svg) |
 | 2605509 | Ferreiros (PE) | `flags/mun/2605509.png` | Prefeitura de Ferreiros | Public domain | [Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Ferreiros_-_PE.jpg) |
 | 2605608 | Flores (PE) | `flags/mun/2605608.png` | Marconiptb14 | Public domain | [Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Flores,_PE.jpg) |
 | 2605707 | Floresta (PE) | `flags/mun/2605707.png` | Floresta City Hall | Public domain | [Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Floresta,_PE.png) |
+| 2605806 | Frei Miguelinho (PE) | `flags/mun/2605806.png` | Associação Municipalista de Pernambuco | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Frei_Miguelinho,_PE.png) |
 | 2605905 | Gameleira (PE) | `flags/mun/2605905.png` | Nayrobe | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File:Bandeira_do_Munic%C3%ADpio_da_Gameleira-PE.png) |
 | 2606002 | Garanhuns (PE) | `flags/mun/2606002.png` | Prefeitura Municipal de Garanhuns | Public domain | [Commons](https://commons.wikimedia.org/wiki/File:BandeiraGaranhuns.svg) |
+| 2606200 | Goiana (PE) | `flags/mun/2606200.png` | Prefeitura Municipal de Goiana | Public domain | [Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Goiana.jpg) |
 | 2606309 | Granito (PE) | `flags/mun/2606309.png` | Município de Granito-PE | Public domain | [Commons](https://commons.wikimedia.org/wiki/File:Bandeira_municipio_granito.jpg) |
 | 2606408 | Gravatá (PE) | `flags/mun/2606408.png` | não informado | Public domain | [Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_gravata.png) |
 | 2606507 | Iati (PE) | `flags/mun/2606507.png` | Iati Pernambuco | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File:Pe-iati-bandeira.jpg) |
@@ -956,17 +970,30 @@ Gerado por `tools/gerar.py`. A mesma informação está em `dados/bandeiras.json
 | 2607000 | Inajá (PE) | `flags/mun/2607000.png` | Histórico de Inajá | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Inaj%C3%A1-PE.JPG) |
 | 2607109 | Ingazeira (PE) | `flags/mun/2607109.png` | Osmano Morais Mascena Veras | Public domain | [Commons](https://commons.wikimedia.org/wiki/File:Bandeira_do_Munic%C3%ADpio_de_Ingazeira.jpg) |
 | 2607208 | Ipojuca (PE) | `flags/mun/2607208.png` | Prefeitura do município de Ipojuca | Public domain | [Commons](https://commons.wikimedia.org/wiki/File:Ipojuca_Flag.jpg) |
+| 2607307 | Ipubi (PE) | `flags/mun/2607307.png` | Prefeitura de Ipubi | Public domain | [Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Ipubi_PE.png) |
+| 2607406 | Itacuruba (PE) | `flags/mun/2607406.png` | Prefeitura Municipal de Itacuruba | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Itacuruba.png) |
+| 2607505 | Itaíba (PE) | `flags/mun/2607505.png` | Associação Municipalista de Pernambuco | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Ita%C3%ADba.png) |
 | 2607604 | Ilha de Itamaracá (PE) | `flags/mun/2607604.png` | Samhanin | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File:Flag_of_Ilha_de_Itamarac%C3%A1.svg) |
 | 2607653 | Itambé (PE) | `flags/mun/2607653.png` | não informado | Public domain | [Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Oficial_Itamb%C3%A9-PE.svg) |
 | 2607703 | Itapetim (PE) | `flags/mun/2607703.png` | Diogo Sergio | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Itapetim_PE_2014.svg) |
 | 2607752 | Itapissuma (PE) | `flags/mun/2607752.png` | RonneyDiniz | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File:Bandeira_oficial_de_Itapissuma.png) |
+| 2607802 | Itaquitinga (PE) | `flags/mun/2607802.png` | Prefeitura Municipal de Itaquitinga | Public domain | [Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Itaquitinga.png) |
 | 2607901 | Jaboatão dos Guararapes (PE) | `flags/mun/2607901.png` | Municipal Prefecture of Jaboatão dos Guararapes | Public domain | [Commons](https://commons.wikimedia.org/wiki/File:Bandeira_JaboataodosGuararapes_Pernambuco_Brasil.svg) |
 | 2607950 | Jaqueira (PE) | `flags/mun/2607950.png` | não informado | Public domain | [Commons](https://commons.wikimedia.org/wiki/File:Bandeira_jaqueira.png) |
+| 2608057 | Jatobá (PE) | `flags/mun/2608057.png` | Associação Municipalista de Pernambuco | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Jatob%C3%A1.png) |
 | 2608107 | João Alfredo (PE) | `flags/mun/2608107.png` | Prefeitura de João Alfredo | Public domain | [Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Jo%C3%A3o_Alfredo.gif) |
+| 2608206 | Joaquim Nabuco (PE) | `flags/mun/2608206.png` | Prefeitura Municipal de Joaquim Nabuco | Public domain | [Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Joaquim_Nabuco.jpg) |
+| 2608255 | Jucati (PE) | `flags/mun/2608255.png` | Associação Municipalista de Pernambuco | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Jucati,_PE.png) |
 | 2608305 | Jupi (PE) | `flags/mun/2608305.png` | Não Sei | [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) | [Commons](https://commons.wikimedia.org/wiki/File:Bandeiramunjupi.svg) |
 | 2608404 | Jurema (PE) | `flags/mun/2608404.png` | Jurema City Hall | Public domain | [Commons](https://commons.wikimedia.org/wiki/File:Bandeira-juremape.jpg) |
+| 2608453 | Lagoa do Carro (PE) | `flags/mun/2608453.png` | Associação Municipalista de Pernambuco | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Lagoa_do_Carro,_PE.png) |
+| 2608602 | Lagoa do Ouro (PE) | `flags/mun/2608602.png` | Associação Municipalista de Pernambuco | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Lagoa_do_Ouro,_PE.png) |
+| 2608701 | Lagoa dos Gatos (PE) | `flags/mun/2608701.png` | Associação Municipalista de Pernambuco | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Lagoa_dos_Gatos,_PE.png) |
+| 2608750 | Lagoa Grande (PE) | `flags/mun/2608750.png` | Associação Municipalista de Pernambuco | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Lagoa_Grande,_PE.png) |
 | 2608800 | Lajedo (PE) | `flags/mun/2608800.png` | Maviaelb | Public domain | [Commons](https://commons.wikimedia.org/wiki/File:Bandeira_lajedo.jpg) |
 | 2608909 | Limoeiro (PE) | `flags/mun/2608909.png` | Prefeitura Municipal de Limoeiro | Public domain | [Commons](https://commons.wikimedia.org/wiki/File:Bandeira_limoeiro_pe.jpg) |
+| 2609006 | Macaparana (PE) | `flags/mun/2609006.png` | Macaparana City Hall | Public domain | [Commons](https://commons.wikimedia.org/wiki/File:Bandeira-macaparana.png) |
+| 2609105 | Machados (PE) | `flags/mun/2609105.png` | Associação Municipalista de Pernambuco | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Machados,_PE.png) |
 | 2609154 | Manari (PE) | `flags/mun/2609154.png` | Wellber Drayton | Public domain | [Commons](https://commons.wikimedia.org/wiki/File:Bandeira_do_Manari.jpg) |
 | 2609204 | Maraial (PE) | `flags/mun/2609204.png` | Helenilton Lucena | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Maraial_-_Pe.jpg) |
 | 2609303 | Mirandiba (PE) | `flags/mun/2609303.png` | ver página de origem | Public domain | [Commons](https://commons.wikimedia.org/wiki/File:Bandeira_mirandiba.jpg) |
@@ -974,18 +1001,23 @@ Gerado por `tools/gerar.py`. A mesma informação está em `dados/bandeiras.json
 | 2609501 | Nazaré da Mata (PE) | `flags/mun/2609501.png` | BrunoMelo1995 | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Nazare_da_Mata.jpg) |
 | 2609600 | Olinda (PE) | `flags/mun/2609600.png` | Prefeitura de Olinda | Public domain | [Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Olinda.png) |
 | 2609709 | Orobó (PE) | `flags/mun/2609709.png` | ver página de origem | Public domain | [Commons](https://commons.wikimedia.org/wiki/File:Bandeira_orobo.gif) |
+| 2609808 | Orocó (PE) | `flags/mun/2609808.png` | Prefeitura Municipal de Orocó | Public domain | [Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Oroc%C3%B3.png) |
 | 2609907 | Ouricuri (PE) | `flags/mun/2609907.png` | Portalouricuri | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Ouricuri_PE.jpg) |
+| 2610004 | Palmares (PE) | `flags/mun/2610004.png` | Prefeitura de Palmares | Public domain | [Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Palmares.jpg) |
 | 2610103 | Palmeirina (PE) | `flags/mun/2610103.png` | autor desconhecido | Public domain | [Commons](https://commons.wikimedia.org/wiki/File:Bandeira_palmeirina.png) |
+| 2610202 | Panelas (PE) | `flags/mun/2610202.png` | Associação Municipalista de Pernambuco | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Panelas,_PE.png) |
 | 2610301 | Paranatama (PE) | `flags/mun/2610301.png` | Alisson Pereira | Public domain | [Commons](https://commons.wikimedia.org/wiki/File:Bandeira_do_munic%C3%ADpio_de_Paranatama.jpg) |
 | 2610400 | Parnamirim (PE) | `flags/mun/2610400.png` | Allanparna | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Parnamirim.jpg) |
 | 2610509 | Passira (PE) | `flags/mun/2610509.png` | Não identificado. Estabelecido por Lei Município. | [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/) | [Commons](https://commons.wikimedia.org/wiki/File:Bandeira_passira.png) |
 | 2610608 | Paudalho (PE) | `flags/mun/2610608.png` | Isak de Castro | Public domain | [Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Paudalho.jpg) |
 | 2610707 | Paulista (PE) | `flags/mun/2610707.png` | Prefeitura do Paulista | Public domain | [Commons](https://commons.wikimedia.org/wiki/File:BandeiraPaulistaPE.png) |
+| 2610806 | Pedra (PE) | `flags/mun/2610806.png` | Associação Municipalista de Pernambuco | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Pedra,_Pernambuco.png) |
 | 2610905 | Pesqueira (PE) | `flags/mun/2610905.png` | Pc-cavalcanti arcoverde | Public domain | [Commons](https://commons.wikimedia.org/wiki/File:Bandeira-pesqueira-pernambuco.jpg) |
 | 2611002 | Petrolândia (PE) | `flags/mun/2611002.png` | não informado | Public domain | [Commons](https://commons.wikimedia.org/wiki/File:Bandeira_petrolandia.jpg) |
 | 2611101 | Petrolina (PE) | `flags/mun/2611101.png` | Rodrigo Melo | Public domain | [Commons](https://commons.wikimedia.org/wiki/File:Bandeira_petrolina.svg) |
 | 2611200 | Poção (PE) | `flags/mun/2611200.png` | Roberval Mendes | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Commons](https://commons.wikimedia.org/wiki/File:Bandeirapocao.JPG) |
 | 2611309 | Pombos (PE) | `flags/mun/2611309.png` | Verônica Bernadete | Public domain | [Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Pombos_PE.jpg) |
+| 2611507 | Quipapá (PE) | `flags/mun/2611507.png` | Prefeitura Municipal de Quipapá | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Quipap%C3%A1.jpg) |
 | 2611533 | Quixaba (PE) | `flags/mun/2611533.png` | http://www.quixaba.pe.gov.br/ | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Quixaba_PE.gif) |
 | 2611606 | Recife (PE) | `flags/mun/2611606.png` | BrCaLeTo | Public domain | [Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Recife.svg) |
 | 2611705 | Riacho das Almas (PE) | `flags/mun/2611705.png` | Associação Municipalista de Pernambuco | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File:Riacho_das_Almas.png) |
@@ -994,6 +1026,9 @@ Gerado por `tools/gerar.py`. A mesma informação está em `dados/bandeiras.json
 | 2612000 | Sairé (PE) | `flags/mun/2612000.png` | Pmarcelopontes | [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/) | [Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Sair%C3%A9.jpg) |
 | 2612109 | Salgadinho (PE) | `flags/mun/2612109.png` | Prefeitura de Salgadinho, estado de Pernambuco (Brasil). | Public domain | [Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Munic%C3%ADpio_Salgadinho_Pernambuco.jpg) |
 | 2612208 | Salgueiro (PE) | `flags/mun/2612208.png` | José da Cunha Barros (Zé Pintor) | Public domain | [Commons](https://commons.wikimedia.org/wiki/File:Bandeira_salgueiro.png) |
+| 2612307 | Saloá (PE) | `flags/mun/2612307.png` | Associação Municipalista de Pernambuco | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Salo%C3%A1,_PE.png) |
+| 2612406 | Sanharó (PE) | `flags/mun/2612406.png` | Prefeitura Municipal de Sanharó | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Sanhar%C3%B3.png) |
+| 2612455 | Santa Cruz (PE) | `flags/mun/2612455.png` | Prefeitura Municipal de Santa Cruz PE | Public domain | [Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Santa_Cruz.jpg) |
 | 2612471 | Santa Cruz da Baixa Verde (PE) | `flags/mun/2612471.png` | Joaoaf2009 | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File:Bandeira_santa_cruz_da_baixa_verde.png) |
 | 2612505 | Santa Cruz do Capibaribe (PE) | `flags/mun/2612505.png` | Luiz Carlos | Public domain | [Commons](https://commons.wikimedia.org/wiki/File:Bandeira_scc.jpg) |
 | 2612554 | Santa Filomena (PE) | `flags/mun/2612554.png` | Município de Santa Filommena | Attribution | [Commons](https://commons.wikimedia.org/wiki/File:BANDEIRA-SANTA-FILOMENA-300x185.png) |
@@ -1003,25 +1038,40 @@ Gerado por `tools/gerar.py`. A mesma informação está em `dados/bandeiras.json
 | 2612901 | São Benedito do Sul (PE) | `flags/mun/2612901.png` | Rodriggo (talk) | Public domain | [Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_S%C3%A3o_Benedito_do_Sul_Pernambuco.jpg) |
 | 2613008 | São Bento do Una (PE) | `flags/mun/2613008.png` | CristianAlmeidaGEAPI | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_S%C3%A3o_Bento_do_Una-Pernambuco.jpg) |
 | 2613206 | São João (PE) | `flags/mun/2613206.png` | Associação Municipalista de Pernambuco | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_S%C3%A3o_Jo%C3%A3o,_PE.png) |
+| 2613305 | São Joaquim do Monte (PE) | `flags/mun/2613305.png` | Uhtred12 | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_S%C3%A3o_Joaquim_do_Monte,_PE.jpg) |
+| 2613404 | São José da Coroa Grande (PE) | `flags/mun/2613404.png` | Associação Municipalista de Pernambuco | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_S%C3%A3o_Jos%C3%A9_da_Coroa_Grande,_PE.png) |
+| 2613503 | São José do Belmonte (PE) | `flags/mun/2613503.png` | Associação Municipalista de Pernambuco | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_S%C3%A3o_Jos%C3%A9_do_Belmonte,_PE.png) |
 | 2613602 | São José do Egito (PE) | `flags/mun/2613602.png` | Vinnyamericanbrasil This entry is implausible, probably false: No proof that this user authored the work. | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Commons](https://commons.wikimedia.org/wiki/File:Bandeira_De_S%C3%A3o_Jos%C3%A9_Do_Egito.jpeg) |
 | 2613701 | São Lourenço da Mata (PE) | `flags/mun/2613701.png` | Clodoaldo Gomes de Araújo | Public domain | [Commons](https://commons.wikimedia.org/wiki/File:Bandeira_slm.jpg) |
+| 2613800 | São Vicente Férrer (PE) | `flags/mun/2613800.png` | Brankinho | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Commons](https://commons.wikimedia.org/wiki/File:BANDEIRA_S%C3%83O_VICENTE_F%C3%89RRER.JPG) |
 | 2613909 | Serra Talhada (PE) | `flags/mun/2613909.png` | não informado | Public domain | [Commons](https://commons.wikimedia.org/wiki/File:Bandeira_serra_talhada.PNG) |
 | 2614006 | Serrita (PE) | `flags/mun/2614006.png` | não informado | Public domain | [Commons](https://commons.wikimedia.org/wiki/File:Serrita.gif) |
 | 2614105 | Sertânia (PE) | `flags/mun/2614105.png` | autor desconhecido | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File:Bandeira_sertania.jpg) |
 | 2614204 | Sirinhaém (PE) | `flags/mun/2614204.png` | Municipality of Sirinhaém (uploaded by Felipe.igor) | Public domain | [Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Sirinha%C3%A9m.jpg) |
 | 2614303 | Moreilândia (PE) | `flags/mun/2614303.png` | Unknown | Public domain | [Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Moreil%C3%A2ndia.jpg) |
 | 2614402 | Solidão (PE) | `flags/mun/2614402.png` | CityBreakingDown | Public domain | [Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Solid%C3%A3o.svg) |
+| 2614501 | Surubim (PE) | `flags/mun/2614501.png` | Nascigl | Public domain | [Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Surubim.png) |
 | 2614600 | Tabira (PE) | `flags/mun/2614600.png` | Prefeitura Municipal de Tabira/PE | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File:Bandeira-de-Tabira-660x330.jpg) |
+| 2614709 | Tacaimbó (PE) | `flags/mun/2614709.png` | Associação Municipalista de Pernambuco | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Tacaimb%C3%B3,_PE.png) |
+| 2614808 | Tacaratu (PE) | `flags/mun/2614808.png` | Associação Municipalista de Pernambuco | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Tacaratu,_PE.png) |
+| 2614857 | Tamandaré (PE) | `flags/mun/2614857.png` | Associação Municipalista de Pernambuco | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Tamandar%C3%A9,_PE.png) |
+| 2615003 | Taquaritinga do Norte (PE) | `flags/mun/2615003.png` | Associação Municipalista de Pernambuco | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Taquaritinga_do_Norte,_PE.png) |
 | 2615102 | Terezinha (PE) | `flags/mun/2615102.png` | IrvingMaynard | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Terezinha.png) |
 | 2615201 | Terra Nova (PE) | `flags/mun/2615201.png` | autor desconhecido | Public domain | [Commons](https://commons.wikimedia.org/wiki/File:Bandeira_terranovaPE.jpg) |
 | 2615300 | Timbaúba (PE) | `flags/mun/2615300.png` | http://www.timbauba.pe.gov.br | Copyrighted free use | [Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Timba%C3%BAba_PE.jpg) |
+| 2615409 | Toritama (PE) | `flags/mun/2615409.png` | Jbs.jonatas | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Toritama_2000x1200.jpg) |
+| 2615508 | Tracunhaém (PE) | `flags/mun/2615508.png` | Associação Municipalista de Pernambuco | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Tracunha%C3%A9m,_PE.png) |
 | 2615607 | Trindade (PE) | `flags/mun/2615607.png` | município de Trindade | Public domain | [Commons](https://commons.wikimedia.org/wiki/File:Trindadepe.jpg) |
 | 2615706 | Triunfo (PE) | `flags/mun/2615706.png` | Valdy Ramos | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Triunfo_Pernambuco.png) |
 | 2615805 | Tupanatinga (PE) | `flags/mun/2615805.png` | Tupanatinga | Public domain | [Commons](https://commons.wikimedia.org/wiki/File:Bandeiradetupanatinga.jpg) |
 | 2615904 | Tuparetama (PE) | `flags/mun/2615904.png` | Joaoaf2009 | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Tuparetama,_PE.jpg) |
+| 2616001 | Venturosa (PE) | `flags/mun/2616001.png` | Associação Municipalista de Pernambuco | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Venturosa,_PE.png) |
+| 2616100 | Verdejante (PE) | `flags/mun/2616100.png` | Associação Municipalista de Pernambuco | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Verdejante,_PE.png) |
+| 2616183 | Vertente do Lério (PE) | `flags/mun/2616183.png` | Associação Municipalista de Pernambuco | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Vertente_do_L%C3%A9rio,_PE.png) |
 | 2616209 | Vertentes (PE) | `flags/mun/2616209.png` | Associação Municipalista de Pernambuco | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Vertentes,_PE.png) |
 | 2616308 | Vicência (PE) | `flags/mun/2616308.png` | Responsável pelo site oficial da cidade em www.vicencia.pe.gov.br | Public domain | [Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Vic%C3%AAncia.jpg) |
 | 2616407 | Vitória de Santo Antão (PE) | `flags/mun/2616407.png` | não informado | Public domain | [Commons](https://commons.wikimedia.org/wiki/File:Bandeira_vitoria_de_santo_antao.jpg) |
+| 2616506 | Xexéu (PE) | `flags/mun/2616506.png` | Prefeitura Municipal Xexéu | Public domain | [Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Xex%C3%A9u.png) |
 | 2700102 | Água Branca (AL) | `flags/mun/2700102.png` | Prefeitura Municipal | Public domain | [Commons](https://commons.wikimedia.org/wiki/File:Bandeira_%C3%81gua_Branca.png) |
 | 2700201 | Anadia (AL) | `flags/mun/2700201.png` | Prefeitura Municipal | Public domain | [Commons](https://commons.wikimedia.org/wiki/File:Bandeira_Anadia.png) |
 | 2700300 | Arapiraca (AL) | `flags/mun/2700300.png` | BrCaLeTo | Public domain | [Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Arapiraca_-_AL.svg) |

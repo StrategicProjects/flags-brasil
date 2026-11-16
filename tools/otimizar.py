@@ -19,6 +19,9 @@ import tempfile
 from concurrent.futures import ThreadPoolExecutor
 from pathlib import Path
 
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+from svgseguro import problema  # noqa: E402
+
 RAIZ = Path(__file__).resolve().parent.parent
 ORIG = RAIZ / "originais"
 SVGO = RAIZ / "node_modules" / ".bin" / "svgo"
@@ -39,9 +42,14 @@ def processa(dst: Path) -> tuple[str, str, int]:
         tmp, a, b = Path(t) / "o.svg", Path(t) / "a.png", Path(t) / "b.png"
         r = subprocess.run([str(SVGO), "--config", str(RAIZ / "svgo.config.mjs"), "-q",
                             "-i", str(src), "-o", str(tmp)], capture_output=True)
+        if problema(src.read_bytes()):  # fechado por padrão: nada do original é publicado
+            dst.unlink(missing_ok=True)
+            return dst.name, "RECUSADO: " + problema(src.read_bytes()), 0
         motivo = ""
         if r.returncode != 0 or not tmp.exists():
             motivo = "svgo falhou"
+        elif problema(tmp.read_bytes()):
+            motivo = "otimizado reprovado na conferência de segurança"
         elif not render(src, a):
             motivo = "original não renderiza no rsvg (mantido sem conferir)"
         elif not render(tmp, b):
@@ -59,7 +67,7 @@ def processa(dst: Path) -> tuple[str, str, int]:
             except (ValueError, IndexError):
                 motivo = "comparação falhou (tamanhos diferentes?)"
         if motivo:
-            shutil.copyfile(src, dst)  # o gerar.py já recusou originais com conteúdo ativo
+            shutil.copyfile(src, dst)  # o original já passou na conferência acima
             return dst.name, motivo, 0
         shutil.copyfile(tmp, dst)
         return dst.name, "", antes - dst.stat().st_size

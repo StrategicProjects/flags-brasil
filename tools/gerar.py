@@ -24,6 +24,7 @@ from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 from baixar import fontes, origens  # noqa: E402
+from svgseguro import problema  # noqa: E402
 
 RAIZ = Path(__file__).resolve().parent.parent
 FONTE = RAIZ / "dados" / "fonte"
@@ -47,10 +48,6 @@ BASE_CSS = """\
 .fbr.fbr-1x1 { width: 1em; background-size: cover; }
 .fbr.fbr-4x3 { width: 1.3333em; background-size: cover; }
 """
-
-
-# SVG de terceiros é servido no mesmo domínio do site: nada de conteúdo ativo.
-INSEGURO = re.compile(rb"<script|<foreignObject|<iframe|\son[a-z]+\s*=|javascript:", re.I)
 
 
 def url_http(u: str) -> str:
@@ -78,12 +75,16 @@ def destino(chave: str, ext: str) -> Path:
 
 def converte(par: tuple[Path, Path]) -> str | None:
     src, dst = par
-    if dst.exists() and dst.stat().st_mtime >= src.stat().st_mtime:
-        return None
     if src.suffix == ".svg":
-        if INSEGURO.search(src.read_bytes()):
-            return f"{src.name}: SVG com script, evento ou foreignObject; não publicado"
-        shutil.copyfile(src, dst)
+        # Fechado por padrão: confere sempre o original e o que já está publicado.
+        motivo = problema(src.read_bytes()) or (dst.exists() and problema(dst.read_bytes()))
+        if motivo:
+            dst.unlink(missing_ok=True)
+            return f"{src.name}: SVG recusado ({motivo}); não publicado"
+        if not (dst.exists() and dst.stat().st_mtime >= src.stat().st_mtime):
+            shutil.copyfile(src, dst)
+        return None
+    if dst.exists() and dst.stat().st_mtime >= src.stat().st_mtime:
         return None
     r = subprocess.run(
         ["magick", f"{src}[0]", "-auto-orient", "-strip", "-resize", f"{LARGURA}x>",
