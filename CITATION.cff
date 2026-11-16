@@ -1,0 +1,43 @@
+cff-version: 1.2.0
+message: "Se usar este acervo, cite-o como abaixo."
+type: dataset
+title: "flags-brasil: bandeiras do Brasil, dos estados e dos municípios"
+abstract: >-
+  Acervo aberto das bandeiras do Brasil, das 27 unidades da federação e dos
+  municípios brasileiros, nomeadas pela sigla da UF e pelo código do IBGE, em
+  SVG quando existe e em PNG quando não, com classes CSS, manifesto JSON e
+  autoria e licença de cada arquivo. As imagens vêm do Wikimedia Commons
+  (localizadas pelo Wikidata) e, em poucos casos, de sites de prefeituras; cada
+  uma mantém a licença do arquivo de origem.
+authors:
+  - family-names: Leite
+    given-names: André
+    orcid: "https://orcid.org/0000-0002-4718-9766"
+  - family-names: Wasiliew
+    given-names: Marcos
+    orcid: "https://orcid.org/0009-0004-4694-3159"
+  - family-names: Vasconcelos
+    given-names: Hugo
+    orcid: "https://orcid.org/0000-0001-6249-0920"
+  - family-names: Amorim
+    given-names: Carlos
+    orcid: "https://orcid.org/0000-0001-6315-8305"
+  - family-names: Bezerra
+    given-names: Diogo
+    orcid: "https://orcid.org/0000-0002-1216-8674"
+  - family-names: Nascimento Barreto
+    given-names: Júlia
+    orcid: "https://orcid.org/0009-0004-2851-7770"
+version: 0.1.0
+date-released: "2026-11-16"
+license: MIT
+repository-code: "https://github.com/StrategicProjects/flags-brasil"
+url: "https://strategicprojects.github.io/flags-brasil/"
+keywords:
+  - bandeiras
+  - Brasil
+  - municípios
+  - estados
+  - IBGE
+  - SVG
+  - flags

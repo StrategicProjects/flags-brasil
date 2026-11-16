@@ -159,6 +159,11 @@ foram reduzidas para até 500 px de largura e convertidas em PNG de 256 cores.
 O código (scripts, CSS e site) é [MIT](LICENSE). Bandeiras são símbolos oficiais;
 o uso de cada uma pode ser regulado por lei do respectivo ente.
 
+## Como citar
+
+Os dados de citação estão em [`CITATION.cff`](CITATION.cff); no GitHub, use o
+botão "Cite this repository".
+
 ## Cobertura e correções
 
 Nem todo município tem bandeira no Commons, e parte das que existem só está em
