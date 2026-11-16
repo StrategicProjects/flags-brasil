@@ -14,7 +14,7 @@ cobre: estados e municípios brasileiros.
 - Classes CSS no estilo do flag-icons, um manifesto JSON e créditos por arquivo.
 
 <!-- resumo:inicio -->
-Hoje: Brasil, 27 UFs e **4082 de 5571 municípios** (12 em SVG, 4070 em PNG).
+Hoje: Brasil, 27 UFs e **4083 de 5571 municípios** (22 em SVG, 4061 em PNG).
 
 <details><summary>Cobertura por UF</summary>
 
@@ -35,12 +35,12 @@ Hoje: Brasil, 27 UFs e **4082 de 5571 municípios** (12 em SVG, 4070 em PNG).
 | MT | 142 | 72 | 0 | 72 | 51% |
 | PA | 144 | 93 | 0 | 93 | 65% |
 | PB | 223 | 193 | 0 | 193 | 87% |
-| PE | 185 | 177 | 2 | 175 | 96% |
+| PE | 185 | 178 | 2 | 176 | 96% |
 | PI | 224 | 68 | 0 | 68 | 30% |
 | PR | 399 | 383 | 2 | 381 | 96% |
 | RJ | 92 | 92 | 0 | 92 | 100% |
 | RN | 167 | 117 | 0 | 117 | 70% |
-| RO | 52 | 41 | 5 | 36 | 79% |
+| RO | 52 | 41 | 15 | 26 | 79% |
 | RR | 15 | 15 | 0 | 15 | 100% |
 | RS | 497 | 413 | 0 | 413 | 83% |
 | SC | 295 | 273 | 2 | 271 | 93% |
@@ -116,6 +116,12 @@ localizadas pela propriedade *imagem da bandeira* (P41) do
 arquivo de origem.** A maioria está em domínio público; parte está sob Creative
 Commons (BY ou BY-SA) ou licenças equivalentes, que exigem atribuição e, no caso
 das BY-SA, compartilhamento pela mesma licença.
+
+Quando não há arquivo no Commons, a bandeira pode vir do **site da prefeitura**
+(`dados/fonte/externos.json`). Nesses casos `fonte.origem` diz "site da
+prefeitura", `fonte.pagina` aponta para a página consultada e a licença aparece
+como não declarada: a bandeira é símbolo oficial do município, mas o arquivo não
+traz licença explícita.
 
 - [`CREDITOS.md`](CREDITOS.md) lista autor, licença e página de origem de cada arquivo.
 - `dados/bandeiras.json` traz o mesmo em `fonte` (`autor`, `licenca`,

@@ -284,7 +284,7 @@ function abre(e) {
       <h3>Crédito</h3>
       <p class="credito">Autor: ${esc(f.autor)}. Licença:
         ${http(f.licenca_url) ? `<a rel="noopener noreferrer" href="${esc(http(f.licenca_url))}">${esc(f.licenca)}</a>` : esc(f.licenca)}.
-        Origem: ${http(f.pagina) ? `<a rel="noopener noreferrer" href="${esc(http(f.pagina))}">${esc(f.arquivo)}</a>` : esc(f.arquivo)} no Wikimedia Commons.</p>`;
+        Origem: ${http(f.pagina) ? `<a rel="noopener noreferrer" href="${esc(http(f.pagina))}">${esc(f.arquivo)}</a>` : esc(f.arquivo)}, ${esc(f.origem || 'Wikimedia Commons')}.</p>`;
   }
   $('#ficha').innerHTML = h;
   $('#dlg').showModal();

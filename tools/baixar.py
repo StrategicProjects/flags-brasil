@@ -321,12 +321,43 @@ def etapa_download(limite: int | None) -> None:
           "rode de novo para tentar os originais")
 
 
+def etapa_externos() -> None:
+    """Bandeiras fora do Commons (dados/fonte/externos.json): sites de prefeituras
+    e afins, incluídas a pedido, com a fonte registrada e sem licença declarada.
+    Só entram para municípios da lista do IBGE e de endereços https."""
+    arq = FONTE / "externos.json"
+    if not arq.exists():
+        return
+    ibge = json.loads((FONTE / "ibge.json").read_text())
+    validos = {str(m["codigo"]) for m in ibge["municipios"]}
+    ORIG.mkdir(exist_ok=True)
+    for k, e in json.loads(arq.read_text()).items():
+        ext = e["url"].split("?")[0].rsplit(".", 1)[-1].lower()
+        if (k not in validos or not e["url"].startswith("https://")
+                or ext not in ("png", "jpg", "jpeg", "gif", "webp")):  # SVG externo não entra
+            print(f"externo recusado: {k}", file=sys.stderr)
+            continue
+        if any(ORIG.glob(f"{k}.*")):
+            continue
+        try:
+            (ORIG / f"{k}.{ext}").write_bytes(baixa(e["url"]))
+            print(f"externo {k} {e['nome']}")
+        except Exception as x:
+            print(f"ERRO externo {k}: {x}", file=sys.stderr)
+        time.sleep(1)
+
+
 if __name__ == "__main__":
     ap = argparse.ArgumentParser()
     ap.add_argument("--so-metadados", action="store_true")
+    ap.add_argument("--so-externos", action="store_true")
     ap.add_argument("--limite", type=int)
     a = ap.parse_args()
+    if a.so_externos:
+        etapa_externos()
+        sys.exit()
     etapa_listas()
     etapa_commons()
+    etapa_externos()
     if not a.so_metadados:
         etapa_download(a.limite)

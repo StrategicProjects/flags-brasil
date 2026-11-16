@@ -97,6 +97,8 @@ def main() -> None:
     ibge = json.loads((FONTE / "ibge.json").read_text())
     wd = fontes()
     origem = origens()
+    arq_ext = FONTE / "externos.json"
+    externos = json.loads(arq_ext.read_text()) if arq_ext.exists() else {}
     meta = json.loads((FONTE / "commons.json").read_text())
     for d in (FLAGS / "uf", FLAGS / "mun", RAIZ / "css" / "uf"):
         d.mkdir(parents=True, exist_ok=True)
@@ -123,6 +125,16 @@ def main() -> None:
         if w and w.get("wikidata"):
             e["wikidata"] = w["wikidata"]
         arq = next((d for k in ("svg", "png") if (d := destino(chave, k)).exists()), None)
+        x = externos.get(chave)
+        if arq and x and not w:  # fonte fora do Commons
+            e["arquivo"] = arq.relative_to(RAIZ).as_posix()
+            e["formato"] = arq.suffix[1:]
+            e["fonte"] = {
+                "origem": x["origem"], "arquivo": x["url"].rsplit("/", 1)[-1],
+                "pagina": url_http(x["pagina"]), "autor": x["autor"],
+                "licenca": x["licenca"], "licenca_url": "",
+            }
+            return e
         if not (w and arq):
             e["arquivo"] = None
             return e
@@ -133,6 +145,7 @@ def main() -> None:
         if m.get("largura") and m.get("altura"):
             e["proporcao"] = round(m["largura"] / m["altura"], 4)
         e["fonte"] = {
+            "origem": "Wikimedia Commons",
             "arquivo": fonte,
             "pagina": url_http(m["pagina"]),
             "autor": limpa_autor(m["autor"]),
@@ -165,9 +178,12 @@ def main() -> None:
 
     linhas = [
         "# Créditos das bandeiras", "",
-        "Todas as imagens vêm do [Wikimedia Commons](https://commons.wikimedia.org/), "
-        "localizadas pela propriedade *imagem da bandeira* (P41) do Wikidata. Cada arquivo "
-        "mantém a licença indicada na sua página de origem; os SVG foram enxugados com svgo "
+        "Quase todas as imagens vêm do [Wikimedia Commons](https://commons.wikimedia.org/), "
+        "localizadas pela propriedade *imagem da bandeira* (P41) do Wikidata ou pelas "
+        "categorias de bandeiras municipais. Cada arquivo mantém a licença indicada na sua "
+        "página de origem. Algumas, sem arquivo no Commons, vêm do site da prefeitura: a "
+        "coluna Origem indica, e a licença aparece como não declarada (a bandeira é símbolo "
+        "oficial do município, mas o arquivo não traz licença); os SVG foram enxugados com svgo "
         "e os rasters reduzidos para até 500 px de largura e convertidos em PNG de 256 cores.", "",
         "Gerado por `tools/gerar.py`. A mesma informação está em `dados/bandeiras.json`.", "",
         "| Código | Local | Arquivo | Autor | Licença | Origem |", "|---|---|---|---|---|---|",
@@ -180,7 +196,7 @@ def main() -> None:
         lic = f'[{f["licenca"]}]({f["licenca_url"]})' if f["licenca_url"] else f["licenca"]
         local = e["nome"] + (f' ({e["uf"]})' if e["tipo"] == "municipio" else "")
         linhas.append(f'| {e["codigo"]} | {local} | `{e["arquivo"]}` | {autor} | {lic} '
-                      f'| [Commons]({f["pagina"]}) |')
+                      f'| [{f["origem"]}]({f["pagina"]}) |')
     (RAIZ / "CREDITOS.md").write_text("\n".join(linhas) + "\n")
 
     n = lambda t, f=None: sum(1 for e in com if e["tipo"] == t and (not f or e["formato"] == f))
