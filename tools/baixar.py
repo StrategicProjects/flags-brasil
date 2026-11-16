@@ -30,7 +30,7 @@ from pathlib import Path
 RAIZ = Path(__file__).resolve().parent.parent
 FONTE = RAIZ / "dados" / "fonte"
 ORIG = RAIZ / "originais"
-UA = "FlagCatalogBot/0.1 (open-source flag catalog; python-urllib)"
+UA = "flags-brasil/0.1 (https://github.com/StrategicProjects/flags-brasil)"
 PAUSA_ORIGINAL = 3.0  # s entre originais: em rajada o servidor responde 429 e depois bloqueia 10 min
 LARGURA_RASTER = 500  # degrau padrão de miniatura do Commons
 
