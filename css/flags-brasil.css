@@ -1,0 +1,42 @@
+/* flags-brasil — bandeiras do Brasil, dos estados e dos municípios.
+   Uso: <span class="fbr fbr-pe"></span> ou <span class="fbr fbr-2611606"></span>
+   Gerado por tools/gerar.py; não edite à mão. */
+.fbr {
+  display: inline-block;
+  width: 1.4286em; /* 10:7, a proporção da bandeira nacional */
+  height: 1em;
+  line-height: 1em;
+  vertical-align: -0.125em;
+  background: center / contain no-repeat;
+}
+.fbr::before { content: "\00a0"; }
+.fbr.fbr-1x1 { width: 1em; background-size: cover; }
+.fbr.fbr-4x3 { width: 1.3333em; background-size: cover; }
+.fbr-br{background-image:url(../flags/br.svg)}
+.fbr-ac{background-image:url(../flags/uf/ac.svg)}
+.fbr-al{background-image:url(../flags/uf/al.svg)}
+.fbr-am{background-image:url(../flags/uf/am.svg)}
+.fbr-ap{background-image:url(../flags/uf/ap.svg)}
+.fbr-ba{background-image:url(../flags/uf/ba.svg)}
+.fbr-ce{background-image:url(../flags/uf/ce.svg)}
+.fbr-df{background-image:url(../flags/uf/df.svg)}
+.fbr-es{background-image:url(../flags/uf/es.svg)}
+.fbr-go{background-image:url(../flags/uf/go.svg)}
+.fbr-ma{background-image:url(../flags/uf/ma.svg)}
+.fbr-mg{background-image:url(../flags/uf/mg.svg)}
+.fbr-ms{background-image:url(../flags/uf/ms.svg)}
+.fbr-mt{background-image:url(../flags/uf/mt.svg)}
+.fbr-pa{background-image:url(../flags/uf/pa.svg)}
+.fbr-pb{background-image:url(../flags/uf/pb.svg)}
+.fbr-pe{background-image:url(../flags/uf/pe.svg)}
+.fbr-pi{background-image:url(../flags/uf/pi.svg)}
+.fbr-pr{background-image:url(../flags/uf/pr.png)}
+.fbr-rj{background-image:url(../flags/uf/rj.svg)}
+.fbr-rn{background-image:url(../flags/uf/rn.svg)}
+.fbr-ro{background-image:url(../flags/uf/ro.svg)}
+.fbr-rr{background-image:url(../flags/uf/rr.svg)}
+.fbr-rs{background-image:url(../flags/uf/rs.png)}
+.fbr-sc{background-image:url(../flags/uf/sc.png)}
+.fbr-se{background-image:url(../flags/uf/se.svg)}
+.fbr-sp{background-image:url(../flags/uf/sp.svg)}
+.fbr-to{background-image:url(../flags/uf/to.svg)}

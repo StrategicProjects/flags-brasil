@@ -1,0 +1,333 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>flags-brasil — bandeiras dos estados e municípios do Brasil</title>
+<meta name="description" content="Bandeiras do Brasil, dos 27 estados e dos municípios, em SVG quando existe, prontas para usar por classe CSS ou URL.">
+<link rel="icon" href="flags/br.svg">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Archivo:wdth,wght@62..125,400..800&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="css/flags-brasil.css">
+<style>
+:root {
+  --fundo: #edf0ea;
+  --pano: #ffffff;
+  --tinta: #13233f;
+  --tinta-2: #55617a;
+  --linha: #cdd4cb;
+  --verde: #0a6b3a;
+  --amarelo: #f5c400;
+  --codigo: #13233f;
+  --codigo-tinta: #e9eef7;
+}
+@media (prefers-color-scheme: dark) {
+  :root {
+    --fundo: #101a2c; --pano: #1a2740; --tinta: #eef1f6; --tinta-2: #a3aec4;
+    --linha: #2c3b58; --verde: #58c98d; --codigo: #0a1220; --codigo-tinta: #dfe6f3;
+  }
+}
+* { box-sizing: border-box; }
+html { scroll-behavior: smooth; }
+body {
+  margin: 0; background: var(--fundo); color: var(--tinta);
+  font: 400 1rem/1.5 Archivo, system-ui, sans-serif;
+}
+a { color: var(--verde); text-underline-offset: .15em; }
+:focus-visible { outline: 3px solid var(--amarelo); outline-offset: 2px; }
+.largura { max-width: 78rem; margin: 0 auto; padding: 0 1.25rem; }
+
+header { padding: 3rem 0 1.5rem; }
+h1 {
+  margin: 0; font-size: clamp(2.6rem, 8vw, 5.5rem); line-height: .92;
+  font-weight: 800; font-stretch: 68%; letter-spacing: -.01em;
+}
+.lema { max-width: 44rem; margin: 1rem 0 0; font-size: 1.15rem; color: var(--tinta-2); }
+.lema strong { color: var(--tinta); font-weight: 600; }
+nav.topo { display: flex; gap: 1.25rem; margin-top: 1rem; flex-wrap: wrap; font-weight: 600; }
+
+/* Mastro: as 27 UFs são o filtro */
+.mastro {
+  display: grid; grid-template-columns: repeat(auto-fill, minmax(4.4rem, 1fr));
+  gap: .5rem .4rem; padding: 1.25rem 0; margin: 0; list-style: none;
+  border-block: 1px solid var(--linha);
+}
+.mastro button {
+  all: unset; box-sizing: border-box; cursor: pointer; width: 100%;
+  display: grid; justify-items: center; gap: .3rem; padding: .45rem .2rem .3rem;
+  border-bottom: 4px solid transparent; font-weight: 700; font-stretch: 80%; font-size: .85rem;
+}
+.mastro img { width: 100%; max-width: 3.6rem; aspect-ratio: 10/7; object-fit: contain; }
+.mastro button:hover { background: var(--pano); }
+.mastro button[aria-pressed=true] { background: var(--pano); border-bottom-color: var(--amarelo); }
+.mastro button:focus-visible { outline: 3px solid var(--amarelo); }
+
+.busca {
+  position: sticky; top: 0; z-index: 2; background: var(--fundo);
+  display: flex; flex-wrap: wrap; gap: .75rem 1.25rem; align-items: center; padding: .9rem 0;
+}
+.busca input[type=search] {
+  flex: 1 1 16rem; font: inherit; font-size: 1.1rem; padding: .65rem .9rem;
+  color: var(--tinta); background: var(--pano); border: 2px solid var(--tinta); border-radius: 0;
+}
+.busca label { display: inline-flex; gap: .4rem; align-items: center; color: var(--tinta-2); }
+.busca select { font: inherit; padding: .5rem; color: var(--tinta); background: var(--pano); border: 1px solid var(--linha); }
+#conta { margin-left: auto; font-variant-numeric: tabular-nums; color: var(--tinta-2); }
+
+.grade {
+  display: grid; grid-template-columns: repeat(auto-fill, minmax(8.5rem, 1fr));
+  gap: 1.5rem 1rem; padding: 1rem 0 3rem; margin: 0; list-style: none;
+}
+.grade button {
+  all: unset; box-sizing: border-box; cursor: pointer; width: 100%; display: block;
+}
+.grade button:focus-visible { outline: 3px solid var(--amarelo); outline-offset: 4px; }
+.grade .tela {
+  display: grid; place-items: center; height: 6.2rem; background: var(--pano); padding: .6rem;
+}
+.grade img { max-width: 100%; max-height: 5rem; outline: 1px solid rgb(0 0 0 / .12); }
+.grade button:hover .tela { box-shadow: inset 0 -4px var(--amarelo); }
+.grade .nome { display: block; margin-top: .4rem; font-weight: 600; line-height: 1.2; }
+.grade .meta { font-size: .8rem; color: var(--tinta-2); font-variant-numeric: tabular-nums; }
+.grade .sem .tela { background: none; border: 1px dashed var(--linha); color: var(--tinta-2); font-size: .8rem; }
+.vazio { padding: 2rem 0 4rem; color: var(--tinta-2); }
+
+dialog {
+  width: min(46rem, calc(100vw - 2rem)); max-height: calc(100vh - 2rem); padding: 0;
+  border: 2px solid var(--tinta); background: var(--fundo); color: var(--tinta);
+}
+dialog::backdrop { background: rgb(10 18 32 / .6); }
+.ficha { padding: 1.25rem 1.5rem 1.5rem; }
+.ficha .tela { clear: both; display: grid; place-items: center; background: var(--pano); padding: 1.25rem; }
+.ficha .tela img { max-width: 100%; max-height: 15rem; outline: 1px solid rgb(0 0 0 / .12); }
+.ficha h2 { margin: 1rem 0 0; font-size: 2rem; font-weight: 800; font-stretch: 75%; line-height: 1; }
+.ficha .meta { margin: .3rem 0 0; color: var(--tinta-2); }
+.ficha h3 { margin: 1.25rem 0 .3rem; font-size: .95rem; font-weight: 700; }
+.fechar { float: right; margin-bottom: .6rem; font: inherit; font-weight: 700; padding: .3rem .7rem; cursor: pointer;
+  background: none; color: var(--tinta); border: 1px solid var(--tinta); }
+.trecho { position: relative; }
+pre {
+  margin: 0; padding: .75rem 5.5rem .75rem .9rem; overflow-x: auto;
+  background: var(--codigo); color: var(--codigo-tinta);
+  font: .85rem/1.5 ui-monospace, SFMono-Regular, Menlo, monospace; white-space: pre-wrap; word-break: break-all;
+}
+.copiar {
+  position: absolute; top: .4rem; right: .4rem; font: inherit; font-size: .8rem; font-weight: 600;
+  padding: .25rem .6rem; cursor: pointer; background: var(--amarelo); color: #13233f; border: 0;
+}
+.credito { margin: .3rem 0 0; }
+
+section.uso { border-top: 1px solid var(--linha); padding: 2.5rem 0 1rem; }
+section.uso h2 { margin: 0 0 1rem; font-size: 2.2rem; font-weight: 800; font-stretch: 72%; }
+section.uso .colunas { display: grid; gap: 1.5rem 2.5rem; grid-template-columns: repeat(auto-fit, minmax(19rem, 1fr)); }
+section.uso h3 { margin: 0 0 .4rem; font-size: 1.05rem; }
+section.uso p { margin: .5rem 0; max-width: 38rem; }
+section.uso pre { padding-right: .9rem; }
+.demo { font-size: 2.2rem; display: flex; gap: .6rem; align-items: center; margin: .6rem 0; }
+code { font: .9em ui-monospace, SFMono-Regular, Menlo, monospace; }
+footer { padding: 2rem 0 3rem; color: var(--tinta-2); font-size: .92rem; }
+footer p { max-width: 46rem; }
+</style>
+</head>
+<body>
+<div class="largura">
+  <header>
+    <h1>Bandeiras do Brasil</h1>
+    <p class="lema">A bandeira nacional, as <strong>27 das unidades da federação</strong> e as de
+      <strong id="n-mun">milhares de</strong> municípios, com nomes de arquivo pelo código do IBGE.
+      SVG quando existe, PNG quando não. Escolha um estado ou procure uma cidade.</p>
+    <nav class="topo">
+      <a href="#uso">Como usar</a>
+      <a href="https://github.com/StrategicProjects/flags-brasil">Repositório no GitHub</a>
+      <a href="https://github.com/StrategicProjects/flags-brasil/blob/main/CREDITOS.md">Créditos e licenças</a>
+    </nav>
+  </header>
+
+  <ul class="mastro" id="mastro" aria-label="Filtrar por estado"></ul>
+
+  <div class="busca" role="search">
+    <input type="search" id="q" placeholder="Nome do município ou código do IBGE" aria-label="Buscar município" autocomplete="off">
+    <label>Mostrar
+      <select id="filtro">
+        <option value="com">com bandeira</option>
+        <option value="svg">só SVG</option>
+        <option value="sem">sem bandeira</option>
+        <option value="todos">todos</option>
+      </select>
+    </label>
+    <span id="conta" aria-live="polite"></span>
+  </div>
+
+  <ul class="grade" id="grade"></ul>
+  <p class="vazio" id="vazio" hidden></p>
+  <div id="sentinela"></div>
+
+  <section class="uso" id="uso">
+    <h2>Como usar</h2>
+    <div class="colunas">
+      <div>
+        <h3>Por classe CSS</h3>
+        <p>Carregue a folha de estilo e use a sigla da UF ou o código do IBGE do município. A bandeira acompanha o tamanho do texto.</p>
+        <pre>&lt;link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/StrategicProjects/flags-brasil@main/css/flags-brasil.css"&gt;
+&lt;!-- municípios de uma UF (ou css/municipios.css para todos) --&gt;
+&lt;link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/StrategicProjects/flags-brasil@main/css/uf/pe.css"&gt;
+
+&lt;span class="fbr fbr-br"&gt;&lt;/span&gt;
+&lt;span class="fbr fbr-pe"&gt;&lt;/span&gt;
+&lt;span class="fbr fbr-2611606"&gt;&lt;/span&gt;</pre>
+        <div class="demo"><span class="fbr fbr-br"></span><span class="fbr fbr-pe"></span><span class="fbr fbr-sp"></span><span class="fbr fbr-ba fbr-1x1"></span></div>
+        <p><code>fbr-1x1</code> e <code>fbr-4x3</code> recortam a bandeira num quadro fixo; sem elas a proporção original é mantida.</p>
+      </div>
+      <div>
+        <h3>Por URL</h3>
+        <p>Cada arquivo tem endereço estável. Para municípios consulte o formato no manifesto, porque nem todos têm SVG.</p>
+        <pre>flags/br.svg
+flags/uf/pe.svg
+flags/mun/2611606.svg   (ou .png)
+dados/bandeiras.json    nome, UF, arquivo, proporção, autor e licença</pre>
+        <h3 style="margin-top:1.25rem">Em R, Quarto e Markdown</h3>
+        <pre>![](https://strategicprojects.github.io/flags-brasil/flags/uf/pe.svg){height=1em}
+
+b &lt;- jsonlite::fromJSON("https://strategicprojects.github.io/flags-brasil/dados/bandeiras.json")</pre>
+      </div>
+    </div>
+  </section>
+
+  <footer>
+    <p>As imagens vêm do Wikimedia Commons, localizadas pelo Wikidata, e cada uma mantém a licença
+      do arquivo de origem (a maioria em domínio público; parte em Creative Commons, que pede
+      atribuição). Autor e licença aparecem ao abrir cada bandeira e estão reunidos em
+      <a href="https://github.com/StrategicProjects/flags-brasil/blob/main/CREDITOS.md">CREDITOS.md</a>.
+      O código deste projeto é MIT. Faltou uma bandeira ou há uma errada? O caminho é corrigir no
+      Wikidata ou <a href="https://github.com/StrategicProjects/flags-brasil/issues">abrir uma issue</a>.</p>
+  </footer>
+</div>
+
+<dialog id="dlg" aria-labelledby="dlg-nome"><div class="ficha" id="ficha"></div></dialog>
+
+<script>
+const SITE = 'https://strategicprojects.github.io/flags-brasil/';
+const $ = (s) => document.querySelector(s);
+const norm = (s) => s.normalize('NFD').replace(/[̀-ͯ]/g, '').toLowerCase();
+const esc = (s) => String(s).replace(/[&<>"]/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]));
+const LOTE = 150;
+let itens = [], porCodigo = new Map(), visiveis = [], pintados = 0;
+const estado = { uf: null, q: '', filtro: 'com' };
+
+function filtra() {
+  const q = norm(estado.q.trim());
+  visiveis = itens.filter((e) => {
+    if (e.tipo !== 'municipio') return !estado.uf && !q && estado.filtro !== 'sem' && e.tipo === 'pais';
+    if (estado.uf && e.uf !== estado.uf) return false;
+    if (estado.filtro === 'com' && !e.arquivo) return false;
+    if (estado.filtro === 'svg' && e.formato !== 'svg') return false;
+    if (estado.filtro === 'sem' && e.arquivo) return false;
+    return !q || e._n.includes(q) || e.codigo.startsWith(q);
+  });
+  $('#grade').replaceChildren();
+  pintados = 0;
+  const n = visiveis.filter((e) => e.tipo === 'municipio').length;
+  $('#conta').textContent = n.toLocaleString('pt-BR') + (n === 1 ? ' município' : ' municípios')
+    + (estado.uf ? ' em ' + estado.uf : '');
+  const vazio = $('#vazio');
+  vazio.hidden = visiveis.length > 0;
+  if (!visiveis.length) {
+    vazio.textContent = estado.filtro === 'sem'
+      ? 'Nenhum município sem bandeira nesta seleção.'
+      : 'Nenhuma bandeira para essa busca. Tente outro nome, limpe o estado selecionado ou mude "Mostrar" para "todos".';
+  }
+  pinta();
+}
+
+function pinta() {
+  const frag = document.createDocumentFragment();
+  for (const e of visiveis.slice(pintados, pintados + LOTE)) {
+    const li = document.createElement('li');
+    const tela = e.arquivo
+      ? `<span class="tela"><img loading="lazy" src="${esc(e.arquivo)}" alt=""></span>`
+      : '<span class="tela">sem bandeira</span>';
+    li.innerHTML = `<button type="button" data-c="${e.codigo}" class="${e.arquivo ? '' : 'sem'}">${tela}
+      <span class="nome">${esc(e.nome)}</span>
+      <span class="meta">${e.uf ? e.uf + ' ' : ''}${e.tipo === 'municipio' ? e.codigo : ''}${e.formato ? ' ' + e.formato.toUpperCase() : ''}</span></button>`;
+    frag.append(li);
+  }
+  pintados = Math.min(pintados + LOTE, visiveis.length);
+  $('#grade').append(frag);
+}
+
+function trecho(titulo, codigo) {
+  return `<h3>${titulo}</h3><div class="trecho"><pre>${esc(codigo)}</pre>
+    <button type="button" class="copiar" data-t="${esc(codigo)}">Copiar</button></div>`;
+}
+
+function abre(e) {
+  const local = e.tipo === 'municipio' ? `Município de ${e.uf}, código IBGE ${e.codigo}`
+    : e.tipo === 'uf' ? `Unidade da federação, sigla ${e.uf}` : 'País';
+  let h = `<button type="button" class="fechar" data-fechar>Fechar</button>`;
+  if (!e.arquivo) {
+    h += `<h2 id="dlg-nome">${esc(e.nome)}</h2><p class="meta">${local}</p>
+      <p>Ainda não há bandeira deste município no acervo: o Wikidata não aponta um arquivo de bandeira
+      para ele. ${e.wikidata ? `Se ela existir no Wikimedia Commons, preencha "imagem da bandeira" em
+      <a href="https://www.wikidata.org/wiki/${e.wikidata}">${e.wikidata}</a> e ela entra na próxima atualização.` : ''}</p>`;
+  } else {
+    const f = e.fonte;
+    const css = e.tipo === 'municipio' ? `css/uf/${e.uf.toLowerCase()}.css` : 'css/flags-brasil.css';
+    h += `<div class="tela"><img src="${esc(e.arquivo)}" alt="Bandeira de ${esc(e.nome)}"></div>
+      <h2 id="dlg-nome">${esc(e.nome)}</h2>
+      <p class="meta">${local}. Arquivo ${e.formato.toUpperCase()}${e.proporcao ? ', proporção ' + e.proporcao.toLocaleString('pt-BR') + ':1' : ''}.
+        <a href="${esc(e.arquivo)}" download>Baixar</a></p>
+      ${trecho('Classe CSS (com ' + css + ')', `<span class="fbr fbr-${e.codigo}"></span>`)}
+      ${trecho('Imagem', `<img src="${SITE}${e.arquivo}" alt="Bandeira de ${e.nome}" height="24">`)}
+      ${trecho('Markdown e Quarto', `![Bandeira de ${e.nome}](${SITE}${e.arquivo})`)}
+      <h3>Crédito</h3>
+      <p class="credito">Autor: ${esc(f.autor)}. Licença:
+        ${f.licenca_url ? `<a href="${esc(f.licenca_url)}">${esc(f.licenca)}</a>` : esc(f.licenca)}.
+        Origem: <a href="${esc(f.pagina)}">${esc(f.arquivo)}</a> no Wikimedia Commons.</p>`;
+  }
+  $('#ficha').innerHTML = h;
+  $('#dlg').showModal();
+}
+
+$('#dlg').addEventListener('click', async (ev) => {
+  if (ev.target === ev.currentTarget || ev.target.closest('[data-fechar]')) return $('#dlg').close();
+  const b = ev.target.closest('.copiar');
+  if (b) {
+    try { await navigator.clipboard.writeText(b.dataset.t); b.textContent = 'Copiado'; }
+    catch { b.textContent = 'Selecione e copie'; }
+    setTimeout(() => (b.textContent = 'Copiar'), 1500);
+  }
+});
+$('#grade').addEventListener('click', (ev) => {
+  const b = ev.target.closest('button[data-c]');
+  if (b) abre(porCodigo.get(b.dataset.c));
+});
+$('#mastro').addEventListener('click', (ev) => {
+  const b = ev.target.closest('button');
+  if (!b) return;
+  if (ev.detail === 2 || ev.shiftKey) return abre(porCodigo.get(b.dataset.uf.toLowerCase()));
+  estado.uf = estado.uf === b.dataset.uf ? null : b.dataset.uf;
+  for (const x of $('#mastro').querySelectorAll('button')) x.setAttribute('aria-pressed', x.dataset.uf === estado.uf);
+  filtra();
+});
+$('#q').addEventListener('input', (ev) => { estado.q = ev.target.value; filtra(); });
+$('#filtro').addEventListener('change', (ev) => { estado.filtro = ev.target.value; filtra(); });
+new IntersectionObserver((es) => { if (es[0].isIntersecting && pintados < visiveis.length) pinta(); },
+  { rootMargin: '800px' }).observe($('#sentinela'));
+
+fetch('dados/bandeiras.json').then((r) => r.json()).then((d) => {
+  itens = d;
+  for (const e of d) { e._n = norm(e.nome); porCodigo.set(e.codigo, e); }
+  const com = d.filter((e) => e.tipo === 'municipio' && e.arquivo).length;
+  $('#n-mun').textContent = com.toLocaleString('pt-BR') + ' dos ' + d.filter((e) => e.tipo === 'municipio').length.toLocaleString('pt-BR');
+  $('#mastro').innerHTML = d.filter((e) => e.tipo === 'uf').map((e) =>
+    `<li><button type="button" data-uf="${e.uf}" aria-pressed="false" title="${esc(e.nome)} (Shift+clique abre a bandeira do estado)">
+      <img src="${esc(e.arquivo)}" alt="">${e.uf}</button></li>`).join('');
+  filtra();
+}).catch(() => {
+  $('#vazio').hidden = false;
+  $('#vazio').textContent = 'Não foi possível carregar dados/bandeiras.json. Abra o site por um servidor (python3 -m http.server), não direto do arquivo.';
+});
+</script>
+</body>
+</html>
