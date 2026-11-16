@@ -1,18 +1,42 @@
 {
   "name": "flags-brasil",
   "version": "0.1.0",
-  "description": "Bandeiras do Brasil, dos estados e dos municípios em SVG (PNG quando não há vetor), com classes CSS e manifesto por código do IBGE.",
-  "keywords": ["bandeiras", "brasil", "flags", "svg", "ibge", "municipios", "estados", "css"],
+  "description": "Bandeiras do Brasil e das 27 unidades da federação em SVG, com classes CSS e manifesto por código do IBGE. Municípios no pacote flags-brasil-municipios.",
+  "keywords": [
+    "bandeiras",
+    "brasil",
+    "flags",
+    "svg",
+    "ibge",
+    "municipios",
+    "estados",
+    "css"
+  ],
   "homepage": "https://strategicprojects.github.io/flags-brasil/",
-  "repository": { "type": "git", "url": "git+https://github.com/StrategicProjects/flags-brasil.git" },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/StrategicProjects/flags-brasil.git"
+  },
   "license": "MIT",
   "style": "css/flags-brasil.css",
-  "files": ["flags", "css", "dados/bandeiras.json", "CREDITOS.md"],
+  "files": [
+    "flags/br.svg",
+    "flags/uf",
+    "css/flags-brasil.css",
+    "dados/bandeiras.json",
+    "CREDITOS.md"
+  ],
   "scripts": {
     "baixar": "python3 tools/baixar.py",
     "gerar": "python3 tools/gerar.py",
     "otimizar": "python3 tools/otimizar.py",
-    "site": "python3 -m http.server 8377"
+    "site": "python3 -m http.server 8377",
+    "empacotar": "python3 tools/empacotar.py"
   },
-  "devDependencies": { "svgo": "^4.0.0" }
+  "devDependencies": {
+    "svgo": "^4.0.0"
+  },
+  "bugs": {
+    "url": "https://github.com/StrategicProjects/flags-brasil/issues"
+  }
 }

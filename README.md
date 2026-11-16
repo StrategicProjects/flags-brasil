@@ -116,8 +116,20 @@ paste0(base, b$arquivo[b$codigo == "2611606"])
 
 Em Quarto/Markdown: `![](https://strategicprojects.github.io/flags-brasil/flags/uf/pe.svg){height=1em}`.
 
-Para instalar como dependência sem publicar no npm:
-`pnpm add github:StrategicProjects/flags-brasil`.
+## Pelo npm
+
+```sh
+npm install flags-brasil                 # Brasil, UFs, CSS base e manifesto (~1,5 MB)
+npm install flags-brasil-municipios      # municípios, CSS por UF e SVG vetorizados
+```
+
+```js
+import 'flags-brasil/css/flags-brasil.css';
+import 'flags-brasil-municipios/css/uf/pe.css';
+```
+
+Os caminhos dentro dos pacotes são os mesmos deste repositório. Pelo CDN:
+`https://cdn.jsdelivr.net/npm/flags-brasil/css/flags-brasil.css`.
 
 ## Créditos e licenças
 
