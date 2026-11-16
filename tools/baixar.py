@@ -112,6 +112,37 @@ def etapa_listas() -> None:
         wd.write_text(json.dumps(dict(sorted(saida.items())), ensure_ascii=False, indent=1))
 
 
+def fontes() -> dict:
+    """Wikidata + dados/fonte/complementos.json (curadoria manual: bandeiras que
+    estão no Commons mas não no Wikidata, ou SVG melhor que o raster apontado).
+    O complemento tem precedência."""
+    wd = json.loads((FONTE / "wikidata.json").read_text())
+    comp = FONTE / "complementos.json"
+    if comp.exists():
+        for k, c in json.loads(comp.read_text()).items():
+            e = wd.setdefault(k, {"arquivos": []})
+            e["arquivos"] = [c["arquivo"]] + [f for f in e["arquivos"] if f != c["arquivo"]]
+            e["origem"] = c.get("origem", "categoria do Wikimedia Commons")
+    # As chaves viram nome de arquivo: só passam "br", as siglas das UFs e os
+    # códigos de município da lista do IBGE (o Wikidata é editável por qualquer um).
+    ibge = json.loads((FONTE / "ibge.json").read_text())
+    validas = ({"br"} | {u["sigla"].lower() for u in ibge["ufs"]}
+               | {str(m["codigo"]) for m in ibge["municipios"]})
+    return {k: e for k, e in wd.items()
+            if k in validas and re.fullmatch(r"[a-z]{2}|\d{7}", k) and e["arquivos"]}
+
+
+def origens() -> dict:
+    """De qual arquivo do Commons veio cada original em disco. O que foi baixado
+    antes de existir originais/_origem.json veio do primeiro arquivo do Wikidata."""
+    wd = json.loads((FONTE / "wikidata.json").read_text())
+    o = {k: e["arquivos"][0] for k, e in wd.items()}
+    arq = ORIG / "_origem.json"
+    if arq.exists():
+        o.update(json.loads(arq.read_text()))
+    return o
+
+
 def limpa(s: str | None) -> str:
     if not s:
         return ""
@@ -120,7 +151,7 @@ def limpa(s: str | None) -> str:
 
 
 def etapa_commons() -> dict:
-    wd = json.loads((FONTE / "wikidata.json").read_text())
+    wd = fontes()
     arq = FONTE / "commons.json"
     meta = json.loads(arq.read_text()) if arq.exists() else {}
     falta = sorted({e["arquivos"][0] for e in wd.values()} - set(meta))
@@ -213,31 +244,41 @@ def etapa_download(limite: int | None) -> None:
     miniatura como provisória (anotada em originais/_provisorios.json) e o
     original fica para uma próxima execução. O limite é respeitado: depois de
     um 429 os originais só voltam a ser pedidos passado o prazo."""
-    wd = json.loads((FONTE / "wikidata.json").read_text())
+    wd = fontes()
     meta = json.loads((FONTE / "commons.json").read_text())
     ORIG.mkdir(exist_ok=True)
     arq_prov = ORIG / "_provisorios.json"
     prov = set(json.loads(arq_prov.read_text())) if arq_prov.exists() else set()
     stems = {p.stem for p in ORIG.iterdir() if not p.name.startswith("_")}
+    origem = origens()
+    arq_origem = ORIG / "_origem.json"
     fila = []
     for k, e in wd.items():
         m = meta.get(e["arquivos"][0]) or {}
         if m.get("ausente") or not m.get("url") or m["mime"] == "application/pdf":
             continue
-        if k in stems and k not in prov:
-            continue
         svg = m["mime"] == "image/svg+xml"
+        trocar = k in stems and origem.get(k) != e["arquivos"][0]  # a fonte mudou
+        if k in stems and k not in prov and not trocar:
+            continue
+        if trocar:
+            stems.discard(k)
+            prov.discard(k)
         quer_original = svg or (m.get("largura") or 0) <= LARGURA_RASTER
         fila.append((k.isdigit(), k in prov, quer_original, k, m))
     fila.sort(key=lambda t: t[:4])  # UFs; depois o que falta; por último os provisórios
     if limite:
         fila = fila[:limite]
     liberado_em = 0.0
+    pausa = PAUSA_ORIGINAL
 
     def grava(chave: str, ext: str, dados: bytes) -> None:
+        if not re.fullmatch(r"[a-z]{2}|\d{7}", chave) or not re.fullmatch(r"[a-z0-9]{2,5}", ext):
+            raise RuntimeError(f"nome de arquivo recusado: {chave}.{ext}")
         for p in ORIG.glob(f"{chave}.*"):
             p.unlink()
         (ORIG / f"{chave}.{ext}").write_bytes(dados)
+        origem[chave] = wd[chave]["arquivos"][0]
 
     for n, (_, _, quer_original, chave, m) in enumerate(fila, 1):
         mini = miniatura(m)
@@ -247,6 +288,9 @@ def etapa_download(limite: int | None) -> None:
                 grava(chave, mini[1], baixa_mini(mini[0]))
             else:
                 ok = False
+                if chave in stems and time.time() < liberado_em:
+                    # já há um provisório: só resta esperar o servidor liberar
+                    time.sleep(liberado_em - time.time() + 1)
                 if time.time() >= liberado_em:
                     try:
                         dados = baixa(m["url"])
@@ -255,21 +299,24 @@ def etapa_download(limite: int | None) -> None:
                         grava(chave, ext_orig, dados)
                         prov.discard(chave)
                         ok = True
-                        time.sleep(PAUSA_ORIGINAL)
+                        time.sleep(pausa)
                     except Limitado as e:
                         liberado_em = time.time() + max(e.espera, 90)
-                        print(f"  originais limitados por {e.espera}s",
+                        pausa = min(pausa * 1.5, 30)  # foi rápido demais: desacelera
+                        print(f"  originais limitados por {e.espera}s; pausa {pausa:.1f}s",
                               file=sys.stderr, flush=True)
-                if not ok and chave not in stems and mini:
+                if not ok and chave not in stems and mini:  # só se não houver nada
                     grava(chave, mini[1], baixa_mini(mini[0]))
                     prov.add(chave)
         except Exception as e:
             print(f"ERRO {chave}: {e}", file=sys.stderr, flush=True)
         if n % 100 == 0 or n == len(fila):
             arq_prov.write_text(json.dumps(sorted(prov)))
+            arq_origem.write_text(json.dumps(origem, ensure_ascii=False, indent=0))
             print(f"download {n}/{len(fila)} (provisórios: {len(prov)})", flush=True)
         time.sleep(0.3)
     arq_prov.write_text(json.dumps(sorted(prov)))
+    arq_origem.write_text(json.dumps(origem, ensure_ascii=False, indent=0))
     print(f"provisórios (miniatura no lugar do original): {len(prov)}; "
           "rode de novo para tentar os originais")
 

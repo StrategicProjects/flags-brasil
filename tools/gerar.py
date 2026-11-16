@@ -22,6 +22,9 @@ import sys
 from concurrent.futures import ThreadPoolExecutor
 from pathlib import Path
 
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+from baixar import fontes, origens  # noqa: E402
+
 RAIZ = Path(__file__).resolve().parent.parent
 FONTE = RAIZ / "dados" / "fonte"
 ORIG = RAIZ / "originais"
@@ -44,6 +47,14 @@ BASE_CSS = """\
 .fbr.fbr-1x1 { width: 1em; background-size: cover; }
 .fbr.fbr-4x3 { width: 1.3333em; background-size: cover; }
 """
+
+
+# SVG de terceiros é servido no mesmo domínio do site: nada de conteúdo ativo.
+INSEGURO = re.compile(rb"<script|<foreignObject|<iframe|\son[a-z]+\s*=|javascript:", re.I)
+
+
+def url_http(u: str) -> str:
+    return u if u.startswith(("https://", "http://")) else ""
 
 
 def limpa_autor(a: str) -> str:
@@ -70,6 +81,8 @@ def converte(par: tuple[Path, Path]) -> str | None:
     if dst.exists() and dst.stat().st_mtime >= src.stat().st_mtime:
         return None
     if src.suffix == ".svg":
+        if INSEGURO.search(src.read_bytes()):
+            return f"{src.name}: SVG com script, evento ou foreignObject; não publicado"
         shutil.copyfile(src, dst)
         return None
     r = subprocess.run(
@@ -81,7 +94,8 @@ def converte(par: tuple[Path, Path]) -> str | None:
 
 def main() -> None:
     ibge = json.loads((FONTE / "ibge.json").read_text())
-    wd = json.loads((FONTE / "wikidata.json").read_text())
+    wd = fontes()
+    origem = origens()
     meta = json.loads((FONTE / "commons.json").read_text())
     for d in (FLAGS / "uf", FLAGS / "mun", RAIZ / "css" / "uf"):
         d.mkdir(parents=True, exist_ok=True)
@@ -105,23 +119,24 @@ def main() -> None:
         if uf:
             e["uf"] = uf
         w = wd.get(chave)
-        if w:
+        if w and w.get("wikidata"):
             e["wikidata"] = w["wikidata"]
         arq = next((d for k in ("svg", "png") if (d := destino(chave, k)).exists()), None)
         if not (w and arq):
             e["arquivo"] = None
             return e
-        m = meta[w["arquivos"][0]]
+        fonte = origem.get(chave, w["arquivos"][0])  # o arquivo que está em disco
+        m = meta[fonte]
         e["arquivo"] = arq.relative_to(RAIZ).as_posix()
         e["formato"] = arq.suffix[1:]
         if m.get("largura") and m.get("altura"):
             e["proporcao"] = round(m["largura"] / m["altura"], 4)
         e["fonte"] = {
-            "arquivo": w["arquivos"][0],
-            "pagina": m["pagina"],
+            "arquivo": fonte,
+            "pagina": url_http(m["pagina"]),
             "autor": limpa_autor(m["autor"]),
             "licenca": m["licenca"] or "ver página do arquivo",
-            "licenca_url": m["licenca_url"],
+            "licenca_url": url_http(m["licenca_url"]),
         }
         return e
 

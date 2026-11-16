@@ -8,5 +8,6 @@ export default {
       params: { overrides: { cleanupIds: false } },
     },
     'removeDimensions',
+    'removeScripts', // <script>, on*="" e href javascript:
   ],
 };

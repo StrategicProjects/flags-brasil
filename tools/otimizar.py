@@ -59,7 +59,7 @@ def processa(dst: Path) -> tuple[str, str, int]:
             except (ValueError, IndexError):
                 motivo = "comparação falhou (tamanhos diferentes?)"
         if motivo:
-            shutil.copyfile(src, dst)
+            shutil.copyfile(src, dst)  # o gerar.py já recusou originais com conteúdo ativo
             return dst.name, motivo, 0
         shutil.copyfile(tmp, dst)
         return dst.name, "", antes - dst.stat().st_size

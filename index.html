@@ -211,6 +211,7 @@ const SITE = 'https://strategicprojects.github.io/flags-brasil/';
 const $ = (s) => document.querySelector(s);
 const norm = (s) => s.normalize('NFD').replace(/[̀-ͯ]/g, '').toLowerCase();
 const esc = (s) => String(s).replace(/[&<>"]/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]));
+const http = (u) => { try { return /^https?:$/.test(new URL(u).protocol) ? u : ''; } catch { return ''; } };
 const LOTE = 150;
 let itens = [], porCodigo = new Map(), visiveis = [], pintados = 0;
 const estado = { uf: null, q: '', filtro: 'com' };
@@ -269,7 +270,7 @@ function abre(e) {
     h += `<h2 id="dlg-nome">${esc(e.nome)}</h2><p class="meta">${local}</p>
       <p>Ainda não há bandeira deste município no acervo: o Wikidata não aponta um arquivo de bandeira
       para ele. ${e.wikidata ? `Se ela existir no Wikimedia Commons, preencha "imagem da bandeira" em
-      <a href="https://www.wikidata.org/wiki/${e.wikidata}">${e.wikidata}</a> e ela entra na próxima atualização.` : ''}</p>`;
+      <a href="https://www.wikidata.org/wiki/${encodeURIComponent(e.wikidata)}">${esc(e.wikidata)}</a> e ela entra na próxima atualização.` : ''}</p>`;
   } else {
     const f = e.fonte;
     const css = e.tipo === 'municipio' ? `css/uf/${e.uf.toLowerCase()}.css` : 'css/flags-brasil.css';
@@ -282,8 +283,8 @@ function abre(e) {
       ${trecho('Markdown e Quarto', `![Bandeira de ${e.nome}](${SITE}${e.arquivo})`)}
       <h3>Crédito</h3>
       <p class="credito">Autor: ${esc(f.autor)}. Licença:
-        ${f.licenca_url ? `<a href="${esc(f.licenca_url)}">${esc(f.licenca)}</a>` : esc(f.licenca)}.
-        Origem: <a href="${esc(f.pagina)}">${esc(f.arquivo)}</a> no Wikimedia Commons.</p>`;
+        ${http(f.licenca_url) ? `<a rel="noopener noreferrer" href="${esc(http(f.licenca_url))}">${esc(f.licenca)}</a>` : esc(f.licenca)}.
+        Origem: ${http(f.pagina) ? `<a rel="noopener noreferrer" href="${esc(http(f.pagina))}">${esc(f.arquivo)}</a>` : esc(f.arquivo)} no Wikimedia Commons.</p>`;
   }
   $('#ficha').innerHTML = h;
   $('#dlg').showModal();
