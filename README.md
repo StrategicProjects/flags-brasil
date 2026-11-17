@@ -12,9 +12,10 @@ cobre: estados e municípios brasileiros.
 - SVG quando existe um vetor no Wikimedia Commons; PNG de até 500 px de largura
   quando só há imagem raster.
 - Classes CSS no estilo do flag-icons, um manifesto JSON e créditos por arquivo.
+- Brasões em SVG do Brasil, das UFs e de parte dos municípios, em `brasoes/`.
 
 <!-- resumo:inicio -->
-Hoje: Brasil, 27 UFs e **4085 de 5571 municípios** (603 em SVG, 3482 em PNG, dos quais 753 também com SVG vetorizado automaticamente).
+Hoje: Brasil, 27 UFs e **4085 de 5571 municípios** (603 em SVG, 3482 em PNG, dos quais 753 também com SVG vetorizado automaticamente). Brasões: Brasil, 27 UFs e 404 municípios (314 em SVG).
 
 <details><summary>Cobertura por UF</summary>
 
@@ -116,6 +117,40 @@ paste0(base, b$arquivo[b$codigo == "2611606"])
 
 Em Quarto/Markdown: `![](https://strategicprojects.github.io/flags-brasil/flags/uf/pe.svg){height=1em}`.
 
+## Brasões
+
+Além das bandeiras, o acervo traz os brasões que existem em SVG no Wikimedia
+Commons (propriedade *imagem do brasão*, P94, do Wikidata): o do Brasil, os das
+27 UFs e os de parte dos municípios. Brasão que só existe em JPG ou PNG no
+Commons ainda não entra. Brasão municipal cujo SVG passa de 300 KB depois do
+svgo, ou que é só uma imagem raster embrulhada em SVG, é publicado em PNG de até
+500 px, assim como o que não passa na conferência de segurança. Arquivo que o
+Wikidata aponta como brasão e não é (logotipo de prefeitura, por exemplo) sai
+pela lista `dados/fonte/brasoes_excluidos.json`.
+
+| Caminho | Conteúdo |
+|---|---|
+| `brasoes/br.svg` | brasão nacional |
+| `brasoes/uf/<sigla>.svg` | unidade da federação |
+| `brasoes/mun/<codigo>.svg` ou `.png` | município, código do IBGE |
+| `css/brasoes.css` | classes `.bbr-br` e `.bbr-<sigla>` |
+| `css/brasoes-municipios.css` | classes `.bbr-<codigo>`; carregue junto com `brasoes.css` |
+
+```html
+<link rel="stylesheet" href="https://strategicprojects.github.io/flags-brasil/css/brasoes.css">
+<span class="bbr bbr-pe"></span>
+```
+
+No manifesto, quem tem brasão ganha o campo `brasao`, com `arquivo`, `formato` e
+`fonte` (autor, licença e página de origem), inclusive municípios que ainda não
+têm bandeira no acervo:
+
+```js
+recife.brasao?.arquivo; // "brasoes/mun/2611606.png", ou undefined se não houver
+```
+
+Os brasões ficam no repositório e no site, fora dos pacotes npm.
+
 ## Pelo npm
 
 ```sh
@@ -148,6 +183,9 @@ Quando não há arquivo no Commons, a bandeira pode vir do **site da prefeitura*
 prefeitura", `fonte.pagina` aponta para a página consultada e a licença aparece
 como não declarada: a bandeira é símbolo oficial do município, mas o arquivo não
 traz licença explícita.
+
+Os brasões seguem a mesma regra: vêm do Commons, pela propriedade *imagem do
+brasão* (P94), e cada um mantém a licença do arquivo de origem.
 
 - [`CREDITOS.md`](CREDITOS.md) lista autor, licença e página de origem de cada arquivo.
 - `dados/bandeiras.json` traz o mesmo em `fonte` (`autor`, `licenca`,
@@ -186,8 +224,10 @@ Precisa de Python 3.10+, ImageMagick e pnpm.
 
 ```sh
 python3 tools/baixar.py   # IBGE + Wikidata + Commons -> dados/fonte/ e originais/
-python3 tools/gerar.py    # flags/, css/, dados/bandeiras.json, CREDITOS.md
+python3 tools/brasoes.py  # brasões em SVG (P94) -> dados/fonte/brasoes.json e originais/_brasoes/
+python3 tools/gerar.py    # flags/, brasoes/, css/, dados/bandeiras.json, CREDITOS.md
 pnpm install && pnpm run otimizar   # svgo nos SVG, conferindo o render
+python3 tools/gerar.py    # de novo: troca por PNG os brasões que ficaram acima do teto
 uv run tools/vetorizar.py --uf PE   # opcional: SVG vetorizado dos rasters (depois, gerar.py de novo)
 pnpm run site             # http://localhost:8377
 ```

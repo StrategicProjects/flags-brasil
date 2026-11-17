@@ -129,6 +129,7 @@ dialog::backdrop { background: rgb(20 26 36 / .35); backdrop-filter: blur(2px); 
 .ficha { padding: 1.5rem; }
 .ficha .tela { display: grid; place-items: center; background: var(--suave); border-radius: 10px; padding: 1.5rem; min-height: 9rem; }
 .ficha .tela img { max-width: 100%; max-height: 13rem; border-radius: 2px; box-shadow: var(--sombra); }
+.ficha .tela.brasao img { box-shadow: none; border-radius: 0; }
 .ficha .cab { display: flex; justify-content: space-between; align-items: start; gap: 1rem; margin-bottom: 1rem; }
 .ficha h2 { margin: 0; font-size: 1.4rem; font-weight: 600; letter-spacing: -.01em; line-height: 1.2; }
 .ficha .meta { margin: .15rem 0 0; color: var(--tinta-2); font-size: .92rem; }
@@ -182,6 +183,7 @@ footer p { max-width: 44rem; }
       <option value="com">Com bandeira</option>
       <option value="svg">Só SVG</option>
       <option value="vet">Com SVG vetorizado</option>
+      <option value="bras">Com brasão</option>
       <option value="sem">Sem bandeira</option>
       <option value="todos">Todos</option>
     </select>
@@ -255,6 +257,7 @@ function filtra() {
     if (estado.filtro === 'com' && !e.formato) return false;
     if (estado.filtro === 'svg' && e.formato !== 'svg') return false;
     if (estado.filtro === 'vet' && !e.vet) return false;
+    if (estado.filtro === 'bras' && !e.bras) return false;
     if (estado.filtro === 'sem' && e.formato) return false;
     return !q || e._n.includes(q) || e.codigo.startsWith(q);
   });
@@ -280,7 +283,7 @@ function pinta() {
     const tela = e.formato
       ? `<span class="tela"><img loading="lazy" decoding="async" src="mini/${esc(e.codigo)}.webp" alt=""></span>`
       : '<span class="tela">sem bandeira</span>';
-    const meta = [e.uf, e.formato ? e.formato.toUpperCase() + (e.vet ? ' + vetor' : '') : ''].filter(Boolean).join(' ');
+    const meta = [e.uf, e.formato ? e.formato.toUpperCase() + (e.vet ? ' + vetor' : '') : '', e.bras ? '· brasão' : ''].filter(Boolean).join(' ');
     li.innerHTML = `<button type="button" data-c="${esc(e.codigo)}" class="${e.formato ? '' : 'sem'}">${tela}
       <span class="nome">${esc(e.nome)}</span><span class="meta">${esc(meta)}</span></button>`;
     frag.append(li);
@@ -300,6 +303,24 @@ function trecho(titulo, codigo) {
     <button type="button" class="copiar" data-t="${esc(codigo)}">Copiar</button></div>`;
 }
 
+function credito(f) {
+  return `<p class="credito">Autor: ${esc(f.autor)}. Licença:
+    ${http(f.licenca_url) ? `<a rel="noopener noreferrer" href="${esc(http(f.licenca_url))}">${esc(f.licenca)}</a>` : esc(f.licenca)}.
+    Origem: ${http(f.pagina) ? `<a rel="noopener noreferrer" href="${esc(http(f.pagina))}">${esc(f.arquivo)}</a>` : esc(f.arquivo)}, ${esc(f.origem || 'Wikimedia Commons')}.</p>`;
+}
+
+function brasao(e) {
+  const b = e.brasao;
+  if (!b) return '';
+  const css = e.tipo === 'municipio' ? 'css/brasoes.css e css/brasoes-municipios.css' : 'css/brasoes.css';
+  return `<h3>Brasão</h3>
+    <div class="tela brasao"><img loading="lazy" src="${esc(b.arquivo)}" alt="Brasão de ${esc(e.nome)}"></div>
+    <p class="acoes">${esc(b.formato.toUpperCase())}. <a href="${esc(b.arquivo)}" download>Baixar o brasão</a></p>
+    ${trecho('Classe CSS do brasão, com ' + css, `<span class="bbr bbr-${e.codigo}"></span>`)}
+    ${trecho('Imagem do brasão', `<img src="${SITE}${b.arquivo}" alt="Brasão de ${e.nome}" height="32">`)}
+    <h3>Crédito do brasão</h3>${credito(b.fonte)}`;
+}
+
 async function abre(r) {
   let e;
   try { e = await detalhe(r); } catch { e = null; }
@@ -312,7 +333,7 @@ async function abre(r) {
   } else if (!e.arquivo) {
     h += `<p>Ainda não há bandeira deste município no acervo. ${e.wikidata ? `Se ela existir no Wikimedia Commons, preencha
       "imagem da bandeira" em <a rel="noopener noreferrer" href="https://www.wikidata.org/wiki/${encodeURIComponent(e.wikidata)}">${esc(e.wikidata)}</a>
-      no Wikidata e ela entra na próxima atualização.` : ''}</p>`;
+      no Wikidata e ela entra na próxima atualização.` : ''}</p>${brasao(e)}`;
   } else {
     const f = e.fonte;
     const css = e.tipo === 'municipio' ? `css/uf/${e.uf.toLowerCase()}.css` : 'css/flags-brasil.css';
@@ -322,10 +343,7 @@ async function abre(r) {
       ${trecho('Classe CSS, com ' + css, `<span class="fbr fbr-${e.codigo}"></span>`)}
       ${trecho('Imagem', `<img src="${SITE}${e.arquivo}" alt="Bandeira de ${e.nome}" height="24">`)}
       ${trecho('Markdown e Quarto', `![Bandeira de ${e.nome}](${SITE}${e.arquivo})`)}
-      <h3>Crédito</h3>
-      <p class="credito">Autor: ${esc(f.autor)}. Licença:
-        ${http(f.licenca_url) ? `<a rel="noopener noreferrer" href="${esc(http(f.licenca_url))}">${esc(f.licenca)}</a>` : esc(f.licenca)}.
-        Origem: ${http(f.pagina) ? `<a rel="noopener noreferrer" href="${esc(http(f.pagina))}">${esc(f.arquivo)}</a>` : esc(f.arquivo)}, ${esc(f.origem || 'Wikimedia Commons')}.</p>`;
+      <h3>Crédito</h3>${credito(f)}${brasao(e)}`;
   }
   $('#ficha').innerHTML = h;
   if (!$('#dlg').open) $('#dlg').showModal();
@@ -358,7 +376,7 @@ new IntersectionObserver((es) => { if (es[0].isIntersecting && pintados < visive
   { rootMargin: '600px' }).observe($('#sentinela'));
 
 fetch('dados/site.json').then((r) => r.json()).then((d) => {
-  itens = d.map(([codigo, nome, uf, formato, vet]) => ({ codigo, nome, uf, formato, vet, _n: norm(nome) }));
+  itens = d.map(([codigo, nome, uf, formato, vet, bras]) => ({ codigo, nome, uf, formato, vet, bras, _n: norm(nome) }));
   for (const e of itens) { e.tipo = tipo(e); porCodigo.set(e.codigo, e); }
   const mun = itens.filter((e) => e.tipo === 'municipio');
   $('#n-mun').textContent = mun.filter((e) => e.formato).length.toLocaleString('pt-BR') + ' dos ' + mun.length.toLocaleString('pt-BR');

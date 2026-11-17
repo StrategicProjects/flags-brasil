@@ -54,6 +54,7 @@
   ],
   "scripts": {
     "baixar": "python3 tools/baixar.py",
+    "brasoes": "python3 tools/brasoes.py",
     "gerar": "python3 tools/gerar.py",
     "otimizar": "python3 tools/otimizar.py",
     "site": "python3 -m http.server 8377",

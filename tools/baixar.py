@@ -210,6 +210,16 @@ def baixa(url: str) -> bytes:
         raise
 
 
+def svg_utf8(dados: bytes) -> bytes:
+    """Alguns SVG do Commons estão em UTF-16 (válidos, mas a conferência de
+    segurança só aceita codificação compatível com ASCII): converte para UTF-8."""
+    if dados[:2] not in (b"\xff\xfe", b"\xfe\xff"):
+        return dados
+    txt = dados.decode("utf-16")
+    txt = re.sub(r"""(<\?xml[^>]*encoding=["'])[^"']+""", r"\1UTF-8", txt, count=1)
+    return txt.encode("utf-8")
+
+
 DEGRAUS = (500, 330, 250, 120, 60)  # larguras de miniatura que o Commons aceita
 
 
@@ -296,6 +306,8 @@ def etapa_download(limite: int | None) -> None:
                 if time.time() >= liberado_em:
                     try:
                         dados = baixa(m["url"])
+                        if ext_orig == "svg":
+                            dados = svg_utf8(dados)
                         if ext_orig == "svg" and b"<svg" not in dados[:20000]:
                             raise RuntimeError("resposta não é SVG")
                         grava(chave, ext_orig, dados)

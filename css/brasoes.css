@@ -1,0 +1,40 @@
+/* flags-brasil — brasões do Brasil e dos estados (os dos municípios estão em
+   brasoes-municipios.css). Uso: <span class="bbr bbr-pe"></span>
+   Gerado por tools/gerar.py; não edite à mão. */
+.bbr {
+  display: inline-block;
+  width: 1em;
+  height: 1em;
+  line-height: 1em;
+  vertical-align: -0.125em;
+  background: center / contain no-repeat;
+}
+.bbr::before { content: "\00a0"; }
+.bbr-br{background-image:url(../brasoes/br.svg)}
+.bbr-ac{background-image:url(../brasoes/uf/ac.svg)}
+.bbr-al{background-image:url(../brasoes/uf/al.svg)}
+.bbr-am{background-image:url(../brasoes/uf/am.svg)}
+.bbr-ap{background-image:url(../brasoes/uf/ap.svg)}
+.bbr-ba{background-image:url(../brasoes/uf/ba.svg)}
+.bbr-ce{background-image:url(../brasoes/uf/ce.svg)}
+.bbr-df{background-image:url(../brasoes/uf/df.svg)}
+.bbr-es{background-image:url(../brasoes/uf/es.svg)}
+.bbr-go{background-image:url(../brasoes/uf/go.svg)}
+.bbr-ma{background-image:url(../brasoes/uf/ma.svg)}
+.bbr-mg{background-image:url(../brasoes/uf/mg.svg)}
+.bbr-ms{background-image:url(../brasoes/uf/ms.svg)}
+.bbr-mt{background-image:url(../brasoes/uf/mt.svg)}
+.bbr-pa{background-image:url(../brasoes/uf/pa.svg)}
+.bbr-pb{background-image:url(../brasoes/uf/pb.svg)}
+.bbr-pe{background-image:url(../brasoes/uf/pe.svg)}
+.bbr-pi{background-image:url(../brasoes/uf/pi.svg)}
+.bbr-pr{background-image:url(../brasoes/uf/pr.svg)}
+.bbr-rj{background-image:url(../brasoes/uf/rj.svg)}
+.bbr-rn{background-image:url(../brasoes/uf/rn.svg)}
+.bbr-ro{background-image:url(../brasoes/uf/ro.svg)}
+.bbr-rr{background-image:url(../brasoes/uf/rr.svg)}
+.bbr-rs{background-image:url(../brasoes/uf/rs.svg)}
+.bbr-sc{background-image:url(../brasoes/uf/sc.svg)}
+.bbr-se{background-image:url(../brasoes/uf/se.svg)}
+.bbr-sp{background-image:url(../brasoes/uf/sp.svg)}
+.bbr-to{background-image:url(../brasoes/uf/to.svg)}

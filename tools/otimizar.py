@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Passa o svgo em flags/**/*.svg, mas só fica com o resultado se o desenho
+"""Passa o svgo em flags/**/*.svg e brasoes/**/*.svg, mas só fica com o resultado se o desenho
 não mudar.
 
 O svgo às vezes quebra um arquivo (a bandeira de Alagoas perdia o brasão), então
@@ -35,8 +35,8 @@ def render(svg: Path, png: Path) -> bool:
     return r.returncode == 0 and png.exists()
 
 
-def processa(dst: Path) -> tuple[str, str, int]:
-    src = ORIG / dst.name
+def processa(par: tuple[Path, Path, str]) -> tuple[str, str, int]:
+    dst, src, nome = par
     antes = src.stat().st_size
     with tempfile.TemporaryDirectory() as t:
         tmp, a, b = Path(t) / "o.svg", Path(t) / "a.png", Path(t) / "b.png"
@@ -44,7 +44,7 @@ def processa(dst: Path) -> tuple[str, str, int]:
                             "-i", str(src), "-o", str(tmp)], capture_output=True)
         if problema(src.read_bytes()):  # fechado por padrão: nada do original é publicado
             dst.unlink(missing_ok=True)
-            return dst.name, "RECUSADO: " + problema(src.read_bytes()), 0
+            return nome, "RECUSADO: " + problema(src.read_bytes()), 0
         motivo = ""
         if r.returncode != 0 or not tmp.exists():
             motivo = "svgo falhou"
@@ -68,24 +68,35 @@ def processa(dst: Path) -> tuple[str, str, int]:
                 motivo = "comparação falhou (tamanhos diferentes?)"
         if motivo:
             shutil.copyfile(src, dst)  # o original já passou na conferência acima
-            return dst.name, motivo, 0
+            return nome, motivo, 0
         shutil.copyfile(tmp, dst)
-        return dst.name, "", antes - dst.stat().st_size
+        return nome, "", antes - dst.stat().st_size
 
 
 def main() -> None:
     estado = json.loads(ESTADO.read_text()) if ESTADO.exists() else {}
     fila = []
-    for dst in sorted((RAIZ / "flags").rglob("*.svg")):
-        src = ORIG / dst.name
-        if src.exists() and estado.get(dst.name, {}).get("mtime") != src.stat().st_mtime:
-            fila.append(dst)
+    # (pasta publicada, pasta dos originais, prefixo da chave no estado)
+    for pasta, orig, prefixo in (("flags", ORIG, ""), ("brasoes", ORIG / "_brasoes", "brasoes/")):
+        for dst in sorted((RAIZ / pasta).rglob("*.svg")):
+            src, nome = orig / dst.name, prefixo + dst.name
+            feito = estado.get(nome, {})
+            # brasão recolocado pelo gerar.py (o teto mudou) volta para a fila
+            refazer = prefixo and feito.get("bytes") != dst.stat().st_size
+            if src.exists() and (feito.get("mtime") != src.stat().st_mtime or refazer):
+                fila.append((dst, src, nome))
+    origem = {nome: src for _, src, nome in fila}
+    publicado = {nome: dst for dst, _, nome in fila}
     with ThreadPoolExecutor(8) as ex:
         res = list(ex.map(processa, fila))
     ganho = 0
     for nome, motivo, g in res:
         ganho += g
-        estado[nome] = {"mtime": (ORIG / nome).stat().st_mtime, "mantido_original": motivo}
+        estado[nome] = {"mtime": origem[nome].stat().st_mtime, "mantido_original": motivo}
+        dst = publicado[nome]
+        if dst.exists():  # o gerar.py usa para trocar brasão pesado por PNG
+            estado[nome]["bytes"] = dst.stat().st_size
+            estado[nome]["raster_embutido"] = b"data:image" in dst.read_bytes()
         if motivo:
             print(f"{nome}: {motivo}", file=sys.stderr)
     ESTADO.write_text(json.dumps(estado, indent=0, ensure_ascii=False))

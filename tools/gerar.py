@@ -3,10 +3,14 @@
 
 Gera:
   flags/br.svg, flags/uf/<sigla>.svg, flags/mun/<codigo-ibge>.{svg,png}
+  brasoes/br.svg, brasoes/uf/<sigla>.svg, brasoes/mun/<codigo-ibge>.{svg,png}
+                         brasões (ver tools/brasoes.py); só os que existem em SVG
+                         no Commons, com os pesados em PNG
   dados/bandeiras.json   manifesto com nome, UF, arquivo, proporção e crédito
   css/flags-brasil.css   Brasil + 27 UFs
   css/municipios.css     todos os municípios
   css/uf/<sigla>.css     municípios de uma UF
+  css/brasoes.css, css/brasoes-municipios.css
   CREDITOS.md            autor e licença de cada bandeira
   dados/site.json, dados/detalhe/<uf>.json, mini/<codigo>.webp
                          só para o site: índice enxuto, detalhes sob demanda
@@ -33,7 +37,25 @@ RAIZ = Path(__file__).resolve().parent.parent
 FONTE = RAIZ / "dados" / "fonte"
 ORIG = RAIZ / "originais"
 FLAGS = RAIZ / "flags"
+BRASOES = RAIZ / "brasoes"
+ORIG_BRASOES = ORIG / "_brasoes"
 LARGURA = 500
+TETO_BRASAO = 300_000  # bytes, depois do svgo; acima disso o município recebe PNG
+
+BASE_CSS_BRASOES = """\
+/* flags-brasil — brasões do Brasil e dos estados (os dos municípios estão em
+   brasoes-municipios.css). Uso: <span class="bbr bbr-pe"></span>
+   Gerado por tools/gerar.py; não edite à mão. */
+.bbr {
+  display: inline-block;
+  width: 1em;
+  height: 1em;
+  line-height: 1em;
+  vertical-align: -0.125em;
+  background: center / contain no-repeat;
+}
+.bbr::before { content: "\\00a0"; }
+"""
 
 BASE_CSS = """\
 /* flags-brasil — bandeiras do Brasil, dos estados e dos municípios.
@@ -68,12 +90,12 @@ def limpa_autor(a: str) -> str:
     return a if len(a) <= 160 else a[:157] + "…"
 
 
-def destino(chave: str, ext: str) -> Path:
+def destino(chave: str, ext: str, base: Path = FLAGS) -> Path:
     if chave == "br":
-        return FLAGS / f"br.{ext}"
+        return base / f"br.{ext}"
     if chave.isdigit():
-        return FLAGS / "mun" / f"{chave}.{ext}"
-    return FLAGS / "uf" / f"{chave}.{ext}"
+        return base / "mun" / f"{chave}.{ext}"
+    return base / "uf" / f"{chave}.{ext}"
 
 
 def converte(par: tuple[Path, Path]) -> str | None:
@@ -140,12 +162,74 @@ def main() -> None:
         elif p not in esperados:
             p.unlink()
 
+    # --- brasões: só SVG do Commons; o reprovado na conferência entra em PNG ---
+    arq_bras = FONTE / "brasoes.json"
+    fonte_bras = json.loads(arq_bras.read_text()) if arq_bras.exists() else {}
+    for d in (BRASOES / "uf", BRASOES / "mun"):
+        d.mkdir(parents=True, exist_ok=True)
+    validas = ({"br"} | {u["sigla"].lower() for u in ibge["ufs"]}
+               | {str(m["codigo"]) for m in ibge["municipios"]})
+    # curadoria manual: arquivo que o Wikidata aponta como brasão e não é
+    arq_exc = FONTE / "brasoes_excluidos.json"
+    excluidos = json.loads(arq_exc.read_text()) if arq_exc.exists() else {}
+    orig_bras = {p.stem: p for p in ORIG_BRASOES.glob("*.svg")
+                 if p.stem in fonte_bras and p.stem in validas
+                 and p.stem not in excluidos} if ORIG_BRASOES.exists() else {}
+    # Brasão municipal pesado (acima do teto depois do svgo) ou que é só um raster
+    # embrulhado em SVG entra em PNG. O tamanho final vem do estado do otimizar.py,
+    # então a ordem é gerar.py, otimizar.py e gerar.py de novo.
+    arq_otim = ORIG / "_otimizados.json"
+    otim = json.loads(arq_otim.read_text()) if arq_otim.exists() else {}
+    pares_bras, pesados = [], 0
+    for k, p in sorted(orig_bras.items()):
+        m = problema(p.read_bytes())
+        if m:
+            print(f"brasão: SVG recusado, publicado como PNG: {k} ({m})", file=sys.stderr)
+        o = otim.get(f"brasoes/{k}.svg", {})
+        pesado = k.isdigit() and (o.get("bytes", 0) > TETO_BRASAO or o.get("raster_embutido"))
+        pesados += bool(pesado and not m)
+        pares_bras.append((p, destino(k, "png" if m or pesado else "svg", BRASOES)))
+    print(f"brasões municipais pesados, publicados em PNG: {pesados}", file=sys.stderr)
+    with ThreadPoolExecutor(8) as ex:
+        erros_bras = [e for e in ex.map(converte, pares_bras) if e]
+    for e in erros_bras:
+        print("ERRO brasão", e, file=sys.stderr)
+    erros += erros_bras
+    esperados_bras = {d for _, d in pares_bras}
+    for p in list(BRASOES.rglob("*.svg")) + list(BRASOES.rglob("*.png")):
+        if p not in esperados_bras:
+            p.unlink()
+
+    def brasao(e: dict, chave: str) -> None:
+        arq = next((d for x in ("svg", "png")
+                    if (d := destino(chave, x, BRASOES)).exists()), None)
+        if not arq:
+            return
+        m = fonte_bras[chave]
+        e["brasao"] = {
+            "arquivo": arq.relative_to(RAIZ).as_posix(),
+            "formato": arq.suffix[1:],
+            "fonte": {
+                "origem": "Wikimedia Commons",
+                "arquivo": m["arquivo"],
+                "pagina": url_http(m["pagina"]),
+                "autor": limpa_autor(m["autor"]),
+                "licenca": m["licenca"] or "ver página do arquivo",
+                "licenca_url": url_http(m["licenca_url"]),
+            },
+        }
+
     def vet(e: dict, arq: Path) -> None:
         v = VET / f"{arq.stem}.svg"
         if arq.suffix == ".png" and arq.parent == FLAGS / "mun" and v.exists():
             e["vetorizado"] = v.relative_to(RAIZ).as_posix()  # traçado automático do PNG
 
     def entrada(chave: str, nome: str, tipo: str, uf: str | None) -> dict:
+        e = bandeira(chave, nome, tipo, uf)
+        brasao(e, chave)
+        return e
+
+    def bandeira(chave: str, nome: str, tipo: str, uf: str | None) -> dict:
         e = {"codigo": chave, "nome": nome, "tipo": tipo}
         if uf:
             e["uf"] = uf
@@ -194,7 +278,7 @@ def main() -> None:
     # --- arquivos só do site: índice enxuto, detalhes por UF e miniaturas ---
     (RAIZ / "dados" / "site.json").write_text(json.dumps(
         [[e["codigo"], e["nome"], e.get("uf", ""), e.get("formato", ""),
-          1 if e.get("vetorizado") else 0] for e in itens],
+          1 if e.get("vetorizado") else 0, 1 if e.get("brasao") else 0] for e in itens],
         ensure_ascii=False, separators=(",", ":")))
     det = RAIZ / "dados" / "detalhe"
     det.mkdir(exist_ok=True)
@@ -248,8 +332,20 @@ def main() -> None:
             cab.format(f' de {u["nome"]}')
             + "".join(regra(e, "../../") for e in muns if e["uf"] == u["sigla"]))
 
+    # --- brasões: folhas de estilo ---
+    bras = [e for e in itens if e.get("brasao")]
+
+    def regra_b(e: dict) -> str:
+        return f'.bbr-{e["codigo"]}{{background-image:url(../{e["brasao"]["arquivo"]})}}\n'
+
+    (RAIZ / "css" / "brasoes.css").write_text(
+        BASE_CSS_BRASOES + "".join(regra_b(e) for e in bras if e["tipo"] != "municipio"))
+    (RAIZ / "css" / "brasoes-municipios.css").write_text(
+        "/* flags-brasil — brasões dos municípios. Use junto com brasoes.css. */\n"
+        + "".join(regra_b(e) for e in bras if e["tipo"] == "municipio"))
+
     linhas = [
-        "# Créditos das bandeiras", "",
+        "# Créditos das bandeiras e dos brasões", "",
         "Quase todas as imagens vêm do [Wikimedia Commons](https://commons.wikimedia.org/), "
         "localizadas pela propriedade *imagem da bandeira* (P41) do Wikidata ou pelas "
         "categorias de bandeiras municipais. Cada arquivo mantém a licença indicada na sua "
@@ -269,6 +365,22 @@ def main() -> None:
         local = e["nome"] + (f' ({e["uf"]})' if e["tipo"] == "municipio" else "")
         linhas.append(f'| {e["codigo"]} | {local} | `{e["arquivo"]}` | {autor} | {lic} '
                       f'| [{f["origem"]}]({f["pagina"]}) |')
+    linhas += [
+        "", "## Brasões", "",
+        "Os brasões vêm do Wikimedia Commons, localizados pela propriedade *imagem do "
+        "brasão* (P94) do Wikidata; só entram os que existem em SVG. Cada arquivo mantém a "
+        "licença indicada na sua página de origem.", "",
+        "| Código | Local | Arquivo | Autor | Licença | Origem |", "|---|---|---|---|---|---|",
+    ]
+    for e in bras:
+        f = e["brasao"]["fonte"]
+        autor = f["autor"].replace("|", "\\|")
+        if len(autor) > 120:
+            autor = autor[:117] + "…"
+        lic = f'[{f["licenca"]}]({f["licenca_url"]})' if f["licenca_url"] else f["licenca"]
+        local = e["nome"] + (f' ({e["uf"]})' if e["tipo"] == "municipio" else "")
+        linhas.append(f'| {e["codigo"]} | {local} | `{e["brasao"]["arquivo"]}` | {autor} | {lic} '
+                      f'| [{f["origem"]}]({f["pagina"]}) |')
     (RAIZ / "CREDITOS.md").write_text("\n".join(linhas) + "\n")
 
     n = lambda t, f=None: sum(1 for e in com if e["tipo"] == t and (not f or e["formato"] == f))
@@ -283,6 +395,10 @@ def main() -> None:
         "municipios_com_bandeira": n("municipio"),
         "municipios_svg": n("municipio", "svg"), "municipios_png": n("municipio", "png"),
         "municipios_vetorizados": len(vets),
+        "brasoes_ufs": sum(1 for e in bras if e["tipo"] == "uf"),
+        "brasoes_municipios": sum(1 for e in bras if e["tipo"] == "municipio"),
+        "brasoes_municipios_svg": sum(1 for e in bras if e["tipo"] == "municipio"
+                                      and e["brasao"]["formato"] == "svg"),
     }
     (RAIZ / "dados" / "resumo.json").write_text(json.dumps(resumo, indent=1) + "\n")
     por_uf = []
@@ -298,7 +414,8 @@ def main() -> None:
         f'Hoje: Brasil, {t["ufs"]} UFs e **{t["municipios_com_bandeira"]} de '
         f'{t["municipios_total"]} municípios** ({t["municipios_svg"]} em SVG, '
         f'{t["municipios_png"]} em PNG, dos quais {t["municipios_vetorizados"]} também '
-        f'com SVG vetorizado automaticamente).', "",
+        f'com SVG vetorizado automaticamente). Brasões: Brasil, {t["brasoes_ufs"]} UFs e '
+        f'{t["brasoes_municipios"]} municípios ({t["brasoes_municipios_svg"]} em SVG).', "",
         "<details><summary>Cobertura por UF</summary>", "",
         "| UF | Municípios | Com bandeira | SVG | PNG | Cobertura |", "|---|--:|--:|--:|--:|--:|",
         *por_uf, "", "</details>", "<!-- resumo:fim -->"])

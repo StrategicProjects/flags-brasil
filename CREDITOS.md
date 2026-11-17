@@ -1,4 +1,4 @@
-# Créditos das bandeiras
+# Créditos das bandeiras e dos brasões
 
 Quase todas as imagens vêm do [Wikimedia Commons](https://commons.wikimedia.org/), localizadas pela propriedade *imagem da bandeira* (P41) do Wikidata ou pelas categorias de bandeiras municipais. Cada arquivo mantém a licença indicada na sua página de origem. Algumas, sem arquivo no Commons, vêm do site da prefeitura: a coluna Origem indica, e a licença aparece como não declarada (a bandeira é símbolo oficial do município, mas o arquivo não traz licença); os SVG foram enxugados com svgo e os rasters reduzidos para até 500 px de largura e convertidos em PNG de 256 cores.
 
@@ -4119,3 +4119,442 @@ Gerado por `tools/gerar.py`. A mesma informação está em `dados/bandeiras.json
 | 5222005 | Vianópolis (GO) | `flags/mun/5222005.png` | Prefeitura de Vianópolis | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_de_Vian%C3%B3polis.jpg) |
 | 5222203 | Vila Boa (GO) | `flags/mun/5222203.png` | Eneide Rufino | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_VilaBoa.jpg) |
 | 5300108 | Brasília (DF) | `flags/mun/5300108.svg` | Governo do Distrito Federal; [ Decreto 1090 de 25/08/1969 Sem Revogação Expressa https://www.sinj.df.gov.br/sinj/Diar… | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bandeira_do_Distrito_Federal_(Brasil).svg) |
+
+## Brasões
+
+Os brasões vêm do Wikimedia Commons, localizados pela propriedade *imagem do brasão* (P94) do Wikidata; só entram os que existem em SVG. Cada arquivo mantém a licença indicada na sua página de origem.
+
+| Código | Local | Arquivo | Autor | Licença | Origem |
+|---|---|---|---|---|---|
+| br | Brasil | `brasoes/br.svg` | não informado | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_Brazil.svg) |
+| ac | Acre | `brasoes/uf/ac.svg` | State of Acre, Brazil | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_do_Acre.svg) |
+| al | Alagoas | `brasoes/uf/al.svg` | não informado | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_do_Estado_de_Alagoas.svg) |
+| am | Amazonas | `brasoes/uf/am.svg` | Giro720 | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_do_Amazonas.svg) |
+| ap | Amapá | `brasoes/uf/ap.svg` | State of Amapá, Brazil | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_do_Amap%C3%A1.svg) |
+| ba | Bahia | `brasoes/uf/ba.svg` | Vectorial version based in André Koehne work. | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_do_estado_da_Bahia.svg) |
+| ce | Ceará | `brasoes/uf/ce.svg` | Srfortes | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_do_Cear%C3%A1.svg) |
+| df | Distrito Federal | `brasoes/uf/df.svg` | tonyjeff | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_do_Distrito_Federal_(Brasil).svg) |
+| es | Espírito Santo | `brasoes/uf/es.svg` | não informado | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_do_Esp%C3%ADrito_Santo.svg) |
+| go | Goiás | `brasoes/uf/go.svg` | Guilherme Paula | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_de_Goi%C3%A1s.svg) |
+| ma | Maranhão | `brasoes/uf/ma.svg` | Governo do Maranhão | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_do_Maranh%C3%A3o.svg) |
+| mg | Minas Gerais | `brasoes/uf/mg.svg` | Decreto nº 6.493 - de 5 de fevereiro de 1924 | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_de_Minas_Gerais.svg) |
+| ms | Mato Grosso do Sul | `brasoes/uf/ms.svg` | Giro720 | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_de_Mato_Grosso_do_Sul.svg) |
+| mt | Mato Grosso | `brasoes/uf/mt.svg` | Brasão_de_Mato_Grosso.gif: *Brasão_de_Mato_Grosso.JPG: Este ficheiro não tem informação sobre o autor da obra. deriva… | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_de_Mato_Grosso.svg) |
+| pa | Pará | `brasoes/uf/pa.svg` | Giro720 | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_do_Par%C3%A1.svg) |
+| pb | Paraíba | `brasoes/uf/pb.svg` | Giro720 | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_da_Para%C3%ADba.svg) |
+| pe | Pernambuco | `brasoes/uf/pe.svg` | Government of Pernambuco | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_de_Pernambuco.svg) |
+| pi | Piauí | `brasoes/uf/pi.svg` | Governo do Estado do Piauí | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_do_Piau%C3%AD.svg) |
+| pr | Paraná | `brasoes/uf/pr.svg` | Franklin Baldo 19:44, 2 January 2007 (UTC) | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_do_Paran%C3%A1.svg) |
+| rj | Rio de Janeiro | `brasoes/uf/rj.svg` | FORTES | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_do_estado_do_Rio_de_Janeiro.svg) |
+| rn | Rio Grande do Norte | `brasoes/uf/rn.svg` | User:Guilherme Paula | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_do_Rio_Grande_do_Norte.svg) |
+| ro | Rondônia | `brasoes/uf/ro.svg` | Jorge Henrique Damschi | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_de_Rond%C3%B4nia.svg) |
+| rr | Roraima | `brasoes/uf/rr.svg` | State of Roraima, Brazil | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_de_Roraima.svg) |
+| rs | Rio Grande do Sul | `brasoes/uf/rs.svg` | não informado | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_do_Rio_Grande_do_Sul.svg) |
+| sc | Santa Catarina | `brasoes/uf/sc.svg` | OAlexander (talk) | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_de_Santa_Catarina.svg) |
+| se | Sergipe | `brasoes/uf/se.svg` | FORTES | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_de_Sergipe.svg) |
+| sp | São Paulo | `brasoes/uf/sp.svg` | não informado | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_do_estado_de_S%C3%A3o_Paulo.svg) |
+| to | Tocantins | `brasoes/uf/to.svg` | Guilherme Paula | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_do_Tocantins.svg) |
+| 1100205 | Porto Velho (RO) | `brasoes/mun/1100205.svg` | BrCaLeTo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_de_Porto_Velho.svg) |
+| 1200013 | Acrelândia (AC) | `brasoes/mun/1200013.svg` | BrCaLeTo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_de_Acrel%C3%A2ndia_-_AC.svg) |
+| 1200203 | Cruzeiro do Sul (AC) | `brasoes/mun/1200203.png` | BrCaLeTo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_de_Cruzeiro_do_Sul_-_AC.svg) |
+| 1200401 | Rio Branco (AC) | `brasoes/mun/1200401.svg` | ViniciusBR11; Prefeitura de Rio Branco | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_de_Rio_Branco.svg) |
+| 1200500 | Sena Madureira (AC) | `brasoes/mun/1200500.svg` | BrCaLeTo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_de_Sena_Madureira_-_AC.svg) |
+| 1302603 | Manaus (AM) | `brasoes/mun/1302603.svg` | Prefeitura Municipal de Manaus | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_de_Manaus.svg) |
+| 1302702 | Manicoré (AM) | `brasoes/mun/1302702.svg` | BrCaLeTo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_de_Manicor%C3%A9_-_AM.svg) |
+| 1303601 | Santa Isabel do Rio Negro (AM) | `brasoes/mun/1303601.svg` | WikiUser22222 | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_de_Santa_Isabel_do_Rio_Negro-AM.svg) |
+| 1304203 | Tefé (AM) | `brasoes/mun/1304203.svg` | Macus Pessoa | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_de_Tef%C3%A9_%E2%80%93_AM.svg) |
+| 1400050 | Alto Alegre (RR) | `brasoes/mun/1400050.png` | BrCaLeTo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_de_Alto_Alegre_-_RR.svg) |
+| 1400100 | Boa Vista (RR) | `brasoes/mun/1400100.png` | Rogerio R M Azevedo | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_Boa_Vista_Roraima.svg) |
+| 1400175 | Cantá (RR) | `brasoes/mun/1400175.svg` | BrCaLeTo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_de_Cant%C3%A1_-_RR.svg) |
+| 1400506 | São João da Baliza (RR) | `brasoes/mun/1400506.svg` | BrCaLeTo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_de_S%C3%A3o_Jo%C3%A3o_da_Baliza_-_RR.svg) |
+| 1501402 | Belém (PA) | `brasoes/mun/1501402.svg` | Virgilinojuca | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_de_Bel%C3%A9m.svg) |
+| 1501451 | Belterra (PA) | `brasoes/mun/1501451.png` | Junior Silva Rodriguess | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_de_Belterra.svg) |
+| 1503002 | Faro (PA) | `brasoes/mun/1503002.svg` | BrCaLeTo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_de_Faro_-_PA.svg) |
+| 1503093 | Goianésia do Pará (PA) | `brasoes/mun/1503093.png` | BrCaLeTo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_de_Goian%C3%A9sia_do_Par%C3%A1_-_PA.svg) |
+| 1504208 | Marabá (PA) | `brasoes/mun/1504208.svg` | Hallel | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_de_Maraba.svg) |
+| 1505502 | Paragominas (PA) | `brasoes/mun/1505502.png` | BrCaLeTo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_de_Paragominas_-_PA.svg) |
+| 1506807 | Santarém (PA) | `brasoes/mun/1506807.png` | God´s Men | [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:BRAS%C3%83O_DE_SANTAR%C3%89M_(PA).svg) |
+| 1600279 | Laranjal do Jari (AP) | `brasoes/mun/1600279.png` | BrCaLeTo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_de_Laranjal_do_Jari_-_AP.svg) |
+| 1600303 | Macapá (AP) | `brasoes/mun/1600303.svg` | ViniciusBR11; Prefeitura de Macapá | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_de_Macap%C3%A1.svg) |
+| 1600808 | Vitória do Jari (AP) | `brasoes/mun/1600808.png` | BrCaLeTo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_de_Vit%C3%B3ria_do_Jari_-_AP.svg) |
+| 1702109 | Araguaína (TO) | `brasoes/mun/1702109.svg` | não informado | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_Araguaina_Tocantins_Brasil.svg) |
+| 1716703 | Colméia (TO) | `brasoes/mun/1716703.svg` | BrCaLeTo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_de_Colm%C3%A9ia_-_TO.svg) |
+| 2102804 | Carolina (MA) | `brasoes/mun/2102804.svg` | BrCaLeTo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_de_Carolina_-_MA.svg) |
+| 2103000 | Caxias (MA) | `brasoes/mun/2103000.svg` | Brasão do Município de Caxias | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_de_Caxias.svg) |
+| 2106755 | Miranda do Norte (MA) | `brasoes/mun/2106755.svg` | DanielLopesSaoLuisMA | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_miranda_do_norte.svg) |
+| 2108108 | Paulo Ramos (MA) | `brasoes/mun/2108108.svg` | BrCaLeTo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_de_Paulo_Ramos_-_MA.svg) |
+| 2108603 | Pinheiro (MA) | `brasoes/mun/2108603.svg` | BrCaLeTo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_de_Pinheiro_-_MA.svg) |
+| 2109056 | Porto Rico do Maranhão (MA) | `brasoes/mun/2109056.svg` | BrCaLeTo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_de_Porto_Rico_do_Maranh%C3%A3o_-_MA.svg) |
+| 2111300 | São Luís (MA) | `brasoes/mun/2111300.svg` | Municipal prefecture of São Luís | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_de_S%C3%A3o_Lu%C3%ADs.svg) |
+| 2112407 | Turiaçu (MA) | `brasoes/mun/2112407.svg` | BrCaLeTo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_de_Turia%C3%A7u_-_MA.svg) |
+| 2200301 | Alto Longá (PI) | `brasoes/mun/2200301.png` | Adriano Silva | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:BRAS%C3%83O_DE_ALTO_LONG%C3%81_-_PI.svg) |
+| 2201101 | Avelino Lopes (PI) | `brasoes/mun/2201101.svg` | Carlos.psg2016 | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_de_Avelino_Lopes.svg) |
+| 2205508 | José de Freitas (PI) | `brasoes/mun/2205508.svg` | FORTES | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Brasao_JosedeFreitas_Piaui_Brasil.svg) |
+| 2205805 | Luzilândia (PI) | `brasoes/mun/2205805.svg` | BrCaLeTo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_de_Luzil%C3%A2ndia_-_PI.svg) |
+| 2208007 | Picos (PI) | `brasoes/mun/2208007.svg` | Pentelhojin | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Escudo_picos.svg) |
+| 2210607 | São Raimundo Nonato (PI) | `brasoes/mun/2210607.png` | autor desconhecido | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Brasao-sao-raimundo-nonato.svg) |
+| 2211001 | Teresina (PI) | `brasoes/mun/2211001.svg` | Cleberson Carlos | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_de_Teresina_(correto).svg) |
+| 2300903 | Apuiarés (CE) | `brasoes/mun/2300903.svg` | Paulo Rogério Sales Santos | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Brasao_apuiar%C3%A9s.svg) |
+| 2304400 | Fortaleza (CE) | `brasoes/mun/2304400.png` | Prefeitura de Fortaleza | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_de_Fortaleza.svg) |
+| 2304707 | Granja (CE) | `brasoes/mun/2304707.svg` | BrCaLeTo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_de_Granja_-_CE.svg) |
+| 2305308 | Ibiapina (CE) | `brasoes/mun/2305308.png` | Domínio Público | [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_vetorizado.svg) |
+| 2308500 | Mombaça (CE) | `brasoes/mun/2308500.png` | Junior Silva Rodriguess | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_de_Momba%C3%A7a.svg) |
+| 2310605 | Penaforte (CE) | `brasoes/mun/2310605.svg` | BrCaLeTo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_de_Penaforte_-_CE.svg) |
+| 2310803 | Pereiro (CE) | `brasoes/mun/2310803.svg` | Jakeadex | [CC BY 3.0](https://creativecommons.org/licenses/by/3.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:BrasaoPereiro.svg) |
+| 2313351 | Tejuçuoca (CE) | `brasoes/mun/2313351.svg` | BrCaLeTo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_de_Teju%C3%A7uoca_-_CE.svg) |
+| 2313955 | Varjota (CE) | `brasoes/mun/2313955.svg` | BrCaLeTo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_de_Varjota_-_CE.svg) |
+| 2403251 | Parnamirim (RN) | `brasoes/mun/2403251.svg` | BrCaLeTo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_de_Parnamirim_-_RN.svg) |
+| 2408102 | Natal (RN) | `brasoes/mun/2408102.svg` | ViniciusBR11, Prefeitura de Natal | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_de_Natal.svg) |
+| 2500403 | Alagoa Nova (PB) | `brasoes/mun/2500403.svg` | Prefeitura Municipal de Alagoa Nova | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Alagoa_Nova_-_Bras%C3%A3o_de_Armas.svg) |
+| 2500577 | Algodão de Jandaíra (PB) | `brasoes/mun/2500577.svg` | Prefeitura Municipal de Algodão de Jandaíra | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Algod%C3%A3o_de_Janda%C3%ADra_-_Bras%C3%A3o_de_Armas.svg) |
+| 2501153 | Areia de Baraúnas (PB) | `brasoes/mun/2501153.svg` | Prefeitura Municipal de Areia de Baraúnas | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Areia_de_Bara%C3%BAnas_-_Bras%C3%A3o_de_Armas.svg) |
+| 2502300 | Bom Sucesso (PB) | `brasoes/mun/2502300.svg` | Prefeitura de Bom sucesso | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bom_Sucesso,_PB_-_Bras%C3%A3o_de_Arma.svg) |
+| 2503209 | Cabedelo (PB) | `brasoes/mun/2503209.svg` | Município de Cabedelo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Cabedelo,_PB_-_Bras%C3%A3o_de_Armas.svg) |
+| 2503605 | Caiçara (PB) | `brasoes/mun/2503605.svg` | Município de Caiçara | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Cai%C3%A7ara,_PB_-_Bras%C3%A3o_de_Armas.svg) |
+| 2504033 | Capim (PB) | `brasoes/mun/2504033.svg` | Município de Capim | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Capim,_PB_-_Bras%C3%A3o_de_Armas.svg) |
+| 2504306 | Catolé do Rocha (PB) | `brasoes/mun/2504306.svg` | Município de Catolé do Rocha | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Catol%C3%A9_do_Rocha,_PB_-_Bras%C3%A3o_de_Armas.svg) |
+| 2504900 | Cruz do Espírito Santo (PB) | `brasoes/mun/2504900.png` | Municipality of Cruz do Espírito Santo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:CoA_Cruz_do_Esp%C3%ADrito_Santo.svg) |
+| 2506806 | Ingá (PB) | `brasoes/mun/2506806.svg` | UsuárioPar | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Ing%C3%A1_-_Bras%C3%A3o_de_Armas.svg) |
+| 2507101 | Itapororoca (PB) | `brasoes/mun/2507101.svg` | UsuárioPar | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Itapororoca_-_Bras%C3%A3o_de_Armas.svg) |
+| 2507507 | João Pessoa (PB) | `brasoes/mun/2507507.svg` | Municipality of João Pessoa. | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_de_Jo%C3%A3o_Pessoa.svg) |
+| 2508109 | Lagoa (PB) | `brasoes/mun/2508109.svg` | Cidade de Lagoa | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Lagoa,_PB_-_Bras%C3%A3o.svg) |
+| 2510204 | Nova Olinda (PB) | `brasoes/mun/2510204.svg` | BrCaLeTo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_de_Nova_Olinda_-_PB.svg) |
+| 2511202 | Pedras de Fogo (PB) | `brasoes/mun/2511202.svg` | Cidade de Pedras de Fogo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Pedras_de_Fogo,_PB_-_Bras%C3%A3o.svg) |
+| 2512200 | Prata (PB) | `brasoes/mun/2512200.svg` | autor desconhecido | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_do_Munic%C3%ADpio_de_Prata,_Para%C3%ADba.svg) |
+| 2512309 | Princesa Isabel (PB) | `brasoes/mun/2512309.png` | Cidade de Princesa Isabel | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Princesa_Isabel,_PB_-_Bras%C3%A3o.svg) |
+| 2512754 | Riachão do Bacamarte (PB) | `brasoes/mun/2512754.svg` | UsuárioPar | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_de_Riach%C3%A3o_do_Bacamarte-PB.svg) |
+| 2513653 | Joca Claudino (PB) | `brasoes/mun/2513653.svg` | UsuárioPar | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Joca_Claudino_-_Bras%C3%A3o_de_Armas.svg) |
+| 2516300 | Sumé (PB) | `brasoes/mun/2516300.svg` | Prefeitura de Sumé | [CC BY 2.5](https://creativecommons.org/licenses/by/2.5) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_Oficial_da_cidade_de_Sum%C3%A9-PB.svg) |
+| 2600054 | Abreu e Lima (PE) | `brasoes/mun/2600054.svg` | CityBreakingDown | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_Abreu_e_Lima.svg) |
+| 2600104 | Afogados da Ingazeira (PE) | `brasoes/mun/2600104.svg` | CityBreakingDown | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_de_Afogados_da_Ingazeira,_PE.svg) |
+| 2600203 | Afrânio (PE) | `brasoes/mun/2600203.svg` | CityBreakingDown | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:BRAS%C3%83O_AFR%C3%82NIO-PE.svg) |
+| 2600302 | Agrestina (PE) | `brasoes/mun/2600302.png` | CityBreakingDown | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_de_agrestina.svg) |
+| 2600401 | Água Preta (PE) | `brasoes/mun/2600401.svg` | CityBreakingDown | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Agua-preta.svg) |
+| 2600500 | Águas Belas (PE) | `brasoes/mun/2600500.png` | CityBreakingDown | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Brasao_aguas_belas.svg) |
+| 2600708 | Aliança (PE) | `brasoes/mun/2600708.svg` | CityBreakingDown | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Brasao_alianca.svg) |
+| 2600807 | Altinho (PE) | `brasoes/mun/2600807.svg` | CityBreakingDown | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Brasao_Altinho.svg) |
+| 2600906 | Amaraji (PE) | `brasoes/mun/2600906.svg` | CityBreakingDown | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_de_Amaraji.svg) |
+| 2601003 | Angelim (PE) | `brasoes/mun/2601003.svg` | CityBreakingDown | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Angelim-57774.svg) |
+| 2601052 | Araçoiaba (PE) | `brasoes/mun/2601052.svg` | CityBreakingDown | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Brasao_Aracoiaba.svg) |
+| 2601102 | Araripina (PE) | `brasoes/mun/2601102.svg` | CityBreakingDown | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:NovoBras%C3%A3oAraripina.svg) |
+| 2601201 | Arcoverde (PE) | `brasoes/mun/2601201.svg` | CityBreakingDown | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Brasao_de_Arcoverde.svg) |
+| 2601300 | Barra de Guabiraba (PE) | `brasoes/mun/2601300.svg` | CityBreakingDown | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Brasao_Barra_de_Guabiraba.svg) |
+| 2601409 | Barreiros (PE) | `brasoes/mun/2601409.svg` | CityBreakingDown | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Brasao_Barreiros.svg) |
+| 2601508 | Belém de Maria (PE) | `brasoes/mun/2601508.svg` | CityBreakingDown | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Brasao_de_Belem_de_Maria.svg) |
+| 2601607 | Belém do São Francisco (PE) | `brasoes/mun/2601607.svg` | CityBreakingDown | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Brasao_belem.svg) |
+| 2601706 | Belo Jardim (PE) | `brasoes/mun/2601706.svg` | CityBreakingDown | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_Oficial_de_Belo_Jardim.svg) |
+| 2601805 | Betânia (PE) | `brasoes/mun/2601805.svg` | CityBreakingDown | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Brasao_Betania.svg) |
+| 2601904 | Bezerros (PE) | `brasoes/mun/2601904.svg` | CityBreakingDown | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_de_Bezerros.svg) |
+| 2602001 | Bodocó (PE) | `brasoes/mun/2602001.svg` | Prefeitura Municipal de Bodocó | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Brasao-bodoco.svg) |
+| 2602308 | Bonito (PE) | `brasoes/mun/2602308.svg` | CityBreakingDown | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Brasao_Bonito.svg) |
+| 2602407 | Brejão (PE) | `brasoes/mun/2602407.svg` | CityBreakingDown | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Brasao_brejao.svg) |
+| 2602506 | Brejinho (PE) | `brasoes/mun/2602506.svg` | CityBreakingDown | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Brejinho-pe.svg) |
+| 2602704 | Buenos Aires (PE) | `brasoes/mun/2602704.svg` | CityBreakingDown | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_de_Buenos_Aires,_PE.svg) |
+| 2602902 | Cabo de Santo Agostinho (PE) | `brasoes/mun/2602902.svg` | Município do Cabo de Santo Agostinho | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:BRAS%C3%83O_DO_CABO_DE_SANTO_AGOSTINHO.svg) |
+| 2605459 | Fernando de Noronha (PE) | `brasoes/mun/2605459.svg` | Ten. Cel. Av. Jorge Longuinho. Vectorized by User:Feitidede | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Coat_of_Arms_of_Fernando_de_Noronha.svg) |
+| 2607604 | Ilha de Itamaracá (PE) | `brasoes/mun/2607604.svg` | Samhanin | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_the_Captaincy_of_Itamarac%C3%A1.svg) |
+| 2607703 | Itapetim (PE) | `brasoes/mun/2607703.svg` | Diogo Sergio | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_de_Itapetim,Pernambuco.svg) |
+| 2607901 | Jaboatão dos Guararapes (PE) | `brasoes/mun/2607901.png` | Municipal Prefecture of Jaboatão dos Guararapes | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Brasao_JaboataodosGuararapes_Pernambuco_Brasil.svg) |
+| 2609303 | Mirandiba (PE) | `brasoes/mun/2609303.svg` | BrCaLeTo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_de_Mirandiba_-_PE.svg) |
+| 2611101 | Petrolina (PE) | `brasoes/mun/2611101.svg` | Cleberson Carlos | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Brasao_de_Petrolina.svg) |
+| 2611309 | Pombos (PE) | `brasoes/mun/2611309.svg` | BrCaLeTo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_de_Pombos_-_PE.svg) |
+| 2611606 | Recife (PE) | `brasoes/mun/2611606.png` | Wilfredor | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_Recife.svg) |
+| 2614402 | Solidão (PE) | `brasoes/mun/2614402.svg` | CityBreakingDown | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:BRASAODOMUNICIPIO.svg) |
+| 2700300 | Arapiraca (AL) | `brasoes/mun/2700300.svg` | BrCaLeTo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_de_Arapiraca_-_AL.svg) |
+| 2704203 | Limoeiro de Anadia (AL) | `brasoes/mun/2704203.svg` | Silvano Almeida | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_de_Limoeiro_de_Anadia.svg) |
+| 2704302 | Maceió (AL) | `brasoes/mun/2704302.svg` | ViniciusBR11; Prefeitura de Maceió | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_de_Macei%C3%B3.svg) |
+| 2705507 | Murici (AL) | `brasoes/mun/2705507.svg` | MARCOS DIAS | [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:MURICI.svg) |
+| 2706208 | Palestina (AL) | `brasoes/mun/2706208.svg` | Potkek01 | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_de_Palestina_Alagoas.svg) |
+| 2706307 | Palmeira dos Índios (AL) | `brasoes/mun/2706307.png` | BrCaLeTo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_de_Palmeira_dos_%C3%8Dndios_-_AL.svg) |
+| 2709301 | União dos Palmares (AL) | `brasoes/mun/2709301.png` | BrCaLeTo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_de_Uni%C3%A3o_dos_Palmares_-_AL.svg) |
+| 2800209 | Aquidabã (SE) | `brasoes/mun/2800209.svg` | Riba28-maps | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Brasao_aquidaba.svg) |
+| 2800308 | Aracaju (SE) | `brasoes/mun/2800308.svg` | não informado | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_de_Aracaju.svg) |
+| 2801009 | Campo do Brito (SE) | `brasoes/mun/2801009.png` | http://www.galerafest.com/ | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Brasao-campo-do-brito-se.svg) |
+| 2801207 | Canindé de São Francisco (SE) | `brasoes/mun/2801207.svg` | Prefeitura Municipal de Canindé de São Francisco | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Brasao_caninde_sao_francisco.svg) |
+| 2801306 | Capela (SE) | `brasoes/mun/2801306.svg` | Prefeitura Municipal de Capela-SE | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Brasao_capela.svg) |
+| 2801603 | Cedro de São João (SE) | `brasoes/mun/2801603.png` | PREFEITURA MUNICIPAL DE CEDRO DE SÃO JOÃO | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Brasao_cedrodesaojoao.svg) |
+| 2801702 | Cristinápolis (SE) | `brasoes/mun/2801702.png` | Riba28-maps | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Brasao_cristinapolis.svg) |
+| 2801900 | Cumbe (SE) | `brasoes/mun/2801900.svg` | Prefeitura Municipal de Cumbe | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Brasao_cumbe.svg) |
+| 2802205 | Feira Nova (SE) | `brasoes/mun/2802205.svg` | Riba28-maps | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Brasao_feiranova.svg) |
+| 2802304 | Frei Paulo (SE) | `brasoes/mun/2802304.svg` | Riba28-maps | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Brasao_frei_paulo.svg) |
+| 2802502 | General Maynard (SE) | `brasoes/mun/2802502.svg` | Prefeitura Municipal General Maynard | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Brasao_genmaynard.svg) |
+| 2802601 | Graccho Cardoso (SE) | `brasoes/mun/2802601.svg` | Prefeitura Municipal de Gracco Cardoso | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Brasao_graccocardoso.svg) |
+| 2802700 | Ilha das Flores (SE) | `brasoes/mun/2802700.svg` | Prefeitura Municipal Ilha das Flores - SE | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Brasao_ilhadasflores.svg) |
+| 2803104 | Itabi (SE) | `brasoes/mun/2803104.svg` | Prefeitura municipal Itabi | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Brasao_itabi.svg) |
+| 2803401 | Japoatã (SE) | `brasoes/mun/2803401.svg` | BrCaLeTo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_de_Japoat%C3%A3_-_SE.svg) |
+| 2803807 | Malhada dos Bois (SE) | `brasoes/mun/2803807.png` | Prefeitura Municipal de Malhada dos Bois | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Brasao_malhadadosbois.svg) |
+| 2803906 | Malhador (SE) | `brasoes/mun/2803906.svg` | Prefeitura Municipal de Malhador | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Brasao_malhador.svg) |
+| 2804003 | Maruim (SE) | `brasoes/mun/2804003.svg` | Maria Lúcia Marques Cruz e Silva | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Brasao_maruim.svg) |
+| 2804102 | Moita Bonita (SE) | `brasoes/mun/2804102.svg` | Prefeitura Municipal de Moita Bonita | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Brasao_moitabonita.svg) |
+| 2804300 | Muribeca (SE) | `brasoes/mun/2804300.svg` | Prefeitura Municipal de Muribeca | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Brasao_muribeca.svg) |
+| 2804607 | Nossa Senhora das Dores (SE) | `brasoes/mun/2804607.svg` | Prefeitura Municipal de Nossa Senhora das Dores | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Brasao_nsdores.svg) |
+| 2804706 | Nossa Senhora de Lourdes (SE) | `brasoes/mun/2804706.svg` | Prefeitura Municipal de Nossa Senhora de Lourdes - Sergipe | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Brasao_nslourdes.svg) |
+| 2805307 | Pirambu (SE) | `brasoes/mun/2805307.svg` | Prefeitura Municipal de Pirambu-SE | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Brasao_pirambu.svg) |
+| 2805802 | Riachão do Dantas (SE) | `brasoes/mun/2805802.png` | Prefeitura Municipal de Riachão do Dantas-SE | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Riachao_dantas.svg) |
+| 2806404 | Santana do São Francisco (SE) | `brasoes/mun/2806404.svg` | Prefeitura Municipal de Santana do São Francisco-SE | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Santana_sf.svg) |
+| 2806503 | Santa Rosa de Lima (SE) | `brasoes/mun/2806503.svg` | Prefeitura Municipal de Santa Rosa de Lima - SE | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Brasao_starosalima.svg) |
+| 2806602 | Santo Amaro das Brotas (SE) | `brasoes/mun/2806602.svg` | Prefeitura Municipal de Santo Amaro das Brotas | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Brasao_STOAMARO.svg) |
+| 2806701 | São Cristóvão (SE) | `brasoes/mun/2806701.svg` | Riba28-maps, Spider | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Brasao_sao_cristovao.svg) |
+| 2807204 | Siriri (SE) | `brasoes/mun/2807204.svg` | Prefeitura Municipal de Siriri | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Brasao_siriri.svg) |
+| 2900702 | Alagoinhas (BA) | `brasoes/mun/2900702.svg` | BrCaLeTo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_de_Alagoinhas_-_BA.svg) |
+| 2902104 | Araci (BA) | `brasoes/mun/2902104.svg` | BrCaLeTo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_de_Araci_-_BA.svg) |
+| 2905701 | Camaçari (BA) | `brasoes/mun/2905701.svg` | Evandro de Souza | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_Cama%C3%A7ari-BA.svg) |
+| 2906303 | Canavieiras (BA) | `brasoes/mun/2906303.svg` | BrCaLeTo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_de_Canavieiras_-_BA.svg) |
+| 2906907 | Caravelas (BA) | `brasoes/mun/2906907.png` | BrCaLeTo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_de_Caravelas_-_BA.svg) |
+| 2907509 | Catu (BA) | `brasoes/mun/2907509.svg` | BrCaLeTo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_de_Catu_-_BA.svg) |
+| 2909802 | Cruz das Almas (BA) | `brasoes/mun/2909802.svg` | BrCaLeTo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_de_Cruz_das_Almas_-_BA.svg) |
+| 2910701 | Euclides da Cunha (BA) | `brasoes/mun/2910701.svg` | Walisson22 | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:BRAS%C3%83O_DE_ARMAS_DE_EUCLIDES_DA_CUNHA.svg) |
+| 2910727 | Eunápolis (BA) | `brasoes/mun/2910727.svg` | Rodrigo Melo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Brasao_eunapolis_revisado.svg) |
+| 2911709 | Guanambi (BA) | `brasoes/mun/2911709.svg` | BrCaLeTo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_de_Guanambi_-_BA.svg) |
+| 2913606 | Ilhéus (BA) | `brasoes/mun/2913606.svg` | Dudaweyll | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_de_Ilh%C3%A9us.svg) |
+| 2915700 | Itamari (BA) | `brasoes/mun/2915700.svg` | Municipio de Itamari | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_do_munic%C3%ADpio_de_Itamari-BA.svg) |
+| 2918902 | Lajedão (BA) | `brasoes/mun/2918902.svg` | user:GANO | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_Lajed%C3%A3o.svg) |
+| 2919207 | Lauro de Freitas (BA) | `brasoes/mun/2919207.svg` | Vetorializado por GANO | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_-_lauro_de_freitas.svg) |
+| 2921500 | Monte Santo (BA) | `brasoes/mun/2921500.svg` | BrCaLeTo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_de_Monte_Santo_-_BA.svg) |
+| 2921609 | Morpará (BA) | `brasoes/mun/2921609.svg` | BrCaLeTo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_de_Morpar%C3%A1_-_BA.svg) |
+| 2923001 | Nova Viçosa (BA) | `brasoes/mun/2923001.png` | BrCaLeTo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_de_Nova_Vi%C3%A7osa_-_BA.svg) |
+| 2923605 | Paramirim (BA) | `brasoes/mun/2923605.svg` | BrCaLeTo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_de_Paramirim_-_BA.svg) |
+| 2925956 | Rafael Jambeiro (BA) | `brasoes/mun/2925956.svg` | BrCaLeTo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_de_Rafael_Jambeiro_-_BA.svg) |
+| 2927408 | Salvador (BA) | `brasoes/mun/2927408.svg` | Câmara Municipal de Salvador | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_de_Salvador.svg) |
+| 2927705 | Santa Cruz Cabrália (BA) | `brasoes/mun/2927705.svg` | não informado | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:BrasaoSantaCruzCabralia.svg) |
+| 2929305 | São Gonçalo dos Campos (BA) | `brasoes/mun/2929305.svg` | BrCaLeTo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_de_S%C3%A3o_Gon%C3%A7alo_dos_Campos_-_BA.svg) |
+| 2929602 | Sapeaçu (BA) | `brasoes/mun/2929602.svg` | BrCaLeTo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_de_Sapea%C3%A7u_-_BA.svg) |
+| 2931350 | Teixeira de Freitas (BA) | `brasoes/mun/2931350.svg` | Gazilion | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_Teixeira_de_Freitas_-_BA.svg) |
+| 2931905 | Tucano (BA) | `brasoes/mun/2931905.svg` | BrCaLeTo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_de_Tucano_-_BA.svg) |
+| 2932309 | Ubatã (BA) | `brasoes/mun/2932309.svg` | BrCaLeTo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_de_Ubat%C3%A3_-_BA.svg) |
+| 2933158 | Várzea Nova (BA) | `brasoes/mun/2933158.svg` | Valessio | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:BrasaoVN.svg) |
+| 2933307 | Vitória da Conquista (BA) | `brasoes/mun/2933307.svg` | JHONATTAS FERRAZ (Alberto Lima) | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_Vitoria_da_Conquista.svg) |
+| 3106200 | Belo Horizonte (MG) | `brasoes/mun/3106200.svg` | Giro720 | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_de_Belo_Horizonte.svg) |
+| 3106705 | Betim (MG) | `brasoes/mun/3106705.svg` | ViniciusBR11; Prefeitura de Betim | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:BrasaoBetim.svg) |
+| 3107109 | Boa Esperança (MG) | `brasoes/mun/3107109.svg` | BrCaLeTo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_de_Boa_Esperan%C3%A7a_-_MG.svg) |
+| 3108255 | Bonito de Minas (MG) | `brasoes/mun/3108255.svg` | Raphael Castro Mota | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_do_Bonito_de_Minas.svg) |
+| 3114709 | Carvalhópolis (MG) | `brasoes/mun/3114709.svg` | AdrianoBG | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Carvalh%C3%B3polis_Bras%C3%A3o.svg) |
+| 3115102 | Cássia (MG) | `brasoes/mun/3115102.png` | Rbalieiro | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Brasao_de_Armas_Cassia.svg) |
+| 3119401 | Coronel Fabriciano (MG) | `brasoes/mun/3119401.svg` | André Koehne | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_Coronel_Fabriciano.svg) |
+| 3122306 | Divinópolis (MG) | `brasoes/mun/3122306.svg` | Franklin Baldo 05:22, 9 January 2007 (UTC) | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_de_divinopolis.svg) |
+| 3124203 | Espera Feliz (MG) | `brasoes/mun/3124203.svg` | Gilberto Junior | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_de_Armas_do_municip%C3%ADo_de_Espera_Feliz.svg) |
+| 3127701 | Governador Valadares (MG) | `brasoes/mun/3127701.svg` | Srfortes | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Brasao_GovernadorValadares_MinasGerais_Brasil.svg) |
+| 3128105 | Guapé (MG) | `brasoes/mun/3128105.svg` | Cássio Cândido de Rezende | [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_de_Guap%C3%A9-MG.svg) |
+| 3132107 | Itacarambi (MG) | `brasoes/mun/3132107.svg` | AllefFullStackDeveloper | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_da_Bandeira_da_Cidade_de_Itacarambi.svg) |
+| 3133303 | Itaobim (MG) | `brasoes/mun/3133303.svg` | Felipe mézio | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_Itaobim_SVG_001.svg) |
+| 3136959 | Juvenília (MG) | `brasoes/mun/3136959.svg` | Pcgomes | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Coat_of_Arms_of_Juven%C3%ADlia_-_MG_-_Brazil.svg) |
+| 3137106 | Lagamar (MG) | `brasoes/mun/3137106.png` | Municipal Prefecture of lagamar | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Brasao_Lagamar_MinasGerais_Brasil.svg) |
+| 3138005 | Laranjal (MG) | `brasoes/mun/3138005.svg` | JCL | [CC BY 1.0](https://creativecommons.org/licenses/by/1.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_de_Laranjal_-_MG.svg) |
+| 3138708 | Luminárias (MG) | `brasoes/mun/3138708.svg` | Prefeitura Municipal de Luminárias | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Brasao_municipio_luminarias_minas_gerais_brasil.svg) |
+| 3143302 | Montes Claros (MG) | `brasoes/mun/3143302.svg` | não informado | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Coat_of_arms_city_br_Montes_Claros.svg) |
+| 3147402 | Paraopeba (MG) | `brasoes/mun/3147402.svg` | Pablo Busatto | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Blason_ville_br_Paraopeba.svg) |
+| 3164704 | São Sebastião do Paraíso (MG) | `brasoes/mun/3164704.png` | não informado | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_de_S%C3%A3o_Sebasti%C3%A3o_do_Para%C3%ADso_-_MG.svg) |
+| 3201209 | Cachoeiro de Itapemirim (ES) | `brasoes/mun/3201209.png` | BrCaLeTo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_de_Cachoeiro_de_Itapemirim_-_ES.svg) |
+| 3201605 | Conceição da Barra (ES) | `brasoes/mun/3201605.svg` | BrCaLeTo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_de_Concei%C3%A7%C3%A3o_da_Barra_-_ES.svg) |
+| 3202207 | Fundão (ES) | `brasoes/mun/3202207.png` | Municipality of Fundão | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Fundao_ES.svg) |
+| 3205150 | Vila Pavão (ES) | `brasoes/mun/3205150.svg` | Juarez Pereira Barbosa, e desenhado no Corel por Anderson Jann Tesch | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Brasao_vila_pavao.svg) |
+| 3205200 | Vila Velha (ES) | `brasoes/mun/3205200.svg` | Reorganizador | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Coat_of_Arms_Vila_Velha.svg) |
+| 3205309 | Vitória (ES) | `brasoes/mun/3205309.svg` | Giro720 | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_de_Vit%C3%B3ria,_Esp%C3%ADrito_Santo.svg) |
+| 3300456 | Belford Roxo (RJ) | `brasoes/mun/3300456.svg` | Wanderson S. Dantas | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_de_Belford_Roxo.svg) |
+| 3300936 | Carapebus (RJ) | `brasoes/mun/3300936.png` | Governo do Brasil (Domínio Público segundo Lei nº 9610/1998, art. 115) | [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_de_Carapebus.svg) |
+| 3301157 | Cardoso Moreira (RJ) | `brasoes/mun/3301157.svg` | BrCaLeTo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_de_Cardoso_Moreira_-_RJ.svg) |
+| 3302270 | Japeri (RJ) | `brasoes/mun/3302270.svg` | Wanderson S. Dantas | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_de_Japeri.svg) |
+| 3302502 | Magé (RJ) | `brasoes/mun/3302502.png` | Magé municipality | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_de_Mag%C3%A9,_RJ.svg) |
+| 3302601 | Mangaratiba (RJ) | `brasoes/mun/3302601.svg` | BrCaLeTo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_de_Mangaratiba_-_RJ.svg) |
+| 3302858 | Mesquita (RJ) | `brasoes/mun/3302858.svg` | Giro720 | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_de_Mesquita_(Rio_de_Janeiro).svg) |
+| 3303302 | Niterói (RJ) | `brasoes/mun/3303302.svg` | Guilherme Paula | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_de_Niter%C3%B3i,_RJ.svg) |
+| 3303401 | Nova Friburgo (RJ) | `brasoes/mun/3303401.svg` | BrCaLeTo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_de_Nova_Friburgo_-_RJ.svg) |
+| 3303500 | Nova Iguaçu (RJ) | `brasoes/mun/3303500.svg` | Wanderson S. Dantas(exceto a primeira versão - except the first version) | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_de_Nova_Igua%C3%A7u.svg) |
+| 3303609 | Paracambi (RJ) | `brasoes/mun/3303609.svg` | LonelySpooky | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Paracambi_brasao.svg) |
+| 3304144 | Queimados (RJ) | `brasoes/mun/3304144.svg` | Wanderson S. Dantas | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_de_Queimados.svg) |
+| 3304557 | Rio de Janeiro (RJ) | `brasoes/mun/3304557.png` | Cidade do Rio de JaneiroTechnical ceation: Alex Nev, modified by Uploader | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_da_cidade_do_Rio_de_Janeiro.svg) |
+| 3304904 | São Gonçalo (RJ) | `brasoes/mun/3304904.svg` | Município de São Gonçalo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_de_S%C3%A3o_Gon%C3%A7alo,_RJ.svg) |
+| 3305505 | Saquarema (RJ) | `brasoes/mun/3305505.png` | não informado | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Brasao_Saqua_Sm.svg) |
+| 3305802 | Teresópolis (RJ) | `brasoes/mun/3305802.svg` | Dleafy | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Brasao_teresopolis.svg) |
+| 3306305 | Volta Redonda (RJ) | `brasoes/mun/3306305.svg` | Prefeitura Municipal de Volta Redonda | [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_de_Volta_Redonda_-_RJ.svg) |
+| 3501608 | Americana (SP) | `brasoes/mun/3501608.svg` | BrCaLeTo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_de_Americana_-_SP.svg) |
+| 3502101 | Andradina (SP) | `brasoes/mun/3502101.svg` | BrCaLeTo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_de_Andradina_-_SP.svg) |
+| 3503208 | Araraquara (SP) | `brasoes/mun/3503208.svg` | não informado | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:BrasaoAraraquara.svg) |
+| 3503307 | Araras (SP) | `brasoes/mun/3503307.png` | Enzo Silveira | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_de_Araras.svg) |
+| 3504503 | Avaré (SP) | `brasoes/mun/3504503.svg` | To je jedno | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Brasao_de_Avare.svg) |
+| 3504602 | Bady Bassitt (SP) | `brasoes/mun/3504602.png` | FORTES | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Brasao_BadyBassit_SaoPaulo_Brasil.svg) |
+| 3505906 | Batatais (SP) | `brasoes/mun/3505906.svg` | ViniciusBR11; Prefeitura de Batatais | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:BrasaoBatatais.svg) |
+| 3506003 | Bauru (SP) | `brasoes/mun/3506003.svg` | BrCaLeTo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_de_Bauru_-_SP.svg) |
+| 3506508 | Birigui (SP) | `brasoes/mun/3506508.svg` | Município de Birigüi | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Brasao-birigui.svg) |
+| 3506607 | Biritiba Mirim (SP) | `brasoes/mun/3506607.png` | Município de Biritiba Mirim. | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Biritiba_Mirim_(SP)_-_Brasao.svg) |
+| 3508108 | Buritama (SP) | `brasoes/mun/3508108.svg` | BrCaLeTo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_de_Buritama_-_SP.svg) |
+| 3509700 | Campos do Jordão (SP) | `brasoes/mun/3509700.svg` | FORTES | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Brasao_CamposdoJordao_SaoPaulo_Brasil_2.svg) |
+| 3510500 | Caraguatatuba (SP) | `brasoes/mun/3510500.svg` | não informado | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Brasao_Caraguatatuba_SaoPaulo_Brasil.svg) |
+| 3513009 | Cotia (SP) | `brasoes/mun/3513009.svg` | Prefeitura de Cotia | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_Cotia.svg) |
+| 3517901 | Guaraci (SP) | `brasoes/mun/3517901.svg` | Van | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Brasaoguaraci.svg) |
+| 3519071 | Hortolândia (SP) | `brasoes/mun/3519071.svg` | own work | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Brasao_Hortolandia_SaoPaulo_Brasil_v2.svg) |
+| 3520202 | Igaratá (SP) | `brasoes/mun/3520202.png` | não informado | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Brasao_Igarata_SaoPaulo_Brasil.svg) |
+| 3520509 | Indaiatuba (SP) | `brasoes/mun/3520509.svg` | Rbalieiro | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Indaiatuba_brasao.svg) |
+| 3522604 | Itapira (SP) | `brasoes/mun/3522604.svg` | Municipal Prefecture of Itapira | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Brasao_Itapira_SaoPaulo_Brasil.svg) |
+| 3522802 | Itaporanga (SP) | `brasoes/mun/3522802.png` | Prefeitura municipal de Itaporanga | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Itaporanga_sp_brasao.svg) |
+| 3523404 | Itatiba (SP) | `brasoes/mun/3523404.png` | Nilson Silva | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_do_Munic%C3%ADpio_de_Itatiba-SP.svg) |
+| 3524303 | Jaboticabal (SP) | `brasoes/mun/3524303.png` | não informado | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:BrasaoJaboticabal.svg) |
+| 3525102 | Jardinópolis (SP) | `brasoes/mun/3525102.svg` | não informado | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:BrasaoJardinopolisSP.svg) |
+| 3525904 | Jundiaí (SP) | `brasoes/mun/3525904.svg` | Prefeitura de Jundiaí. | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:BrasaoJundiai.svg) |
+| 3526001 | Junqueirópolis (SP) | `brasoes/mun/3526001.png` | self made | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Brasao_Junqueiropolis_SaoPaulo_Brasil.svg) |
+| 3526407 | Laranjal Paulista (SP) | `brasoes/mun/3526407.svg` | Igor Eliezer Borges | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_de_Laranjal_Paulista.svg) |
+| 3526704 | Leme (SP) | `brasoes/mun/3526704.svg` | Municipal Prefecture of Leme | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Brasao_Leme_SaoPaulo_Brasil.svg) |
+| 3526902 | Limeira (SP) | `brasoes/mun/3526902.svg` | self made | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Brasao_Limeira_SaoPaulo_Brasil.svg) |
+| 3527108 | Lins (SP) | `brasoes/mun/3527108.svg` | BrCaLeTo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_de_Lins_-_SP.svg) |
+| 3527405 | Lucélia (SP) | `brasoes/mun/3527405.svg` | BrCaLeTo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_de_Luc%C3%A9lia_-_SP.svg) |
+| 3528502 | Mairiporã (SP) | `brasoes/mun/3528502.svg` | BrCaLeTo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_de_Mairipor%C3%A3_-_SP.svg) |
+| 3529401 | Mauá (SP) | `brasoes/mun/3529401.png` | não informado | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Brasao_Maua_SaoPaulo_Brasil.svg) |
+| 3533601 | Nuporanga (SP) | `brasoes/mun/3533601.svg` | ViniciusBR11 | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:BrasaoNuporanga.svg) |
+| 3534302 | Orlândia (SP) | `brasoes/mun/3534302.svg` | ViniciusBR11, Prefeitura de Orlândia | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:BrasaoOrlandia.svg) |
+| 3534401 | Osasco (SP) | `brasoes/mun/3534401.svg` | Prefeitura de Osasco | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_de_Osasco.svg) |
+| 3537602 | Peruíbe (SP) | `brasoes/mun/3537602.svg` | self-made | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Brasao_Peruibe_SaoPaulo_Brasil.svg) |
+| 3541406 | Presidente Prudente (SP) | `brasoes/mun/3541406.svg` | Daniiitheconqueror | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_de_Presidente_Prudente.svg) |
+| 3542909 | Ribeirão Bonito (SP) | `brasoes/mun/3542909.svg` | BrCaLeTo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_de_Ribeir%C3%A3o_Bonito_-_SP.svg) |
+| 3543402 | Ribeirão Preto (SP) | `brasoes/mun/3543402.svg` | Prefeitura de Ribeirão Preto | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_de_Ribeir%C3%A3o_Preto.svg) |
+| 3543907 | Rio Claro (SP) | `brasoes/mun/3543907.png` | GumSL | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_Rio_Claro_(S%C3%A3o_Paulo).svg) |
+| 3545803 | Santa Bárbara d'Oeste (SP) | `brasoes/mun/3545803.png` | não informado | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Brasao_SantaBarbaradOeste_SaoPaulo_Brasil.svg) |
+| 3547809 | Santo André (SP) | `brasoes/mun/3547809.svg` | ViniciusBR11, Prefeitura de Santo André | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:BrasaoSantoAndre.svg) |
+| 3548500 | Santos (SP) | `brasoes/mun/3548500.png` | não informado | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Brasao_Santos_SaoPaulo_Brasil.svg) |
+| 3548807 | São Caetano do Sul (SP) | `brasoes/mun/3548807.svg` | self made | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Brasao_SaoCaetano_SaoPaulo_Brasil.svg) |
+| 3548906 | São Carlos (SP) | `brasoes/mun/3548906.svg` | não informado | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:BrasaoSaoCarlosSP.svg) |
+| 3549409 | São Joaquim da Barra (SP) | `brasoes/mun/3549409.svg` | ViniciusBR11; Prefeitura de São Joaquim da Barra | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:BrasaoSaoJoaquimDaBarra.svg) |
+| 3549904 | São José dos Campos (SP) | `brasoes/mun/3549904.svg` | Prefeitura de São José dos Campos | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_de_S%C3%A3o_Jos%C3%A9_dos_Campos.svg) |
+| 3550308 | São Paulo (SP) | `brasoes/mun/3550308.svg` | não informado | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_da_cidade_de_S%C3%A3o_Paulo.svg) |
+| 3551702 | Sertãozinho (SP) | `brasoes/mun/3551702.svg` | não informado | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:BrasaoSertaozinhoSP.svg) |
+| 3552205 | Sorocaba (SP) | `brasoes/mun/3552205.svg` | Prefeitura de Sorocaba | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:BrasaoSorocaba.svg) |
+| 3555000 | Tupã (SP) | `brasoes/mun/3555000.svg` | não informado | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:BrasaoTupa.svg) |
+| 3556206 | Valinhos (SP) | `brasoes/mun/3556206.svg` | victorwestmann | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Brasao-Valinhos.svg) |
+| 3556701 | Vinhedo (SP) | `brasoes/mun/3556701.svg` | BrCaLeTo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_de_Vinhedo_-_SP.svg) |
+| 4101101 | Andirá (PR) | `brasoes/mun/4101101.svg` | BrCaLeTo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_de_Andir%C3%A1_-_PR.svg) |
+| 4101507 | Arapongas (PR) | `brasoes/mun/4101507.png` | BrCaLeTo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_de_Arapongas_-_PR.svg) |
+| 4101606 | Arapoti (PR) | `brasoes/mun/4101606.svg` | BrCaLeTo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_de_Arapoti_-_PR.svg) |
+| 4102000 | Assis Chateaubriand (PR) | `brasoes/mun/4102000.png` | BrCaLeTo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_de_Assis_Chateaubriand_-_PR.svg) |
+| 4103107 | Bocaiúva do Sul (PR) | `brasoes/mun/4103107.png` | não informado | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Brasao_BocaiuvadoSul_Parana_Brasil.svg) |
+| 4103453 | Cafelândia (PR) | `brasoes/mun/4103453.svg` | BrCaLeTo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_de_Cafel%C3%A2ndia_-_PR.svg) |
+| 4103701 | Cambé (PR) | `brasoes/mun/4103701.svg` | não informado | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Brasao_Cambe_Parana_Brasil.svg) |
+| 4104303 | Campo Mourão (PR) | `brasoes/mun/4104303.png` | Municipal Prefecture of Campo Mourao | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Brasao_CampoMourao_Parana_Brasil.svg) |
+| 4104907 | Castro (PR) | `brasoes/mun/4104907.png` | Municipal prefecture of Castro | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Brasao_Castro_Parana_Brasil.svg) |
+| 4106407 | Cornélio Procópio (PR) | `brasoes/mun/4106407.svg` | não informado | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Brasao_CornelioProcopio_Parana_Brasil.svg) |
+| 4106902 | Curitiba (PR) | `brasoes/mun/4106902.png` | não informado | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_de_Curitiba.svg) |
+| 4108205 | Formosa do Oeste (PR) | `brasoes/mun/4108205.png` | FelipeRM2008 | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Brasao_Formosa_do_Oeste.svg) |
+| 4108304 | Foz do Iguaçu (PR) | `brasoes/mun/4108304.svg` | ArcGIS | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_de_Armas_do_Munic%C3%ADpio_de_Foz_do_Igua%C3%A7u.svg) |
+| 4108452 | Foz do Jordão (PR) | `brasoes/mun/4108452.png` | BrCaLeTo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_de_Foz_do_Jord%C3%A3o_-_PR.svg) |
+| 4108601 | Goioerê (PR) | `brasoes/mun/4108601.png` | não informado | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_de_Goioer%C3%AA.svg) |
+| 4112108 | Jandaia do Sul (PR) | `brasoes/mun/4112108.svg` | BrCaLeTo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_de_Jandaia_do_Sul_-_PR.svg) |
+| 4113700 | Londrina (PR) | `brasoes/mun/4113700.png` | não informado | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Brasao_Londrina_Parana_Brasil.svg) |
+| 4115101 | Mariluz (PR) | `brasoes/mun/4115101.png` | IdrabmoL | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_de_Mariluz_-_PR.svg) |
+| 4115200 | Maringá (PR) | `brasoes/mun/4115200.svg` | BrCaLeTo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_de_Maring%C3%A1_-_PR.svg) |
+| 4116208 | Morretes (PR) | `brasoes/mun/4116208.svg` | BrCaLeTo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_de_Morretes_-_PR.svg) |
+| 4117305 | Ortigueira (PR) | `brasoes/mun/4117305.svg` | BrCaLeTo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_de_Ortigueira_-_PR.svg) |
+| 4119608 | Pitanga (PR) | `brasoes/mun/4119608.svg` | BrCaLeTo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_de_Pitanga_-_PR.svg) |
+| 4121000 | Querência do Norte (PR) | `brasoes/mun/4121000.svg` | BrCaLeTo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_de_Quer%C3%AAncia_do_Norte_-_PR.svg) |
+| 4123808 | Santa Izabel do Oeste (PR) | `brasoes/mun/4123808.svg` | BrCaLeTo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_de_Santa_Izabel_do_Oeste_-_PR.svg) |
+| 4125704 | São Miguel do Iguaçu (PR) | `brasoes/mun/4125704.svg` | BrCaLeTo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_de_S%C3%A3o_Miguel_do_Igua%C3%A7u_-_PR.svg) |
+| 4126272 | Saudade do Iguaçu (PR) | `brasoes/mun/4126272.svg` | Davisinho Moreira | [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:BRAS%C3%83O_SAUDADE_DO_IGUA%C3%87U.svg) |
+| 4128104 | Umuarama (PR) | `brasoes/mun/4128104.svg` | BrCaLeTo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_de_Umuarama_-_PR.svg) |
+| 4128500 | Wenceslau Braz (PR) | `brasoes/mun/4128500.png` | Pcgomes | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Coat_of_Arms_of_Wenceslau_Braz_-_PR_-_Brazil.svg) |
+| 4128609 | Verê (PR) | `brasoes/mun/4128609.svg` | BrCaLeTo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_de_Ver%C3%AA_-_PR.svg) |
+| 4200200 | Agrolândia (SC) | `brasoes/mun/4200200.png` | Miguel Batista | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_do_munic%C3%ADpio_de_Agrol%C3%A2ndia_(SC).svg) |
+| 4200309 | Agronômica (SC) | `brasoes/mun/4200309.svg` | Prefeitura Municipal de Agronômica (SC) | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_do_munic%C3%ADpio_de_Agron%C3%B4mica_(SC).svg) |
+| 4201802 | Atalanta (SC) | `brasoes/mun/4201802.svg` | Prefeitura Municipal de Atalanta (SC) | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_do_munic%C3%ADpio_de_Atalanta_(SC).svg) |
+| 4201901 | Aurora (SC) | `brasoes/mun/4201901.png` | Prefeitura Municipal de Aurora (SC) | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_do_munic%C3%ADpio_de_Aurora_(SC).svg) |
+| 4202008 | Balneário Camboriú (SC) | `brasoes/mun/4202008.svg` | BrCaLeTo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_de_Balne%C3%A1rio_Cambori%C3%BA_-_SC.svg) |
+| 4202107 | Barra Velha (SC) | `brasoes/mun/4202107.svg` | Prefeitura Municipal de Barra Velha (SC) | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_do_munic%C3%ADpio_de_Barra_Velha_(SC).svg) |
+| 4202305 | Biguaçu (SC) | `brasoes/mun/4202305.png` | Municipal Prefecture of Biguaçu | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Brasao_Biguacu_SantaCatarina_Brasil.svg) |
+| 4202404 | Blumenau (SC) | `brasoes/mun/4202404.svg` | Josedar (SVG conversion) | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_Blumenau.svg) |
+| 4202453 | Bombinhas (SC) | `brasoes/mun/4202453.png` | Prefeitura Municipal de Bombinhas (SC) | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_do_munic%C3%ADpio_de_Bombinhas_(SC).svg) |
+| 4202859 | Braço do Trombudo (SC) | `brasoes/mun/4202859.svg` | Prefeitura Municipal de Braço do Trombudo (SC) | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_do_munic%C3%ADpio_de_Bra%C3%A7o_do_Trombudo_(SC).svg) |
+| 4202909 | Brusque (SC) | `brasoes/mun/4202909.svg` | Reference image: unknown Crown: Heralder Vectorization: Auguel | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Coats_of_arms_of_Brusque_city_(Santa_Catarina).svg) |
+| 4203204 | Camboriú (SC) | `brasoes/mun/4203204.png` | Prefeitura municipal de Camboriú | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Brasao_Camboriu_SantaCatarina_Brasil.svg) |
+| 4203600 | Campos Novos (SC) | `brasoes/mun/4203600.svg` | BrCaLeTo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_de_Campos_Novos_-_SC.svg) |
+| 4203956 | Capivari de Baixo (SC) | `brasoes/mun/4203956.svg` | Prefeitura Municipal de Capivari de Baixo (SC) | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_do_munic%C3%ADpio_de_Capivari_de_Baixo_(SC).svg) |
+| 4204004 | Catanduvas (SC) | `brasoes/mun/4204004.svg` | Prefeitura Municipal de Catanduvas (SC) | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_do_munic%C3%ADpio_de_Catanduvas_(SC).svg) |
+| 4204103 | Caxambu do Sul (SC) | `brasoes/mun/4204103.svg` | Prefeitura Municipal de Caxambu do Sul (SC) | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_do_munic%C3%ADpio_de_Caxambu_do_Sul_(SC).svg) |
+| 4204194 | Chapadão do Lageado (SC) | `brasoes/mun/4204194.svg` | Prefeitura Municipal de Chapadão do Lageado (SC) | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_do_munic%C3%ADpio_de_Chapad%C3%A3o_do_Lageado_(SC).svg) |
+| 4204202 | Chapecó (SC) | `brasoes/mun/4204202.png` | Lauro Sant'Anna e Homero M. Franco. Prefeitura Municipal de Chapecó | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:BRA_Chapec%C3%B3_COA.svg) |
+| 4204301 | Concórdia (SC) | `brasoes/mun/4204301.svg` | CityBreakingDown | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Brasao_Concordia_SantaCatarina_Brasil.svg) |
+| 4204608 | Criciúma (SC) | `brasoes/mun/4204608.svg` | ViniciusBR11, Prefeitura de Criciúma | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:BrasaoCriciuma.svg) |
+| 4204806 | Curitibanos (SC) | `brasoes/mun/4204806.svg` | Prefeitura Municipal de Curitibanos (SC) | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_do_munic%C3%ADpio_de_Curitibanos_(SC).svg) |
+| 4205100 | Dona Emma (SC) | `brasoes/mun/4205100.svg` | Prefeitura Municipal de Dona Emma (SC) | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_do_munic%C3%ADpio_de_Dona_Emma_(SC).svg) |
+| 4206306 | Guabiruba (SC) | `brasoes/mun/4206306.svg` | Prefeitura Municipal de Guabiruba | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_do_munic%C3%ADpio_de_Guabiruba_(SC).svg) |
+| 4206504 | Guaramirim (SC) | `brasoes/mun/4206504.svg` | Prefeitura Municipal de Guaramirim (SC) | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_do_munic%C3%ADpio_de_Guaramirim_(SC).svg) |
+| 4206702 | Herval d'Oeste (SC) | `brasoes/mun/4206702.svg` | Prefeitura Municipal de Herval d'Oeste (SC) | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_do_munic%C3%ADpio_de_Herval_d%27Oeste_(SC).svg) |
+| 4206900 | Ibirama (SC) | `brasoes/mun/4206900.png` | Prefeitura Municipal de Ibirama (SC) | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_do_munic%C3%ADpio_de_Ibirama_(SC).svg) |
+| 4207403 | Imbuia (SC) | `brasoes/mun/4207403.svg` | Prefeitura Municipal de Imbuia (SC) | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_do_munic%C3%ADpio_de_Imbuia_(SC).svg) |
+| 4207502 | Indaial (SC) | `brasoes/mun/4207502.svg` | Prefeitura Municipal de Indaial (SC) | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_do_munic%C3%ADpio_de_Indaial_(SC).svg) |
+| 4207759 | Iraceminha (SC) | `brasoes/mun/4207759.svg` | Prefeitura Municipal de Iraceminha (SC) | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_do_munic%C3%ADpio_de_Iraceminha_(SC).svg) |
+| 4208203 | Itajaí (SC) | `brasoes/mun/4208203.svg` | não informado | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Brasao_Itajai_SantaCatarina_Brasil.svg) |
+| 4208302 | Itapema (SC) | `brasoes/mun/4208302.svg` | Prefeitura Municipal de Itapema (SC) | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_do_munic%C3%ADpio_de_Itapema_(SC).svg) |
+| 4208450 | Itapoá (SC) | `brasoes/mun/4208450.svg` | BrCaLeTo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_de_Itapo%C3%A1_-_SC.svg) |
+| 4208500 | Ituporanga (SC) | `brasoes/mun/4208500.svg` | Prefeitura Municipal de Ituporanga (SC) | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_do_munic%C3%ADpio_de_Ituporanga_(SC).svg) |
+| 4208906 | Jaraguá do Sul (SC) | `brasoes/mun/4208906.svg` | Municipal prefecture of Jaraguá do Sul | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Brasao_JaraguadoSul_SantaCatarina_Brasil.svg) |
+| 4208955 | Jardinópolis (SC) | `brasoes/mun/4208955.png` | Prefeitura Municipal de Jardinópolis | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_do_munic%C3%ADpio_de_Jardin%C3%B3polis_(SC).svg) |
+| 4209102 | Joinville (SC) | `brasoes/mun/4209102.svg` | Prefeitura de Joinville | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_de_Joinville.svg) |
+| 4209151 | José Boiteux (SC) | `brasoes/mun/4209151.svg` | Prefeitura Municipal de José Boiteux (SC) | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_do_munic%C3%ADpio_de_Jos%C3%A9_Boiteux_(SC).svg) |
+| 4209508 | Laurentino (SC) | `brasoes/mun/4209508.svg` | Prefeitura Municipal de Laurentino (SC) | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_do_munic%C3%ADpio_de_Laurentino_(SC).svg) |
+| 4209904 | Lontras (SC) | `brasoes/mun/4209904.svg` | Prefeitura Municipal de Lontras (SC) | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_do_munic%C3%ADpio_de_Lontras_(SC).svg) |
+| 4210100 | Mafra (SC) | `brasoes/mun/4210100.svg` | Prefeitura Municipal de Mafra (SC) | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_do_munic%C3%ADpio_de_Mafra_(SC).svg) |
+| 4210852 | Mirim Doce (SC) | `brasoes/mun/4210852.svg` | Prefeitura Municipal de Mirim Doce (SC) | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_do_munic%C3%ADpio_de_Mirim_Doce_(SC).svg) |
+| 4210902 | Modelo (SC) | `brasoes/mun/4210902.svg` | Prefeitura Municipal de Modelo (SC) | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_do_munic%C3%ADpio_de_Modelo_(SC).svg) |
+| 4211652 | Novo Horizonte (SC) | `brasoes/mun/4211652.png` | Prefeitura Municipal de Novo Horizonte (SC) | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_do_munic%C3%ADpio_de_Novo_Horizonte_(SC).svg) |
+| 4212007 | Palma Sola (SC) | `brasoes/mun/4212007.svg` | Prefeitura Municipal de Palma Sola (SC) | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_do_munic%C3%ADpio_de_Palma_Sola_(SC).svg) |
+| 4212700 | Petrolândia (SC) | `brasoes/mun/4212700.svg` | Prefeitura Municipal de Petrolândia (SC) | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_do_munic%C3%ADpio_de_Petrol%C3%A2ndia_(SC).svg) |
+| 4213005 | Pinheiro Preto (SC) | `brasoes/mun/4213005.svg` | Prefeitura Municipal de Pinheiro Preto (SC) | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_do_munic%C3%ADpio_de_Pinheiro_Preto_(SC).svg) |
+| 4213708 | Pouso Redondo (SC) | `brasoes/mun/4213708.svg` | Prefeitura Municipal de Pouso Redondo (SC) | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_do_munic%C3%ADpio_de_Pouso_Redondo_(SC).svg) |
+| 4214003 | Presidente Getúlio (SC) | `brasoes/mun/4214003.svg` | Prefeitura Municipal de Presidente Getúlio (SC) | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_do_munic%C3%ADpio_de_Presidente_Get%C3%BAlio_(SC).svg) |
+| 4214102 | Presidente Nereu (SC) | `brasoes/mun/4214102.svg` | Prefeitura Municipal de Presidente Nereu (SC) | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_do_munic%C3%ADpio_de_Presidente_Nereu_(SC).svg) |
+| 4214607 | Rio do Oeste (SC) | `brasoes/mun/4214607.svg` | Prefeitura Municipal de Rio do Oeste (SC) | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_do_munic%C3%ADpio_de_Rio_do_Oeste_(SC).svg) |
+| 4214805 | Rio do Sul (SC) | `brasoes/mun/4214805.png` | Prefeitura Municipal de Rio do Sul (SC) | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_do_munic%C3%ADpio_de_Rio_do_Sul_(SC).svg) |
+| 4215307 | Salete (SC) | `brasoes/mun/4215307.svg` | Prefeitura Municipal de Salete (SC) | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_do_munic%C3%ADpio_de_Salete_(SC).svg) |
+| 4215356 | Saltinho (SC) | `brasoes/mun/4215356.svg` | Prefeitura Municipal de Saltinho (SC) | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_do_munic%C3%ADpio_de_Saltinho_(SC).svg) |
+| 4216107 | São Domingos (SC) | `brasoes/mun/4216107.svg` | Prefeitura Municipal de São Domingos (SC) | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_do_munic%C3%ADpio_de_S%C3%A3o_Domingos_(SC).svg) |
+| 4216255 | São João do Oeste (SC) | `brasoes/mun/4216255.png` | BrCaLeTo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_de_S%C3%A3o_Jo%C3%A3o_do_Oeste_-_SC.svg) |
+| 4216354 | São João do Itaperiú (SC) | `brasoes/mun/4216354.svg` | Prefeitura Municipal de São João do Itaperiú (SC) | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_do_munic%C3%ADpio_de_S%C3%A3o_Jo%C3%A3o_do_Itaperi%C3%BA_(SC).svg) |
+| 4217808 | Taió (SC) | `brasoes/mun/4217808.svg` | Prefeitura Municipal de Taió (SC) | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_do_munic%C3%ADpio_de_Tai%C3%B3_(SC).svg) |
+| 4217907 | Tangará (SC) | `brasoes/mun/4217907.png` | BrCaLeTo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_de_Tangar%C3%A1_-_SC.svg) |
+| 4218202 | Timbó (SC) | `brasoes/mun/4218202.png` | Prefeitura Municipal de Timbó (SC) | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_do_munic%C3%ADpio_de_Timb%C3%B3_(SC).svg) |
+| 4218608 | Trombudo Central (SC) | `brasoes/mun/4218608.svg` | Prefeitura Municipal de Trombudo Central (SC) | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_do_munic%C3%ADpio_de_Trombudo_Central_(SC).svg) |
+| 4219200 | Vidal Ramos (SC) | `brasoes/mun/4219200.svg` | Prefeitura Municipal de Vidal Ramos (SC) | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_do_munic%C3%ADpio_de_Vidal_Ramos_(SC).svg) |
+| 4219358 | Vitor Meireles (SC) | `brasoes/mun/4219358.svg` | Prefeitura Municipal de Vitor Meireles | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_do_munic%C3%ADpio_de_Vitor_Meireles_(SC).svg) |
+| 4219408 | Witmarsum (SC) | `brasoes/mun/4219408.svg` | Prefeitura Municipal de Witmarsum (SC) | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_do_munic%C3%ADpio_de_Witmarsum_(SC).svg) |
+| 4300208 | Ajuricaba (RS) | `brasoes/mun/4300208.svg` | Prefeitura Municipal de Ajuricaba | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_de_Ajuricaba.svg) |
+| 4300406 | Alegrete (RS) | `brasoes/mun/4300406.png` | Franklinbaldo 01:10, 1 January 2007 (UTC) | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_de_Alegrete_(Rio_Grande_do_Sul).svg) |
+| 4300604 | Alvorada (RS) | `brasoes/mun/4300604.svg` | Vanei Simon | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_de_Alvorada_RS.svg) |
+| 4302105 | Bento Gonçalves (RS) | `brasoes/mun/4302105.svg` | Brasão Bento Gonçalves.jpg: User:Santista1982 Derivative work: BGImages | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_de_Bento_Gon%C3%A7alves.svg) |
+| 4302907 | Cacequi (RS) | `brasoes/mun/4302907.svg` | BrCaLeTo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_de_Cacequi_-_RS.svg) |
+| 4303509 | Camaquã (RS) | `brasoes/mun/4303509.svg` | Prefeitura Municipal de Camaquã | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_de_Camaqu%C3%A3.svg) |
+| 4304358 | Candiota (RS) | `brasoes/mun/4304358.svg` | Município de Candiota | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_candiota_rs_brasil.svg) |
+| 4305900 | Coronel Bicaco (RS) | `brasoes/mun/4305900.svg` | BrCaLeTo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_de_Coronel_Bicaco_-_RS.svg) |
+| 4306106 | Cruz Alta (RS) | `brasoes/mun/4306106.svg` | Lucasschnorr | [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Coats_of_arms_of_Cruz_Alta.svg) |
+| 4306601 | Dom Pedrito (RS) | `brasoes/mun/4306601.svg` | CityBreakingDown | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Dom_Pedrito_-_(RS)_-_Brasao.svg) |
+| 4306767 | Eldorado do Sul (RS) | `brasoes/mun/4306767.png` | Prefeitura Municipal de Eldorado do Sul | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_de_Eldorado_do_Sul.svg) |
+| 4306973 | Erebango (RS) | `brasoes/mun/4306973.png` | Municipality of Erebango. | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Brazao_erebango.svg) |
+| 4307906 | Farroupilha (RS) | `brasoes/mun/4307906.svg` | Prefeitura Farroupilha | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Brasao_farroupilha.svg) |
+| 4309308 | Guaíba (RS) | `brasoes/mun/4309308.png` | Prefeitura Municipal de Guaíba | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_de_Gua%C3%ADba.svg) |
+| 4310108 | Igrejinha (RS) | `brasoes/mun/4310108.svg` | Prefeitura Municipal de Igrejinha | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_de_Igrejinha.svg) |
+| 4310207 | Ijuí (RS) | `brasoes/mun/4310207.svg` | não informado | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Ijui_(RS)_-_Brasao.svg) |
+| 4311908 | Marcelino Ramos (RS) | `brasoes/mun/4311908.svg` | BrCaLeTo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_de_Marcelino_Ramos_-_RS.svg) |
+| 4311981 | Mariana Pimentel (RS) | `brasoes/mun/4311981.svg` | Prefeitura Municipal de Mariana Pimentel | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_de_Mariana_Pimentel.svg) |
+| 4312203 | Maximiliano de Almeida (RS) | `brasoes/mun/4312203.png` | Municipality of Maximiliano de Almeida. | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Brazao_maximiliano_de_almeida.svg) |
+| 4312625 | Muliterno (RS) | `brasoes/mun/4312625.png` | Jonata | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Brazao_muliterno.svg) |
+| 4313409 | Novo Hamburgo (RS) | `brasoes/mun/4313409.svg` | Prefeitura Municipal de Novo Hamburgo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_de_Novo_Hamburgo.svg) |
+| 4314555 | Pirapó (RS) | `brasoes/mun/4314555.png` | Prefeitura Municipal de Pirapó | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_de_Pirap%C3%B3.svg) |
+| 4314902 | Porto Alegre (RS) | `brasoes/mun/4314902.svg` | Vetor por Douglas Aguiar (Procempa, Porto Alegre, 2023) | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Coats_of_arms_of_Porto_Alegre.svg) |
+| 4316709 | Santa Bárbara do Sul (RS) | `brasoes/mun/4316709.png` | BrCaLeTo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_de_Santa_B%C3%A1rbara_do_Sul_-_RS.svg) |
+| 4316733 | Santa Cecília do Sul (RS) | `brasoes/mun/4316733.svg` | Município de Santa Cecília do Sul | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Santa_cecilia_do_sul.svg) |
+| 4316907 | Santa Maria (RS) | `brasoes/mun/4316907.svg` | Franklin Baldo 03:35, 3 January 2007 (UTC) | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_de_Santa_Maria_(RS).svg) |
+| 4317608 | Santo Antônio da Patrulha (RS) | `brasoes/mun/4317608.svg` | Giro720 | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_de_Santo_Ant%C3%B4nio_da_Patrulha.svg) |
+| 4317905 | Santo Cristo (RS) | `brasoes/mun/4317905.svg` | Prefeitura Municipal de Santo Cristo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Brasao_SantoCristo_RioGrandedoSul_Brasil.svg) |
+| 4318804 | São Lourenço do Sul (RS) | `brasoes/mun/4318804.svg` | Prefeitura Municipal de São Lourenço do Sul | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_de_S%C3%A3o_Louren%C3%A7o_do_Sul.svg) |
+| 4319604 | São Sepé (RS) | `brasoes/mun/4319604.png` | Municipality of São Sepé; vectorized by Fúlvio | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_de_S%C3%A3o_Sep%C3%A9.svg) |
+| 4320701 | Sobradinho (RS) | `brasoes/mun/4320701.svg` | BrCaLeTo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_de_Sobradinho_-_RS.svg) |
+| 4321303 | Taquari (RS) | `brasoes/mun/4321303.png` | Prefeitura Municipal de Taquari | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_de_Taquari.svg) |
+| 4323457 | Vila Nova do Sul (RS) | `brasoes/mun/4323457.png` | BrCaLeTo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_de_Vila_Nova_do_Sul_-_RS.svg) |
+| 5001904 | Bataguassu (MS) | `brasoes/mun/5001904.svg` | não informado | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Brasao_Bataguassu_MatoGrossodoSul_Brasil.svg) |
+| 5002407 | Caarapó (MS) | `brasoes/mun/5002407.png` | não informado | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Brasao_Caarapo_MatoGrossodoSul_Brasil.svg) |
+| 5003702 | Dourados (MS) | `brasoes/mun/5003702.svg` | não informado | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Brasao_Dourados_MatoGrossodoSul_Brasil.svg) |
+| 5007109 | Ribas do Rio Pardo (MS) | `brasoes/mun/5007109.svg` | BrCaLeTo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_de_Ribas_do_Rio_Pardo_-_MS.svg) |
+| 5101704 | Barra do Bugres (MT) | `brasoes/mun/5101704.png` | BrCaLeTo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_de_Barra_do_Bugres_-_MT.svg) |
+| 5102793 | Carlinda (MT) | `brasoes/mun/5102793.svg` | Junior | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_de_Carlinda,_MT.svg) |
+| 5103403 | Cuiabá (MT) | `brasoes/mun/5103403.svg` | BrCaLeTo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_de_Cuiab%C3%A1.svg) |
+| 5201108 | Anápolis (GO) | `brasoes/mun/5201108.svg` | BrCaLeTo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_de_An%C3%A1polis_-_GO.svg) |
+| 5207253 | Doverlândia (GO) | `brasoes/mun/5207253.svg` | paulopetry | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Brasao_municipio_doverlandia.svg) |
+| 5208004 | Formosa (GO) | `brasoes/mun/5208004.png` | Prefeitura Municipal de Formosa, GO | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_de_Formosa_-_GO.svg) |
+| 5208707 | Goiânia (GO) | `brasoes/mun/5208707.svg` | Brasão do município de Goiânia, capital do estado de Goiás, Brasil | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_de_Goi%C3%A2nia.svg) |
+| 5220504 | Serranópolis (GO) | `brasoes/mun/5220504.png` | BrCaLeTo | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_de_Serran%C3%B3polis_-_GO.svg) |
+| 5300108 | Brasília (DF) | `brasoes/mun/5300108.svg` | tonyjeff | Public domain | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_do_Distrito_Federal_(Brasil).svg) |
