@@ -18,6 +18,32 @@
     "url": "git+https://github.com/StrategicProjects/flags-brasil.git"
   },
   "license": "MIT",
+  "author": {
+    "name": "André Leite",
+    "email": "leite@castlab.org"
+  },
+  "contributors": [
+    {
+      "name": "Marcos Wasiliew",
+      "email": "marcos.wasiliew@gmail.com"
+    },
+    {
+      "name": "Hugo Vasconcelos",
+      "email": "hugo.vasconcelos@ufpe.br"
+    },
+    {
+      "name": "Carlos Amorim",
+      "email": "carlos.agaf@ufpe.br"
+    },
+    {
+      "name": "Diogo Bezerra",
+      "email": "diogo.bezerra@ufpe.br"
+    },
+    {
+      "name": "Júlia Nascimento Barreto",
+      "email": "juliabarreto@gd.seplag.pe.gov.br"
+    }
+  ],
   "style": "css/flags-brasil.css",
   "files": [
     "flags/br.svg",

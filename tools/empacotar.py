@@ -93,6 +93,8 @@ def main() -> None:
         "repository": raiz_pkg["repository"],
         "bugs": {"url": "https://github.com/StrategicProjects/flags-brasil/issues"},
         "license": "SEE LICENSE IN LICENSE",
+        "author": raiz_pkg["author"],
+        "contributors": raiz_pkg["contributors"],
         "style": "css/municipios.css",
         "peerDependencies": {"flags-brasil": f'^{raiz_pkg["version"]}'},
     }, ensure_ascii=False, indent=2) + "\n")
