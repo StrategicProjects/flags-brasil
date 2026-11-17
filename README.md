@@ -1,5 +1,11 @@
 # flags-brasil
 
+[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.24286741-0b7a43)](https://doi.org/10.5281/zenodo.24286741)
+[![Versão](https://img.shields.io/github/v/release/StrategicProjects/flags-brasil?label=vers%C3%A3o)](https://github.com/StrategicProjects/flags-brasil/releases/latest)
+[![npm](https://img.shields.io/npm/v/flags-brasil?label=npm)](https://www.npmjs.com/package/flags-brasil)
+[![npm municípios](https://img.shields.io/npm/v/flags-brasil-municipios?label=npm%20munic%C3%ADpios)](https://www.npmjs.com/package/flags-brasil-municipios)
+[![Código MIT](https://img.shields.io/badge/c%C3%B3digo-MIT-blue)](LICENSE)
+
 Bandeiras do Brasil, das 27 unidades da federação e dos municípios, prontas para
 usar em sites, painéis e relatórios. Inspirado no
 [flag-icons](https://github.com/lipis/flag-icons), com o recorte que ele não
