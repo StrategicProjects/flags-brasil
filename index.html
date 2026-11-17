@@ -48,6 +48,9 @@ h1 { margin: 0; font-size: clamp(1.9rem, 4.5vw, 2.6rem); font-weight: 600; lette
 nav.topo { display: flex; gap: 1.5rem; flex-wrap: wrap; font-size: .95rem; }
 nav.topo a { text-decoration: none; }
 nav.topo a:hover { text-decoration: underline; }
+.selos { display: flex; gap: .4rem; flex-wrap: wrap; margin: .25rem 0 0; }
+.selos a { display: inline-flex; }
+.selos img { height: 20px; display: block; }
 
 /* As 27 UFs são o filtro */
 .mastro {
@@ -183,6 +186,13 @@ footer p { max-width: 44rem; }
       <a href="https://github.com/StrategicProjects/flags-brasil">GitHub</a>
       <a href="https://github.com/StrategicProjects/flags-brasil/blob/main/CREDITOS.md">Créditos e licenças</a>
     </nav>
+    <p class="selos">
+      <a href="https://doi.org/10.5281/zenodo.24286741"><img src="https://img.shields.io/badge/DOI-10.5281%2Fzenodo.24286741-0b7a43" alt="DOI 10.5281/zenodo.24286741" height="20" loading="lazy"></a>
+      <a href="https://github.com/StrategicProjects/flags-brasil/releases/latest"><img src="https://img.shields.io/github/v/release/StrategicProjects/flags-brasil?label=vers%C3%A3o" alt="Versão mais recente no GitHub" height="20" loading="lazy"></a>
+      <a href="https://www.npmjs.com/package/flags-brasil"><img src="https://img.shields.io/npm/v/flags-brasil?label=npm" alt="flags-brasil no npm" height="20" loading="lazy"></a>
+      <a href="https://www.npmjs.com/package/flags-brasil-municipios"><img src="https://img.shields.io/npm/v/flags-brasil-municipios?label=npm%20munic%C3%ADpios" alt="flags-brasil-municipios no npm" height="20" loading="lazy"></a>
+      <a href="https://github.com/StrategicProjects/flags-brasil/blob/main/LICENSE"><img src="https://img.shields.io/badge/c%C3%B3digo-MIT-blue" alt="Código sob licença MIT" height="20" loading="lazy"></a>
+    </p>
   </header>
 
   <ul class="mastro" id="mastro" aria-label="Filtrar por estado"></ul>
