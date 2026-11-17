@@ -12,7 +12,8 @@ Gera:
   css/uf/<sigla>.css     municípios de uma UF
   css/brasoes.css, css/brasoes-municipios.css
   CREDITOS.md            autor e licença de cada bandeira
-  dados/site.json, dados/detalhe/<uf>.json, mini/<codigo>.webp
+  dados/site.json, dados/detalhe/<uf>.json, mini/<codigo>.webp,
+  mini/brasao/<codigo>.webp
                          só para o site: índice enxuto, detalhes sob demanda
                          e miniaturas de 200 px
 
@@ -315,6 +316,35 @@ def main() -> None:
     vivos = {f'{e["codigo"]}.webp' for e in com_arquivo}
     for p in mini.glob("*.webp"):
         if p.name not in vivos:
+            p.unlink()
+
+    # miniaturas dos brasões (160 px de altura), para os cartões do site
+    mini_b = mini / "brasao"
+    mini_b.mkdir(exist_ok=True)
+
+    def miniatura_brasao(e: dict) -> str | None:
+        src, dst = RAIZ / e["brasao"]["arquivo"], mini_b / f'{e["codigo"]}.webp'
+        if dst.exists() and dst.stat().st_mtime >= src.stat().st_mtime:
+            return None
+        if src.suffix == ".svg":
+            r = subprocess.run(["rsvg-convert", "-h", "160", str(src)], capture_output=True)
+            if r.returncode != 0:
+                return f"miniatura do brasão {src.name}: rsvg falhou"
+            r = subprocess.run(["magick", "png:-", "-quality", "80", str(dst)],
+                               input=r.stdout, capture_output=True)
+        else:
+            r = subprocess.run(["magick", str(src), "-resize", "x160>", "-quality", "80",
+                                str(dst)], capture_output=True)
+        return None if r.returncode == 0 else f"miniatura do brasão {src.name}: magick falhou"
+
+    com_brasao = [e for e in itens if e.get("brasao")]
+    with ThreadPoolExecutor(8) as ex:
+        for erro in ex.map(miniatura_brasao, com_brasao):
+            if erro:
+                print("ERRO", erro, file=sys.stderr)
+    vivos_b = {f'{e["codigo"]}.webp' for e in com_brasao}
+    for p in mini_b.glob("*.webp"):
+        if p.name not in vivos_b:
             p.unlink()
 
     def regra(e: dict, prefixo: str) -> str:
